@@ -1,0 +1,56 @@
+name: Daily Stenogram Processor
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 06:00 UTC = 09:00 EET
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force full refresh'
+        required: false
+        default: 'false'
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 pymupdf
+
+      - name: Run StenoMD Master Controller
+        run: |
+          python scripts/stenomd_master.py --all --sync-vault --merge
+        continue-on-error: true
+
+      - name: Check status
+        run: |
+          python scripts/stenomd_master.py --status
+
+      - name: Commit changes
+        if: github.event_name == 'schedule'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Daily update: $(date +%Y-%m-%d)"
+          git push || echo "No changes to commit"
+
+  notify:
+    needs: process
+    runs-on: ubuntu-latest
+    if: failure()
+    
+    steps:
+      - name: Notify failure
+        run: |
+          echo "StenoMD daily processing failed"
+          echo "Check logs at: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

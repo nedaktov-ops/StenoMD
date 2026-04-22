@@ -1,0 +1,194 @@
+
+File to create: /home/adrian/Desktop/NEDAILAB/StenoMD/stenomd-strategy.md
+
+Content would include:
+
+# StenoMD: Romanian Parliament Stenogram Knowledge Brain - Implementation Strategy
+
+## Overview
+This document contains the complete implementation plan for building a future-proof, automatically updating knowledge graph from Romanian Parliament stenograms (1990-present) that can be used by multiple applications, websites, and AI systems.
+
+## Core Architecture: Dual-Layer System
+
+### Layer 1: Knowledge Foundation (mempalace-main)
+- Processes raw stenogram texts to extract entities, relationships, and build structured knowledge
+- Provides the underlying "brain" structure with entity recognition, relationship mapping, and search capabilities
+- Key components:
+  - `mempalace/knowledge_graph.py` - Core graph operations
+  - `mempalace/entity_detector.py` - Romanian NLP for MP names, laws, institutions
+  - `mempalace/searcher.py` - Knowledge graph querying
+  - `mempalace/convo_miner.py` - Conversation/statement extraction
+  - `mempalace/split_mega_files.py` - Handle large stenogram files efficiently
+
+### Layer 2: Application Framework (antigravity-awesome-skills-main)
+- Build specialized applications (web interfaces, mobile APIs, analytical tools) as interchangeable skills
+- Each skill consumes the knowledge graph for a specific purpose
+- Key components:
+  - Standardized skill manifest format
+  - Skill isolation and dependency management
+  - Example applications in `/apps/` as references
+  - Plugin infrastructure for shared functionality
+
+## Automated Daily Update System
+
+### GitHub Actions Workflow (Daily at 06:00 UTC)
+```yaml
+name: Daily Stenogram Processor
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 06:00 UTC = 09:00 EET
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Fetch new stenograms
+        run: python scripts/fetch_stenograms.py
+      - name: Process with mempalace
+        run: python -m mempalace.main --process-new
+      - name: Update knowledge graph
+        run: python scripts/update_knowledge_graph.py
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/ knowledge_graph/outputs/
+          git diff --staged --quiet || git commit -m "Daily update: $(date +%Y-%m-%d)"
+          git push
+Structural Rules to Prevent Chaos
+
+Knowledge Graph Layer Rules:
+
+Fixed Entity Types: PERSON (MPs), ORG (institutions), LAW, TOPIC, DATE, SESSION
+Fixed Relationship Types: SPEAKED_IN, VOTED_ON, ASKED_QUESTION, PART_OF_LEGISLATURE
+Versioned Snapshots: Weekly/monthly knowledge graph backups
+Automated Validation: Entity consistency and relationship completeness checks
+Schema Versioning: Explicit version numbers for knowledge graph format
+Application Layer (Skills) Rules:
+
+Standardized Interface: All skills interact through defined APIs
+Manifest Requirement: Each skill must have manifest.json declaring dependencies
+Isolation Principle: Failure in one skill doesn't affect others
+Standardized Structure: /skills/{skill-name}/ with manifest.json, main.py, README.md
+Automatic Discovery: Skill registry automatically loads valid skills
+Multi-Client Access Patterns (Skills to Build)
+
+1. Web Interface Skill
+
+Serves knowledge graph search and browsing
+Uses mempalace/searcher.py for query capabilities
+Provides faceted browsing by date, speaker, topic, law
+2. Mobile API Skill
+
+REST/GraphQL endpoints for mobile consumption
+Optimized queries for common mobile use cases
+Caching layer for offline access
+3. AI Consumption Skill (MCP)
+
+Model Context Protocol server for AI agent integration
+Exposes knowledge graph as queryable context for LLMs
+Standardized prompts for common parliamentary queries
+4. Analytics Skill
+
+Trend analysis over time
+Voting pattern detection
+Topic evolution tracking
+Exportable reports and visualizations
+Risk Mitigation Strategies
+
+To Prevent Becoming Incomprehensive:
+
+Schema Enforcement: Fixed knowledge graph entity/relationship types
+Incremental Validation: Daily checks for data consistency
+Skill Certification: Required skill structure and interface compliance
+Change Monitoring: Alerts for unexpected knowledge graph growth patterns
+Usage Analytics: Track which skills/applications are actually used
+Deprecation Policy: Clear path for retiring outdated skills/applications
+For Future-Proofing:
+
+Abstract Interface: Skills depend on knowledge graph interface, not implementation
+Versioned Exports: Regular snapshots in multiple formats (JSON, CSV, RDF)
+API Versioning: Semantic versioning for all exposed interfaces
+Migration Paths: Clear procedures for knowledge graph schema evolution
+Fallback Mechanisms: Graceful degradation when components fail
+Repository Structure
+
+romanian-parliament-brain/
+├── .github/                 # GitHub Actions workflows
+├── data/                    # Raw stenogram PDFs/HTML (external storage or git-lfs)
+├── knowledge_graph/         # mempalace-main integration
+│   ├── mempalace/           # Core knowledge extraction engine
+│   ├── scripts/             # Custom extraction pipelines for Romanian parlament
+│   └── outputs/             # Generated knowledge graph files
+├── skills/                  # antigravity-awesome-skills-main integration
+│   ├── skills/              # Various applications:
+│   │   ├── web-search/      # Web interface skill
+│   │   ├── mobile-api/      # REST API skill for mobile
+│   │   ├── ai-mcp/          # Model Context Protocol skill
+│   │   ├── analytics/       # Trend analysis and reporting
+│   │   └── summarizer/      # Automatic summarization skill
+│   └── plugins/             # Shared plugin infrastructure
+├── docs/                    # Documentation
+├── scripts/                 # Deployment and maintenance scripts
+├── tests/                   # Integration tests
+├── docker-compose.yml       # For local development/testing
+└── README.md                # Project overview and usage instructions
+Immediate Next Steps When Switching to Build Mode
+
+Initialize repository in /home/adrian/Desktop/NEDAILAB/StenoMD/
+Set up submodules for both mempalace-main and antigravity-awesome-skills-main
+Create directory structure as outlined above
+Add GitHub Actions workflow for daily processing
+Build first skill (web search interface) using antigravity's skill framework
+Establish knowledge graph schema based on mempalace's entity types
+Set up automated validation for knowledge graph consistency
+Technology Stack
+
+Core Processing:
+
+Python 3.12+ (mempalace dependencies)
+pdfplumber for PDF text extraction
+spaCy with ro_core_news_md model for Romanian NLP
+Requests + curl-cffi for web scraping with anti-bot evasion
+GitPython for repository operations
+Knowledge Storage:
+
+NetworkX or similar for knowledge graph operations
+JSON serialization for persistence
+Optional: Neo4j or Redis for production-scale deployments
+Application Layer:
+
+FastAPI for REST APIs
+Streamlit or similar for web interfaces
+Model Context Protocol (MCP) for AI integration
+Standard HTTP/WebSocket protocols for mobile clients
+Infrastructure:
+
+GitHub Actions for CI/CD and scheduled processing
+Docker for consistent deployment environments
+Standard Linux utilities (wget, curl, etc.)
+Success Metrics
+
+Completeness: >95% of stenogram sessions processed and indexed
+Freshness: New sessions available within 24 hours of publication
+Accuracy: Entity recognition F1-score >0.9 for MP names, laws, institutions
+Latency: <2 second response time for knowledge graph queries
+Availability: 99.5% uptime for public API endpoints
+Scalability: Handles 10+ years of data without performance degradation
+Adoption: At least 3 distinct applications/skills built on the platform
+Legal Compliance
+
+All processing complies with:
+
+Legea 109/2007 (Art. 5, 10) - Free reuse of public sector information
+Legea 202/1998 - Stenograms published in Monitorul Oficial Partea II-a
+Attribution included in all outputs: "Sursa: Monitorul Oficial al României, Partea II-a"
+CC BY and CC-BY-SA-4.0 licensing respected for source materials
+

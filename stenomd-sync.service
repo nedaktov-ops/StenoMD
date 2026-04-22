@@ -1,0 +1,11 @@
+[Unit]
+Description=StenoMD Knowledge Graph Sync Service
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /home/adrian/Desktop/NEDAILAB/StenoMD/scripts/auto-sync.sh
+User=adrian
+WorkingDirectory=/home/adrian/Desktop/NEDAILAB/StenoMD
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,10 @@
+[Unit]
+Description=StenoMD Auto-Sync Timer (every hour)
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=1h
+Unit=stenomd-sync.service
+
+[Install]
+WantedBy=timers.target

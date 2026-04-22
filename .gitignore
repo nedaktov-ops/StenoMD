@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.html
+.DS_Store
+vault/.obsidian/

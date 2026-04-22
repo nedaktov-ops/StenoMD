@@ -1,0 +1,35 @@
+wing: mempalace_main
+rooms:
+- name: mempalace
+  description: Files from mempalace/
+  keywords:
+  - mempalace
+  - mempalace
+- name: design
+  description: Files from assets/
+  keywords:
+  - design
+  - assets
+- name: testing
+  description: Files from tests/
+  keywords:
+  - testing
+  - tests
+- name: benchmarks
+  description: Files from benchmarks/
+  keywords:
+  - benchmarks
+  - benchmarks
+- name: examples
+  description: Files from examples/
+  keywords:
+  - examples
+  - examples
+- name: hooks
+  description: Files from hooks/
+  keywords:
+  - hooks
+  - hooks
+- name: general
+  description: Files that don't fit other rooms
+  keywords: []
