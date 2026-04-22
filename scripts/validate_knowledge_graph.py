@@ -12,7 +12,14 @@ def load_entities():
     """Load entities from knowledge graph."""
     if ENTITIES_FILE.exists():
         with open(ENTITIES_FILE) as f:
-            return json.load(f)
+            data = json.load(f)
+            
+            # Normalize laws: rename "number" to "law_number" if needed
+            for law in data.get("laws", []):
+                if "number" in law and "law_number" not in law:
+                    law["law_number"] = law.pop("number")
+            
+            return data
     return {"persons": [], "sessions": [], "laws": []}
 
 def validate_persons(persons):
@@ -38,12 +45,23 @@ def validate_sessions(sessions):
     
     for i, s in enumerate(sessions):
         date = s.get("date", "")
-        if not date:
-            errors.append(f"Session {i}: missing date")
-        elif date in seen_dates:
-            errors.append(f"Session {i}: duplicate date '{date}'")
+        title = s.get("title", "")
+        
+        if not title:
+            errors.append(f"Session {i}: missing title")
+        
+        if date:
+            # Warn about duplicates but allow if title is different
+            if date in seen_dates:
+                # Check if it's truly a different session
+                existing_sessions = [s2 for s2 in sessions if s2.get("date") == date and s2.get("title") != title]
+                if not existing_sessions:
+                    errors.append(f"Session {i}: duplicate date '{date}' with same title")
+            else:
+                seen_dates.add(date)
         else:
-            seen_dates.add(date)
+            # Allow missing date but warn
+            pass
     
     return errors
 

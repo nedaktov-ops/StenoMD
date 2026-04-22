@@ -1,14 +1,4 @@
 {
-  "metadata": {
-    "version": "2.0",
-    "last_updated": "2026-04-22T03:04:55.053499",
-    "sources": [
-      "cdep.ro"
-    ],
-    "legislatures": [
-      "2024-2028"
-    ]
-  },
   "persons": [
     {
       "id": "2c90a453-b62f-410f-9222-17ae2540118e",
@@ -1845,820 +1835,206 @@
         "session_2024_57"
       ],
       "statements": []
+    },
+    {
+      "name": "Alexandra Hu",
+      "type": "politician",
+      "source": "stenogram_2024_17.html"
+    },
+    {
+      "name": "Petre Pu",
+      "type": "politician",
+      "source": "stenogram_2024_17.html"
     }
   ],
   "sessions": [
     {
-      "id": "session_2024_10",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 5 noiembrie 2024",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=10&prn=1",
-      "participants": [
-        "Bogdan-Alexandru Bola",
-        "Boris Volosatîi",
-        "Vasile Cîtea",
-        "Florin-Claudiu Roman",
-        "Mirela Furtună",
-        "Ioan Balan",
-        "Ioan Mang",
-        "Nicolae Giugea",
-        "Marian-Iulian Rasaliu",
-        "Silviu-Titus Păunescu",
-        "Iulian-Alexandru Muraru"
-      ],
-      "laws_discussed": [],
-      "summary": "Bogdan-Alexandru Bola: Domnul Bogdan-Alexandru Bola : \"Forţa Dreptei şi Ludovic Orban sunt singurii aliaţi ai mediului de a... Boris Volosatîi: Domnul Boris Volosatîi : \"Republica Moldova trebuie să meargă înainte!\" Basarabia noastră dragă a în...",
-      "word_count": 0
+      "title": "Sedinta Camerei Deputatilor din 11 decembrie  2024",
+      "date": "2024-12-11",
+      "source": "stenogram_2024_17.html",
+      "url": "https://www.cdep.ro/pls/steno/stenogram_2024_17"
     },
     {
-      "id": "session_2024_12",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 12 noiembrie 2024",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=12&prn=1",
-      "participants": [
-        "Bogdan-Alexandru Bola",
-        "Ciprian Ciubuc",
-        "Vasile Cîtea",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Ioan Mang",
-        "Iulian-Alexandru Muraru",
-        "Nicolae Giugea",
-        "Silviu-Titus Păunescu",
-        "Mirela Furtună",
-        "Florian-Claudiu Neaga"
-      ],
-      "laws_discussed": [],
-      "summary": "Bogdan-Alexandru Bola: Domnul Bogdan-Alexandru Bola : \"Forţa Dreptei restabileşte egalitatea dintre cetăţean şi stat. Dobân... Ciprian Ciubuc: Domnul Ciprian Ciubuc : \"Declar război grupului infracţional organizat la vârful ANSVSA şi al conduc...",
-      "word_count": 0
+      "title": "Sedinta Camerei Deputatilor din 12 februarie  2025",
+      "date": "2025-02-12",
+      "source": "stenogram_2024_20.html",
+      "url": "https://www.cdep.ro/pls/steno/stenogram_2024_20"
     },
     {
-      "id": "session_2024_17",
+      "title": "stenogram_2024-03-26",
       "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 11 decembrie 2024",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=17&prn=1",
-      "participants": [
-        "Vasile Cîtea",
-        "Florin-Claudiu Roman",
-        "Silviu Nicu Macovei",
-        "Nicoleta-Matilda Goleac",
-        "Silviu-Titus Păunescu",
-        "Vasilică Toma",
-        "Vasile Nagy"
-      ],
-      "laws_discussed": [],
-      "summary": "Vasile Cîtea: Domnul Vasile Cîtea : \"PSD va inaugura autostrada A7 la calitate maximă şi la timp, iar Moldova va d... Florin-Claudiu Roman: Domnul Florin-Claudiu Roman : \"Reformele profunde pe care PNL le va promova în noua legislatură\" Sub...",
-      "word_count": 0
+      "source": "stenogram_2024-03-26.html",
+      "url": "https://www.cdep.ro/pls/steno/stenogram_2024-03-26"
     },
     {
-      "id": "session_2024_19",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 17 decembrie 2024",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=19&prn=1",
-      "participants": [
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Nicolae Giugea",
-        "Silviu-Titus Păunescu",
-        "Vasilică Toma"
-      ],
-      "laws_discussed": [],
-      "summary": "Florin-Claudiu Roman: Domnul Florin-Claudiu Roman : \"După 12 ani, România intră cu drepturi depline în spaţiul Schengen!\"... Ioan Balan: Domnul Ioan Balan : \"Dreptate pentru România! De la 1 ianuarie, aderarea la spaţiul Schengen va fi c...",
-      "word_count": 0
+      "title": "Sedinta Camerei Deputatilor din 17 decembrie  2024",
+      "date": "2024-12-17",
+      "source": "stenogram_2024_19.html",
+      "url": "https://www.cdep.ro/pls/steno/stenogram_2024_19"
     },
     {
-      "id": "session_2024_20",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 12 februarie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=20&prn=1",
-      "participants": [
-        "Elena-Laura Toader",
-        "Raisa Enachi",
-        "Vasile Nagy",
-        "Silviu-Titus Păunescu",
-        "Iulian-Alexandru Muraru",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Nicolae-Adrian Bara",
-        "Romeo-Daniel Lungu",
-        "Virgil Alin Chirilă"
-      ],
-      "laws_discussed": [
-        "448/2006"
-      ],
-      "summary": "Elena-Laura Toader: Doamna Elena-Laura Toader : \"Persoanele cu dizabilităţi, umilite şi înjosite de birocraţia aleşilor... Raisa Enachi: Doamna Raisa Enachi : \"Bugetul pentru anul 2025, o sfidare la adresa românilor!\" Săptămâna trecută,...",
-      "word_count": 0
+      "title": "Sedinta Camerei Deputatilor din 12 noiembrie  2024",
+      "date": "2024-11-12",
+      "source": "stenogram_2024_12.html",
+      "url": "https://www.cdep.ro/pls/steno/stenogram_2024_12"
     },
     {
-      "id": "session_2024_21",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 19 februarie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=21&prn=1",
-      "participants": [
-        "Andreea-Petronela Cîmpianu",
-        "Nicolae-Adrian Bara",
-        "Petru-Bogdan Cojocaru",
-        "Virgil Alin Chirilă",
-        "Elena-Laura Toader",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Romeo-Daniel Lungu",
-        "Monica Iagăr",
-        "Petru-Gabriel Negrea",
-        "Fabian-Cristian Radu",
-        "Raisa Enachi",
-        "Daniel-Răzvan Biro",
-        "Simona-Elena Macovei Ilie",
-        "Silviu-Titus Păunescu",
-        "Valeriu Munteanu",
-        "Vasile Nagy",
-        "Mihai Weber",
-        "Gheorghe-Daniel Georgescu",
-        "Iulian-Alexandru Muraru"
-      ],
-      "laws_discussed": [
-        "418/2023",
-        "5/2000"
-      ],
-      "summary": "Andreea-Petronela Cîmpianu: Doamna Andreea-Petronela Cîmpianu : \"Fuse, fuse şi se duse!\" Cum credeţi că ne privesc românii din a... Nicolae-Adrian Bara: Domnul Nicolae-Adrian Bara : \"Guvernul decide prelungirea plafonării preţurilor la gazele naturale ş...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_22",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 26 februarie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=22&prn=1",
-      "participants": [
-        "Alexandru-Paul Dimitriu",
-        "Iulian-Alexandru Muraru",
-        "Aneta Matei",
-        "Nicolae-Adrian Bara",
-        "Petru-Bogdan Cojocaru",
-        "Virgil Alin Chirilă",
-        "Ciprian-Constantin Paraschiv",
-        "Ciprian-Doru Rigman",
-        "Dumitru Coarnă",
-        "Daniel-Răzvan Biro",
-        "Daniel-Cătălin Ciornei",
-        "Fabian-Cristian Radu",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Marius-Felix Bulearcă",
-        "Petru-Gabriel Negrea",
-        "Rodica Plopeanu",
-        "Viorica Sandu",
-        "Simona-Elena Macovei Ilie",
-        "Dumitru Tilea",
-        "Silviu-Titus Păunescu",
-        "Elena-Laura Toader",
-        "Ilie Toma",
-        "Ion-Alin Tomoescu",
-        "Varol Amet",
-        "Vasile Nagy"
-      ],
-      "laws_discussed": [
-        "76/2024",
-        "78/2000"
-      ],
-      "summary": "Alexandru-Paul Dimitriu: Domnul Alexandru-Paul Dimitriu : \"Călin Georgescu - Albul din zăpadă şi cei trei pitici mici, extrem... Iulian-Alexandru Muraru: Domnul Iulian-Alexandru Muraru : Astăzi se împlinesc trei ani de la invazia brutală şi nejustificată...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_23",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 5 martie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=23&prn=1",
-      "participants": [
-        "Aneta Matei",
-        "Nicolae-Adrian Bara",
-        "Petru-Bogdan Cojocaru",
-        "Cristina-Emanuela Dascălu",
-        "Dan Tanasă",
-        "Daniel-Răzvan Biro",
-        "Daniel-Cătălin Ciornei",
-        "Florin-Claudiu Roman",
-        "Petru-Gabriel Negrea",
-        "Alexandru-Mihai Ghigiu",
-        "Călin-Florin Groza",
-        "Ioan Balan",
-        "Laura Gherasim",
-        "Romeo-Daniel Lungu",
-        "Iulian-Alexandru Muraru",
-        "Raisa Enachi",
-        "Răzvan-Iulian Ciortea",
-        "Rodica Plopeanu",
-        "Simona-Elena Macovei Ilie",
-        "Silviu-Titus Păunescu",
-        "Elena-Laura Toader",
-        "Vasile Nagy",
-        "Virgil Alin Chirilă"
-      ],
-      "laws_discussed": [
-        "95/2006"
-      ],
-      "summary": "Aneta Matei: Doamna Aneta Matei : \"PNL îşi propune îndeplinirea tuturor ţintelor şi jaloanelor din PNRR, pentru a... Nicolae-Adrian Bara: Domnul Nicolae-Adrian Bara : \"Eroii Horea, Cloşca, Crişan şi Avram Iancu trebuie să fie adevăratele...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_25",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 12 martie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=25&prn=1",
-      "participants": [
-        "Andreea-Petronela Cîmpianu",
-        "Aneta Matei",
-        "Răzvan-Iulian Ciortea",
-        "Ionel Ciunt",
-        "Elena-Laura Toader",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Ioan Lăzăroi",
-        "Romeo-Daniel Lungu",
-        "Marius-Felix Bulearcă",
-        "Răzvan-Olimpiu Cadar",
-        "Raisa Enachi",
-        "Ilie Toma",
-        "Vasile Nagy",
-        "Silviu-Titus Păunescu",
-        "Ramona Lovin",
-        "Robert Alecu",
-        "Cosmin-Ioan Corendea",
-        "Daniel-Cătălin Ciornei",
-        "Laura Gherasim",
-        "Petru-Gabriel Negrea",
-        "Alexandru Bordian",
-        "Ciprian-Constantin Paraschiv",
-        "Virgil Alin Chirilă",
-        "Daniel-Razvan Biro"
-      ],
-      "laws_discussed": [],
-      "summary": "Andreea-Petronela Cîmpianu: Doamna Andreea-Petronela Cîmpianu : \"Drama diasporei\" Art. 7 - \"Românii din străinătate\" \"Statul spr... Aneta Matei: Doamna Aneta Matei : \"PNL promovează inovarea şi investiţiile în domeniul energetic şi tehnologic!\"...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_26",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 26 martie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=26&prn=1",
-      "participants": [
-        "Nicolae-Adrian Bara",
-        "Răzvan-Olimpiu Cadar",
-        "Radu-Marin Moisin",
-        "Ion Iordache",
-        "Ioan Balan",
-        "Aneta Matei",
-        "Florin-Claudiu Roman",
-        "Ciprian-Constantin Paraschiv",
-        "Daniel-Cătălin Ciornei",
-        "Valeriu Munteanu",
-        "Silviu-Titus Păunescu",
-        "Andrei George Plujar",
-        "Bogdan Gheorghe Trif",
-        "Ion-Alin Tomoescu",
-        "Răzvan-Iulian Ciortea",
-        "Sebastian Răducanu",
-        "Marian Mina",
-        "Mihai Weber",
-        "Mirela Furtună",
-        "Vlad-Florentin Drinceanu",
-        "Elena-Laura Toader",
-        "Rodica Plopeanu",
-        "Vasile Nagy",
-        "Raisa Enachi",
-        "Andra-Claudia Constantinescu",
-        "Andreea-Petronela Cîmpianu",
-        "Călin-Florin Groza",
-        "Ciprian-Doru Rigman"
-      ],
-      "laws_discussed": [
-        "367/2022"
-      ],
-      "summary": "Nicolae-Adrian Bara: Domnul Nicolae-Adrian Bara : \"Ziua Mondială a Sănătăţii Orale - prilej pentru acţiune şi implicare î... Răzvan-Olimpiu Cadar: Domnul Răzvan-Olimpiu Cadar : \"Un stat puternic este statul în care cetăţenii au încredere în instit...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_32",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 2 aprilie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=32&prn=1",
-      "participants": [
-        "Iulian-Alexandru Muraru",
-        "Aneta Matei",
-        "Răzvan-Iulian Ciortea",
-        "Cristina-Emanuela Dascălu",
-        "Daniel-Răzvan Biro",
-        "Fabian-Cristian Radu",
-        "Florin-Claudiu Roman",
-        "Mircea-Vasile Govor",
-        "Ioan Balan",
-        "Romeo-Daniel Lungu",
-        "Răzvan-Olimpiu Cadar",
-        "Petru-Gabriel Negrea",
-        "George-Adrian Popa",
-        "Sebastian Răducanu",
-        "Ramona Lovin",
-        "Ana-Smaranda Rinder",
-        "Robert Alecu",
-        "Silviu-Titus Păunescu",
-        "Ion-Alin Tomoescu",
-        "Valeriu Munteanu",
-        "Vasile Nagy"
-      ],
-      "laws_discussed": [
-        "46/2003"
-      ],
-      "summary": "Iulian-Alexandru Muraru: Domnul Iulian-Alexandru Muraru : Aduc în atenţia dumneavoastră o situaţie care riscă să compromită u... Aneta Matei: Doamna Aneta Matei : \"31 martie - un an de la cel mai important pas spre aderarea deplină a României...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_42",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 8 aprilie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=42&prn=1",
-      "participants": [
-        "Iulian-Alexandru Muraru",
-        "Andra-Claudia Constantinescu",
-        "Aneta Matei",
-        "Nicolae-Adrian Bara",
-        "Liviu-Bogdan Ciucă",
-        "Cristina-Emanuela Dascălu",
-        "Daniel-Răzvan Biro",
-        "Dumitru Coarnă",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Romeo-Daniel Lungu",
-        "Nicolae Păun",
-        "Răzvan-Olimpiu Cadar",
-        "George-Adrian Popa",
-        "Fabian-Cristian Radu",
-        "Raisa Enachi",
-        "Rodica Plopeanu",
-        "Silviu-Titus Păunescu",
-        "Ion-Alin Tomoescu",
-        "Valeriu Munteanu",
-        "Vasile Nagy"
-      ],
-      "laws_discussed": [],
-      "summary": "Iulian-Alexandru Muraru: Domnul Iulian-Alexandru Muraru : România se află în faţa unei oportunităţi istorice. După decenii de... Andra-Claudia Constantinescu: Doamna Andra-Claudia Constantinescu : \"Să construim un viitor fără povară fiscală!\" În contextul act...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_43",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 15 aprilie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=43&prn=1",
-      "participants": [
-        "Andreea-Petronela Cîmpianu",
-        "Aneta Matei",
-        "Răzvan-Iulian Ciortea",
-        "Liviu-Bogdan Ciucă",
-        "Andra-Claudia Constantinescu",
-        "Cosmin Hristu",
-        "Cristina-Emanuela Dascălu",
-        "Dan Tanasă",
-        "Dorel Vulpoiu",
-        "Călin-Florin Groza",
-        "Florin-Claudiu Roman",
-        "Gabriel-Florinel Florea",
-        "Mircea-Vasile Govor",
-        "Ioan Balan",
-        "Romeo-Daniel Lungu",
-        "Octavian Oprea",
-        "Răzvan-Olimpiu Cadar",
-        "Fabian-Cristian Radu",
-        "Sebastian Răducanu",
-        "Rodica Plopeanu",
-        "Silviu-Titus Păunescu",
-        "Ion-Alin Tomoescu",
-        "Valeriu Munteanu",
-        "Vasile Nagy",
-        "Vlad-Andrei Vidra",
-        "Laura Gherasim",
-        "Corina Atanasiu",
-        "Iulian-Alexandru Muraru"
-      ],
-      "laws_discussed": [
-        "235/2017"
-      ],
-      "summary": "Andreea-Petronela Cîmpianu: Doamna Andreea-Petronela Cîmpianu : \"România\" România... ce se poate spune în acest moment de Români... Aneta Matei: Doamna Aneta Matei : \"Reducerea cheltuielilor publice este o necesitate!\" Statul român are nevoie de...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_51",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 23 aprilie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=51&prn=1",
-      "participants": [
-        "Iulian-Alexandru Muraru",
-        "Aneta Matei",
-        "Răzvan-Iulian Ciortea",
-        "Liviu-Bogdan Ciucă",
-        "Petru-Bogdan Cojocaru",
-        "Dorel Vulpoiu",
-        "Florin-Claudiu Roman",
-        "Petru-Gabriel Negrea",
-        "Alexandru-Mihai Ghigiu",
-        "Ioan Balan",
-        "Răzvan-Olimpiu Cadar",
-        "Silviu-Titus Păunescu",
-        "Ion-Alin Tomoescu",
-        "Valeriu Munteanu",
-        "Varol Amet",
-        "Varujan Pambuccian",
-        "Vasile Nagy"
-      ],
-      "laws_discussed": [],
-      "summary": "Iulian-Alexandru Muraru: Domnul Iulian-Alexandru Muraru : Vin astăzi în faţa dumneavoastră pentru a atrage atenţia asupra unu... Aneta Matei: Doamna Aneta Matei : \"Statul român trebuie să ajute copiii din mediile vulnerabile!\" Sprijinirea cop...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_52",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 7 mai 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=52&prn=1",
-      "participants": [
-        "Alexandru-Paul Dimitriu",
-        "Vasile Nagy",
-        "Ion-Alin Tomoescu",
-        "Silviu-Titus Păunescu",
-        "Rodica Plopeanu",
-        "Ramona-Ioana Bruynseels",
-        "Romeo-Daniel Lungu",
-        "Ioan Balan",
-        "Florin-Claudiu Roman",
-        "Dorel Vulpoiu",
-        "Liviu-Bogdan Ciucă",
-        "Cristian Buican",
-        "Aneta Matei",
-        "Iulian-Alexandru Muraru"
-      ],
-      "laws_discussed": [
-        "23/2015",
-        "208/2015"
-      ],
-      "summary": "Alexandru-Paul Dimitriu: Domnul Alexandru-Paul Dimitriu : \"Ce a făcut George Simion la Viena în ziua votului? O întrebare la... Vasile Nagy: Domnul Vasile Nagy : \"Resetarea clasei politice din România\" Trăim un moment de inflexiune istorică....",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_53",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 13 mai 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=53&prn=1",
-      "participants": [
-        "Adrian Echert",
-        "Aneta Matei",
-        "Antonio-Gabi Popescu",
-        "Andreea-Petronela Cîmpianu",
-        "Liviu-Bogdan Ciucă",
-        "Cristina-Emanuela Dascălu",
-        "Iosif-Florin Jianu",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Romeo-Daniel Lungu",
-        "Ion-Marcel Vela",
-        "Monica Iagăr",
-        "Răzvan-Olimpiu Cadar",
-        "Rodica Plopeanu",
-        "Silviu-Titus Păunescu",
-        "Elena-Laura Toader",
-        "Valeriu Munteanu",
-        "Vasile Nagy",
-        "Eduard-Virgil Koler",
-        "Virgil Alin Chirilă",
-        "Răzvan-Iulian Ciortea"
-      ],
-      "laws_discussed": [
-        "69/2000"
-      ],
-      "summary": "Adrian Echert: Domnul Adrian Echert : \"Scrisoare deschisă către domnul George Simion despre democraţie, frică şi gr... Aneta Matei: Doamna Aneta Matei : \"8, 9, 10 mai - trei zile foarte importante pentru trecutul, prezentul şi viito...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_54",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 21 mai 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=54&prn=1",
-      "participants": [
-        "Aneta Matei",
-        "Virgil Alin Chirilă",
-        "Răzvan-Iulian Ciortea",
-        "Ciprian-Doru Rigman",
-        "Petru-Bogdan Cojocaru",
-        "Andra-Claudia Constantinescu",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Romeo-Daniel Lungu",
-        "Marian Mina",
-        "Răzvan-Olimpiu Cadar",
-        "Rodica Plopeanu",
-        "Maricel Popa",
-        "Varol Amet",
-        "Vasile Nagy",
-        "Alexandrin Moiseev",
-        "Iulian-Alexandru Muraru",
-        "Cristina-Emanuela Dascălu",
-        "Tiberiu-Claudiu Barstan",
-        "Ionel Gheorghe",
-        "Silviu-Titus Păunescu"
-      ],
-      "laws_discussed": [
-        "198/2023"
-      ],
-      "summary": "Aneta Matei: Doamna Aneta Matei : \"Dezvoltarea şi modernizarea judeţului Giurgiu vor continua să fie priorităţi p... Virgil Alin Chirilă: Domnul Virgil Alin Chirilă : \"PSD susţine deschis orientarea pro-occidentală a României şi refacerea...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_55",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 28 mai 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=55&prn=1",
-      "participants": [
-        "Iulian-Alexandru Muraru",
-        "Andra-Claudia Constantinescu",
-        "Andreea-Petronela Cîmpianu",
-        "Aneta Matei",
-        "Cristian Buican",
-        "Răzvan-Iulian Ciortea",
-        "Liviu-Bogdan Ciucă",
-        "Ionel Ciunt",
-        "Cristian-Emanuel Cîmpan",
-        "Cristina-Emanuela Dascălu",
-        "Daniel-Cătălin Ciornei",
-        "Dorel Vulpoiu",
-        "Eduard-Virgil Koler",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Ioan Lăzăroi",
-        "Marius-Adrian Isac",
-        "Romeo-Daniel Lungu",
-        "Marian Mina",
-        "Răzvan-Olimpiu Cadar",
-        "Fabian-Cristian Radu",
-        "Ramona-Ioana Bruynseels",
-        "Robert Alecu",
-        "Rodica Plopeanu",
-        "Silviu-Titus Păunescu",
-        "Ion-Alin Tomoescu",
-        "Valeriu Munteanu",
-        "Vasile Nagy",
-        "Virgil Alin Chirilă"
-      ],
-      "laws_discussed": [],
-      "summary": "Iulian-Alexandru Muraru: Domnul Iulian-Alexandru Muraru : \"Integrarea inteligenţei artificiale în educaţia din România - o ur... Andra-Claudia Constantinescu: Doamna Andra-Claudia Constantinescu : Declaraţie politică privind protecţia animalelor. Într-o socie...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_56",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 4 iunie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=56&prn=1",
-      "participants": [
-        "Iulian-Alexandru Muraru",
-        "Amet Varol",
-        "Andreea-Petronela Cîmpianu",
-        "Aneta Matei",
-        "Ciprian-Constantin Paraschiv",
-        "Ciprian-Doru Rigman",
-        "Cosmin-Teodor Iosub",
-        "Cristina-Emanuela Dascălu",
-        "Daniel-Răzvan Biro",
-        "Dorel Vulpoiu",
-        "Dorin Popa",
-        "Florin-Claudiu Roman",
-        "Ioan Balan",
-        "Ionel Gheorghe",
-        "Ionel Goidescu",
-        "Maria Cernit",
-        "Petru-Gabriel Negrea",
-        "Fabian-Cristian Radu",
-        "Radu-Mihail Ionescu",
-        "Rodica Plopeanu",
-        "Silviu-Titus Păunescu",
-        "Vasile Nagy",
-        "Romeo-Daniel Lungu",
-        "Răzvan-Iulian Ciortea",
-        "Liviu-Bogdan Ciucă",
-        "Petru-Bogdan Cojocaru",
-        "Ion-Alin Tomoescu",
-        "Marius-Constantin Budăi"
-      ],
-      "laws_discussed": [],
-      "summary": "Iulian-Alexandru Muraru: Domnul Iulian-Alexandru Muraru : România nu îşi mai permite să piardă timp, resurse şi încredere, di... Amet Varol: Domnul Amet Varol : Pe parcursul a patru zile, anul acesta, în perioada 6-9 iunie, musulmanii din în...",
-      "word_count": 0
-    },
-    {
-      "id": "session_2024_57",
-      "date": "2026-04-22",
-      "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 11 iunie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=57&prn=1",
-      "participants": [
-        "Andreea-Petronela Cîmpianu",
-        "Aneta Matei",
-        "Marius-Constantin Budăi",
-        "Virgil Alin Chirilă",
-        "Răzvan-Iulian Ciortea",
-        "Liviu-Bogdan Ciucă",
-        "Petru-Bogdan Cojocaru",
-        "Sergiu-Mircea Constantinescu",
-        "Daniel Grofu",
-        "Dorel Vulpoiu",
-        "Călin-Florin Groza",
-        "Florin-Claudiu Roman",
-        "Mircea-Vasile Govor",
-        "Ioan Balan",
-        "Nicolae-Mirel Ion",
-        "Romeo-Daniel Lungu",
-        "Ion-Marcel Vela",
-        "Maria Cernit",
-        "Sergiu-Lucian Matei",
-        "Răzvan-Olimpiu Cadar",
-        "George-Adrian Popa",
-        "Ramona Lovin",
-        "Ana-Smaranda Rinder",
-        "Rodica Plopeanu",
-        "Silviu-Titus Păunescu",
-        "Ion-Alin Tomoescu",
-        "Valeriu Munteanu",
-        "Vasile Nagy"
-      ],
-      "laws_discussed": [
-        "27/2023",
-        "60/2025"
-      ],
-      "summary": "Andreea-Petronela Cîmpianu: Doamna Andreea-Petronela Cîmpianu : \"Bun venit în comunism!\" Poporul român a avut un déjà-vu privind... Aneta Matei: Doamna Aneta Matei : \"Noi investiţii strategice în infrastructura energetică a judeţului Giurgiu\" Ju...",
-      "word_count": 0
+      "title": "Sedinta Camerei Deputatilor din 5 noiembrie  2024",
+      "date": "2024-11-05",
+      "source": "stenogram_2024_10.html",
+      "url": "https://www.cdep.ro/pls/steno/stenogram_2024_10"
     }
   ],
   "laws": [
     {
       "id": "law_448_2006",
-      "number": "448/2006",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_20"
-      ]
+      ],
+      "law_number": "448/2006"
     },
     {
       "id": "law_418_2023",
-      "number": "418/2023",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_21"
-      ]
+      ],
+      "law_number": "418/2023"
     },
     {
       "id": "law_5_2000",
-      "number": "5/2000",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_21"
-      ]
+      ],
+      "law_number": "5/2000"
     },
     {
       "id": "law_76_2024",
-      "number": "76/2024",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_22"
-      ]
+      ],
+      "law_number": "76/2024"
     },
     {
       "id": "law_78_2000",
-      "number": "78/2000",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_22"
-      ]
+      ],
+      "law_number": "78/2000"
     },
     {
       "id": "law_95_2006",
-      "number": "95/2006",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_23"
-      ]
+      ],
+      "law_number": "95/2006"
     },
     {
       "id": "law_367_2022",
-      "number": "367/2022",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_26"
-      ]
+      ],
+      "law_number": "367/2022"
     },
     {
       "id": "law_46_2003",
-      "number": "46/2003",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_32"
-      ]
+      ],
+      "law_number": "46/2003"
     },
     {
       "id": "law_235_2017",
-      "number": "235/2017",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_43"
-      ]
+      ],
+      "law_number": "235/2017"
     },
     {
       "id": "law_23_2015",
-      "number": "23/2015",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_52"
-      ]
+      ],
+      "law_number": "23/2015"
     },
     {
       "id": "law_208_2015",
-      "number": "208/2015",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_52"
-      ]
+      ],
+      "law_number": "208/2015"
     },
     {
       "id": "law_69_2000",
-      "number": "69/2000",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_53"
-      ]
+      ],
+      "law_number": "69/2000"
     },
     {
       "id": "law_198_2023",
-      "number": "198/2023",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_54"
-      ]
+      ],
+      "law_number": "198/2023"
     },
     {
       "id": "law_27_2023",
-      "number": "27/2023",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_57"
-      ]
+      ],
+      "law_number": "27/2023"
     },
     {
       "id": "law_60_2025",
-      "number": "60/2025",
       "title": null,
       "status": "discussed",
       "sponsors": [],
       "discussions": [
         "session_2024_57"
-      ]
+      ],
+      "law_number": "60/2025"
     }
   ]
 }

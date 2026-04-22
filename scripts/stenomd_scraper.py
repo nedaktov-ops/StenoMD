@@ -17,6 +17,12 @@ DATA_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/data")
 KG_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/knowledge_graph")
 CDEP_BASE = "https://www.cdep.ro"
 
+# Romanian month mapping
+MONTHS_RO = {
+    'ianuarie': 1, 'februarie': 2, 'martie': 3, 'aprilie': 4, 'mai': 5, 'iunie': 6,
+    'iulie': 7, 'august': 8, 'septembrie': 9, 'octombrie': 10, 'noiembrie': 11, 'decembrie': 12
+}
+
 class StenogramScraper:
     """Extracts real Romanian Parliament stenograms."""
     
@@ -31,6 +37,23 @@ class StenogramScraper:
     
     def log(self, msg):
         print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
+    
+    def extract_date_from_title(self, title):
+        """Extract date from session title like 'Sedinta Camerei Deputatilor din 5 noiembrie 2024'."""
+        try:
+            # Match pattern: "din DD month YYYY"
+            match = re.search(r'din\s+(\d+)\s+(\w+)\s+(\d{4})', title, re.I)
+            if match:
+                day = int(match.group(1))
+                month_str = match.group(2).lower()
+                year = int(match.group(3))
+                
+                if month_str in MONTHS_RO:
+                    month = MONTHS_RO[month_str]
+                    return f"{year:04d}-{month:02d}-{day:02d}"
+        except:
+            pass
+        return None
     
     def get_session_ids(self, year, max_id=50):
         """Get all session IDs for a year."""
@@ -80,6 +103,10 @@ class StenogramScraper:
         if soup.title:
             title = soup.title.string or ""
         
+        # Extract date from title
+        extracted_date = self.extract_date_from_title(title)
+        session_date = extracted_date if extracted_date else datetime.now().strftime("%Y-%m-%d")
+        
         # Extract MP names (Domnul/Doamna patterns)
         mps_found = set()
         names = re.findall(r'(?:Domnul|Doamna)\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț\-]+)+)', text)
@@ -107,7 +134,7 @@ class StenogramScraper:
             'laws': list(laws_found),
             'debates': debates[:30],
             'url': url,
-            'date': datetime.now().strftime("%Y-%m-%d")
+            'date': session_date
         }
     
     def save_to_file(self, data, filename):

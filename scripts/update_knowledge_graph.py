@@ -5,20 +5,52 @@ import json
 import re
 from pathlib import Path
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 SCRIPT_DIR = Path(__file__).parent.parent
 DATA_DIR = SCRIPT_DIR / "data"
 KG_DIR = SCRIPT_DIR / "knowledge_graph"
 ENTITIES_FILE = KG_DIR / "entities.json"
 
+# Romanian month mapping
+MONTHS_RO = {
+    'ianuarie': 1, 'februarie': 2, 'martie': 3, 'aprilie': 4, 'mai': 5, 'iunie': 6,
+    'iulie': 7, 'august': 8, 'septembrie': 9, 'octombrie': 10, 'noiembrie': 11, 'decembrie': 12
+}
+
+def extract_date_from_title(title):
+    """Extract date from session title like 'Sedinta Camerei Deputatilor din 5 noiembrie 2024'."""
+    try:
+        # Match pattern: "din DD month YYYY"
+        match = re.search(r'din\s+(\d+)\s+(\w+)\s+(\d{4})', title, re.I)
+        if match:
+            day = int(match.group(1))
+            month_str = match.group(2).lower()
+            year = int(match.group(3))
+            
+            if month_str in MONTHS_RO:
+                month = MONTHS_RO[month_str]
+                return f"{year:04d}-{month:02d}-{day:02d}"
+    except:
+        pass
+    return None
+
 def load_existing():
     if ENTITIES_FILE.exists():
         with open(ENTITIES_FILE) as f:
             data = json.load(f)
+            sessions = data.get("sessions", [])
+            laws = data.get("laws", [])
+            
+            # Normalize law records: rename "number" to "law_number"
+            for law in laws:
+                if "number" in law and "law_number" not in law:
+                    law["law_number"] = law.pop("number")
+            
             return {
                 "persons": data.get("persons") or data.get("people", []),
-                "sessions": data.get("sessions", []),
-                "laws": data.get("laws", [])
+                "sessions": sessions,
+                "laws": laws
             }
     return {"persons": [], "sessions": [], "laws": []}
 
@@ -63,9 +95,15 @@ def main():
         print(f"Processing: {filepath.name}")
         mps, laws, title = extract_from_stenogram(filepath)
         
+        # Extract date from title
+        session_date = extract_date_from_title(title)
+        if not session_date:
+            session_date = datetime.now().strftime("%Y-%m-%d")
+        
         # Add session
         sessions.append({
             "title": title,
+            "date": session_date,
             "source": filepath.name,
             "url": f"https://www.cdep.ro/pls/steno/{filepath.name.replace('.html', '')}"
         })
@@ -96,7 +134,7 @@ def main():
     
     save(entities)
     
-    print(f"\\n=== Results ===")
+    print(f"\n=== Results ===")
     print(f"New MPs: {len(new_mps)}")
     print(f"New Laws: {len(new_laws)}")
     print(f"Total MPs: {len(entities['persons'])}")

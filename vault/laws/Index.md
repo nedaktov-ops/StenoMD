@@ -2,10 +2,18 @@
 
 > Legislation
 
-- [[Unknown]] - Law Unknown
-- [[Unknown]] - Law Unknown
-- [[Unknown]] - Law Unknown
-- [[Unknown]] - Law Unknown
-- [[Unknown]] - Law Unknown
-- [[Unknown]] - Law Unknown
-- [[Unknown]] - Law Unknown
+- [[448/2006]] - Law 448/2006
+- [[418/2023]] - Law 418/2023
+- [[5/2000]] - Law 5/2000
+- [[76/2024]] - Law 76/2024
+- [[78/2000]] - Law 78/2000
+- [[95/2006]] - Law 95/2006
+- [[367/2022]] - Law 367/2022
+- [[46/2003]] - Law 46/2003
+- [[235/2017]] - Law 235/2017
+- [[23/2015]] - Law 23/2015
+- [[208/2015]] - Law 208/2015
+- [[69/2000]] - Law 69/2000
+- [[198/2023]] - Law 198/2023
+- [[27/2023]] - Law 27/2023
+- [[60/2025]] - Law 60/2025
