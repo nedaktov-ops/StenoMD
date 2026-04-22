@@ -8,7 +8,8 @@ import sys
 from pathlib import Path
 
 # Add project paths
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+SCRIPT_DIR = Path(__file__).parent.parent
+PROJECT_DIR = SCRIPT_DIR
 
 def run_daily_update():
     """Run the full daily update pipeline."""

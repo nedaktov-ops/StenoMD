@@ -6,8 +6,9 @@ import re
 from pathlib import Path
 from bs4 import BeautifulSoup
 
-DATA_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/data")
-KG_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/knowledge_graph")
+SCRIPT_DIR = Path(__file__).parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
+KG_DIR = SCRIPT_DIR / "knowledge_graph"
 ENTITIES_FILE = KG_DIR / "entities.json"
 
 def load_existing():

@@ -30,9 +30,10 @@ from dataclasses import dataclass, field, asdict
 from uuid import uuid4
 
 BASE_URL = "https://www.senat.ro"
-DATA_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/data/senate")
-KG_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/knowledge_graph")
-VAULT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/vault")
+SCRIPT_DIR = Path(__file__).parent.parent.parent
+DATA_DIR = SCRIPT_DIR / "data" / "senate"
+KG_DIR = SCRIPT_DIR / "knowledge_graph"
+VAULT_DIR = SCRIPT_DIR / "vault"
 
 SENATOR_PATTERN = re.compile(
     r'domnul\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)',

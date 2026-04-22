@@ -31,8 +31,9 @@ from uuid import uuid4
 
 # Configuration
 BASE_URL = "https://www.cdep.ro"
-DATA_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/data/cdep")
-KG_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/knowledge_graph")
+SCRIPT_DIR = Path(__file__).parent.parent.parent
+DATA_DIR = SCRIPT_DIR / "data" / "cdep"
+KG_DIR = SCRIPT_DIR / "knowledge_graph"
 
 # Enhanced regex patterns for Romanian diacritics
 # Pattern for extracting names from HTML with font tags (the actual format in cdep.ro)

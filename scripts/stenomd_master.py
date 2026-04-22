@@ -24,7 +24,7 @@ from agents.cdep_agent import EnhancedCDEPAgent
 from agents.senat_agent import SenateAgent
 
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+PROJECT_DIR = SCRIPT_DIR.parent
 KG_DIR = PROJECT_DIR / "knowledge_graph"
 VAULT_DIR = PROJECT_DIR / "vault"
 
