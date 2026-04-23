@@ -24,10 +24,15 @@ scrape_status = {
 }
 
 
-def count_files(directory: Path, pattern: str = "*.md") -> int:
+def count_files(directory: Path, pattern: str = "*.md", exclude_index: bool = True) -> int:
     if not directory.exists():
         return 0
-    return len(list(directory.rglob(pattern)))
+    files = []
+    for f in directory.rglob(pattern):
+        if exclude_index and f.name == "Index.md":
+            continue
+        files.append(f)
+    return len(files)
 
 
 def get_latest_file(directory: Path, pattern: str = "*.md") -> str | None:
@@ -44,6 +49,7 @@ def get_statistics() -> dict:
     import sys
     sys.path.insert(0, str(BASE_DIR / "scripts"))
     from validators import DataValidator
+    
     validator = DataValidator(VAULT_DIR)
     
     senators_dir = VAULT_DIR / "politicians" / "senators"
@@ -51,22 +57,40 @@ def get_statistics() -> dict:
     senates_sessions_dir = VAULT_DIR / "sessions" / "senate"
     deputies_sessions_dir = VAULT_DIR / "sessions" / "deputies"
     
-    all_politicians = count_files(VAULT_DIR / "politicians", "*.md")
+    # Count excluding Index.md files
+    senators = count_files(senators_dir, exclude_index=True)
+    deputies = count_files(deputies_dir, exclude_index=True)
+    all_politicians = senators + deputies
     
-    senate_sessions = count_files(senates_sessions_dir, "*.md")
-    deputy_sessions = count_files(deputies_sessions_dir, "*.md")
+    senate_sessions = count_files(senates_sessions_dir, exclude_index=True)
+    deputy_sessions = count_files(deputies_sessions_dir, exclude_index=True)
+    total_sessions = senate_sessions + deputy_sessions
+    
+    # Get knowledge graph stats
+    kg_file = BASE_DIR / "knowledge_graph" / "entities.json"
+    kg_persons = 0
+    kg_sessions = 0
+    if kg_file.exists():
+        try:
+            kg_data = json.loads(kg_file.read_text())
+            kg_persons = len(kg_data.get("persons", []))
+            kg_sessions = len(kg_data.get("sessions", []))
+        except:
+            pass
     
     return {
-        "senators": count_files(senators_dir, "*.md"),
-        "deputies": count_files(deputies_dir, "*.md"),
+        "senators": senators,
+        "deputies": deputies,
         "total_politicians": all_politicians,
         "senate_sessions": senate_sessions,
         "deputy_sessions": deputy_sessions,
-        "total_sessions": count_files(VAULT_DIR / "sessions", "*.md"),
+        "total_sessions": total_sessions,
         "last_senate_session": get_latest_file(senates_sessions_dir),
         "last_deputy_session": get_latest_file(deputies_sessions_dir),
         "complete_senate": len([s for s in validator._existing_sessions.values() if s['chamber'] == 'senate' and s['is_complete']]),
         "complete_deputy": len([s for s in validator._existing_sessions.values() if s['chamber'] == 'deputies' and s['is_complete']]),
+        "kg_persons": kg_persons,
+        "kg_sessions": kg_sessions,
     }
 
 
@@ -247,6 +271,23 @@ async def dashboard(request: Request):
             </div>
         </div>
         
+        <div class="section">
+            <h2>🧠 Knowledge Graph</h2>
+            <div class="chamber-info">
+                <div class="chamber-stat">
+                    <div class="label">Persoane in KG</div>
+                    <div class="count">{stats.get('kg_persons', 0)}</div>
+                </div>
+                <div class="chamber-stat">
+                    <div class="label">Sesiuni in KG</div>
+                    <div class="count">{stats.get('kg_sessions', 0)}</div>
+                </div>
+            </div>
+            <div style="margin-top: 1rem;">
+                <button class="btn btn-primary" onclick="refreshStats()">🔄 Reîmprospătează</button>
+            </div>
+        </div>
+        
         <div class="footer">
             <p>StenoMD v1.0 • Actualizat: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
             <p><a href="https://cdep.ro" target="_blank" style="color: #38bdf8;">cdep.ro</a> • <a href="https://senat.ro" target="_blank" style="color: #38bdf8;">senat.ro</a></p>
@@ -302,10 +343,41 @@ async def dashboard(request: Request):
                     status.textContent = data.result?.success ? '✅ Succes' : '❌ ' + (data.result?.error || 'Eroare');
                     btn.disabled = false;
                     btn.textContent = chamber === 'senate' ? '▶ Extrage Date Senat' : '▶ Extrage Date Camera';
-                    if (data.result?.success) location.reload();
+                    if (data.result?.success) {{
+                        // Force refresh after successful scrape
+                        setTimeout(() => {{
+                            window.location.href = window.location.href;
+                        }}, 1500);
+                    }}
                 }}
             }} catch (e) {{
                 btn.disabled = false;
+            }}
+        }}
+        
+        async function refreshStats() {{
+            try {{
+                const response = await fetch('/api/stats');
+                const data = await response.json();
+                
+                // Update stat cards
+                const statCards = document.querySelectorAll('.stat-card .value');
+                if (statCards[0]) statCards[0].textContent = data.senators;
+                if (statCards[1]) statCards[1].textContent = data.deputies;
+                if (statCards[2]) statCards[2].textContent = data.senate_sessions;
+                if (statCards[3]) statCards[3].textContent = data.deputy_sessions;
+                
+                // Update chamber stats
+                document.querySelectorAll('.chamber-stat .count').forEach((el, i) => {{
+                    if (i === 0) el.textContent = data.total_politicians;
+                    if (i === 1) el.textContent = data.total_sessions;
+                    if (i === 2) el.textContent = data.complete_senate;
+                    if (i === 3) el.textContent = data.complete_deputy;
+                }});
+                
+                alert('Stats refreshed! Senators: ' + data.senators + ', Deputies: ' + data.deputies + ', Sessions: ' + data.total_sessions);
+            }} catch (e) {{
+                alert('Error refreshing: ' + e.message);
             }}
         }}
     </script>
