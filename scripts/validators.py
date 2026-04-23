@@ -11,6 +11,29 @@ from datetime import datetime
 from typing import Dict, List, Optional, Tuple
 
 
+MONTHS = {
+    "ianuarie": "01", "februarie": "02", "martie": "03", "aprilie": "04",
+    "mai": "05", "iunie": "06", "iulie": "07", "august": "08",
+    "septembrie": "09", "octombrie": "10", "noiembrie": "11", "decembrie": "12"
+}
+
+
+def parse_session_date(filename: str) -> Optional[str]:
+    """Extract YYYY-MM-DD from various date formats in filename."""
+    iso_match = re.match(r"(\d{4})-(\d{2})-(\d{2})", filename)
+    if iso_match:
+        return iso_match.group()
+    
+    romanian_match = re.match(r"(\d{1,2})-([a-zăâîșț]+)-(\d{4})", filename, re.IGNORECASE)
+    if romanian_match:
+        day, month_ro, year = romanian_match.groups()
+        month = MONTHS.get(month_ro.lower())
+        if month:
+            return f"{year}-{month}-{int(day):02d}"
+    
+    return None
+
+
 class DataValidator:
     """Validates scraped data and checks for duplicates."""
     
@@ -99,12 +122,20 @@ class DataValidator:
         """Check if session already exists in vault."""
         date_clean = date.replace('.', '-').replace(' ', '-')
         
+        date_iso = parse_session_date(date_clean) if date_clean else None
+        
         for sid, meta in self._existing_sessions.items():
-            if meta['chamber'] == chamber:
-                if meta['date'] and date_clean in meta['date']:
-                    return True
-                if sid == date_clean:
-                    return True
+            if meta['chamber'] != chamber:
+                continue
+            
+            sid_iso = parse_session_date(sid)
+            
+            if sid_iso and date_iso and sid_iso == date_iso:
+                return True
+            if meta['date'] and date_clean in meta['date']:
+                return True
+            if sid == date_clean:
+                return True
         
         return False
     
@@ -112,12 +143,20 @@ class DataValidator:
         """Get existing session metadata if it exists."""
         date_clean = date.replace('.', '-').replace(' ', '-')
         
+        date_iso = parse_session_date(date_clean) if date_clean else None
+        
         for sid, meta in self._existing_sessions.items():
-            if meta['chamber'] == chamber:
-                if meta['date'] and date_clean in meta['date']:
-                    return meta
-                if sid == date_clean:
-                    return meta
+            if meta['chamber'] != chamber:
+                continue
+            
+            sid_iso = parse_session_date(sid)
+            
+            if sid_iso and date_iso and sid_iso == date_iso:
+                return meta
+            if meta['date'] and date_clean in meta['date']:
+                return meta
+            if sid == date_clean:
+                return meta
         
         return None
     

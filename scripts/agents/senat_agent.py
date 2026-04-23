@@ -31,8 +31,19 @@ from typing import Dict, List, Set, Optional, Tuple
 from dataclasses import dataclass, field, asdict
 from uuid import uuid4
 
-sys.path.insert(0, str(Path(__file__).parent.parent))
 from validators import DataValidator
+
+PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
+
+def write_progress(chamber: str, current: int, total: int, session_name: str):
+    """Write progress to file for dashboard polling."""
+    PROGRESS_FILE.write_text(json.dumps({
+        "chamber": chamber,
+        "current": current,
+        "total": total,
+        "session": session_name,
+        "timestamp": datetime.now().isoformat()
+    }))
 
 BASE_URL = "https://www.senat.ro"
 SCRIPT_DIR = Path(__file__).parent.parent.parent
@@ -472,8 +483,10 @@ legislature: 2024-2028
         filtered_sessions = filtered_sessions[:max_sessions]
         self.log(f"Sessions to scrape: {len(filtered_sessions)}")
         
-        for date, title, btn_name in filtered_sessions:
+        total = len(filtered_sessions)
+        for idx, (date, title, btn_name) in enumerate(filtered_sessions):
             self.log(f"Scraping {date}: {title[:50]}...")
+            write_progress("senate", idx + 1, total, date)
             
             data = self.scrape_session(year, btn_name, date, title)
             

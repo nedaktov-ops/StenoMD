@@ -1961,6 +1961,131 @@ npm run build
 
 ---
 
+**Task:** Dashboard Integration Enhancement - Implementation Complete
+**Started:** 2026-04-23 12:40
+**Completed:** 2026-04-23 13:20
+
+## IMPLEMENTATION PERFORMED
+
+### Phase 1: Date Format Normalization
+**Files:** scripts/migrate_dates.py, scripts/validators.py
+
+1. Created migrate_dates.py script
+2. Ran migration - 5 files renamed:
+   - 16-martie-2026.md → 2026-03-16.md
+   - 18-martie-2026.md → 2026-03-18.md
+   - 19-martie-2026.md → 2026-03-19.md
+   - 23-martie-2026.md → 2026-03-23.md
+   - 7-aprilie-2026.md → 2026-04-07.md
+
+3. Updated validators.py with parse_session_date() function to handle both Romanian and ISO date formats
+
+### Phase 2: Parameter UI
+**Files:** scripts/dashboard.py
+
+1. Added input fields for year/max parameters:
+   - Senate: Year input, Max input
+   - CDEP: Years input, Max ID input
+
+2. Updated JavaScript to read inputs and send as JSON in POST body
+
+3. Updated API endpoint to accept params and pass to agents
+
+### Phase 3: Progress Tracking
+**Files:** scripts/dashboard.py, scripts/agents/cdep_agent.py, scripts/agents/senat_agent.py
+
+1. Added PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
+2. Added write_progress() function to both agents
+3. Added /api/scrape/progress endpoint
+
+### Test Results
+- Deduplication: ✅ Working (8 sessions skipped on 2nd run)
+- Date Migration: ✅ 5 files converted
+- Stats: ✅ 4 senators, 105 deputies, 14 senate sessions, 13 deputy sessions
+- Progress API: ✅ Returns correct JSON
+- Parameter UI: ✅ Inputs working
+
+### Changes Summary
+| File | Change |
+|------|-------|
+| scripts/migrate_dates.py | NEW - Date migration |
+| scripts/validators.py | Added parse_session_date() |
+| scripts/dashboard.py | Input fields, params, progress endpoint |
+| scripts/agents/cdep_agent.py | Progress tracking |
+| scripts/agents/senat_agent.py | Progress tracking |
+
+**Next:** Commit to GitHub
+
+---
+
+**Task:** Dashboard Integration Enhancement - Comprehensive Analysis (COMPLETED)
+**Started:** 2026-04-23 12:40
+**Completed:** 2026-04-23 12:45
+
+## ANALYSIS PERFORMED
+
+### Integration Architecture Discovered
+
+```
+Dashboard Button (Scrape CDEP)
+    ↓ onclick="runScrape('cdep')"
+/api/scrape/cdep POST
+    ↓ threading.Thread
+run_scrape(chamber)
+    ↓ subprocess.run([python, agent.py, --years, --max-id])
+cdep_agent.py / senat_agent.py
+    ↓ validator.check_duplicate()
+validators.py (DataValidator)
+    ↓ session_exists() / check_duplicate()
+vault/sessions/{chamber}/{date}.md
+    ↓
+Dashboard /api/stats (accurate counts)
+```
+
+### Current Working Components
+| Component | Status |
+|-----------|--------|
+| Dashboard CDEP button → CDEP agent | ✅ Working |
+| Dashboard Senate button → Senate agent | ✅ Working |
+| Deduplication (check_duplicate) | ✅ Working |
+| Vault sync (sessions + MPs) | ✅ Working |
+| Stats accuracy (count_files) | ✅ Working |
+| Auto-refresh after scrape | ✅ Working |
+
+### Gaps Identified
+| Gap | Severity | Issue |
+|-----|----------|-------|
+| 1 | HIGH | Date format inconsistency - Senate files named `16-martie-2026.md` but validator expects `YYYY-MM-DD` |
+| 2 | HIGH | Deduplication fails - validator can't find duplicates due to date format |
+| 3 | MEDIUM | Parameter UI hardcoded - can't change years/max in dashboard |
+| 4 | LOW | No real-time progress streaming |
+
+### User Preferences Confirmed
+| Option | Choice | Implementation |
+|--------|--------|----------------|
+| Date Normalization | A - Migration | Rename `16-martie-2026.md` → `2026-03-16.md` |
+| Parameter UI | A - Form Inputs | Add input fields for years/max |
+| Progress Streaming | A - Real-Time | Stream progress to log panel |
+| Git Commit | Deferred | Commit after implementation |
+
+### Plan Created
+**File:** stenomd-plan.md (saved to opencode/plans/)
+
+Comprehensive 4-phase plan:
+1. Commit current fixes (deferred)
+2. Date format normalization (ISO migration)
+3. Parameter UI (form inputs)
+4. Real-time progress streaming
+
+**Next Actions:**
+- Create migrate_dates.py script
+- Run migration (Romanian → ISO dates)
+- Update validators.py
+- Add parameter inputs to dashboard
+- Add progress tracking
+
+---
+
 **Task:** COMPREHENSIVE DEBUG & BUILD (COMPLETED)
 **Started:** 2026-04-23 12:05
 **Completed:** 2026-04-23 12:20

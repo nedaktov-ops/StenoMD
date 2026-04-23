@@ -28,6 +28,20 @@ import time
 import random
 import sys
 from typing import Dict, List, Set, Optional, Tuple
+from uuid import uuid4
+import argparse
+
+PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
+
+def write_progress(chamber: str, current: int, total: int, session_name: str):
+    """Write progress to file for dashboard polling."""
+    PROGRESS_FILE.write_text(json.dumps({
+        "chamber": chamber,
+        "current": current,
+        "total": total,
+        "session": session_name,
+        "timestamp": datetime.now().isoformat()
+    }))
 from dataclasses import dataclass, field, asdict
 from uuid import uuid4
 
@@ -637,8 +651,10 @@ participants:
         self.log(f"Total new sessions to scrape: {len(all_session_ids)}")
         
         # Scrape each session
-        for year, session_id in all_session_ids:
+        total_sessions = len(all_session_ids)
+        for idx, (year, session_id) in enumerate(all_session_ids):
             self.log(f"Scraping {year}/{session_id}...")
+            write_progress("cdep", idx + 1, total_sessions, f"{year}/{session_id}")
             
             data = self.scrape_session(year, session_id)
             

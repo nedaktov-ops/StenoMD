@@ -17,6 +17,7 @@ BASE_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
 VAULT_DIR = BASE_DIR / "vault"
 DATA_DIR = BASE_DIR / "data"
 SCRIPTS_DIR = BASE_DIR / "scripts"
+PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
 
 scrape_status = {
     "cdep": {"running": False, "last_run": None, "result": None},
@@ -94,20 +95,25 @@ def get_statistics() -> dict:
     }
 
 
-def run_scrape(chamber: str, max_sessions: int = 20):
+def run_scrape(chamber: str, params: dict = None):
     """Run scrape in background thread"""
     global scrape_status
+    params = params or {}
     
     scrape_status[chamber]["running"] = True
     scrape_status[chamber]["last_run"] = datetime.now().isoformat()
     
     try:
         if chamber == "cdep":
+            years = params.get("years", "2024,2025,2026")
+            max_id = params.get("max_id", 30)
             cmd = ["python3", str(SCRIPTS_DIR / "agents" / "cdep_agent.py"), 
-                   "--years", "2024,2025,2026", "--max-id", str(max_sessions)]
+                   "--years", str(years), "--max-id", str(max_id)]
         else:
+            year = params.get("year", 2026)
+            max_sessions = params.get("max", 10)
             cmd = ["python3", str(SCRIPTS_DIR / "agents" / "senat_agent.py"), 
-                   "--year", "2026", "--max", str(max_sessions), "--sync-vault"]
+                   "--year", str(year), "--max", str(max_sessions), "--sync-vault"]
         
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
         scrape_status[chamber]["result"] = {
@@ -220,6 +226,10 @@ async def dashboard(request: Request):
                 <div class="scrape-card">
                     <h3>Senat (senat.ro)</h3>
                     <p>Extrage stenogramele Senatului României pentru anul curent</p>
+                    <div class="controls">
+                        <label>An: <input type="number" id="senate-year" value="2026" min="2020" max="2026" style="width: 70px;"></label>
+                        <label>Max: <input type="number" id="senate-max" value="10" min="1" max="50" style="width: 50px;"></label>
+                    </div>
                     <button id="btn-senate" class="btn btn-senate" onclick="runScrape('senate')">
                         ▶ Extrage Date Senat
                     </button>
@@ -228,6 +238,10 @@ async def dashboard(request: Request):
                 <div class="scrape-card">
                     <h3>Camera Deputatilor (cdep.ro)</h3>
                     <p>Extrage stenogramele Camerei Deputatilor pentru 2024-2026</p>
+                    <div class="controls">
+                        <label>Ani: <input type="text" id="cdep-years" value="2024,2025,2026" style="width: 120px;"></label>
+                        <label>Max ID: <input type="number" id="cdep-max-id" value="30" min="1" max="200" style="width: 50px;"></label>
+                    </div>
                     <button id="btn-cdep" class="btn btn-deputy" onclick="runScrape('cdep')">
                         ▶ Extrage Date Camera
                     </button>
@@ -299,13 +313,24 @@ async def dashboard(request: Request):
             const btn = document.getElementById('btn-' + chamber);
             const status = document.getElementById('status-' + chamber);
             
+            // Get parameters from inputs
+            const params = chamber === 'senate' 
+                ? {{ year: parseInt(document.getElementById('senate-year').value) || 2026,
+                    max: parseInt(document.getElementById('senate-max').value) || 10 }}
+                : {{ years: document.getElementById('cdep-years').value || "2024,2025,2026",
+                    max_id: parseInt(document.getElementById('cdep-max-id').value) || 30 }};
+            
             btn.disabled = true;
             btn.textContent = '⏳ Se procesează...';
             status.className = 'status running';
             status.textContent = '⏳ Procesare în curs...';
             
             try {{
-                const response = await fetch('/api/scrape/' + chamber, {{ method: 'POST' }});
+                const response = await fetch('/api/scrape/' + chamber, {{
+                    method: 'POST',
+                    headers: {{ 'Content-Type': 'application/json' }},
+                    body: JSON.stringify(params)
+                }});
                 const data = await response.json();
                 
                 if (data.status === 'started') {{
@@ -392,14 +417,19 @@ async def api_stats():
 
 
 @app.post("/api/scrape/{chamber}")
-async def api_scrape(chamber: str):
+async def api_scrape(chamber: str, request: Request):
     if chamber not in ["cdep", "senate"]:
         return {"status": "error", "error": "Invalid chamber"}
     
     if scrape_status[chamber]["running"]:
         return {"status": "running", "message": "Scrape already in progress"}
     
-    thread = threading.Thread(target=run_scrape, args=(chamber, 20))
+    try:
+        body = await request.json()
+    except:
+        body = {}
+    
+    thread = threading.Thread(target=run_scrape, args=(chamber, body))
     thread.start()
     
     return {"status": "started", "message": f"Started {chamber} scrape"}
@@ -423,6 +453,25 @@ async def api_status(chamber: str):
         "elapsed": elapsed,
         "result": status["result"],
     }
+
+
+@app.get("/api/scrape/progress")
+async def api_scrape_progress():
+    """Get current scrape progress."""
+    if PROGRESS_FILE.exists():
+        try:
+            return json.loads(PROGRESS_FILE.read_text())
+        except:
+            pass
+    return {"status": "idle", "chamber": None, "current": 0, "total": 0, "session": ""}
+
+
+@app.post("/api/scrape/progress/clear")
+async def api_clear_progress():
+    """Clear progress file after scrape completes."""
+    if PROGRESS_FILE.exists():
+        PROGRESS_FILE.unlink()
+    return {"status": "cleared"}
 
 
 if __name__ == "__main__":
