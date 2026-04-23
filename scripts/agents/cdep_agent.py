@@ -10,6 +10,8 @@ Features:
 - Session summary generation
 - Improved session title parsing
 - Enhanced law number detection
+- Duplicate detection via vault validation
+- Backward traversal when session already extracted
 
 Usage:
     python3 cdep_agent.py --update --years 2024,2025,2026
@@ -29,11 +31,15 @@ from typing import Dict, List, Set, Optional, Tuple
 from dataclasses import dataclass, field, asdict
 from uuid import uuid4
 
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from validators import DataValidator
+
 # Configuration
 BASE_URL = "https://www.cdep.ro"
 SCRIPT_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = SCRIPT_DIR / "data" / "cdep"
 KG_DIR = SCRIPT_DIR / "knowledge_graph"
+VAULT_DIR = SCRIPT_DIR / "vault"
 
 # Enhanced regex patterns for Romanian diacritics
 # Pattern for extracting names from HTML with font tags (the actual format in cdep.ro)
@@ -163,9 +169,12 @@ class EnhancedCDEPAgent:
         self.persons: Dict[str, Person] = {}
         self.sessions: Dict[str, Session] = {}
         self.laws: Dict[str, Law] = {}
+        self.validator = DataValidator(VAULT_DIR)
         self.statistics = {
             'sessions_found': 0,
             'sessions_scraped': 0,
+            'sessions_skipped': 0,
+            'sessions_validated': 0,
             'mps_found': set(),
             'laws_found': set(),
             'statements_extracted': 0,
@@ -490,21 +499,51 @@ class EnhancedCDEPAgent:
         self.log(f"Knowledge graph saved: {len(self.persons)} MPs, {len(self.sessions)} sessions, {len(self.laws)} laws")
     
     def run(self, years: List[int], max_id: int = 200):
-        """Main scraping loop."""
+        """Main scraping loop with duplicate detection."""
         self.log(f"=== Starting Enhanced CDEP Agent ===")
         self.log(f"Years: {years}, Max ID: {max_id}")
         
-        # Create data directory
         DATA_DIR.mkdir(parents=True, exist_ok=True)
+        
+        existing_dates = self.validator.get_session_dates("deputies")
+        self.log(f"Found {len(existing_dates)} existing sessions in vault")
         
         all_session_ids = []
         
         # Discover all sessions across years
         for year in years:
             session_ids = self.get_session_ids(year, max_id)
-            all_session_ids.extend([(year, sid) for sid in session_ids])
+            
+            # Filter out already-extracted sessions
+            filtered = []
+            for sid in session_ids:
+                data = self.scrape_session(year, sid)
+                if not data:
+                    continue
+                    
+                date = data.get('date', '')
+                is_duplicate = self.validator.check_duplicate(data, 'deputies')
+                
+                if is_duplicate:
+                    self.log(f"  Session {sid} ({date}) already extracted - checking backward...")
+                    self.statistics['sessions_skipped'] += 1
+                    # Continue to check if this data is better than existing
+                    existing = self.validator.get_existing_session(date, 'deputies')
+                    if existing and existing['is_complete']:
+                        # Already have complete data, skip this session
+                        continue
+                    else:
+                        # Existing data incomplete, validate this one
+                        is_valid, msg = self.validator.validate_session(data)
+                        if is_valid:
+                            self.statistics['sessions_validated'] += 1
+                            filtered.append(sid)
+                else:
+                    filtered.append(sid)
+            
+            all_session_ids.extend([(year, sid) for sid in filtered])
         
-        self.log(f"Total sessions discovered: {len(all_session_ids)}")
+        self.log(f"Total new sessions to scrape: {len(all_session_ids)}")
         
         # Scrape each session
         for year, session_id in all_session_ids:

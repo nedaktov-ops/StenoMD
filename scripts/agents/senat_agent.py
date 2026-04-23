@@ -9,6 +9,8 @@ Features:
 - Full stenogram content extraction
 - Senator/speech extraction from session transcripts
 - Obsidian vault sync
+- Duplicate detection via vault validation
+- Backward traversal when session already extracted
 
 Usage:
     python3 senat_agent.py --year 2024
@@ -28,6 +30,9 @@ import sys
 from typing import Dict, List, Set, Optional, Tuple
 from dataclasses import dataclass, field, asdict
 from uuid import uuid4
+
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from validators import DataValidator
 
 BASE_URL = "https://www.senat.ro"
 SCRIPT_DIR = Path(__file__).parent.parent.parent
@@ -97,9 +102,12 @@ class SenateAgent:
         })
         self.senators: Dict[str, Senator] = {}
         self.sessions: Dict[str, SenateSession] = {}
+        self.validator = DataValidator(VAULT_DIR)
         self.statistics = {
             'sessions_found': 0,
             'sessions_scraped': 0,
+            'sessions_skipped': 0,
+            'sessions_validated': 0,
             'senators_found': set(),
             'laws_found': set(),
             'statements_extracted': 0,
@@ -426,16 +434,45 @@ legislature: 2024-2028
         senator_file.write_text(content, encoding='utf-8')
     
     def run(self, year: int, max_sessions: int = 20, sync_vault: bool = True):
-        """Main scraping loop."""
+        """Main scraping loop with duplicate detection."""
         self.log(f"=== Starting Senate Agent ===")
         self.log(f"Year: {year}, Max: {max_sessions}, Sync: {sync_vault}")
         
         DATA_DIR.mkdir(parents=True, exist_ok=True)
         
-        sessions = self.search_sessions(year)
-        sessions = sessions[:max_sessions]
+        existing_dates = self.validator.get_session_dates("senate")
+        self.log(f"Found {len(existing_dates)} existing sessions in vault")
         
-        for date, title, btn_name in sessions:
+        all_sessions = self.search_sessions(year)
+        
+        # Filter already-extracted sessions
+        filtered_sessions = []
+        for date, title, btn_name in all_sessions:
+            # Check if session exists
+            data = self.scrape_session(year, btn_name, date, title)
+            if not data:
+                continue
+            
+            is_duplicate = self.validator.check_duplicate(data, 'senate')
+            
+            if is_duplicate:
+                self.log(f"  Session {date} already extracted - checking backward...")
+                self.statistics['sessions_skipped'] += 1
+                existing = self.validator.get_existing_session(date, 'senate')
+                if existing and existing['is_complete']:
+                    continue
+                else:
+                    is_valid, msg = self.validator.validate_session(data)
+                    if is_valid:
+                        self.statistics['sessions_validated'] += 1
+                        filtered_sessions.append((date, title, btn_name))
+            else:
+                filtered_sessions.append((date, title, btn_name))
+        
+        filtered_sessions = filtered_sessions[:max_sessions]
+        self.log(f"Sessions to scrape: {len(filtered_sessions)}")
+        
+        for date, title, btn_name in filtered_sessions:
             self.log(f"Scraping {date}: {title[:50]}...")
             
             data = self.scrape_session(year, btn_name, date, title)
@@ -474,6 +511,8 @@ legislature: 2024-2028
         self.log(f"=== Senate Agent Complete ===")
         self.log(f"Sessions found: {self.statistics['sessions_found']}")
         self.log(f"Sessions scraped: {self.statistics['sessions_scraped']}")
+        self.log(f"Sessions skipped (duplicates): {self.statistics['sessions_skipped']}")
+        self.log(f"Sessions validated: {self.statistics['sessions_validated']}")
         self.log(f"Unique senators: {len(self.statistics['senators_found'])}")
         self.log(f"Laws discussed: {len(self.statistics['laws_found'])}")
         

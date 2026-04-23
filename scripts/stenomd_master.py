@@ -17,13 +17,7 @@ from pathlib import Path
 from datetime import datetime
 import json
 
-SCRIPT_DIR = Path(__file__).parent.parent
-sys.path.insert(0, str(SCRIPT_DIR))
-
-from agents.cdep_agent import EnhancedCDEPAgent
-from agents.senat_agent import SenateAgent
-
-
+SCRIPT_DIR = Path(__file__).parent.resolve()
 PROJECT_DIR = SCRIPT_DIR.parent
 KG_DIR = PROJECT_DIR / "knowledge_graph"
 VAULT_DIR = PROJECT_DIR / "vault"
