@@ -24,11 +24,21 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 pymupdf
+          pip install -r requirements.txt
 
-      - name: Run StenoMD Master Controller
+      - name: Run CDEP Agent
         run: |
-          python scripts/stenomd_master.py --all --sync-vault --merge
+          python scripts/agents/cdep_agent.py --years 2024,2025,2026 --max-id 50 --sync-vault
+        continue-on-error: true
+
+      - name: Run Senate Agent
+        run: |
+          python scripts/agents/senat_agent.py --year 2026 --max 10 --sync-vault
+        continue-on-error: true
+
+      - name: Run Master Controller (merge)
+        run: |
+          python scripts/stenomd_master.py --merge
         continue-on-error: true
 
       - name: Check status

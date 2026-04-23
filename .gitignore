@@ -5,3 +5,8 @@ venv/
 *.html
 .DS_Store
 vault/.obsidian/
+
+# Knowledge Graph data
+knowledge_graph/entities.json
+knowledge_graph/*.db
+knowledge_graph/*.sqlite3
