@@ -2,6 +2,9 @@
 """
 StenoMD - Romanian Parliament Stenogram Scraper v2
 Extracts real speeches and debates from cdep.ro
+
+DEPRECATED: Use scripts/agents/cdep_agent.py instead
+This script is kept for backwards compatibility only.
 """
 
 import requests

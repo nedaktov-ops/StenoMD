@@ -16,4 +16,6 @@ type: person
 
 ## Appearances
 
+- [[session_2024_51]] (2025-04-23)
+
 - [[session_2024_23]] (2025-03-05)

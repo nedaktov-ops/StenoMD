@@ -13,6 +13,10 @@ source: cdep.ro
 
 ## Appearances
 
+- [[session_2024_55]] (2025-05-28)
+
+- [[session_2024_52]] (2025-05-07)
+
 - [[2024 Sessions]]
 
 ## Notes

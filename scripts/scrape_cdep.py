@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Scrape real stenograms from Camera Deputatilor (cdep.ro)"""
+"""
+Scrape real stenograms from Camera Deputatilor (cdep.ro)
+
+DEPRECATED: Use scripts/agents/cdep_agent.py instead
+This script is kept for backwards compatibility only.
+"""
 
 import requests
 from bs4 import BeautifulSoup
