@@ -71,12 +71,45 @@ def get_statistics() -> dict:
     kg_file = BASE_DIR / "knowledge_graph" / "entities.json"
     kg_persons = 0
     kg_sessions = 0
+    kg_entities = 0
+    kg_triples = 0
+    kg_relationship_types = []
+    
     if kg_file.exists():
         try:
             kg_data = json.loads(kg_file.read_text())
             kg_persons = len(kg_data.get("persons", []))
             kg_sessions = len(kg_data.get("sessions", []))
         except:
+            pass
+    
+    # Try SQLite KG for rich stats
+    kg_sqlite_path = BASE_DIR / "knowledge_graph" / "knowledge_graph.sqlite3"
+    if not kg_sqlite_path.exists():
+        # Check default location
+        kg_sqlite_path = Path.home() / ".mempalace" / "knowledge_graph.sqlite3"
+    
+    if kg_sqlite_path.exists():
+        try:
+            import sqlite3
+            conn = sqlite3.connect(kg_sqlite_path)
+            cur = conn.cursor()
+            
+            # Get entity count
+            cur.execute("SELECT COUNT(*) FROM entities")
+            kg_entities = cur.fetchone()[0] or 0
+            
+            # Get triple count
+            cur.execute("SELECT COUNT(*) FROM triples")
+            kg_triples = cur.fetchone()[0] or 0
+            
+            # Get relationship types
+            cur.execute("SELECT DISTINCT predicate FROM triples")
+            rels = cur.fetchall()
+            kg_relationship_types = [r[0] for r in rels]
+            
+            conn.close()
+        except Exception as e:
             pass
     
     return {
@@ -92,6 +125,9 @@ def get_statistics() -> dict:
         "complete_deputy": len([s for s in validator._existing_sessions.values() if s['chamber'] == 'deputies' and s['is_complete']]),
         "kg_persons": kg_persons,
         "kg_sessions": kg_sessions,
+        "kg_entities": kg_entities,
+        "kg_triples": kg_triples,
+        "kg_relationship_types": kg_relationship_types,
     }
 
 
@@ -108,16 +144,28 @@ def run_scrape(chamber: str, params: dict = None):
             years = params.get("years", "2024,2025,2026")
             max_id = params.get("max_id", 30)
             cmd = ["python3", str(SCRIPTS_DIR / "agents" / "cdep_agent.py"), 
-                   "--years", str(years), "--max-id", str(max_id)]
+                   "--years", str(years), "--max-id", str(max_id), "--json-output"]
         else:
             year = params.get("year", 2026)
             max_sessions = params.get("max", 10)
             cmd = ["python3", str(SCRIPTS_DIR / "agents" / "senat_agent.py"), 
-                   "--year", str(year), "--max", str(max_sessions), "--sync-vault"]
+                   "--year", str(year), "--max", str(max_sessions), "--sync-vault", "--json-output"]
         
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+        
+        summary = {}
+        if result.stdout:
+            for line in reversed(result.stdout.strip().split('\n')):
+                try:
+                    summary = json.loads(line)
+                    if summary.get("status") == "complete":
+                        break
+                except:
+                    continue
+        
         scrape_status[chamber]["result"] = {
             "success": result.returncode == 0,
+            "summary": summary,
             "output": result.stdout[-2000:] if result.stdout else "",
             "error": result.stderr[-1000:] if result.stderr else "",
         }

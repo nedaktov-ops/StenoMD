@@ -47,6 +47,11 @@ class DataValidator:
         self._existing_sessions: Dict[str, Dict] = {}
         self._load_existing_sessions()
     
+    def refresh_sessions(self):
+        """Refresh in-memory cache from disk."""
+        self._existing_sessions = {}
+        self._load_existing_sessions()
+    
     def _load_existing_sessions(self):
         """Load existing session metadata from vault."""
         for chamber in ["senate", "deputies"]:
