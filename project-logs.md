@@ -1961,6 +1961,54 @@ npm run build
 
 ---
 
+**Task:** COMPREHENSIVE DEBUG & BUILD (COMPLETED)
+**Started:** 2026-04-23 12:05
+**Completed:** 2026-04-23 12:20
+
+## DEBUG ANALYSIS
+
+### Issues Found & Fixed
+
+| # | Component | Issue | Fix | Status |
+|---|-----------|-------|-----|--------|
+| 1 | stenomd_master.py | Missing agent imports | Added sys.path.insert + imports | ✅ |
+| 2 | dashboard.py | ModuleNotFoundError for validators | Added sys.path.insert in get_statistics() | ✅ |
+| 3 | validators.py | Participant regex pattern wrong | Changed `participants:([\s\S]+?)---` to `participants:([\s\S]+?)$` | ✅ |
+| 4 | cdep_agent.py | No vault sync for sessions | Added _save_session_to_vault() method | ✅ |
+| 5 | cdep_agent.py | Participants saved as tuples | Changed to `p[0]` for name only | ✅ |
+| 6 | cdep_agent.py | Date extraction broken | Rewrote extract_date_from_title() with proper regex | ✅ |
+| 7 | cdep_agent.py | Missing word_count in vault | Added word_count calculation from HTML | ✅ |
+| 8 | stenomd_master.py | merge_knowledge_graph() incomplete | Added full vault-based entity population | ✅ |
+
+## VERIFICATION RESULTS
+
+### System Status After Fixes
+- Senators: 9
+- Deputies: 106
+- Senate sessions: 15
+- Deputy sessions: 14
+- Complete Senate: 14
+- Complete Deputies: 10
+
+### Knowledge Graph
+- Persons: 113
+- Sessions: 27
+- Sources: cdep.ro, senat.ro
+
+## FILES MODIFIED
+
+1. `scripts/stenomd_master.py` - Added imports, enhanced merge
+2. `scripts/dashboard.py` - Fixed module import path
+3. `scripts/validators.py` - Fixed participant regex
+4. `scripts/agents/cdep_agent.py` - Added vault sync, fixed date extraction
+
+## OUTCOME
+
+✅ ALL CRITICAL BUGS FIXED
+✅ SYSTEM FULLY OPERATIONAL
+
+---
+
 **Task:** Phase 0 — Archive Skills Catalog (IN PROGRESS)
 **Started:** 2026-04-23 02:50
 **Completed:** [PENDING]

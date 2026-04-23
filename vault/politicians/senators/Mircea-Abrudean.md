@@ -11,10 +11,10 @@ legislature: 2024-2028
 
 ## Appearances
 
-- [[senate_20260316_2026]]
+- [[senate_20260407_2026]]
 
 ## Notes
 
 *Senator in the Romanian Senate*
 
-*Last updated: 2026-04-23 03:33:01*
+*Last updated: 2026-04-23 12:08:33*

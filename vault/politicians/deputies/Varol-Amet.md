@@ -12,3 +12,8 @@ type: person
 ## Tags
 
 #politician
+
+
+## Appearances
+
+- [[session_2024_22]] (2025-02-26)

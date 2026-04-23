@@ -76,7 +76,7 @@ class DataValidator:
                     if laws_str and laws_str.lower() != 'none':
                         meta['laws_discussed'] = [l.strip() for l in laws_str.split(',') if l.strip()]
                 
-                part_match = re.search(r'participants:([\s\S]+?)---', fm)
+                part_match = re.search(r'participants:([\s\S]+?)$', fm)
                 if part_match:
                     participants_str = part_match.group(1).strip()
                     if participants_str and participants_str.lower() != 'none':

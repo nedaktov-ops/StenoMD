@@ -1,15 +1,1064 @@
 {
   "metadata": {
     "version": "2.0",
-    "last_updated": "2026-04-23T03:54:39.180516",
+    "last_updated": "2026-04-23T12:29:09.048283",
     "sources": [
-      "cdep.ro"
+      "cdep.ro",
+      "senat.ro"
     ],
     "legislatures": [
       "2024-2028"
     ]
   },
-  "persons": [],
-  "sessions": [],
-  "laws": []
+  "persons": [
+    {
+      "id": "-115731072607118",
+      "name": "Mihai Coteț",
+      "chamber": "senate",
+      "appearances": []
+    },
+    {
+      "id": "-719992125017225",
+      "name": "Mircea Abrudean",
+      "chamber": "senate",
+      "appearances": []
+    },
+    {
+      "id": "-700560766386735",
+      "name": "Vasile Blaga",
+      "chamber": "senate",
+      "appearances": []
+    },
+    {
+      "id": "5148831609944800",
+      "name": "Niculina Stelea",
+      "chamber": "senate",
+      "appearances": []
+    },
+    {
+      "id": "5101777256319380",
+      "name": "Mihai Weber",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-201874214300627",
+      "name": "Nicolae Adrian Bara",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-630505571324153",
+      "name": "Adrian Echert",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-122461680941729",
+      "name": "Ioan Balan",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-555116042642899",
+      "name": "Viorica Sandu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-316559924832905",
+      "name": "Simona Geanina Pistru",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-999423008910534",
+      "name": "Ioan Lăzăroi",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-567455558526606",
+      "name": "Ana Marcela Ba",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-820096573359096",
+      "name": "Petre Pu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-796986555262493",
+      "name": "Nicolae Păun",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-243203944496686",
+      "name": "Alexandru Bordian",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "4841453562903236",
+      "name": "Vlad Florentin Drinceanu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "7902553967791111",
+      "name": "George Nicolae Simion",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "5170469830462098",
+      "name": "Bogdan Iulian Hu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "2425908846274006",
+      "name": "Dorel Vulpoiu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "6961333315039319",
+      "name": "Fabian Cristian Radu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "5819708972643924",
+      "name": "Nicoleta Matilda Goleac",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-134197543317572",
+      "name": "Răzvan Olimpiu Cadar",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "3410981139332069",
+      "name": "Ioan Mang",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-707662291586347",
+      "name": "Varujan Pambuccian",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-741160600509457",
+      "name": "Simona Gianina Pistru",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-588526981402019",
+      "name": "Ramona Lovin",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "5760266041543486",
+      "name": "Laura Gherasim",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1630805779087906",
+      "name": "Petru Gabriel Negrea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-623213638852399",
+      "name": "Marian Cru",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-625093350444725",
+      "name": "Aneta Matei",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "6585662331724243",
+      "name": "Ion Iordache",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-900325023605703",
+      "name": "Ciprian Constantin Paraschiv",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-864835198241606",
+      "name": "Ciprian Ciubuc",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-343703609088645",
+      "name": "Andrei Cosmin Gu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-351325964971657",
+      "name": "Elena Laura Toader",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-588190629451449",
+      "name": "Remus Gabriel Lăpu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-194793878597931",
+      "name": "Octavian Oprea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-413860274280101",
+      "name": "Amet Varol",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-196523675583848",
+      "name": "Marian Iulian Rasaliu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-222094878907455",
+      "name": "Daniel Grofu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "8972237219741812",
+      "name": "Dumitru Tilea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "4282921787840097",
+      "name": "Sorin Grindeanu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "6655353862436637",
+      "name": "Paul Claudiu Cotîrle",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "6711833784207906",
+      "name": "Lidia Vadim",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-873893752418840",
+      "name": "Răzvan Iulian Ciortea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-607627970351536",
+      "name": "Cristina Emanuela Dascălu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "2146006868131689",
+      "name": "George Simion",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-626586281583152",
+      "name": "Varol Amet",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-906776184288456",
+      "name": "Voicu Vu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-712533482618277",
+      "name": "Rodica Plopeanu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-517898495394362",
+      "name": "Boris Volosatîi",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-770778291354455",
+      "name": "Iulian Alexandru Muraru",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1963465111551180",
+      "name": "Robert Alecu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-424643643524384",
+      "name": "Monica Iagăr",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "4233387639820689",
+      "name": "Vasilică Toma",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "6709322224314029",
+      "name": "Bogdan Gheorghe Trif",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-232472448616571",
+      "name": "Romeo Daniel Lungu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "3900584173333189",
+      "name": "Călin Florin Groza",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-840138254843456",
+      "name": "Ionel Goidescu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-456411522993662",
+      "name": "Eugen Nea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "7804603542853655",
+      "name": "Verginia Vedina",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "4448015471310793",
+      "name": "Ion Alin Tomoescu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-719782612679903",
+      "name": "Silviu Titus Păunescu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-362462909928917",
+      "name": "Alexandra Hu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "2584423997126147",
+      "name": "Raisa Enachi",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-524509806665283",
+      "name": "Alexandru Paul Dimitriu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-301255789016838",
+      "name": "Maricel Popa",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-590975156411280",
+      "name": "Vasile Cîtea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "4204884222873916",
+      "name": "Marius Felix Bulearcă",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-399320128173355",
+      "name": "Florin Caraga",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1167333050236203",
+      "name": "Vasile Nagy",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1231600648314443",
+      "name": "Alexandru Mihai Ghigiu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-338157826543810",
+      "name": "Dan Tanasă",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-269593598953615",
+      "name": "Andrei George Plujar",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-158470634383743",
+      "name": "Silviu Nicu Macovei",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-702707640239994",
+      "name": "Dorin Popa",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-795371235332929",
+      "name": "Daniel Cătălin Ciornei",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-166627071552059",
+      "name": "Mirela Furtună",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-734157953953018",
+      "name": "Corina Atanasiu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-344561538276596",
+      "name": "Valeriu Munteanu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-837358680408219",
+      "name": "Dumitru Coarnă",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "2898834688667987",
+      "name": "Simona Elena Macovei Ilie",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-420552193458867",
+      "name": "Elena Dobo",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "2110256013848745",
+      "name": "Ionel Ciunt",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-112607995682211",
+      "name": "Maria Cernit",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-523761501190197",
+      "name": "Bogdan Alexandru Bola",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-668136279302368",
+      "name": "Sebastian Răducanu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-376181736699594",
+      "name": "Alexandrin Moiseev",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1886015842711754",
+      "name": "Nicolae Giugea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "6473465985733547",
+      "name": "Marian Mina",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-192648276193992",
+      "name": "Andreea Petronela Cîmpianu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-288054656588186",
+      "name": "Daniel Răzvan Biro",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "8211283099894767",
+      "name": "Ecaterina Mariana Sz",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-712141634024810",
+      "name": "Andra Claudia Constantinescu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-457288395296686",
+      "name": "Cosmin Hristu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-589533630446042",
+      "name": "Cristian Buican",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1667013259721766",
+      "name": "Maia Sandu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-308792532886210",
+      "name": "Petru Bogdan Cojocaru",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "9152328904124987",
+      "name": "Gheorghe Daniel Georgescu",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-374866932626670",
+      "name": "Ilie Toma",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-147702995540003",
+      "name": "Ciprian Doru Rigman",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-296656605924580",
+      "name": "Florin Claudiu Roman",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1909958727677154",
+      "name": "Daniel Razvan Biro",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "3702085435877343",
+      "name": "Cosmin Ioan Corendea",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-324333365394049",
+      "name": "Florian Claudiu Neaga",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-800153998284504",
+      "name": "Ovidiu Victor Gan",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-117827081138681",
+      "name": "Virgil Alin Chirilă",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "1503853103981253",
+      "name": "Ionel Gheorghe",
+      "chamber": "deputies",
+      "appearances": []
+    },
+    {
+      "id": "-911551373042251",
+      "name": "Radu Marin Moisin",
+      "chamber": "deputies",
+      "appearances": []
+    }
+  ],
+  "sessions": [
+    {
+      "id": "1-aprilie-2026",
+      "date": "1 aprilie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-04-01",
+      "laws_discussed": [
+        "14/2026",
+        "95/2026",
+        "96/2026",
+        "30/2026",
+        "167/2026",
+        "89/2026",
+        "152/2026",
+        "657/2023",
+        "123/2026",
+        "140/2026",
+        "141/2026",
+        "90/2023",
+        "499/2025"
+      ]
+    },
+    {
+      "id": "2026-03-11",
+      "date": "2026-03-11",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Comune a Parlamentului României din data de 2026-03-11",
+      "laws_discussed": []
+    },
+    {
+      "id": "2026-03-25",
+      "date": "2026-03-25",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-25",
+      "laws_discussed": [
+        "34/2026",
+        "45/2026",
+        "49/2026",
+        "25/2026",
+        "83/2026",
+        "52/2026",
+        "101/2026",
+        "13/2026",
+        "61/2026",
+        "91/2026",
+        "67/2026",
+        "84/2026",
+        "53/2026",
+        "102/2026",
+        "104/2026",
+        "77/2026",
+        "47/2026",
+        "17/2026"
+      ]
+    },
+    {
+      "id": "7-aprilie-2026",
+      "date": "7 aprilie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-04-07",
+      "laws_discussed": [
+        "155/2026",
+        "148/2026",
+        "174/2026",
+        "150/2026",
+        "151/2026",
+        "124/2026",
+        "156/2026",
+        "134/2026",
+        "163/2026",
+        "139/2026",
+        "162/2026",
+        "188/2026",
+        "161/2024",
+        "159/2026",
+        "160/2026",
+        "657/2023",
+        "123/2026",
+        "140/2026",
+        "141/2026",
+        "90/2023",
+        "499/2025"
+      ]
+    },
+    {
+      "id": "23-martie-2026",
+      "date": "23 martie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-23",
+      "laws_discussed": [
+        "96/2026",
+        "50/2026",
+        "127/2026",
+        "653/2025",
+        "111/2026",
+        "130/2026",
+        "92/2026",
+        "79/2026",
+        "98/2026",
+        "48/2026",
+        "116/2026",
+        "59/2026",
+        "57/2026",
+        "71/2026",
+        "97/2026"
+      ]
+    },
+    {
+      "id": "30-martie-2026",
+      "date": "30 martie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-30",
+      "laws_discussed": [
+        "137/2026",
+        "89/2026",
+        "135/2026",
+        "138/2026",
+        "70/2026",
+        "50/2026",
+        "21/2026",
+        "33/2026",
+        "26/2026",
+        "132/2026",
+        "177/2026"
+      ]
+    },
+    {
+      "id": "19-martie-2026",
+      "date": "19 martie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Comune a Parlamentului României din data de 2026-03-19",
+      "laws_discussed": []
+    },
+    {
+      "id": "2026-03-30",
+      "date": "2026-03-30",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-30",
+      "laws_discussed": [
+        "137/2026",
+        "89/2026",
+        "135/2026",
+        "138/2026",
+        "70/2026",
+        "50/2026",
+        "21/2026",
+        "33/2026",
+        "26/2026",
+        "132/2026",
+        "177/2026"
+      ]
+    },
+    {
+      "id": "18-martie-2026",
+      "date": "18 martie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-18",
+      "laws_discussed": [
+        "21/2026",
+        "86/2026",
+        "99/2026",
+        "87/2026",
+        "37/2026",
+        "76/2026",
+        "43/2026",
+        "6/2026",
+        "3/2026",
+        "100/2026",
+        "60/2026",
+        "22/2026",
+        "68/2026",
+        "73/2026"
+      ]
+    },
+    {
+      "id": "16-martie-2026",
+      "date": "16 martie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-16",
+      "laws_discussed": [
+        "144/2026",
+        "145/2026",
+        "640/2025",
+        "654/2025",
+        "655/2025",
+        "620/2025"
+      ]
+    },
+    {
+      "id": "2026-04-01",
+      "date": "2026-04-01",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-04-01",
+      "laws_discussed": [
+        "14/2026",
+        "95/2026",
+        "96/2026",
+        "30/2026",
+        "167/2026",
+        "89/2026",
+        "152/2026",
+        "657/2023",
+        "123/2026",
+        "140/2026",
+        "141/2026",
+        "90/2023",
+        "499/2025"
+      ]
+    },
+    {
+      "id": "25-martie-2026",
+      "date": "25 martie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-25",
+      "laws_discussed": [
+        "34/2026",
+        "45/2026",
+        "49/2026",
+        "25/2026",
+        "83/2026",
+        "52/2026",
+        "101/2026",
+        "13/2026",
+        "61/2026",
+        "91/2026",
+        "67/2026",
+        "84/2026",
+        "53/2026",
+        "102/2026",
+        "104/2026",
+        "77/2026",
+        "47/2026",
+        "17/2026"
+      ]
+    },
+    {
+      "id": "11-martie-2026",
+      "date": "11 martie 2026",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Senatului din data de 2026-03-11",
+      "laws_discussed": [
+        "59/2026",
+        "607/2025",
+        "19/2026",
+        "75/2026",
+        "20/2026",
+        "39/2026",
+        "51/2026",
+        "58/2026",
+        "82/2026",
+        "16/2026",
+        "65/2026",
+        "81/2026",
+        "28/2026",
+        "38/2026",
+        "44/2026",
+        "32/2026",
+        "4/2026",
+        "122/2026",
+        "7/2026",
+        "107/2026",
+        "24/2026",
+        "90/2026",
+        "80/2026",
+        "85/2026",
+        "125/2026",
+        "622/2025",
+        "629/2025",
+        "40/2026",
+        "41/2026"
+      ]
+    },
+    {
+      "id": "2026-03-20",
+      "date": "2026-03-20",
+      "chamber": "senate",
+      "title": "Stenograma Şedinţei Comune a Parlamentului României din data de 2026-03-20",
+      "laws_discussed": []
+    },
+    {
+      "id": "2025-03-12",
+      "date": "2025-03-12",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 12 martie 2025",
+      "laws_discussed": []
+    },
+    {
+      "id": "2024-11-05",
+      "date": "2024-11-05",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 5 noiembrie 2024",
+      "laws_discussed": []
+    },
+    {
+      "id": "2025-03-05",
+      "date": "2025-03-05",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 5 martie 2025",
+      "laws_discussed": [
+        "95/2006"
+      ]
+    },
+    {
+      "id": "Unknown",
+      "date": "Unknown",
+      "chamber": "deputies",
+      "title": "Unknown",
+      "laws_discussed": []
+    },
+    {
+      "id": "2025-02-26",
+      "date": "2025-02-26",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 26 februarie 2025",
+      "laws_discussed": [
+        "76/2024",
+        "78/2000"
+      ]
+    },
+    {
+      "id": "2025-02-12",
+      "date": "2025-02-12",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 12 februarie 2025",
+      "laws_discussed": [
+        "448/2006"
+      ]
+    },
+    {
+      "id": "2024-11-12",
+      "date": "2024-11-12",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 12 noiembrie 2024",
+      "laws_discussed": []
+    },
+    {
+      "id": "2024-12-17",
+      "date": "2024-12-17",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 17 decembrie 2024",
+      "laws_discussed": []
+    },
+    {
+      "id": "2025-02-19",
+      "date": "2025-02-19",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 19 februarie 2025",
+      "laws_discussed": [
+        "418/2023",
+        "5/2000"
+      ]
+    },
+    {
+      "id": "2024-12-11",
+      "date": "2024-12-11",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 11 decembrie 2024",
+      "laws_discussed": []
+    },
+    {
+      "id": "20260421",
+      "date": "2026-04-21",
+      "chamber": "deputies",
+      "title": "20260421",
+      "laws_discussed": []
+    },
+    {
+      "id": "2025-03-26",
+      "date": "2025-03-26",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 26 martie 2025",
+      "laws_discussed": [
+        "367/2022"
+      ]
+    },
+    {
+      "id": "20260423",
+      "date": "2026-04-23",
+      "chamber": "deputies",
+      "title": "Sedinta Camerei Deputatilor din 12 februarie 2025",
+      "laws_discussed": [
+        "448/2006"
+      ]
+    }
+  ],
+  "laws": [],
+  "chambers": {
+    "senate": {
+      "count": 5,
+      "sessions": 15
+    },
+    "deputies": {
+      "count": 106
+    }
+  }
 }

@@ -1,0 +1,111 @@
+# StenoMD Unified Topic Schema
+# Hybrid topic taxonomy (predefined + dynamic)
+
+type: topic
+id_pattern: "topic_{slug}"
+
+# Required fields
+required:
+  - id
+  - name
+  - category
+
+# Field definitions
+fields:
+  id:
+    type: string
+    pattern: "topic_{slug}"
+    example: "topic_buget"
+    description: "Unique topic identifier"
+    
+  name:
+    type: string
+    example: "buget"
+    description: "Topic slug (URL-safe)"
+    
+  name_display:
+    type: string
+    example: "Buget și Finanțe"
+    description: "Display name in Romanian"
+    
+  category:
+    type: string
+    example: "economie"
+    description: "Parent category"
+    
+  category_display:
+    type: string
+    example: "Economie"
+    description: "Category display name"
+
+# Keywords for classification
+keywords_primary:
+    type: array
+    items: string
+    example: [buget, finanțe, bani]
+    description: "Primary classification keywords"
+    
+keywords_secondary:
+    type: array
+    items: string
+    example: [impozit, taxe, PIB]
+    description: "Secondary keywords"
+
+# Related entities
+laws:
+    type: array
+    items: string
+    description: "Related law IDs"
+    
+sessions_count:
+    type: integer
+    minimum: 0
+    
+politicians:
+    type: array
+    items: string
+    description: "Active politicians on this topic"
+
+# Topic hierarchy
+is_parent:
+    type: boolean
+    default: false
+    description: "Is this a parent category?"
+    
+subtopics:
+    type: array
+    items: string
+    description: "Child topic slugs"
+
+# Metadata
+created_at:
+    type: datetime
+    format: ISO8601
+    
+updated_at:
+    type: datetime
+    format: ISO8601
+
+# Category taxonomy
+taxonomy:
+  economie:
+    name_display: "Economie"
+    topics: [buget, finante, impozite, taxe, PIB, investitii]
+  justitie:
+    name_display: "Justiție"
+    topics: [codul-penal, instante, judicial]
+  sanatate:
+    name_display: "Sănătate"
+    topics: [medical, spital, medicamente]
+  aparare:
+    name_display: "Apărare"
+    topics: [NATO, securitate]
+  mediu:
+    name_display: "Mediu"
+    topics: [clima, energie]
+  social:
+    name_display: "Social"
+    topics: [pensii, alocatii]
+  european:
+    name_display: "European"
+    topics: [UE, regulament]

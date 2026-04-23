@@ -1,0 +1,161 @@
+# StenoMD Unified Person Schema
+# Canonical format for all parliamentary members (Senators and Deputies)
+
+type: person
+id_pattern: "person_{slug}"
+slug_pattern: "{first-name-lowercase}-{last-name-lowercase}"
+
+# Required fields
+required:
+  - id
+  - name
+  - chamber
+  - legislature
+
+# Field definitions
+fields:
+  id:
+    type: string
+    pattern: "person_{slug}"
+    example: "person_mihai-cotet"
+    description: "Unique person identifier"
+    
+  name:
+    type: string
+    example: "Mihai Coteț"
+    description: "Canonical full name with diacritics"
+    
+  name_first:
+    type: string
+    example: "Mihai"
+    description: "Given name"
+    
+  name_last:
+    type: string
+    example: "Coteț"
+    description: "Family name"
+    
+  slug:
+    type: string
+    example: "mihai-cotet"
+    description: "URL-safe identifier"
+
+# Classification
+chamber:
+    type: enum
+    values: [senate, deputies, both]
+    example: "senate"
+    description: "Parliamentary chamber"
+    
+role:
+    type: enum
+    values: [senator, deputat, vicepresedinte, secretar]
+    description: "Official role"
+    
+party:
+    type: string
+    example: "PNL"
+    description: "Political party abbreviation"
+    allowed_values:
+      - PSD
+      - PNL
+      - USR
+      - AUR
+      - UDMR
+      - SOS
+      - POT
+      - REPER
+      - PER
+      - independent
+      
+party_display:
+    type: string
+    example: "Partidul Național Liberal"
+    description: "Full party name"
+
+# Legislature
+legislature:
+    type: string
+    example: "2024-2028"
+    description: "Legislative period"
+    
+legislature_start:
+    type: date
+    format: ISO8601
+    
+legislature_end:
+    type: date
+    format: ISO8601
+
+# Committees
+committees:
+    type: array
+    items:
+        type: object
+        fields:
+          name:
+            type: string
+          role:
+            type: enum
+            values: [membru, presedinte, vicepresedinte, secretar]
+
+# Activity
+sessions:
+    type: array
+    items:
+        type: object
+        fields:
+          id:
+            type: string
+          date:
+            type: date
+          chamber:
+            type: string
+          role:
+            type: string
+          statement_count:
+            type: integer
+          topics_discussed:
+            type: array
+            items: string
+
+statements_total:
+    type: integer
+    minimum: 0
+    
+statements_by_session:
+    type: integer
+    minimum: 0
+
+# Positions (from statements)
+positions:
+    type: array
+    items:
+        type: object
+        fields:
+          topic:
+            type: string
+          position:
+            type: enum
+            values: [sustinere, impotriva, abtinere, redirectionat, absent]
+          session:
+            type: string
+          date:
+            type: date
+          context:
+            type: string
+
+# Metadata
+created_at:
+    type: datetime
+    format: ISO8601
+    
+updated_at:
+    type: datetime
+    format: ISO8601
+
+# Aliases (for name variant handling)
+aliases:
+    type: array
+    items: string
+    description: "Alternative name spellings"

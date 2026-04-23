@@ -41,6 +41,8 @@ def get_latest_file(directory: Path, pattern: str = "*.md") -> str | None:
 
 
 def get_statistics() -> dict:
+    import sys
+    sys.path.insert(0, str(BASE_DIR / "scripts"))
     from validators import DataValidator
     validator = DataValidator(VAULT_DIR)
     

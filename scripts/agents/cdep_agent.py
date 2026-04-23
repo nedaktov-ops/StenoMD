@@ -235,29 +235,25 @@ class EnhancedCDEPAgent:
     
     def extract_date_from_title(self, title: str) -> Optional[str]:
         """Extract date from session title."""
-        # Try various date patterns
-        patterns = [
-            r'(\d{1,2})\s+(?:noiembrie|decembrie|ianuarie|februarie|martie|aprilie|mai|iunie|iulie|august|septembrie|octombrie)',
-            r'(\d{4})-(\d{2})-(\d{2})',
-        ]
-        
         months_ro = {
             'ianuarie': '01', 'februarie': '02', 'martie': '03', 'aprilie': '04',
             'mai': '05', 'iunie': '06', 'iulie': '07', 'august': '08',
             'septembrie': '09', 'octombrie': '10', 'noiembrie': '11', 'decembrie': '12'
         }
         
-        for pattern in patterns:
-            match = re.search(pattern, title, re.I)
-            if match:
-                if len(match.groups()) == 3 and match.group(1).isdigit():
-                    # YYYY-MM-DD format
-                    return f"{match.group(1)}-{match.group(2)}-{match.group(3)}"
-                elif len(match.groups()) == 2:
-                    day = match.group(1)
-                    month_name = match.group(2).lower()
-                    if month_name in months_ro:
-                        return f"2024-{months_ro[month_name]}-{day.zfill(2)}"
+        # Try YYYY-MM-DD format first
+        match = re.search(r'(\d{4})-(\d{2})-(\d{2})', title)
+        if match and len(match.groups()) == 3:
+            return f"{match.group(1)}-{match.group(2)}-{match.group(3)}"
+        
+        # Try Romanian format: "5 noiembrie 2024" or "din 5 noiembrie 2024"
+        match = re.search(r'(?:din\s+)?(\d{1,2})\s+(noiembrie|decembrie|ianuarie|februarie|martie|aprilie|mai|iunie|iulie|august|septembrie|octombrie)\s+(\d{4})?', title, re.I)
+        if match:
+            day = match.group(1)
+            month_name = match.group(2).lower()
+            year = match.group(3) if match.group(3) else "2024"
+            if month_name in months_ro:
+                return f"{year}-{months_ro[month_name]}-{day.zfill(2)}"
         
         return None
     
@@ -465,6 +461,101 @@ class EnhancedCDEPAgent:
         if not filepath.exists():
             filepath.write_text(data['html'], encoding='utf-8')
     
+    def _save_session_to_vault(self, data: Dict):
+        """Save session to Obsidian vault."""
+        if not data:
+            return
+        
+        VAULT_DIR.mkdir(parents=True, exist_ok=True)
+        (VAULT_DIR / 'sessions' / 'deputies').mkdir(parents=True, exist_ok=True)
+        
+        # Calculate word count from HTML
+        word_count = 0
+        if data.get('html'):
+            soup = BeautifulSoup(data['html'], 'html.parser')
+            word_count = len(soup.get_text().split())
+        
+        # Generate filename from date - use extracted date, not current date
+        date_str = data['date']
+        sess_file = VAULT_DIR / 'sessions' / 'deputies' / f"{date_str}.md"
+        
+        # Build markdown content
+        participants_list = '\n'.join(f"  - {p[0]}" for p in data['persons'])
+        laws_list = '\n'.join(f"- {law}" for law in data['laws']) if data['laws'] else 'None'
+        
+        content = f"""---
+date: {data['date']}
+title: {data['title']}
+chamber: deputies
+source: cdep.ro
+url: {data['url']}
+word_count: {word_count}
+laws_discussed: {', '.join(data['laws']) if data['laws'] else 'None'}
+participants:
+{participants_list}
+---
+
+# {data['title']}
+
+**Date:** {data['date']}  
+**Chamber:** Chamber of Deputies  
+**Source:** [cdep.ro]({data['url']})
+
+## Summary
+
+{data['summary']}
+
+## Laws Discussed
+
+{laws_list}
+
+## Participants
+
+{', '.join([p[0] for p in data['persons']])}
+
+---
+
+*Synced from StenoMD CDEP Agent on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
+"""
+        
+        sess_file.write_text(content, encoding='utf-8')
+        self.log(f"  Saved to vault: {sess_file.name}")
+        
+        # Also save MP notes
+        for name, sess_id in data['persons']:
+            self._save_mp_note(name, sess_id, data['date'])
+    
+    def _save_mp_note(self, name: str, session_id: str, date: str):
+        """Save MP profile note to vault."""
+        DEPUTIES_DIR = VAULT_DIR / 'politicians' / 'deputies'
+        DEPUTIES_DIR.mkdir(parents=True, exist_ok=True)
+        
+        safe_name = re.sub(r'[^\w\s-]', '', name).strip()
+        safe_name = re.sub(r'\s+', '-', safe_name)
+        mp_file = DEPUTIES_DIR / f"{safe_name}.md"
+        
+        if mp_file.exists():
+            existing = mp_file.read_text(encoding='utf-8')
+            if f"[[{session_id}]]" in existing or session_id in existing:
+                return
+        
+        # Create or update MP note
+        existing_content = ""
+        if mp_file.exists():
+            existing_content = mp_file.read_text(encoding='utf-8')
+        
+        new_entry = f"- [[{session_id}]] ({date})"
+        
+        if new_entry not in existing_content:
+            if "## Appearances" in existing_content:
+                existing_content = existing_content.replace(
+                    "## Appearances",
+                    f"## Appearances\n\n{new_entry}"
+                )
+            else:
+                existing_content += f"\n\n## Appearances\n\n{new_entry}\n"
+            mp_file.write_text(existing_content, encoding='utf-8')
+    
     def update_knowledge_graph(self):
         """Save updated knowledge graph."""
         kg_data = {
@@ -586,6 +677,9 @@ class EnhancedCDEPAgent:
                             number=law_num
                         )
                     self.laws[law_num].discussions.append(data['id'])
+                
+                # Save session to vault
+                self._save_session_to_vault(data)
                 
                 self.statistics['sessions_scraped'] += 1
                 

@@ -1,0 +1,118 @@
+# StenoMD Unified Law Schema
+# Canonical format for all laws discussed in parliament
+
+type: law
+id_pattern: "L{num}-{year}"
+number_pattern: "{num}/{year}"
+
+# Required fields
+required:
+  - id
+  - number
+  - legislature
+
+# Field definitions
+fields:
+  id:
+    type: string
+    pattern: "L{num}-{year}"
+    example: "L14-2026"
+    description: "Unique law identifier"
+    
+  number:
+    type: string
+    pattern: "{num}/{year}"
+    example: "14/2026"
+    description: "Law number in Parliament format"
+    
+  number_display:
+    type: string
+    example: "L14/2026"
+    description: "Display format with L prefix"
+    
+  number_short:
+    type: string
+    example: "14"
+    description: "Just the number (without year)"
+    
+  year:
+    type: integer
+    example: 2026
+    description: "Year of legislation"
+    
+  legislature:
+    type: string
+    example: "2024-2028"
+    description: "Legislative period"
+
+# Content
+title:
+    type: string
+    example: "Lege privind modificarea Codului fiscal"
+    description: "Full law title"
+    
+title_short:
+    type: string
+    example: "Codul fiscal"
+    description: "Short/common name"
+
+# Classification
+topic:
+    type: string
+    example: "buget"
+    description: "Primary topic category"
+    
+subtopic:
+    type: string
+    example: "impozite"
+    description: "Secondary topic"
+    
+status:
+    type: enum
+    values: [adoptat, respins, proiect, propunere,ordonanta, Lege]
+    description: "Current status"
+
+# Sponsors
+sponsors:
+    type: array
+    items:
+        type: string
+    description: "Person IDs of sponsors"
+
+# Discussions (sessions where discussed)
+sessions:
+    type: array
+    items:
+        type: object
+        fields:
+          id:
+            type: string
+          date:
+            type: date
+          chamber:
+            type: string
+          reference:
+            type: string
+            example: "(L14/2026)"
+          context:
+            type: string
+          status:
+            type: string
+
+discussions_count:
+    type: integer
+    minimum: 0
+
+# Metadata
+created_at:
+    type: datetime
+    format: ISO8601
+    
+updated_at:
+    type: datetime
+    format: ISO8601
+
+# Source tracking
+source:
+    type: string
+    description: "Original source reference"

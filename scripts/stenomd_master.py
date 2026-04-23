@@ -22,6 +22,10 @@ PROJECT_DIR = SCRIPT_DIR.parent
 KG_DIR = PROJECT_DIR / "knowledge_graph"
 VAULT_DIR = PROJECT_DIR / "vault"
 
+sys.path.insert(0, str(SCRIPT_DIR / "agents"))
+from cdep_agent import EnhancedCDEPAgent
+from senat_agent import SenateAgent
+
 
 def log(msg: str):
     ts = datetime.now().strftime("%H:%M:%S")
@@ -87,7 +91,12 @@ def merge_knowledge_graph():
         kg_file = KG_DIR / "entities.json"
     
     entities = {
-        "last_updated": datetime.now().isoformat(),
+        "metadata": {
+            "version": "2.0",
+            "last_updated": datetime.now().isoformat(),
+            "sources": ["cdep.ro", "senat.ro"],
+            "legislatures": ["2024-2028"]
+        },
         "persons": [],
         "sessions": [],
         "laws": [],
@@ -112,11 +121,50 @@ def merge_knowledge_graph():
     if senate_sessions.exists():
         entities["chambers"]["senate"]["sessions"] = len(list(senate_sessions.glob("*.md")))
     
-    with open(kg_file, "w") as f:
-        json.dump(entities, f, indent=2)
+    # Populate persons from vault files
+    for chamber_dir, chamber_name in [(senators_dir, "senate"), (deputies_dir, "deputies")]:
+        if chamber_dir.exists():
+            for mp_file in chamber_dir.glob("*.md"):
+                if mp_file.name == "Index.md":
+                    continue
+                content = mp_file.read_text(encoding='utf-8')
+                name = mp_file.stem.replace('-', ' ')
+                person = {
+                    "id": str(hash(name))[:16],
+                    "name": name,
+                    "chamber": chamber_name,
+                    "appearances": []
+                }
+                entities["persons"].append(person)
     
-    log(f"Unified KG: {entities['chambers']['senate']['count']} senators, "
-        f"{entities['chambers']['deputies']['count']} deputies")
+    # Populate sessions from vault
+    deputies_sessions = VAULT_DIR / "sessions" / "deputies"
+    for chamber_dir, chamber_name in [(senate_sessions, "senate"), (deputies_sessions, "deputies")]:
+        if chamber_dir.exists():
+            for sess_file in chamber_dir.glob("*.md"):
+                if sess_file.name == "Index.md":
+                    continue
+                content = sess_file.read_text(encoding='utf-8')
+                import re
+                date_match = re.search(r'date:\s*(.+)', content)
+                title_match = re.search(r'title:\s*(.+)', content)
+                laws_match = re.search(r'laws_discussed:\s*(.+)', content)
+                date = date_match.group(1).strip() if date_match else sess_file.stem
+                title = title_match.group(1).strip() if title_match else sess_file.stem
+                laws = laws_match.group(1).strip() if laws_match else ""
+                session = {
+                    "id": sess_file.stem,
+                    "date": date,
+                    "chamber": chamber_name,
+                    "title": title,
+                    "laws_discussed": [l.strip() for l in laws.split(',') if l.strip() and l.strip().lower() != 'none']
+                }
+                entities["sessions"].append(session)
+    
+    with open(kg_file, "w") as f:
+        json.dump(entities, f, indent=2, ensure_ascii=False)
+    
+    log(f"Unified KG: {len(entities['persons'])} persons, {len(entities['sessions'])} sessions")
 
 
 def show_status():

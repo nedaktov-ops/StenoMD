@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-04-22T02:59:38.308851",
+  "last_updated": "2026-04-23T12:25:43.371507",
   "cdep": {
     "sessions_found": 0,
     "sessions_scraped": 0,
     "statements_extracted": 0
   },
   "senate": {
-    "sessions_found": 0,
-    "sessions_scraped": 0,
-    "senators_found": 0
+    "sessions_found": 10,
+    "sessions_scraped": 3,
+    "senators_found": 3
   }
 }

@@ -1,0 +1,208 @@
+# StenoMD Unified Session Schema
+# Canonical format for all parliamentary sessions (Senate and Chamber of Deputies)
+
+type: session
+id_pattern: "session_{chamber}_{date_iso}"
+date_iso_format: "%Y-%m-%d"
+
+# Required fields
+required:
+  - id
+  - date
+  - chamber
+  - title
+  - source
+
+# Field definitions
+fields:
+  id:
+    type: string
+    pattern: "session_{chamber}_{date_iso}"
+    example: "session_senate_2026-04-01"
+    description: "Unique session identifier"
+    
+  date:
+    type: string
+    format: ISO8601
+    example: "2026-04-01"
+    description: "Session date in ISO format"
+    
+  date_display:
+    type: string
+    example: "1 aprilie 2026"
+    description: "Human-readable Romanian date"
+    
+  date_formatted:
+    type: string
+    example: "1 aprilie 2026"
+    description: "Explicit formatted date"
+    
+  chamber:
+    type: enum
+    values: [senate, deputies]
+    example: "senate"
+    description: "Parliamentary chamber"
+    
+  chamber_display:
+    type: string
+    example: "Senat"
+    description: "Romanian chamber name"
+    
+  title:
+    type: string
+    example: "Stenograma Şedinţei Senatului din data de 2026-04-01"
+    description: "Canonical session title"
+    
+  title_original:
+    type: string
+    description: "Preserve original title from website"
+    
+  source:
+    type: enum
+    values: [senat.ro, cdep.ro]
+    example: "senat.ro"
+    description: "Original data source"
+    
+  source_url:
+    type: string
+    format: url
+    example: "https://senat.ro/StenoPag2.aspx"
+    description: "Direct source URL"
+    
+  source_id:
+    type: string
+    description: "Original ID from website"
+    
+  source_date:
+    type: string
+    example: "01.04.2026"
+    description: "Original date format from source"
+
+# Content fields
+transcript:
+    type: string
+    description: "Cleaned transcript text (no HTML)"
+    
+  transcript_length:
+    type: integer
+    minimum: 0
+    description: "Word count of transcript"
+    
+  transcript_excerpt:
+    type: string
+    max_length: 500
+    description: "First 500 characters"
+    
+  summary:
+    type: string
+    max_length: 300
+    description: "Auto-generated 2-3 sentence summary"
+
+# Speakers (nested)
+speakers:
+  type: array
+  items:
+    type: object
+    fields:
+      id:
+        type: string
+        pattern: "person_{slug}"
+      name:
+        type: string
+      slug:
+        type: string
+      role:
+        type: enum
+        values: [presedinte, secretar, speaker]
+      party:
+        type: string
+      statement_count:
+        type: integer
+      statement_excerpt:
+        type: string
+      first_statement:
+        type: string
+      positions_taken:
+        type: array
+        items:
+          topic: string
+          position: enum
+          session: string
+
+participants_count:
+    type: integer
+    minimum: 0
+    
+speakers_count:
+    type: integer
+    minimum: 0
+
+# Laws (nested)
+laws:
+  type: array
+  items:
+    type: object
+    fields:
+      id:
+        type: string
+        pattern: "L{num}-{year}"
+      number:
+        type: string
+        example: "14/2026"
+      number_display:
+        type: string
+        example: "L14/2026"
+      reference:
+        type: string
+        example: "(L14/2026)"
+      status:
+        type: enum
+        values: [adoptat, respins, retrimis, dezbatere, propunere]
+      topic:
+        type: string
+      sponsors:
+        type: array
+        items: string
+      discussions:
+        type: integer
+
+laws_count:
+    type: integer
+    minimum: 0
+
+# Topics
+topics:
+  type: array
+  items:
+    type: string
+  example: [buget, justitie]
+  
+relevance:
+  type: enum
+  values: [high, medium, low]
+
+# Metadata
+extracted_at:
+    type: datetime
+    format: ISO8601
+    
+synced_at:
+    type: datetime
+    format: ISO8601
+    
+last_verified:
+    type: datetime
+    format: ISO8601
+
+# Validation
+is_complete:
+    type: boolean
+    default: false
+    
+validation_errors:
+    type: array
+    items: string
+
+word_count_min:
+    type: integer
+    default: 100
