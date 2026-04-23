@@ -1,6 +1,61 @@
 # StenoMD Project Logs
 ## Primary Directive: This file must be read before any task begins and updated after each task completion.
 
+## COMPREHENSIVE IMPROVEMENT PLAN - 14 PHASES
+
+### User Preferences Confirmed (2026-04-23)
+| Option | Choice |
+|--------|--------|
+| 1. Vault Migration | A - Migrate root-level files first |
+| 2. Knowledge Graph | B - Use full SQLite mempalace |
+| 3. Timeline | A - Implement all in one go |
+| 4. Additional Features | BOTH - Dataview queries + Relationship visualization |
+
+### Execution Order
+1. Phase 1: Fix import bug (CRITICAL) - senat_agent.py sys.path
+2. Phase 2: Migrate vault files - consolidate structure
+3. Phase 3: Standardize agent imports - agents/__init__.py
+4. Phase 4: Separate progress files - cdep/senate specific
+5. Phase 5: JSON output from agents - --json-output flag
+6. Phase 6: Dashboard JSON parsing - parse stdout
+7. Phase 7: SQLite KG integration - mempalace KnowledgeGraph
+8. Phase 8: Fix DataValidator cache - refresh method
+9. Phase 9: Fix Senate agent KG update - add update call
+10. Phase 10: Enhanced frontmatter templates - party, sessions_appeared
+11. Phase 11: File locking - prevent corruption
+12. Phase 12: Dataview queries for Obsidian - MP by party, sessions by date
+13. Phase 13: Relationship visualization - D3.js network graph
+14. Phase 14: Test and commit
+
+### Issues Identified During Analysis
+| Issue | Severity | Location |
+|-------|----------|-----------|
+| Import bug (senat_agent.py) | CRITICAL | Line 34 - before sys.path |
+| Duplicate sessions in 3 locations | CRITICAL | vault/sessions/ |
+| entities.json concurrent writes | CRITICAL | Multiple writers |
+| Empty entities.json | CRITICAL | KG not working |
+| Progress file contention | HIGH | /tmp/stenomd_progress.json |
+| DataValidator cache staleness | HIGH | In-memory only |
+| Senate agent no KG update | HIGH | Missing call |
+| Dashboard doesn't use SQLite KG | MEDIUM | Only JSON counts |
+
+### Key New Files to Create
+- scripts/migrate_vault.py - Consolidate vault structure
+- agents/__init__.py - Central import hub
+- vault/_scripts/dataview/*.md - Dataview queries
+
+### Expected Outcomes After Implementation
+- ✅ No import errors when running from dashboard
+- ✅ Deduplication works correctly  
+- ✅ Accurate session counts
+- ✅ Progress shows correct chamber
+- ✅ JSON output displayed
+- ✅ SQLite KG stats (entities, triples, relationships)
+- ✅ Dataview queries work in Obsidian
+- ✅ Relationship visualization in dashboard
+
+---
+
 ## Latest Session Summary (2026-04-23)
 **Objective:** Fix dashboard-agent integration, enable configurable parameters, add progress tracking
 **Status:** ✅ COMPLETE - Pushed to GitHub (commit e0f707f)

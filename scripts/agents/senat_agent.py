@@ -31,9 +31,10 @@ from typing import Dict, List, Set, Optional, Tuple
 from dataclasses import dataclass, field, asdict
 from uuid import uuid4
 
+sys.path.insert(0, str(Path(__file__).parent.parent))
 from validators import DataValidator
 
-PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
+PROGRESS_FILE = Path("/tmp/stenomd_progress_senate.json")
 
 def write_progress(chamber: str, current: int, total: int, session_name: str):
     """Write progress to file for dashboard polling."""
@@ -539,11 +540,25 @@ def main():
     parser.add_argument('--year', type=int, default=2024, help='Year to process')
     parser.add_argument('--max', type=int, default=20, help='Max sessions')
     parser.add_argument('--sync-vault', action='store_true', help='Sync to Obsidian vault')
+    parser.add_argument('--json-output', action='store_true', help='Output JSON summary to stdout')
     
     args = parser.parse_args()
     
     agent = SenateAgent()
-    agent.run(args.year, args.max, args.sync_vault)
+    result = agent.run(args.year, args.max, args.sync_vault)
+    
+    if args.json_output:
+        output = {
+            "status": "complete",
+            "chamber": "senate",
+            "sessions_found": len(agent.sessions),
+            "sessions_scraped": agent.statistics.get('sessions_scraped', 0),
+            "sessions_skipped": agent.statistics.get('sessions_skipped', 0),
+            "politicians": len(agent.senators),
+            "laws": len(agent.statistics.get('laws_found', [])),
+            "timestamp": datetime.now().isoformat()
+        }
+        print(json.dumps(output))
 
 
 if __name__ == '__main__':

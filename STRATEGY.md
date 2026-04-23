@@ -1,6 +1,203 @@
 # StenoMD Project - Comprehensive Strategy & Action Plan
-## Last Updated: 2026-04-22 01:45
-## Current Phase: Phase E - Automation Setup
+## Last Updated: 2026-04-23 14:00
+## Current Phase: Phase 1 - CRITICAL BUG FIX (Import Error)
+
+---
+
+## 🔧 COMPREHENSIVE IMPROVEMENT PLAN - 14 PHASES
+
+### User Preferences Confirmed (2026-04-23)
+| Option | Choice |
+|--------|--------|
+| Vault Migration | A - Migrate root-level files first |
+| Knowledge Graph | B - Use full SQLite mempalace |
+| Timeline | A - Implement all in one go |
+| Additional Features | BOTH - Dataview queries + Relationship visualization |
+
+### Issues Identified During Analysis
+| # | Issue | Severity | Location |
+|---|-------|----------|-----------|
+| 1 | Import bug (senat_agent.py line 34) | CRITICAL | sys.path BEFORE import |
+| 2 | Duplicate sessions in 3 locations | CRITICAL | vault/sessions/ |
+| 3 | entities.json concurrent writes | CRITICAL | Multiple writers |
+| 4 | Empty entities.json | CRITICAL | KG not updating |
+| 5 | Progress file contention | HIGH | /tmp/stenomd_progress.json |
+| 6 | DataValidator cache staleness | HIGH | In-memory only |
+| 7 | Senate agent no KG update | HIGH | Missing call |
+| 8 | Dashboard doesn't use SQLite KG | MEDIUM | Only JSON counts |
+
+---
+
+## PHASE 1: CRITICAL BUG FIX (Import Error)
+| Step | Action | File | Line |
+|------|--------|------|-------|
+| 1.1 | Fix import order | senat_agent.py | Move sys.path BEFORE validators |
+
+```python
+# senat_agent.py - FIX at lines 28-35:
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))  # ADD BEFORE validators import
+from validators import DataValidator
+```
+
+---
+
+## PHASE 2: Vault Consolidation & Migration
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 2.1 | Create migrate_vault.py | scripts/migrate_vault.py | NEW - Consolidate |
+| 2.2 | Migrate root sessions | vault/sessions/*.md | Move to deputies/ or senate/ |
+| 2.3 | Migrate root politicians | vault/politicians/*.md | Move by chamber |
+| 2.4 | Clean empty files | vault/* | Remove 0-byte files |
+
+---
+
+## PHASE 3: Standardize Agent Imports
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 3.1 | Create agents/__init__.py | agents/__init__.py | NEW - Central hub |
+| 3.2 | Update cdep_agent.py | cdep_agent.py | Use module import |
+| 3.3 | Update senat_agent.py | senat_agent.py | Use module import |
+
+---
+
+## PHASE 4: Thread-Safe Progress Files
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 4.1 | Separate progress files | cdep_agent.py | /tmp/stenomd_progress_cdep.json |
+| 4.2 | Separate progress files | senat_agent.py | /tmp/stenomd_progress_senate.json |
+| 4.3 | Update dashboard | dashboard.py | Read correct files |
+
+---
+
+## PHASE 5: JSON Output from Agents
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 5.1 | Add --json-output flag | cdep_agent.py | CLI flag |
+| 5.2 | Add --json-output flag | senat_agent.py | CLI flag |
+| 5.3 | Print JSON summary | Both agents | Structured output |
+
+---
+
+## PHASE 6: Dashboard JSON Parsing
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 6.1 | Pass --json-output | dashboard.py run_scrape() | Add flag to cmd |
+| 6.2 | Parse JSON from stdout | dashboard.py run_scrape() | Parse last line |
+| 6.3 | Display in UI | dashboard.js | Show stats |
+
+---
+
+## PHASE 7: SQLite Knowledge Graph Integration
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 7.1 | Load mempalace KG | dashboard.py get_statistics() | Import KnowledgeGraph |
+| 7.2 | Get entity stats | dashboard.py | Query SQLite |
+| 7.3 | Get triple stats | dashboard.py | Relationships |
+| 7.4 | Display in UI | dashboard.js | Show KG stats |
+
+---
+
+## PHASE 8: Fix DataValidator Cache
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 8.1 | Add refresh method | validators.py | Refresh from disk |
+| 8.2 | Use in agents | Both agents | Refresh before check |
+| 8.3 | Add file locking | validators.py | Lock during read |
+
+---
+
+## PHASE 9: Fix Senate Agent KG Update
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 9.1 | Add update call | senat_agent.py | update_knowledge_graph() |
+| 9.2 | Trigger merge | dashboard.py | Run merge after scrape |
+
+---
+
+## PHASE 10: Enhanced Frontmatter Schema
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 10.1 | Add party field | templates/politician.md | Party in frontmatter |
+| 10.2 | Add sessions_appeared | templates/politician.md | Session links |
+| 10.3 | Add laws_discussed | templates/session.md | Law links |
+| 10.4 | Add relationships | templates/session.md | Participant graph |
+
+---
+
+## PHASE 11: File Locking (Data Safety)
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 11.1 | Add file locking | validators.py | Lock during writes |
+| 11.2 | Add atomic writes | agents | Write to .tmp, rename |
+| 11.3 | Add verification | agents | Verify write success |
+
+---
+
+## PHASE 12: Dataview Queries (Obsidian)
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 12.1 | Create queries/ | vault/_scripts/dataview/ | NEW folder |
+| 12.2 | MPs by party | queries/mps-by-party.md | Dataview query |
+| 12.3 | Sessions by date | queries/sessions-by-date.md | Dataview query |
+| 12.4 | Laws by sponsor | queries/laws-by-sponsor.md | Dataview query |
+| 12.5 | Graph network | queries/graph-network.md | Dataview JS |
+
+---
+
+## PHASE 13: Relationship Visualization (Dashboard)
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 13.1 | Add D3.js | dashboard.html | Visualization lib |
+| 13.2 | Query relationships | dashboard.py | Load from SQLite KG |
+| 13.3 | Network chart | dashboard.js | MP graph |
+| 13.4 | Timeline chart | dashboard.js | Sessions |
+| 13.5 | Law network | dashboard.js | Sponsorship |
+
+---
+
+## PHASE 14: Testing & Cleanup
+| Step | Action | File | Description |
+|------|--------|------|-------------|
+| 14.1 | Test import fix | senat_agent.py | Verify runs |
+| 14.2 | Test vault migration | migrate_vault.py | Verify files |
+| 14.3 | Test progress | dashboard | Chamber correct |
+| 14.4 | Test JSON output | agents | Parse works |
+| 14.5 | Test SQLite KG | dashboard | Rich stats |
+| 14.6 | Commit & Push | ALL | Push to GitHub |
+
+---
+
+## Success Criteria
+After implementation:
+- ✅ No import errors when running from dashboard
+- ✅ Deduplication works correctly
+- ✅ Accurate session counts (4 senators, 105 deputies)
+- ✅ Progress shows correct chamber
+- ✅ JSON output from agents displayed
+- ✅ SQLite KG stats (entities, triples, relationship types)
+- ✅ Dataview queries work in Obsidian
+- ✅ Relationship visualization in dashboard
+- ✅ File locking prevents corruption
+
+---
+
+## 📋 IMPLEMENTATION COMMANDS
+
+```bash
+# Phase 1: Test import fix
+python3 scripts/agents/senat_agent.py --year 2026 --max 3
+
+# Phase 2: Migrate vault
+python3 scripts/migrate_vault.py
+
+# Phase 3-5: Run dashboard
+python3 scripts/dashboard.py
+
+# Phase 14: Commit
+git add -A && git commit -m "feat: Comprehensive StenoMD improvements"
+git push
+```
 
 ---
 

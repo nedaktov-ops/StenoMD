@@ -1,10 +1,14 @@
+#!/usr/bin/env python3
 """
 StenoMD Agents Package
-
-Contains scraping agents for Romanian Parliament sources:
-- cdep_agent.py: Camera Deputatilor (deputies chamber)
-- senat_agent.py: Senate of Romania (senators chamber)
+Central import hub for all agents.
 """
 
-__version__ = '2.0'
-__all__ = ['cdep_agent', 'senat_agent']
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+
+from validators import DataValidator
+
+__all__ = ["DataValidator"]

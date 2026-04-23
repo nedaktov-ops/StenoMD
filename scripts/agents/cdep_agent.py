@@ -31,7 +31,7 @@ from typing import Dict, List, Set, Optional, Tuple
 from uuid import uuid4
 import argparse
 
-PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
+PROGRESS_FILE = Path("/tmp/stenomd_progress_cdep.json")
 
 def write_progress(chamber: str, current: int, total: int, session_name: str):
     """Write progress to file for dashboard polling."""
@@ -737,6 +737,8 @@ def main():
     parser.add_argument('--years', default='2024,2025,2026', help='Years to process (comma-separated)')
     parser.add_argument('--year', type=int, help='Single year for backfill')
     parser.add_argument('--max-id', type=int, default=200, help='Max session ID to try')
+    parser.add_argument('--json-output', action='store_true', help='Output JSON summary to stdout')
+    parser.add_argument('--sync-vault', action='store_true', help='Sync to vault after scraping')
     
     args = parser.parse_args()
     
@@ -744,10 +746,25 @@ def main():
     
     if args.update or not args.backfill:
         years = [int(y) for y in args.years.split(',')]
-        agent.run(years, args.max_id)
+        result = agent.run(years, args.max_id)
     elif args.backfill and args.year:
-        agent.run([args.year], args.max_id)
-
+        result = agent.run([args.year], args.max_id)
+    else:
+        result = {"sessions_scraped": 0, "sessions_skipped": 0}
+    
+    if args.json_output:
+        output = {
+            "status": "complete",
+            "chamber": "deputies",
+            "sessions_found": len(agent.sessions),
+            "sessions_scraped": agent.statistics.get('sessions_scraped', 0),
+            "sessions_skipped": agent.statistics.get('sessions_skipped', 0),
+            "politicians": len(agent.persons),
+            "laws": len(agent.laws),
+            "timestamp": datetime.now().isoformat()
+        }
+        print(json.dumps(output))
+    
 
 if __name__ == '__main__':
     main()
