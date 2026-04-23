@@ -6,9 +6,22 @@ Checks vault for existing sessions and validates data integrity
 
 import re
 import os
+import json
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
+
+
+def atomic_write(filepath: Path, data: str):
+    """Write data atomically using temp file + rename."""
+    temp = filepath.with_suffix('.tmp')
+    temp.write_text(data, encoding='utf-8')
+    temp.replace(filepath)
+
+
+def atomic_json_write(filepath: Path, data: dict):
+    """Write JSON atomically."""
+    atomic_write(filepath, json.dumps(data, indent=2, ensure_ascii=False))
 
 
 MONTHS = {

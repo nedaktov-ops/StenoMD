@@ -344,7 +344,16 @@ async def dashboard(request: Request):
                     <div class="label">Sesiuni in KG</div>
                     <div class="count">{stats.get('kg_sessions', 0)}</div>
                 </div>
+                <div class="chamber-stat">
+                    <div class="label">Entity KG</div>
+                    <div class="count" style="color: #a855f7;">{stats.get('kg_entities', 0)}</div>
+                </div>
+                <div class="chamber-stat">
+                    <div class="label">Relationship KG</div>
+                    <div class="count" style="color: #f97316;">{stats.get('kg_triples', 0)}</div>
+                </div>
             </div>
+            {stats.get('kg_relationship_types') if stats.get('kg_relationship_types') else ""}
             <div style="margin-top: 1rem;">
                 <button class="btn btn-primary" onclick="refreshStats()">🔄 Reîmprospătează</button>
             </div>
@@ -504,14 +513,39 @@ async def api_status(chamber: str):
 
 
 @app.get("/api/scrape/progress")
-async def api_scrape_progress():
+async def api_scrape_progress(chamber: str = None):
     """Get current scrape progress."""
-    if PROGRESS_FILE.exists():
+    if chamber == "cdep":
+        progress_file = Path("/tmp/stenomd_progress_cdep.json")
+    elif chamber == "senate":
+        progress_file = Path("/tmp/stenomd_progress_senate.json")
+    elif scrape_status["cdep"]["running"]:
+        progress_file = Path("/tmp/stenomd_progress_cdep.json")
+    elif scrape_status["senate"]["running"]:
+        progress_file = Path("/tmp/stenomd_progress_senate.json")
+    else:
+        # Default to checking CDEP first, then Senate
+        progress_file = Path("/tmp/stenomd_progress_cdep.json")
+        if not progress_file.exists():
+            progress_file = Path("/tmp/stenomd_progress_senate.json")
+    
+    if progress_file.exists():
         try:
-            return json.loads(PROGRESS_FILE.read_text())
+            return json.loads(progress_file.read_text())
         except:
             pass
-    return {"status": "idle", "chamber": None, "current": 0, "total": 0, "session": ""}
+    return {"status": "idle", "chamber": chamber or "both", "current": 0, "total": 0, "session": ""}
+
+
+@app.get("/api/scrape/active")
+async def api_scrape_active():
+    """Get which chamber is currently being scraped."""
+    return {
+        "cdep_running": scrape_status["cdep"]["running"],
+        "senate_running": scrape_status["senate"]["running"],
+        "last_cdep": scrape_status["cdep"]["last_run"],
+        "last_senate": scrape_status["senate"]["last_run"],
+    }
 
 
 @app.post("/api/scrape/progress/clear")
