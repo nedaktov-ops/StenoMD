@@ -1580,6 +1580,186 @@ Both agents now:
 **Task:** GitHub Commit (PENDING)
 **Started:** 2026-04-23 10:40
 **Status:** PENDING
+
+---
+
+**Task:** Obsidian Vault Integration (COMPLETED)
+**Started:** 2026-04-23 04:05
+**Completed:** 2026-04-23 04:20
+
+## OBSIDIAN LAUNCH ISSUES & FIXES
+
+### Problem 1: GPU Process Crash
+```
+Symptom: "GPU process isn't usable. Goodbye." fatal error
+Cause: Intel HD Graphics 620 on Linux with sandbox restrictions
+Root: content/browser/gpu/gpu_data_manager_impl_private.cc:415
+```
+
+### Solution Applied
+Required special flags for Intel GPU on this Linux environment:
+```bash
+--disable-gpu                    # Disable GPU acceleration
+--disable-dev-shm-usage         # Disable /dev/shm usage
+--no-sandbox                  # Disable sandbox
+--disable-gpu-sandbox         # Disable GPU sandbox
+```
+
+### Files Created/Modified
+- `/home/adrian/Desktop/NEDAILAB/StenoMD/open-vault-wait.sh` (NEW) - Wrapper that waits for window
+- `/home/adrian/Desktop/NEDAILAB/StenoMD/open-vault.sh` (UPDATED) - Fixed with GPU flags
+- `/home/adrian/Desktop/NEDAILAB/StenoMD/StenoMD-Vault.desktop` (NEW) - Desktop entry
+
+### Wrapper Script
+```bash
+#!/bin/bash
+/usr/bin/obsidian "$VAULT_PATH" --disable-gpu --disable-dev-shm-usage --no-sandbox --disable-gpu-sandbox &
+
+# Wait for window to appear
+for i in {1..30}; do
+    if xdotool search --name "Obsidian" 2>/dev/null | head -1 | grep -q .; then
+        echo "Obsidian window detected"
+        exit 0
+    fi
+    sleep 0.5
+done
+```
+
+### Verification
+- Obsidian started with 7 processes
+- Stayed running (4 processes after 10 seconds)
+- Window detected via xdotool
+- Vault loaded with 15 Senate sessions, 10 Deputy sessions, 67 MPs
+
+### Open Commands
+```bash
+# Method 1: Use wrapper
+/home/adrian/Desktop/NEDAILAB/StenoMD/open-vault-wait.sh
+
+# Method 2: Direct with flags
+/usr/bin/obsidian /home/adrian/Desktop/NEDAILAB/StenoMD/vault --disable-gpu --disable-dev-shm-usage --no-sandbox
+```
+
+**Outcome:** ✅ Obsidian running with vault
+
+---
+
+**Task:** GitHub Commit (IN PROGRESS)
+**Started:** 2026-04-23 04:25
+**Status:** IN PROGRESS
+
+## FILES TO COMMIT
+
+### Modified
+- `project-logs.md` - Updated with vault integration
+- `open-vault.sh` - Fixed with GPU flags
+- `scripts/agents/cdep_agent.py` - Validation integration
+- `scripts/agents/senat_agent.py` - Validation integration
+- `vault/sessions/senate/*.md` - Updated session data
+- `knowledge_graph/entities.json` - Updated data
+
+### New Files
+- `scripts/validators.py` - DataValidator class
+- `scripts/dashboard.py` - Web dashboard
+- `open-vault-wait.sh` - Obsidian wrapper
+- `StenoMD-Vault.desktop` - Desktop entry
+- `run-dashboard.sh` - Dashboard launcher
+
+### Excluded (untracked)
+- `dashboard.log` - Runtime logs
+- `vault/politicians/senators/deputat-*.md` - Invalid entries
+
+---
+
+**Task:** Daily Scrape Actions Results (COMPLETED)
+**Started:** 2026-04-23 03:50
+**Completed:** 2026-04-23 04:00
+
+## CDEP SCRAPE RESULTS (5 ACTIONS)
+
+| # | Year | Max ID | Sessions | MPs | Laws | Statements |
+|---|------|-------|----------|-----|------|------------|
+| 1 | 2024 | 10 | 1 | 11 | 0 | 44 |
+| 2 | 2024 | 15 | 2 | 13 | 0 | 88 |
+| 3 | 2024 | 20 | 5 | 22 | 1 | 176 |
+| 4 | 2024 | 30 | 10 | 67 | 7 | 664 |
+| 5 | 2025/2026 | 20/30 | 0 | 0 | 0 | 0 |
+
+**Total:** 67 MPs, 10 sessions, 7 laws, 664 statements
+
+## SENATE SCRAPE RESULTS (5 ACTIONS)
+
+| # | Max | Sessions | Senators | Laws |
+|---|-----|---------|----------|------|
+| 1 | 5 | 5 | 7 | 54 |
+| 2 | 3 | 3 | 3 | 41 |
+| 3 | 3 | 3 | 3 | 41 |
+| 4 | 2 | 2 | 3 | 23 |
+| 5 | 2 | 2 | 3 | 23 |
+
+**Total:** 7 unique senators, 15 sessions, 54 laws
+
+## VAULT STATISTICS
+
+### After Scrape Actions
+- **Senate sessions:** 15 files
+- **Deputy sessions:** 10 files
+- **Senators:** 7 profiles
+- **Deputies:** 67 profiles
+- **Laws:** 7 tracked
+
+### Sample Session (1-aprilie-2026.md)
+```yaml
+date: 1 aprilie 2026
+title: Stenograma Şedinţei Senatului din data de 2026-04-01
+chamber: Senate
+word_count: 1179
+participants: [Mihai Coteț]
+laws_discussed: [14/2026, 95/2026, 96/2026, ...]
+```
+
+**Status:** ✅ Vault populated and validated
+
+---
+
+**Task:** GitHub Commit (COMPLETED)
+**Started:** 2026-04-23 04:30
+**Completed:** 2026-04-23 04:32
+
+## COMMIT DETAILS
+
+### Commit Message
+```
+feat: Add data validation and duplicate prevention
+
+- Created validators.py with DataValidator class
+- Integrated duplicate detection into CDEP and Senate agents
+- Added backward traversal when session already extracted
+- Validation rules: min word_count, participants, law formats
+- Dashboard shows complete sessions count
+- 5 scrape actions: 67 MPs, 7 senators, 15 sessions extracted
+```
+
+### Files Changed
+```
+16 files changed, 1114 insertions(+), 25 deletions(-)
+ create mode 100644 scripts/dashboard.py
+ create mode 100644 scripts/validators.py
+```
+
+### Git Status
+```
+main 46f419b] feat: Add data validation and duplicate prevention
+4e624a6..46f419b  main -> main
+```
+
+### Push Status
+```
+To https://github.com/nedaktov-ops/StenoMD.git
+   4e624a6..46f419b  main -> main
+```
+
+**Outcome:** ✅ Committed and pushed to GitHub
 **Started:** 2026-04-23 02:50
 **Status:** PLANNED — execute after Phase 0
 
