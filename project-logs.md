@@ -1,66 +1,61 @@
 # StenoMD Project Logs
 ## Primary Directive: This file must be read before any task begins and updated after each task completion.
 
-## COMPREHENSIVE IMPROVEMENT PLAN - 14 PHASES
+## COMPREHENSIVE IMPROVEMENT PLAN - UPDATED
 
-### User Preferences Confirmed (2026-04-23)
-| Option | Choice |
-|--------|--------|
-| 1. Vault Migration | A - Migrate root-level files first |
-| 2. Knowledge Graph | B - Use full SQLite mempalace |
-| 3. Timeline | A - Implement all in one go |
-| 4. Additional Features | BOTH - Dataview queries + Relationship visualization |
+### Latest User Requirements (2026-04-23)
+
+#### 1. Planner Agent (NEW - Main Priority)
+**Functionality:**
+- Run automatically after each action (auto)
+- Run on-demand with manual trigger  
+- Run on schedule (daily)
+
+**Capabilities:**
+- Understands entire project status
+- Checks and debugs project
+- Finds fixes for issues
+- Researches best practices online
+- Writes improvement strategies in STRATEGY.md
+
+#### 2. Scale Up Historical Data
+- Focus: 2020-2026 (current priority)
+- Add notification: Once 2020-2026 done, go back to previous date intervals
+- Source: cdep.ro + senat.ro
+
+#### 3. Enhanced Features
+- Better visualization
+- More accurate stats
+- Error handling improvements
+- Auto-retry on failure
+- All: dashboard + agents improvements
 
 ### Execution Order
-1. Phase 1: Fix import bug (CRITICAL) - senat_agent.py sys.path
-2. Phase 2: Migrate vault files - consolidate structure
-3. Phase 3: Standardize agent imports - agents/__init__.py
-4. Phase 4: Separate progress files - cdep/senate specific
-5. Phase 5: JSON output from agents - --json-output flag
-6. Phase 6: Dashboard JSON parsing - parse stdout
-7. Phase 7: SQLite KG integration - mempalace KnowledgeGraph
-8. Phase 8: Fix DataValidator cache - refresh method
-9. Phase 9: Fix Senate agent KG update - add update call
-10. Phase 10: Enhanced frontmatter templates - party, sessions_appeared
-11. Phase 11: File locking - prevent corruption
-12. Phase 12: Dataview queries for Obsidian - MP by party, sessions by date
-13. Phase 13: Relationship visualization - D3.js network graph
-14. Phase 14: Test and commit
+1. Test dashboard scrape buttons
+2. Create Planner Agent with all 3 run modes
+3. Scale up historical data (2020-2026)
+4. Enhance dashboard and agents
+5. Integrate Planner with all actions
 
-### Issues Identified During Analysis
-| Issue | Severity | Location |
-|-------|----------|-----------|
-| Import bug (senat_agent.py) | CRITICAL | Line 34 - before sys.path |
-| Duplicate sessions in 3 locations | CRITICAL | vault/sessions/ |
-| entities.json concurrent writes | CRITICAL | Multiple writers |
-| Empty entities.json | CRITICAL | KG not working |
-| Progress file contention | HIGH | /tmp/stenomd_progress.json |
-| DataValidator cache staleness | HIGH | In-memory only |
-| Senate agent no KG update | HIGH | Missing call |
-| Dashboard doesn't use SQLite KG | MEDIUM | Only JSON counts |
-
-### Key New Files to Create
-- scripts/migrate_vault.py - Consolidate vault structure
-- agents/__init__.py - Central import hub
-- vault/_scripts/dataview/*.md - Dataview queries
-
-### Expected Outcomes After Implementation
-- ✅ No import errors when running from dashboard
-- ✅ Deduplication works correctly  
-- ✅ Accurate session counts
-- ✅ Progress shows correct chamber
-- ✅ JSON output displayed
-- ✅ SQLite KG stats (entities, triples, relationships)
-- ✅ Dataview queries work in Obsidian
-- ✅ Relationship visualization in dashboard
+### Issues Identified During Analysis (PREVIOUS)
+| # | Issue | Severity | Location |
+|---|-------|----------|-----------|
+| 1 | Import bug (senat_agent.py line 34) | CRITICAL | sys.path BEFORE import |
+| 2 | Duplicate sessions in 3 locations | CRITICAL | vault/sessions/ |
+| 3 | entities.json concurrent writes | CRITICAL | Multiple writers |
+| 4 | Empty entities.json | CRITICAL | KG not working |
+| 5 | Progress file contention | HIGH | /tmp/stenomd_progress.json |
+| 6 | DataValidator cache staleness | HIGH | In-memory only |
+| 7 | Senate agent no KG update | HIGH | Missing call |
+| 8 | Dashboard doesn't use SQLite KG | MEDIUM | Only JSON counts |
 
 ---
 
-## IMPLEMENTATION COMPLETED (2026-04-23)
+## Implementation Status
 
-### All Phases Complete
-| Phase | Status | Description |
-|-------|--------|-------------|
+### COMPLETED (All 14 Phases from previous plan)
+| Phase | Status | Changes |
+|-------|--------|---------|
 | 1 | ✅ | Fixed import bug in senat_agent.py |
 | 2 | ✅ | Vault migration (24 files consolidated) |
 | 3 | ✅ | Created agents/__init__.py |
@@ -70,17 +65,19 @@
 | 7 | ✅ | SQLite KG integration |
 | 8 | ✅ | DataValidator refresh_sessions() |
 | 9 | ✅ | Merge after scrape |
-| 10 | ✅ | Enhanced frontmatter ready |
-| 11 | ✅ | File locking (atomic writes) |
-| 12 | ✅ | Dataview queries (4 query files) |
+| 10 | ✅ | Enhanced frontmatter templates |
+| 11 | ✅ | File locking (atomic_write) |
+| 12 | ✅ | Dataview queries (4 files) |
 | 13 | ✅ | KG relationship visualization |
-| 14 | ✅ | Final test and commit |
+| 14 | ✅ | Tested & committed |
 
 ### Git Commits
 ```
 dc2d790 feat: Comprehensive StenoMD improvements
 ce167e7 feat: Complete StenoMD improvements  
-d812f69 feat: Add atomic writes, progress endpoint fixes, KG visualization
+d812f69 feat: Add atomic writes, progress endpoint fixes
+7acbf1d docs: Update project-logs.md completion status
+39e282b fix: Update requirements, workflow, gitignore
 ```
 
 ---

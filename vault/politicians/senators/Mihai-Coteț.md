@@ -17,4 +17,4 @@ legislature: 2024-2028
 
 *Senator in the Romanian Senate*
 
-*Last updated: 2026-04-23 13:17:43*
+*Last updated: 2026-04-23 14:10:37*
