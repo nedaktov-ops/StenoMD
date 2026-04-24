@@ -426,10 +426,10 @@ async def dashboard(request: Request):
                     btn.disabled = false;
                     btn.textContent = chamber === 'senate' ? '▶ Extrage Date Senat' : '▶ Extrage Date Camera';
                     if (data.result?.success) {{
-                        // Refresh stats after successful scrape
+                        // Force refresh after successful scrape
                         setTimeout(() => {{
-                            refreshStats();
-                        }}, 1000);
+                            window.location.href = window.location.href;
+                        }}, 1500);
                     }}
                 }}
             }} catch (e) {{
@@ -439,31 +439,27 @@ async def dashboard(request: Request):
         
         async function refreshStats() {{
             try {{
-                const response = await fetch('/api/stats?ts=' + Date.now());
+                const response = await fetch('/api/stats');
                 const data = await response.json();
                 
+                // Update stat cards
                 const statCards = document.querySelectorAll('.stat-card .value');
                 if (statCards[0]) statCards[0].textContent = data.senators;
                 if (statCards[1]) statCards[1].textContent = data.deputies;
                 if (statCards[2]) statCards[2].textContent = data.senate_sessions;
                 if (statCards[3]) statCards[3].textContent = data.deputy_sessions;
                 
-                const chamberCounts = document.querySelectorAll('.chamber-stat .count');
-                if (chamberCounts[0]) chamberCounts[0].textContent = data.total_politicians;
-                if (chamberCounts[1]) chamberCounts[1].textContent = data.total_sessions;
-                if (chamberCounts[2]) chamberCounts[2].textContent = data.complete_senate;
-                if (chamberCounts[3]) chamberCounts[3].textContent = data.complete_deputy;
+                // Update chamber stats
+                document.querySelectorAll('.chamber-stat .count').forEach((el, i) => {{
+                    if (i === 0) el.textContent = data.total_politicians;
+                    if (i === 1) el.textContent = data.total_sessions;
+                    if (i === 2) el.textContent = data.complete_senate;
+                    if (i === 3) el.textContent = data.complete_deputy;
+                }});
                 
-                const msg = 'Updated: ' + data.total_politicians + ' politicians, ' + data.total_sessions + ' sessions';
-                const notif = document.createElement('div');
-                notif.style.cssText = 'position:fixed;bottom:20px;right:20px;padding:12px 20px;background:#16a34a;color:white;border-radius:8px;z-index:1000;box-shadow:0 4px 12px rgba(0,0,0,0.15);';
-                notif.textContent = msg;
-                document.body.appendChild(notif);
-                setTimeout(() => {{ notif.remove(); }}, 3000);
-                
-                console.log('Stats refreshed:', data);
+                alert('Stats refreshed! Senators: ' + data.senators + ', Deputies: ' + data.deputies + ', Sessions: ' + data.total_sessions);
             }} catch (e) {{
-                console.error('Refresh error:', e);
+                alert('Error refreshing: ' + e.message);
             }}
         }}
     </script>

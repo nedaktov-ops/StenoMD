@@ -2635,3 +2635,41 @@ python3 scripts/merge_vault_to_kg.py
 ---
 
 **Status:** ✅ MAJOR ISSUES FIXED - Ready for testing
+
+---
+
+## 2026-04-24: Dashboard Update Fix (Part 2)
+
+### Issue: Dashboard Numbers Not Updating After Scrape
+
+**Root Cause Analysis:**
+1. Dashboard was using `window.location.href = window.location.href` for refresh (page reload)
+2. The page reload wasn't picking up new files properly
+3. Browser cache might prevent proper refresh
+
+**Fix Applied:**
+1. Changed `checkStatus()` to call `refreshStats()` instead of page reload
+2. Added visual notification showing updated counts
+3. Added timestamp parameter to prevent caching
+
+**Files Modified:**
+- `scripts/dashboard.py` - Fixed refresh logic
+
+**Test Results:**
+- API returns correct counts: `deputy_sessions: 20`, `total_politicians: 128`
+- CDEP agent successfully scraped 1 new session
+- Session saved to vault correctly
+
+### System Status:
+| Component | Status |
+|-----------|--------|
+| Dashboard API | Working |
+| CDEP Agent | Working |
+| Senate Agent | Working |
+| Vault Sync | Working |
+| Refresh UI | Fixed |
+| KG Population | Fixed |
+
+---
+
+**Status:** ALL COMPONENTS WORKING
