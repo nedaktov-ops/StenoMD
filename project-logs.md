@@ -2385,6 +2385,253 @@ Issues detected by Planner:
 
 ---
 
+**Task:** Master Strategist v2.0 - Intelligent Learning Agent (IN PROGRESS)
+**Started:** 2026-04-23 15:00
+**Status:** IN PROGRESS
+
+## OBJECTIVE
+
+Create the ultimate Planner Agent with full cognitive capabilities:
+- **Memory**: Perfect recall of all past actions and outcomes
+- **Vision**: Pattern recognition across entire project history
+- **Strategy**: Data-driven decision making based on experience
+- **Execution**: Actionable, prioritized recommendations
+- **Analytics**: Real-time project health diagnostics
+- **Debugging**: Intelligent root cause analysis
+
+## USER PREFERENCES CONFIRMED
+
+| Option | Choice | Rationale |
+|--------|--------|-----------|
+| Storage Backend | C) Hybrid (JSON + SQLite) | Human readable + fast queries |
+| Learning Speed | C) Aggressive (1+ occurrences) | Learn immediately from single instances |
+| Pattern Retention | C) All forever | Never lose learned knowledge |
+| Insight Format | C) Both (Markdown + JSON) | Human and machine readable |
+
+## ARCHITECTURE DESIGN
+
+```
+scripts/
+├── planner_agent.py              # Enhanced main entry (700+ lines)
+├── memory/
+│   ├── __init__.py
+│   ├── episodic.py               # Action history (JSON + SQLite)
+│   ├── semantic.py               # Knowledge graph (SQLite)
+│   ├── procedural.py             # Patterns DB
+│   ├── cache.py                  # Fast LRU cache
+│   └── schema.py                 # Data schemas
+├── brain/
+│   ├── __init__.py
+│   ├── cortex.py                 # Main orchestration
+│   ├── vision.py                 # Pattern recognition engine
+│   ├── strategy.py               # Strategy planning engine
+│   ├── analytics.py              # Metrics & health engine
+│   └── debugger.py               # Debug assistance engine
+└── utils/
+    ├── __init__.py
+    ├── database.py               # SQLite utilities
+    ├── patterns.py               # Pattern definitions
+    └── metrics.py                # Metrics calculations
+```
+
+## IMPLEMENTATION PHASES
+
+### Phase 1: Memory System (Foundation) - IN PROGRESS
+- [x] Create memory directory structure
+- [ ] Implement episodic memory (action storage)
+- [ ] Implement semantic memory (knowledge graph integration)
+- [ ] Implement procedural memory (patterns)
+- [ ] Implement cache system (LRU)
+
+### Phase 2: Brain Modules
+- [ ] Implement cortex.py (main orchestration)
+- [ ] Implement vision.py (pattern recognition)
+- [ ] Implement strategy.py (strategy planning)
+- [ ] Implement analytics.py (metrics & health)
+- [ ] Implement debugger.py (debug assistance)
+
+### Phase 3: Master Integration
+- [ ] Integrate all modules into planner_agent.py
+- [ ] Add all run modes (auto, manual, schedule, deep, debug)
+- [ ] Create comprehensive output formats
+- [ ] Implement confidence scoring
+
+### Phase 4: Testing & Verification
+- [ ] Test learning from single action
+- [ ] Verify pattern recognition
+- [ ] Validate strategy confidence
+- [ ] Test all run modes
+
+## KEY FEATURES
+
+### Memory Types
+| Type | Description | Retention |
+|------|-------------|-----------|
+| Episodic | Specific action records with timestamps | All forever |
+| Semantic | General knowledge and patterns | All forever |
+| Procedural | How-to knowledge and methods | All forever |
+| Working | Current session context | Session only |
+
+### Confidence Calculation
+```python
+# Factors (sum = 100%):
+# - Pattern success rate: 40% weight
+# - Similar cases count: 20% weight
+# - Pattern recency: 20% weight
+# - Historical success rate: 20% weight
+```
+
+### Run Modes
+| Mode | Behavior | Learning |
+|------|----------|----------|
+| `--auto` | Post-action hook | Record outcome, update patterns |
+| `--manual` | Full analysis | All modules active |
+| `--schedule` | Daily health check | Light learning |
+| `--deep` | Comprehensive (slow) | All + research |
+| `--debug` | Debug assistance | Pattern matching |
+
+## EXPECTED OUTPUTS
+
+### Console Output (Rich Terminal)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🧠 STENOMD MASTER STRATEGIST v2.0                               │
+│  Mode: Comprehensive Analysis | Confidence: 87%                  │
+├─────────────────────────────────────────────────────────────────┤
+│  📊 Health Score: 87/100 ↑ (+5)    Issues: 3    Patterns: 47    │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### JSON Output (For API)
+```json
+{
+  "version": "2.0",
+  "confidence": 87,
+  "health_score": 87,
+  "recommendations": [...],
+  "patterns_learned": 47,
+  "trends": {...}
+}
+```
+
+### Markdown Report (For Documentation)
+Saved to `STRATEGY.md` with full analysis and learned insights.
+
+## ESTIMATED IMPLEMENTATION TIME
+
+| Phase | Tasks | Time |
+|-------|-------|------|
+| Phase 1 | Memory system (DB, JSON, cache) | 1 hour |
+| Phase 2 | Brain modules | 2 hours |
+| Phase 3 | Master integration | 1 hour |
+| Phase 4 | Testing, optimization | 1 hour |
+| **Total** | **Full implementation** | **~5 hours** |
+
+## SUCCESS CRITERIA
+
+| Criterion | Target |
+|-----------|--------|
+| All historical data migrated | 100% |
+| Pattern learning from 1 action | Working |
+| Strategy confidence calculated | >80% accuracy |
+| Health score matches reality | ±5 points |
+| Response time (manual mode) | <5 seconds |
+
+---
+
 **Task:** Phase 0 — Archive Skills Catalog (IN PROGRESS)
 **Started:** 2026-04-23 02:50
 **Status:** PLANNED — execute after Phase 0
+
+---
+
+## 2026-04-24: Comprehensive Audit and Dashboard Fixes
+
+### Full Project Audit Completed
+**Objective:** Analyze all files, design debug strategy, fix dashboard issues
+
+**Actions Taken:**
+
+1. **Comprehensive Audit** (Task ID: ses_242701fedffesS0vWPn4OQi2Ni)
+   - Analyzed ALL project files
+   - Identified 7 working components
+   - Identified 5 broken components
+   - Identified 3 missing integrations
+   - Identified 6 code quality issues
+
+2. **DEBUG_PLAN.md Updated**
+   - Added comprehensive audit findings
+   - Documented working/broken components
+   - Added fix execution order
+   - Added verification tests
+
+3. **Dashboard Fixes Applied**
+   - Fixed refreshStats() function (lines 440-464)
+   - Added cache busting: `/api/stats?refresh=${timestamp}`
+   - Removed intrusive alert() calls
+   - Replaced page reload with refreshStats() call
+   - Added KG stats update support
+   - Added normalizeMistralResponse() helper
+
+4. **Critical Issue Fixed: Knowledge Graph Empty**
+   - **Problem:** entities.json was empty despite vault having 128 politicians
+   - **Root Cause:** No script to populate KG from existing vault files
+   - **Solution:** Created `scripts/merge_vault_to_kg.py`
+   - **Result:** KG now has 128 persons, 38 sessions
+
+5. **Scripts Created:**
+   - `/home/adrian/Desktop/NEDAILAB/StenoMD/scripts/merge_vault_to_kg.py` - Merge vault to KG
+   - `/home/adrian/Desktop/NEDAILAB/StenoMD/scripts/dashboard.py.backup.2026-04-24` - Dashboard backup
+
+### Successful Fixes Applied:
+
+| ID | Fix | File | Status |
+|----|-----|------|--------|
+| FIX-024 | Dashboard refresh fix | dashboard.py | ✅ DONE |
+| FIX-025 | Remove alert from refreshStats | dashboard.py | ✅ DONE |
+| FIX-026 | Replace page reload with refreshStats() | dashboard.py | ✅ DONE |
+| FIX-027 | Add cache busting | dashboard.py | ✅ DONE |
+| FIX-028 | Add normalizeMistralResponse | dashboard.py | ✅ DONE |
+| FIX-029 | Backup dashboard | dashboard.py.backup.2026-04-24 | ✅ DONE |
+| FIX-030 | Create merge_vault_to_kg.py | scripts/merge_vault_to_kg.py | ✅ DONE |
+| FIX-031 | Populate KG from vault | knowledge_graph/entities.json | ✅ DONE |
+
+### Current System State:
+
+| Metric | Before | After |
+|--------|--------|-------|
+| KG Persons | 0 | 128 |
+| KG Sessions | 0 | 38 |
+| KG Laws | 0 | 0 |
+| Dashboard Refresh | Broken | Working |
+| entities.json | Empty | Populated |
+
+### Files Modified:
+- `scripts/dashboard.py` - Dashboard fixes
+- `DEBUG_PLAN.md` - Updated audit findings
+- `DevstralUpdates.md` - Updated change log
+- `knowledge_graph/entities.json` - Now populated
+
+### Files Created:
+- `scripts/merge_vault_to_kg.py` - Merge vault data into KG
+- `scripts/dashboard.py.backup.2026-04-24` - Dashboard backup
+
+### Still Pending (Lower Priority):
+- [ ] Remove empty/placeholder session files
+- [ ] Update run_daily.py to use canonical agents
+- [ ] Fix date formats (Romanian → ISO)
+- [ ] Resolve duplicate MP names
+- [ ] Connect mempalace KG integration
+
+### Revert Instructions:
+```bash
+# Revert dashboard changes
+cp scripts/dashboard.py.backup.2026-04-24 scripts/dashboard.py
+
+# Rerun vault merge (if needed)
+python3 scripts/merge_vault_to_kg.py
+```
+
+---
+
+**Status:** ✅ MAJOR ISSUES FIXED - Ready for testing

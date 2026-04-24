@@ -426,10 +426,10 @@ async def dashboard(request: Request):
                     btn.disabled = false;
                     btn.textContent = chamber === 'senate' ? '▶ Extrage Date Senat' : '▶ Extrage Date Camera';
                     if (data.result?.success) {{
-                        // Force refresh after successful scrape
+                        // Refresh stats after successful scrape (instead of page reload)
                         setTimeout(() => {{
-                            window.location.href = window.location.href;
-                        }}, 1500);
+                            refreshStats();
+                        }}, 1000);
                     }}
                 }}
             }} catch (e) {{
@@ -439,7 +439,7 @@ async def dashboard(request: Request):
         
         async function refreshStats() {{
             try {{
-                const response = await fetch('/api/stats');
+                const response = await fetch('/api/stats?refresh=' + new Date().getTime());
                 const data = await response.json();
                 
                 // Update stat cards
@@ -457,10 +457,22 @@ async def dashboard(request: Request):
                     if (i === 3) el.textContent = data.complete_deputy;
                 }});
                 
-                alert('Stats refreshed! Senators: ' + data.senators + ', Deputies: ' + data.deputies + ', Sessions: ' + data.total_sessions);
+                // Update KG stats if present
+                const kgStats = document.querySelectorAll('.kg-stat');
+                if (kgStats[0]) kgStats[0].textContent = data.kg_entities || 0;
+                if (kgStats[1]) kgStats[1].textContent = data.kg_triples || 0;
+                
+                console.log('Stats refreshed:', data);
             }} catch (e) {{
-                alert('Error refreshing: ' + e.message);
+                console.error('Error refreshing stats:', e);
             }}
+        }}
+        
+        function normalizeMistralResponse(resp) {{
+            if (!resp.id || typeof resp.id !== 'string') {{
+                resp.id = 'msg_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+            }}
+            return resp;
         }}
     </script>
 </body>

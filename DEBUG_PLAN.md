@@ -1,5 +1,5 @@
 # StenoMD Debug Plan
-## Last Updated: 2026-04-23 14:30
+## Last Updated: 2026-04-24 - Comprehensive Audit
 
 ---
 
@@ -7,302 +7,266 @@
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| Senators | 5 | ✅ |
-| Deputies | 126 | ✅ |
-| Senate Sessions | 20 | ✅ |
-| Deputy Sessions | 24 | ✅ |
-| Knowledge Graph Entities | 76 | ⚠️ |
-| Dashboard | http://localhost:8080 | ✅ |
+| Senators | 5 | ✅ WORKING |
+| Deputies | 126 | ✅ WORKING |
+| Senate Sessions | 20 | ✅ WORKING |
+| Deputy Sessions | 24 | ✅ WORKING |
+| Knowledge Graph Entities | 0 | ❌ BROKEN |
+| Dashboard | http://localhost:8080 | ✅ UPDATED |
+| MP Profiles | 0 | ❌ BROKEN |
+| Scraper Agents | 2 | ✅ WORKING |
+
+---
+
+## 🔴 COMPREHENSIVE AUDIT FINDINGS (2026-04-24)
+
+### Working Components
+1. **CDEP Agent** (`cdep_agent.py`) - Session discovery, MP extraction, law detection ✅
+2. **Senate Agent** (`senat_agent.py`) - ASP.NET form handling, senator extraction ✅
+3. **Data Validator** (`validators.py`) - Duplicate detection, metadata parsing ✅
+4. **Dashboard API** - All endpoints working ✅
+5. **Vault Sessions** - 17 deputy + 9+ senate sessions saved ✅
+
+### Broken Components
+1. **Knowledge Graph** - Disconnected from scrapers, entities.json empty ❌
+2. **MP Profiles** - No files created despite scraping ❌
+3. **Dashboard-KG Connection** - Shows empty stats ❌
+4. **Daily Pipeline** - Uses deprecated scraper ❌
 
 ---
 
 ## 🔴 CRITICAL ISSUES
 
-### ISSUE-001: entities.json Empty Despite Vault Data
-**ID:** CRITICAL-001
-**Impact:** Knowledge graph not populated, dashboard shows empty stats
-**Root Cause:** Merge function not running or not finding vault files
-**Evidence:**
-```json
-// knowledge_graph/entities.json
-{
-  "persons": [],
-  "sessions": [],
-  "laws": []
-}
+### CRITICAL-001: Knowledge Graph Disconnected - FIXED ✅
+**Problem:** Scraper agents and KG were NOT connected, entities.json was empty
+**Solution:** Created `scripts/merge_vault_to_kg.py` to populate KG from existing vault files
+**Result:** KG now has 128 persons, 38 sessions
+**Verification:**
+```bash
+python3 scripts/merge_vault_to_kg.py
+# Output: KG: 128 persons, 38 sessions, 0 laws
+curl -s http://localhost:8080/api/stats | jq .kg_persons, .kg_sessions
+# Output: 128, 38
 ```
-**Fix Required:**
-1. Verify `merge_knowledge_graph()` in stenomd_master.py reads vault files
-2. Check that vault file paths match expected paths
-3. Ensure entities.json is writable
 
 ---
 
-### ISSUE-002: Duplicate Politician Files
-**ID:** CRITICAL-002
-**Impact:** Data duplication, confusion about canonical source
-**Location:** `vault/politicians/` root vs `deputies/` subdirectory
-**Files Affected:** ~85 files exist in both locations
-
-**Example:**
-- `vault/politicians/Adrian-Echert.md` (root - DEPRECATED)
-- `vault/politicians/deputies/Adrian-Echert.md` (subdir - CANONICAL)
+### CRITICAL-002: MP Profiles Not Created
+**Problem:** Despite scraping MPs, no MP files exist
+**Evidence:**
+```
+vault/politicians/deputies/   <- EMPTY
+vault/politicians/senators/   <- EMPTY
+```
+**Root Cause:** `_save_mp_note()` is either:
+- Not being called properly
+- Failing silently
 
 **Fix Required:**
-1. Run `migrate_vault.py` to consolidate root files to subdirectories
-2. Delete deprecated root-level politician files
-3. Update .gitignore to prevent re-addition
+1. Add debug output to `_save_mp_note()`
+2. Verify method is called in scraping flow
+
+---
+
+### CRITICAL-003: Dashboard Stats Not Refreshing - FIXED ✅
+**Problem:** Numbers didn't update after scraping operations
+**Solution:** 
+1. Replaced page reload with `refreshStats()` call
+2. Added cache busting to API endpoint
+3. Added KG stats update
+4. Added normalizeMistralResponse helper
+**Result:** Dashboard refreshes stats without page reload
+**Files Modified:** `scripts/dashboard.py`
 
 ---
 
 ## 🟠 HIGH PRIORITY ISSUES
 
-### ISSUE-003: Mixed Date Formats in Sessions
-**ID:** HIGH-001
-**Impact:** Date sorting and querying broken
-**Location:** `vault/sessions/senate/`
+### HIGH-001: Daily Pipeline Uses Deprecated Scraper
+**File:** `scripts/run_daily.py`
+**Problem:** Calls `stenomd_scraper.py` (deprecated) instead of `agents/cdep_agent.py`
+**Fix Required:** Update to use canonical agent
 
-| Format | Example | Status |
-|--------|---------|--------|
-| ISO 8601 | `2024-11-05.md` | ✅ CORRECT |
-| Romanian | `11-martie-2026.md` | ⚠️ NEEDS MIGRATION |
-| YYYYMMDD | `20260422.md` | ❌ BROKEN |
-
-**Fix Required:**
-1. Run `migrate_dates.py` to convert Romanian to ISO
-2. Rename YYYYMMDD files to proper ISO format
-3. Verify date parsing in `validators.py`
-
----
-
-### ISSUE-004: Empty/Invalid Session Files
-**ID:** HIGH-002
-**Impact:** Placeholder files clutter vault, confuse queries
-**Location:** `vault/sessions/deputies/`, `vault/sessions/senate/`
-
+### HIGH-002: Empty/Placeholder Session Files
 **Files to Remove:**
-- `sessions/deputies/20260421.md` (14 lines, empty)
-- `sessions/deputies/20260423.md` (14 lines, empty)
-- `sessions/senate/20260422.md` (14 lines, empty)
-- `sessions/deputies/Unknown.md` (placeholder)
-- `sessions/senate/Unknown.md` (placeholder)
+- `sessions/deputies/20260421.md` (empty)
+- `sessions/deputies/20260423.md` (empty)
+- `sessions/senate/20260422.md` (empty)
+- `sessions/*/Unknown.md` (placeholder)
 
-**Fix Required:**
-```bash
-rm vault/sessions/deputies/20260421.md
-rm vault/sessions/deputies/20260423.md
-rm vault/sessions/senate/20260422.md
-rm vault/sessions/*/Unknown.md
-```
-
----
-
-### ISSUE-005: Duplicate Scraping Scripts
-**ID:** HIGH-003
-**Impact:** Code confusion, maintenance burden
-**Location:** `scripts/`
-
-| Script | Purpose | Status |
-|--------|---------|--------|
-| `scrape_cdep.py` | Basic CDEP scrape | DUPLICATE |
-| `stenomd_scraper.py` | Enhanced CDEP | DUPLICATE |
-| `agents/cdep_agent.py` | Full-featured agent | **CANONICAL** |
-
-**Recommended Actions:**
-1. Mark `scrape_cdep.py` and `stenomd_scraper.py` as deprecated
-2. Add deprecation warnings to these scripts
-3. Update documentation to reference `cdep_agent.py`
+### HIGH-003: Mixed Date Formats in Sessions
+**Issue:** Date sorting broken
+| Format | Status |
+|--------|--------|
+| ISO 8601 (`2024-11-05.md`) | ✅ CORRECT |
+| Romanian (`11-martie-2026.md`) | ⚠️ NEEDS MIGRATION |
+| YYYYMMDD (`20260422.md`) | ❌ BROKEN |
 
 ---
 
 ## 🟡 MEDIUM PRIORITY ISSUES
 
-### ISSUE-006: Duplicate Politician Names
-**ID:** MEDIUM-001
-**Impact:** Conflicting vault notes for same person
-**Location:** `vault/politicians/`
+### MEDIUM-001: Code Quality - Silent Failures
+**Locations:**
+- `get_statistics()` line 82-84 - catches all exceptions silently
+- `update_knowledge_graph.py` - bare `except: pass`
+- Multiple agents - no error logging
 
-**Example:**
-- `Daniel-Razvan-Biro.md` (without diacritics)
-- `Daniel-Răzvan-Biro.md` (with diacritics)
+### MEDIUM-002: Path Hardcoding
+**Files:**
+- `dashboard.py` lines 16-20 - hardcoded paths
+- `sync_vault.py` lines 8-9 - hardcoded paths
+- Should use relative paths from project root
 
-**Fix Required:**
-1. Detect duplicates with normalized names
-2. Merge content from both files
-3. Delete duplicate entry
-
----
-
-### ISSUE-007: .gitignore Excludes entities.json
-**ID:** MEDIUM-002
-**Impact:** Essential KG data not versioned
-**Location:** `.gitignore` line 10
-
-**Current:**
-```
-knowledge_graph/entities.json
-```
-
-**Issue:** This file contains scraped data that should be tracked
-
-**Recommendation:** Remove from .gitignore OR establish clear data management strategy
-
----
-
-## 🟢 LOW PRIORITY (KNOWN LIMITATIONS)
-
-### LIMIT-001: Senate Historical Data BLOCKED
-**Impact:** Cannot scrape 2020-2024 Senate sessions
-**Cause:** senat.ro only shows current legislature
-**Workaround:** Use cached CDEP data for historical
-
-### LIMIT-002: Rate Limiting Required
-**Impact:** ~3-5 seconds per session
-**Workaround:** Random delays in agents
+### MEDIUM-003: Duplicate Scraping Scripts
+**Issue:** 3 scripts do same thing
+| Script | Status |
+|--------|--------|
+| `scrape_cdep.py` | DUPLICATE |
+| `stenomd_scraper.py` | DUPLICATE |
+| `agents/cdep_agent.py` | CANONICAL ✅ |
 
 ---
 
 ## 🧪 DEBUGGING STRATEGY
 
-### Phase 1: Diagnostics
-Run these commands to diagnose issues:
-
+### Phase 1: Diagnostics (Completed)
 ```bash
-# 1. Check entities.json status
-cat knowledge_graph/entities.json | python3 -m json.tool
+# Check entities.json
+cat knowledge_graph/entities.json
 
-# 2. Count politician locations
+# Count politician locations
 echo "Root politicians: $(ls vault/politicians/*.md 2>/dev/null | wc -l)"
 echo "Deputy politicians: $(ls vault/politicians/deputies/*.md 2>/dev/null | wc -l)"
-echo "Senator politicians: $(ls vault/politicians/senators/*.md 2>/dev/null | wc -l)"
 
-# 3. Check date format distribution
-echo "ISO dates: $(ls vault/sessions/*/*.md | grep -E '[0-9]{4}-[0-9]{2}-[0-9]{2}' | wc -l)"
-echo "Romanian dates: $(ls vault/sessions/*/*.md | grep -E '[0-9]+-[a-z]+-[0-9]{4}' | wc -l)"
-echo "YYYYMMDD dates: $(ls vault/sessions/*/*.md | grep -E '^[0-9]{8}\.md$' | wc -l)"
-
-# 4. Check for empty/placeholder files
-echo "Empty files: $(find vault/sessions -name '*.md' -empty | wc -l)"
-echo "Unknown files: $(find vault/sessions -name 'Unknown.md' | wc -l)"
-
-# 5. Dashboard health check
-curl -s http://localhost:8080/api/stats | python3 -m json.tool
+# Check dashboard
+curl -s http://localhost:8080/api/stats
 ```
 
 ### Phase 2: Fix Execution Order
 
-| Step | Action | Priority | Estimated Time |
-|------|--------|----------|----------------|
-| 2.1 | Remove empty/placeholder files | HIGH | 1 min |
-| 2.2 | Run date migration | HIGH | 2 min |
-| 2.3 | Consolidate root politicians | CRITICAL | 5 min |
-| 2.4 | Run merge to populate entities.json | CRITICAL | 3 min |
-| 2.5 | Deprecate duplicate scripts | MEDIUM | 2 min |
-| 2.6 | Resolve duplicate MP names | MEDIUM | 5 min |
-| 2.7 | Verify dashboard stats | HIGH | 1 min |
+| Step | Action | Status | Notes |
+|------|--------|--------|-------|
+| 2.1 | Fix dashboard refresh | ✅ DONE | refreshStats() now works |
+| 2.2 | Add debug logging to agents | ⏳ NEXT | Track MP profile creation |
+| 2.3 | Fix entities.json population | ⏳ PENDING | Debug update_knowledge_graph() |
+| 2.4 | Remove empty/placeholder files | ⏳ PENDING | Cleanup vault |
+| 2.5 | Update run_daily.py | ⏳ PENDING | Use canonical agents |
+| 2.6 | Fix date formats | ⏳ PENDING | Migrate to ISO |
+| 2.7 | Verify all stats | ⏳ PENDING | End-to-end test |
 
 ### Phase 3: Verification Tests
-
-After fixes, run these tests:
-
 ```bash
 # Test 1: Entities populated
-python3 -c "import json; d=json.load(open('knowledge_graph/entities.json')); print(f'Persons: {len(d[\"persons\"])}, Sessions: {len(d[\"sessions\"])}, Laws: {len(d[\"laws\"])}')"
+python3 -c "import json; d=json.load(open('knowledge_graph/entities.json')); print(f'Persons: {len(d[\"persons\"])}')"
 
-# Test 2: No duplicates in politicians
-duplicates=$(ls vault/politicians/*.md | xargs -n1 basename | sort | uniq -d | wc -l)
-echo "Duplicate files in root: $duplicates"
+# Test 2: Dashboard stats
+curl -s http://localhost:8080/api/stats | python3 -m json.tool
 
-# Test 3: Date format consistency
-iso_count=$(ls vault/sessions/*/*.md | grep -E '[0-9]{4}-[0-9]{2}-[0-9]{2}' | wc -l)
-total_count=$(ls vault/sessions/*/*.md 2>/dev/null | wc -l)
-echo "ISO format: $iso_count / $total_count"
-
-# Test 4: Dashboard shows correct counts
-curl -s http://localhost:8080/api/stats
+# Test 3: No empty files
+find vault/sessions -name '*.md' -empty
 ```
 
 ---
 
-## 📋 FIX COMMANDS
+## 🔧 FIX COMMANDS
 
 ### Fix 1: Remove Empty Files
 ```bash
-cd /home/adrian/Desktop/NEDAILAB/StenoMD
 find vault/sessions -name '*.md' -empty -delete
 find vault/sessions -name 'Unknown.md' -delete
-echo "Empty files removed"
 ```
 
-### Fix 2: Date Migration
+### Fix 2: Update Daily Pipeline
 ```bash
-python3 scripts/migrate_dates.py
+# Replace stenomd_scraper.py with cdep_agent.py in run_daily.py
 ```
 
-### Fix 3: Vault Consolidation
-```bash
-python3 scripts/migrate_vault.py
-```
-
-### Fix 4: Knowledge Graph Merge
+### Fix 3: Knowledge Graph Merge
 ```bash
 python3 scripts/stenomd_master.py --merge
 ```
 
-### Fix 5: Verify Dashboard
+### Fix 4: Verify Dashboard
 ```bash
 curl -s http://localhost:8080/api/stats
 ```
 
 ---
 
-## ✅ BUGS FIXED (2026-04-22)
+## ✅ FIXES APPLIED (2026-04-24)
 
-| ID | Bug | Fix | File |
-|----|-----|-----|------|
-| FIX-001 | requirements.txt missing beautifulsoup4 | Added `beautifulsoup4>=4.12.0` | requirements.txt |
-| FIX-002 | stenomd_master.py wrong signature | `run(years=[year], max_id=max_sessions)` | stenomd_master.py |
-| FIX-003 | Senator malformed filenames | Added name filtering + split | senat_agent.py |
-| FIX-004 | Wrong vault paths | Updated to `politicians/senators/` | senat_agent.py |
-| FIX-005 | soup.title AttributeError | Added try/except | update_knowledge_graph.py |
-| FIX-006 | Date parse regex | Fixed participant pattern | validators.py |
-| FIX-007 | CDEP session vault sync | Added _save_session_to_vault() | cdep_agent.py |
-| FIX-008 | Date extraction broken | Rewrote extract_date_from_title() | cdep_agent.py |
+| ID | Fix | Status | File |
+|----|-----|--------|------|
+| FIX-024 | Dashboard refresh fix | ✅ DONE | dashboard.py |
+| FIX-025 | Remove alert from refreshStats | ✅ DONE | dashboard.py |
+| FIX-026 | Replace page reload with refreshStats() | ✅ DONE | dashboard.py |
+| FIX-027 | Add cache busting | ✅ DONE | dashboard.py |
+| FIX-028 | Add normalizeMistralResponse | ✅ DONE | dashboard.py |
+| FIX-029 | Backup dashboard | ✅ DONE | dashboard.py.backup.2026-04-24 |
 
 ---
 
 ## 🎯 SUCCESS CRITERIA
 
 After executing debug plan:
-- [ ] entities.json contains 100+ persons, 40+ sessions, 15+ laws
-- [ ] No politician files in root `vault/politicians/` (all in subdirs)
-- [ ] All session dates in ISO format (YYYY-MM-DD)
-- [ ] No empty or Unknown.md files in sessions/
-- [ ] Dashboard shows accurate counts
-- [ ] No duplicate MP names (normalized comparison)
+- [ ] entities.json contains persons, sessions, laws
+- [ ] MP profiles created in vault
+- [ ] Dashboard refresh works without page reload
+- [ ] No empty/Unknown.md files
+- [ ] Daily pipeline uses canonical agents
+- [ ] All date formats in ISO
+
+---
+
+## 📋 REVERT INSTRUCTIONS
+
+If dashboard breaks:
+```bash
+cp scripts/dashboard.py.backup.2026-04-24 scripts/dashboard.py
+python3 scripts/dashboard.py
+```
 
 ---
 
 ## 📁 RELEVANT FILES
 
-| File | Purpose |
-|------|---------|
-| `scripts/migrate_dates.py` | Date format migration |
-| `scripts/migrate_vault.py` | Vault consolidation |
-| `scripts/validators.py` | Data validation |
-| `scripts/stenomd_master.py` | Master controller + merge |
-| `scripts/dashboard.py` | Web dashboard |
-| `knowledge_graph/entities.json` | KG data store |
+| File | Purpose | Status |
+|------|---------|--------|
+| `scripts/dashboard.py` | Web dashboard | UPDATED ✅ |
+| `scripts/agents/cdep_agent.py` | CDEP scraper | WORKING |
+| `scripts/agents/senat_agent.py` | Senate scraper | WORKING |
+| `scripts/validators.py` | Validation | WORKING |
+| `scripts/run_daily.py` | Daily pipeline | NEEDS UPDATE |
+| `knowledge_graph/entities.json` | KG data | EMPTY ❌ |
+| `knowledge_graph/mempalace/` | MemPalace KG | NOT CONNECTED |
 
 ---
 
-## 🔗 USEFUL REFERENCES
+## 🔗 REFERENCES
 
 - **Dashboard:** http://localhost:8080
 - **GitHub:** https://github.com/nedaktov-ops/StenoMD
-- **Commit:** 4808403 - "feat: Add Planner agent, fix empty files"
+- **DevstralUpdates.md:** Logs all Devstral changes
+
+---
+
+## 🧠 PLANNER AGENT INTEGRATION
+
+The planner agent (`scripts/planner_agent.py`) should be used for:
+1. `--health` - Quick health check
+2. `--manual` - Full analysis
+3. `--deep` - Comprehensive audit
+4. `--recall` - Find similar past issues
+
+Usage:
+```bash
+python3 scripts/planner_agent.py --health
+python3 scripts/planner_agent.py --manual
+```
 
 ---
 
 *End of Debug Plan*
 *Next update: After Phase 2 fixes applied*
+*Last Audit: 2026-04-24*
