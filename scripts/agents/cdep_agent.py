@@ -36,10 +36,35 @@ import argparse
 import functools
 
 PROGRESS_FILE = Path("/tmp/stenomd_progress_cdep.json")
+CHECKPOINT_FILE = Path("/tmp/stenomd_cdep_checkpoint.json")
 
 # Request cache with 1hr TTL
 REQUEST_CACHE: Dict[str, Tuple[str, float]] = {}
 CACHE_TTL = 3600  # 1 hour
+
+# Retry configuration
+MAX_RETRIES = 3
+RETRY_BACKOFF = 1.5
+RETRY_MAX_DELAY = 60
+RETRY_STATUS_CODES = [429, 500, 502, 503, 504]
+
+def load_checkpoint() -> dict:
+    """Load checkpoint from file."""
+    if CHECKPOINT_FILE.exists():
+        try:
+            return json.loads(CHECKPOINT_FILE.read_text())
+        except:
+            pass
+    return {"completed": [], "last_run": None}
+
+def save_checkpoint(completed: List[int], last_id: int = None):
+    """Save checkpoint to file."""
+    data = {
+        "completed": completed,
+        "last_id": last_id,
+        "last_run": datetime.now().isoformat()
+    }
+    CHECKPOINT_FILE.write_text(json.dumps(data))
 
 def write_progress(chamber: str, current: int, total: int, session_name: str):
     """Write progress to file for dashboard polling."""
@@ -216,6 +241,47 @@ class EnhancedCDEPAgent:
         """Random delay to avoid rate limiting."""
         delay = random.uniform(min_sec, max_sec)
         time.sleep(delay)
+    
+    def request_with_retry(self, url: str, timeout: int = 15) -> Optional[requests.Response]:
+        """Make HTTP request with retry logic and exponential backoff."""
+        last_exception = None
+        
+        for attempt in range(MAX_RETRIES):
+            try:
+                response = self.session.get(url, timeout=timeout)
+                
+                # Retry on rate limit or server error
+                if response.status_code in RETRY_STATUS_CODES:
+                    # Check for Retry-After header
+                    retry_after = response.headers.get('Retry-After')
+                    if retry_after:
+                        delay = min(int(retry_after), RETRY_MAX_DELAY)
+                    else:
+                        delay = min(RETRY_BACKOFF ** attempt, RETRY_MAX_DELAY)
+                    
+                    # Add jitter
+                    delay += random.uniform(0, 1)
+                    
+                    self.log(f"  HTTP {response.status_code} - retrying in {delay:.1f}s (attempt {attempt + 1}/{MAX_RETRIES})")
+                    time.sleep(delay)
+                    continue
+                
+                return response
+                
+            except requests.exceptions.Timeout as e:
+                last_exception = e
+                delay = min(RETRY_BACKOFF ** attempt, RETRY_MAX_DELAY)
+                self.log(f"  Timeout - retrying in {delay:.1f}s (attempt {attempt + 1}/{MAX_RETRIES})")
+                time.sleep(delay)
+                
+            except requests.exceptions.RequestException as e:
+                last_exception = e
+                delay = min(RETRY_BACKOFF ** attempt, RETRY_MAX_DELAY)
+                self.log(f"  Error: {e} - retrying in {delay:.1f}s (attempt {attempt + 1}/{MAX_RETRIES})")
+                time.sleep(delay)
+        
+        self.statistics['errors'].append(f"Failed after {MAX_RETRIES} retries: {url}")
+        return None
     
     def _get_cached(self, url: str) -> Optional[str]:
         """Get cached response if not expired."""
@@ -692,10 +758,18 @@ participants:
         
         self.log(f"Knowledge graph saved: {len(self.persons)} MPs, {len(self.sessions)} sessions, {len(self.laws)} laws")
     
-    def run(self, years: List[int], max_id: int = 200):
-        """Main scraping loop with duplicate detection."""
+    def run(self, years: List[int], max_id: int = 200, max_runtime: int = 0):
+        """Main scraping loop with duplicate detection.
+        
+        Args:
+            years: List of years to scrape
+            max_id: Maximum session ID to try
+            max_runtime: Maximum runtime in seconds (0=unlimited)
+        """
         self.log(f"=== Starting Enhanced CDEP Agent ===")
-        self.log(f"Years: {years}, Max ID: {max_id}")
+        self.log(f"Years: {years}, Max ID: {max_id}, Max Runtime: {max_runtime}s")
+        
+        start_time = time.time()
         
         DATA_DIR.mkdir(parents=True, exist_ok=True)
         
@@ -836,9 +910,22 @@ participants:
             # Random delay between requests
             self.random_delay()
             
+            # Check runtime limit
+            if max_runtime > 0:
+                elapsed = time.time() - start_time
+                if elapsed >= max_runtime:
+                    self.log(f"Runtime limit reached: {elapsed:.0f}s >= {max_runtime}s")
+                    break
+            
             # Progress report every 10 sessions
             if self.statistics['sessions_scraped'] % 10 == 0:
                 self.log(f"Progress: {self.statistics['sessions_scraped']} sessions scraped")
+            
+            # Save checkpoint every 25 sessions
+            if self.statistics['sessions_scraped'] % 25 == 0 and self.statistics['sessions_scraped'] > 0:
+                completed_ids = list(self.statistics.get('completed_ids', set()))
+                save_checkpoint(completed_ids, self.statistics['sessions_scraped'])
+                self.log(f"Checkpoint saved: {len(completed_ids)} sessions")
         
         # Save knowledge graph
         self.update_knowledge_graph()
@@ -870,8 +957,16 @@ def main():
     parser.add_argument('--max-id', type=int, default=200, help='Max session ID to try')
     parser.add_argument('--json-output', action='store_true', help='Output JSON summary to stdout')
     parser.add_argument('--sync-vault', action='store_true', help='Sync to vault after scraping')
+    parser.add_argument('--max-runtime', type=int, default=0, help='Max runtime in seconds (0=unlimited)')
+    parser.add_argument('--resume', action='store_true', help='Resume from checkpoint')
     
     args = parser.parse_args()
+    
+    # Load checkpoint if resuming
+    checkpoint = {}
+    if args.resume:
+        checkpoint = load_checkpoint()
+        print(f"Resuming from checkpoint: {len(checkpoint.get('completed', []))} completed sessions")
     
     agent = EnhancedCDEPAgent()
     
@@ -885,9 +980,9 @@ def main():
         else:
             years = [int(y) for y in years_str.split(',')]
         
-        result = agent.run(years, args.max_id)
+        result = agent.run(years, args.max_id, max_runtime=args.max_runtime)
     elif args.backfill and args.year:
-        result = agent.run([args.year], args.max_id)
+        result = agent.run([args.year], args.max_id, max_runtime=args.max_runtime)
     else:
         result = {"sessions_scraped": 0, "sessions_skipped": 0}
     
