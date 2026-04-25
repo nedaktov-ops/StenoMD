@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.0",
-    "last_updated": "2026-04-24T07:02:03.241591",
+    "last_updated": "2026-04-25T03:01:51.637190",
     "sources": [
       "cdep.ro"
     ],
@@ -11,8 +11,8 @@
   },
   "persons": [
     {
-      "id": "266f2eab-314f-43ed-9218-504171adaab7",
-      "name": "Bogdan-Alexandru Bola",
+      "id": "27f2174a-a064-4f5c-af20-9d20a94a59e7",
+      "name": "Andrei Ioan Chiliman",
       "chamber": "deputies",
       "party": null,
       "legislature": "2024-2028",
@@ -21,183 +21,23 @@
       "bio": null,
       "committees": [],
       "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "05c1e30c-8c0b-4344-8633-3d4eef73a506",
-      "name": "Boris Volosatîi",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "d167c21f-b343-499f-81f4-42720eca1621",
-      "name": "Vasile Cîtea",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "5f36770c-7bce-4c14-a098-f31256c3b173",
-      "name": "Florin-Claudiu Roman",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "390e2acf-af16-4088-9cf7-457e3716a416",
-      "name": "Mirela Furtună",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "8e9d9dc2-05db-4de2-83a3-d5113a30b3cf",
-      "name": "Ioan Balan",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "407d86f9-198e-4b74-991f-fc07b43f8f76",
-      "name": "Ioan Mang",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "ac2f08bf-5ddb-4e18-b1f3-ba6de90d092e",
-      "name": "Nicolae Giugea",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "3a18a260-a629-4415-a0d8-bd8abcd34f2f",
-      "name": "Marian-Iulian Rasaliu",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "d5a0c808-beba-4511-9319-a46aa18255d9",
-      "name": "Silviu-Titus Păunescu",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
-      ],
-      "statements": []
-    },
-    {
-      "id": "54908e19-584b-4fee-8734-06d9093c27b1",
-      "name": "Iulian-Alexandru Muraru",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2024_10"
+        "session_2015_3"
       ],
       "statements": []
     }
   ],
   "sessions": [
     {
-      "id": "session_2024_10",
-      "date": "2024-11-05",
+      "id": "session_2015_3",
+      "date": "1998-01-27",
       "chamber": "deputies",
-      "title": "Sedinta Camerei Deputatilor din 5 noiembrie 2024",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=10&prn=1",
+      "title": "Şedinţa Camerei Deputaţilor din 27 ianuarie 1998",
+      "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=3",
       "participants": [
-        "Bogdan-Alexandru Bola",
-        "Boris Volosatîi",
-        "Vasile Cîtea",
-        "Florin-Claudiu Roman",
-        "Mirela Furtună",
-        "Ioan Balan",
-        "Ioan Mang",
-        "Nicolae Giugea",
-        "Marian-Iulian Rasaliu",
-        "Silviu-Titus Păunescu",
-        "Iulian-Alexandru Muraru"
+        "Andrei Ioan Chiliman"
       ],
       "laws_discussed": [],
-      "summary": "Bogdan-Alexandru Bola: Domnul Bogdan-Alexandru Bola : \"Forţa Dreptei şi Ludovic Orban sunt singurii aliaţi ai mediului de a... Boris Volosatîi: Domnul Boris Volosatîi : \"Republica Moldova trebuie să meargă înainte!\" Basarabia noastră dragă a în...",
+      "summary": "Session session_2015_3 from 1998-01-27",
       "word_count": 0
     }
   ],

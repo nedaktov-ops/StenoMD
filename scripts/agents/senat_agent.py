@@ -33,6 +33,8 @@ from uuid import uuid4
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from validators import DataValidator
+from memory import MemoryStore
+from resolve.entity_resolver import EntityResolver
 
 PROGRESS_FILE = Path("/tmp/stenomd_progress_senate.json")
 
@@ -115,6 +117,8 @@ class SenateAgent:
         self.senators: Dict[str, Senator] = {}
         self.sessions: Dict[str, SenateSession] = {}
         self.validator = DataValidator(VAULT_DIR)
+        self.memory = MemoryStore()
+        self.resolver = EntityResolver()
         self.statistics = {
             'sessions_found': 0,
             'sessions_scraped': 0,
@@ -516,6 +520,40 @@ legislature: 2024-2028
                 
                 if sync_vault:
                     self.save_to_vault(data)
+                
+                # Resolve senator names to canonical entities
+                resolved_senators = []
+                for name in data['participants']:
+                    result = self.resolver.resolve(name, 'senate')
+                    if result.canonical_id:
+                        resolved_senators.append(result.canonical_name)
+                        if result.confidence < 0.95:
+                            self.log(f"  Resolved: {name} -> {result.canonical_name} ({result.method}, {result.confidence:.2f})")
+                    else:
+                        self.log(f"  Unresolved: {name}")
+                        resolved_senators.append(name)
+                
+                # Learn from this scrape operation
+                self.memory.learn(
+                    action={
+                        'type': 'scrape_session',
+                        'description': f"Scraped {len(data['participants'])} senators, {len(data['laws_discussed'])} laws from {data.get('date')}",
+                        'parameters': {
+                            'chamber': 'senate',
+                            'year': year,
+                            'session_id': data.get('id'),
+                            'date': data.get('date'),
+                            'senators_count': len(data['participants']),
+                            'laws_count': len(data['laws_discussed']),
+                            'url': data.get('url', '')
+                        }
+                    },
+                    outcome={
+                        'success': True,
+                        'sessions_scraped': 1,
+                        'duration_ms': 0
+                    }
+                )
                 
                 self.statistics['sessions_scraped'] += 1
                 self.log(f"  {len(data['participants'])} senators, {len(data['laws_discussed'])} laws")

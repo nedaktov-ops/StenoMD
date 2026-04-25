@@ -732,5 +732,36 @@ r'<font color="#0000FF">\s*(?:Domnul|Doamna)\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(
 
 ---
 
+## 📋 TODO: Historical Data Investigation
+
+**Status**: BLOCKED - Current accessible: 2015-2026
+**Note**: ASK PERMISSION before contacting cdep.ro
+
+### Investigation Options (DO NOT contact yet - ask first)
+1. **Contact cdep.ro** for historical data (1996-2014)
+   - Requires permission before proceeding
+2. **Romanian National Archives** (arhivelen.ro)
+   - Check for parliamentary records
+3. **EU Parliament Archives** 
+   - Joint sessions (Camere + Senat) may be archived
+4. **Academic Sources**
+   - UBB/ASE law libraries
+   - Parliament library archives
+
+### Current Limitation
+- cdep.ro returns 404 for years 2012-2023
+- senat.ro only shows current legislature (2024-2028)
+- Web Archive CDX API returns empty for stenogram URLs
+- **Accessible years**: 2015-2026 only
+
+### Focus Areas (Active)
+1. Scale 2015-2026 data to 200+ sessions
+2. Fix statement extraction
+3. Add entity resolution improvements
+4. Performance optimization
+
+---
+
 *End of Strategy Document*
-*Next update: After Phase A completion*
+*Last Updated: 2026-04-25*
+*Next update: After Phase 1 completion*

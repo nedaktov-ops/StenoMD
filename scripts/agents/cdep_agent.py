@@ -47,6 +47,8 @@ from uuid import uuid4
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from validators import DataValidator
+from memory import MemoryStore
+from resolve.entity_resolver import EntityResolver
 
 # Configuration
 BASE_URL = "https://www.cdep.ro"
@@ -58,13 +60,13 @@ VAULT_DIR = SCRIPT_DIR / "vault"
 # Enhanced regex patterns for Romanian diacritics
 # Pattern for extracting names from HTML with font tags (the actual format in cdep.ro)
 MP_NAME_PATTERN_HTML = re.compile(
-    r'<font\s+color="#0000FF">(Domnul|Doamna)\s+([A-ZĂÂÎȘȚ][a-zăâîșț\-]+(?:\s+[A-ZĂÂÎȘȚ]\.?)?(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)</font>',
+    r'<font\s+color="#0000FF">(Domnul|Doamna)\s+([A-ZĂÂÎȘȚ][a-zăâîșț\-]+(?:\s+[A-ZĂÂÎȘȚ]\.?)?(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)[:\s]*</font>',
     re.IGNORECASE
 )
 
 # Simple pattern for standalone text
 MP_NAME_PATTERN = re.compile(
-    r'(?:Domnul|Doamna)\s+([A-ZĂÂÎȘȚ][a-zăâîșț\-]+(?:\s+[A-ZĂÂÎȘȚ]\.?)?(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)',
+    r'(?:Domnul|Doamna)\s+([A-ZĂÂÎȘȚ][a-zăâîșț\-]+(?:\s+[A-ZĂÂÎȘȚ]\.?)?(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)[:\s]*',
     re.IGNORECASE
 )
 
@@ -184,6 +186,8 @@ class EnhancedCDEPAgent:
         self.sessions: Dict[str, Session] = {}
         self.laws: Dict[str, Law] = {}
         self.validator = DataValidator(VAULT_DIR)
+        self.memory = MemoryStore()
+        self.resolver = EntityResolver()
         self.statistics = {
             'sessions_found': 0,
             'sessions_scraped': 0,
@@ -210,19 +214,33 @@ class EnhancedCDEPAgent:
         self.log(f"Discovering sessions for {year}...")
         session_ids = []
         
+        # Different URL patterns for different years
+        # 2020+: stenograma_scris works
+        # 1996-2019: need stenograma (without _scris)
+        url_patterns = [
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&idm=1&ids={{}}",
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&idm=1&ids={{}}",
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&ids={{}}",
+        ]
+        
         for ids in range(1, max_id + 1):
-            url = f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&idm=1&ids={ids}&prn=1"
+            found = False
             
-            try:
-                r = self.session.get(url, timeout=15)
-                if r.status_code == 200 and len(r.text) > 20000:
-                    # Check if it has actual debate content
-                    if 'domnul' in r.text.lower() or 'doamna' in r.text.lower():
-                        session_ids.append(ids)
-                        self.statistics['sessions_found'] += 1
-                        self.log(f"  Found session ID {ids} with content")
-            except Exception as e:
-                self.statistics['errors'].append(f"ID {ids}: {str(e)}")
+            for url_template in url_patterns:
+                url = url_template.format(ids)
+                
+                try:
+                    r = self.session.get(url, timeout=15)
+                    if r.status_code == 200 and len(r.text) > 5000:
+                        # Check if it has actual debate content
+                        if 'domnul' in r.text.lower() or 'doamna' in r.text.lower():
+                            session_ids.append(ids)
+                            self.statistics['sessions_found'] += 1
+                            self.log(f"  Found session ID {ids} with content (using {url_template.split('stenograma')[1].split('?')[0]})")
+                            found = True
+                            break
+                except Exception as e:
+                    self.statistics['errors'].append(f"ID {ids}: {str(e)}")
             
             # Random delay
             if ids % 10 == 0:
@@ -415,53 +433,63 @@ class EnhancedCDEPAgent:
     
     def scrape_session(self, year: int, session_id: int) -> Optional[Dict]:
         """Scrape a single session."""
-        url = f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&idm=1&ids={session_id}&prn=1"
+        # Try different URL patterns for different years
+        url_patterns = [
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&idm=1&ids={session_id}",
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&idm=1&ids={session_id}",
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&ids={session_id}",
+        ]
         
-        try:
-            r = self.session.get(url, timeout=20)
-            if r.status_code != 200:
-                return None
-            
-            html = r.text
-            if len(html) < 20000:
-                return None
-            
-            # Extract data
-            title = self.extract_title(html)
-            date = self.extract_date_from_title(title) or datetime.now().strftime("%Y-%m-%d")
-            
-            # Generate session ID
-            sess_id = f"session_{year}_{session_id}"
-            
-            # Extract persons
-            persons = self.extract_persons(html, sess_id)
-            
-            # Extract statements
-            statements = self.extract_statements(html, sess_id, date)
-            
-            # Extract laws
-            laws = self.extract_laws(html)
-            
-            # Generate summary
-            summary = self.generate_summary(html, sess_id, date)
-            
-            return {
-                'id': sess_id,
-                'year': year,
-                'session_id': session_id,
-                'title': title,
-                'date': date,
-                'url': url,
-                'persons': persons,
-                'statements': statements,
-                'laws': laws,
-                'summary': summary,
-                'html': html
-            }
-            
-        except Exception as e:
-            self.statistics['errors'].append(f"Session {session_id}: {str(e)}")
+        html = None
+        used_url = None
+        for url in url_patterns:
+            try:
+                r = self.session.get(url, timeout=20)
+                if r.status_code == 200 and len(r.text) > 5000:
+                    if 'domnul' in r.text.lower() or 'doamna' in r.text.lower():
+                        html = r.text
+                        used_url = url
+                        break
+            except Exception:
+                continue
+        
+        if not html:
             return None
+        
+        url = used_url
+        
+        # Extract data
+        title = self.extract_title(html)
+        date = self.extract_date_from_title(title) or datetime.now().strftime("%Y-%m-%d")
+        
+        # Generate session ID
+        sess_id = f"session_{year}_{session_id}"
+        
+        # Extract persons
+        persons = self.extract_persons(html, sess_id)
+        
+        # Extract statements
+        statements = self.extract_statements(html, sess_id, date)
+        
+        # Extract laws
+        laws = self.extract_laws(html)
+        
+        # Generate summary
+        summary = self.generate_summary(html, sess_id, date)
+        
+        return {
+            'id': sess_id,
+            'year': year,
+            'session_id': session_id,
+            'title': title,
+            'date': date,
+            'url': url,
+            'persons': persons,
+            'statements': statements,
+            'laws': laws,
+            'summary': summary,
+            'html': html
+        }
     
     def save_stenogram(self, data: Dict):
         """Save stenogram HTML to file."""
@@ -619,13 +647,13 @@ participants:
         for year in years:
             session_ids = self.get_session_ids(year, max_id)
             
-            # Filter out already-extracted sessions
+# Filter out already-extracted sessions
             filtered = []
             for sid in session_ids:
                 data = self.scrape_session(year, sid)
                 if not data:
                     continue
-                    
+                
                 date = data.get('date', '')
                 is_duplicate = self.validator.check_duplicate(data, 'deputies')
                 
@@ -636,13 +664,17 @@ participants:
                     existing = self.validator.get_existing_session(date, 'deputies')
                     if existing and existing['is_complete']:
                         # Already have complete data, skip this session
+                        self.log(f"    -> Skipping (complete data exists)")
                         continue
                     else:
                         # Existing data incomplete, validate this one
+                        self.log(f"    -> Existing incomplete, validating...")
                         is_valid, msg = self.validator.validate_session(data)
                         if is_valid:
                             self.statistics['sessions_validated'] += 1
                             filtered.append(sid)
+                        else:
+                            self.log(f"    -> Validation failed: {msg}")
                 else:
                     filtered.append(sid)
             
@@ -696,6 +728,41 @@ participants:
                 
                 # Save session to vault
                 self._save_session_to_vault(data)
+                
+                # Resolve MP names to canonical entities
+                resolved_mps = []
+                for name, sess_id in data['persons']:
+                    result = self.resolver.resolve(name, 'deputies')
+                    if result.canonical_id:
+                        resolved_mps.append(result.canonical_name)
+                        if result.confidence < 0.95:
+                            self.log(f"  Resolved: {name} -> {result.canonical_name} ({result.method}, {result.confidence:.2f})")
+                    else:
+                        self.log(f"  Unresolved: {name}")
+                        resolved_mps.append(name)
+                
+                # Learn from this scrape operation
+                self.memory.learn(
+                    action={
+                        'type': 'scrape_session',
+                        'description': f"Scraped {len(data['persons'])} MPs, {len(data['laws'])} laws, {len(data['statements'])} statements from {data.get('date')}",
+                        'parameters': {
+                            'chamber': 'deputies',
+                            'year': year,
+                            'session_id': session_id,
+                            'date': data.get('date'),
+                            'mps_count': len(data['persons']),
+                            'laws_count': len(data['laws']),
+                            'statements_count': len(data['statements']),
+                            'url': data['url']
+                        }
+                    },
+                    outcome={
+                        'success': True,
+                        'sessions_scraped': 1,
+                        'duration_ms': 0
+                    }
+                )
                 
                 self.statistics['sessions_scraped'] += 1
                 
