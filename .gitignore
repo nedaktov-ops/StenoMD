@@ -11,11 +11,12 @@ knowledge_graph/entities.json
 knowledge_graph/*.db
 knowledge_graph/*.sqlite3
 
-# Configuration (SECURITY - sensitive)
-scripts/config.py
+# Configuration (SECURITY - sensitive overrides)
 scripts/*.env
 .env
 .env.local
+scripts/config.local.py
+scripts/config.secrets.py
 
 # Memory/SQLite databases
 scripts/memory/*.db

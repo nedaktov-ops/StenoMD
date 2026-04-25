@@ -30,9 +30,20 @@ sys.path.insert(0, str(PROJECT_DIR / "scripts"))
 
 from parliament_qa import ParliamentQA
 
-VAULT_DIR = PROJECT_DIR / "vault"
-KG_DIR = PROJECT_DIR / "knowledge_graph"
-KG_DB = KG_DIR / "knowledge_graph.db"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    VAULT_DIR = config.VAULT_DIR
+    KG_DIR = config.KG_DIR
+    KG_DB = config.KG_DB
+    ALLOWED_ORIGIN = config.ALLOWED_ORIGIN
+except ImportError:
+    # Fallback for backward compatibility
+    VAULT_DIR = PROJECT_DIR / "vault"
+    KG_DIR = PROJECT_DIR / "knowledge_graph"
+    KG_DB = KG_DIR / "knowledge_graph.db"
+    ALLOWED_ORIGIN = "localhost"
 
 
 class RequestHandler(BaseHTTPRequestHandler):
@@ -44,8 +55,15 @@ class RequestHandler(BaseHTTPRequestHandler):
             self._qa = ParliamentQA()
         return self._qa
     
+    def _set_cors_headers(self):
+        """Set CORS headers from config."""
+        self.send_header('Access-Control-Allow-Origin', ALLOWED_ORIGIN)
+        self.send_header('Access-Control-Allow-Methods', 'GET, OPTIONS')
+        self.send_header('Access-Control-Allow-Headers', 'Content-Type')
+    
     def do_GET(self):
         """Handle GET requests."""
+        self._set_cors_headers()
         parsed = urlparse(self.path)
         path = parsed.path
         query = parse_qs(parsed.query)
@@ -115,7 +133,10 @@ class RequestHandler(BaseHTTPRequestHandler):
             q += " AND object LIKE ?"
             params.append(f"%{obj}%")
         
-        q += f" LIMIT {limit}"
+        # Use parameterized query for LIMIT
+        limit = min(max(1, int(limit)), 100)  # Sanitize and cap at 100
+        params.append(limit)
+        q += " LIMIT ?"
         
         cursor.execute(q, params)
         results = [dict(row) for row in cursor.fetchall()]

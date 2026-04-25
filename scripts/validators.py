@@ -261,7 +261,12 @@ class DataValidator:
 def get_validator(vault_dir: Path = None) -> DataValidator:
     """Get validator instance with configured vault path."""
     if vault_dir is None:
-        vault_dir = Path(__file__).parent.parent.parent / "vault"
+        # Use config if available, otherwise fallback
+        try:
+            from config import get_config
+            vault_dir = get_config().VAULT_DIR
+        except ImportError:
+            vault_dir = Path(__file__).parent.parent.parent / "vault"
     return DataValidator(vault_dir)
 
 

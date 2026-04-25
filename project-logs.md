@@ -3032,7 +3032,26 @@ MP_NAME_PATTERN_HTML = re.compile(
 
 ---
 
-## CONFIGURATION SYSTEM IMPLEMENTATION PLAN (2026-04-25)
+## PHASE 2 COMPLETE (2026-04-25)
+
+### Fixed Files
+
+| File | Changes |
+|------|---------|
+| scripts/dashboard.py | Use config import with fallback |
+| scripts/query/rest_api.py | Config import, CORS from ALLOWED_ORIGIN, SQL injection fixed |
+| scripts/query/parliament_qa.py | Use config import |
+| scripts/validators.py | Backward compatibility fix |
+| scripts/merge_vault_to_kg.py | Use config import |
+
+### Security Fixes
+- **CORS**: Now uses ALLOWED_ORIGIN from config
+- **SQL Injection**: Parameterized LIMIT query (sanitized + capped at 100)
+- **Paths**: All use config instead of hardcoded values
+
+---
+
+**Status:** Phase 2 complete
 
 ### Analysis: Blind Spot Review by Smart Planner Agent
 

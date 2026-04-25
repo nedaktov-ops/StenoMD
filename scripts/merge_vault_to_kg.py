@@ -7,9 +7,17 @@ from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Set
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-KG_FILE = PROJECT_DIR / "knowledge_graph" / "entities.json"
-VAULT_DIR = PROJECT_DIR / "vault"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    KG_FILE = config.ENTITIES_FILE
+    VAULT_DIR = config.VAULT_DIR
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    KG_FILE = PROJECT_DIR / "knowledge_graph" / "entities.json"
+    VAULT_DIR = PROJECT_DIR / "vault"
 
 
 def parse_frontmatter(content: str) -> tuple:

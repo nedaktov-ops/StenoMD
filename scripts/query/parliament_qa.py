@@ -17,9 +17,19 @@ from typing import Dict, List, Optional, Tuple
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_DIR = SCRIPT_DIR.parent.parent
 SCRIPTS_DIR = PROJECT_DIR / "scripts"
-VAULT_DIR = PROJECT_DIR / "vault"
-KG_DIR = PROJECT_DIR / "knowledge_graph"
-KG_DB = KG_DIR / "knowledge_graph.db"
+
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    VAULT_DIR = config.VAULT_DIR
+    KG_DIR = config.KG_DIR
+    KG_DB = config.KG_DB
+except ImportError:
+    VAULT_DIR = PROJECT_DIR / "vault"
+    KG_DIR = PROJECT_DIR / "knowledge_graph"
+    KG_DB = KG_DIR / "knowledge_graph.db"
+
 RESOLVE_DIR = SCRIPTS_DIR / "resolve"
 
 

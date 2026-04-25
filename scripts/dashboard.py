@@ -11,13 +11,24 @@ from pathlib import Path
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 
-app = FastAPI(title="StenoMD Dashboard")
+app = FastAPI(title="Steno MD Dashboard")
 
-BASE_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-VAULT_DIR = BASE_DIR / "vault"
-DATA_DIR = BASE_DIR / "data"
-SCRIPTS_DIR = BASE_DIR / "scripts"
-PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
+# Use centralized configuration
+try:
+    from scripts.config import get_config
+    config = get_config()
+    BASE_DIR = config.BASE_DIR
+    VAULT_DIR = config.VAULT_DIR
+    DATA_DIR = config.DATA_DIR
+    SCRIPTS_DIR = BASE_DIR / "scripts"
+    PROGRESS_FILE = config.PROGRESS_FILE
+except ImportError:
+    # Fallback for backward compatibility
+    BASE_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    VAULT_DIR = BASE_DIR / "vault"
+    DATA_DIR = BASE_DIR / "data"
+    SCRIPTS_DIR = BASE_DIR / "scripts"
+    PROGRESS_FILE = Path("/tmp/stenomd_progress.json")
 
 scrape_status = {
     "cdep": {"running": False, "last_run": None, "result": None},
