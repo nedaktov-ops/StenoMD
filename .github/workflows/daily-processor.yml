@@ -13,7 +13,7 @@ on:
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     
     steps:
       - uses: actions/checkout@v4
@@ -26,14 +26,19 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run CDEP Agent
+      - name: Run Chamber Agent (cdep_agent.py)
         run: |
           python scripts/agents/cdep_agent.py --years 2024,2025,2026 --max-id 50 --sync-vault
         continue-on-error: true
 
       - name: Run Senate Agent
         run: |
-          python scripts/agents/senat_agent.py --year 2026 --max 10 --sync-vault
+          python scripts/agents/senat_agent.py --year 2026 --max 30 --sync-vault
+        continue-on-error: true
+
+      - name: Merge vault to knowledge graph
+        run: |
+          python scripts/merge_vault_to_kg.py
         continue-on-error: true
 
       - name: Run Master Controller (merge)

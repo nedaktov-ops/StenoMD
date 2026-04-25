@@ -294,5 +294,41 @@ StenoMD/
 
 ---
 
+## DAILY WORKFLOW FIX (2026-04-25)
+
+### Goal: Fix daily workflow and populate knowledge graph
+
+### Issues Identified
+
+1. **run_daily.py calls DEPRECATED stenomd_scraper.py**
+2. **entities.json empty** - merge_vault_to_kg.py never called
+3. **Vault imbalance** - 158 deputies vs 5 senators
+4. **GitHub workflow missing merge step**
+
+### Implementation Plan
+
+| Step | Action | File |
+|------|--------|------|
+| 1 | Replace full content | `scripts/run_daily.py` |
+| 2 | Add merge step | `.github/workflows/daily-processor.yml` |
+| 3 | Create new script | `scripts/collect_senators.py` |
+| 4 | Patch | `scripts/update_knowledge_graph.py` |
+| 5 | Patch | `scripts/merge_vault_to_kg.py` |
+| 6 | Test dry-run | `python3 run_daily.py --dry-run` |
+| 7 | Run workflow | `python3 run_daily.py` |
+| 8 | Verify KG | `cat knowledge_graph/entities.json` |
+| 9 | Commit | `git add -A && commit` |
+
+### Expected Results
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Daily workflow | BROKEN | WORKING |
+| KG entities | 0 | 160+ |
+| Senators | 5 | 20+ |
+| Health | 82% | 90%+ |
+
+---
+
 *LastUpdated: 2026-04-25*
-*Next Action: Run Phase 1 - CDEP scale-up with max_id=200*
+*Next Action: Fix run_daily.py - replace deprecated scraper with cdep_agent.py*

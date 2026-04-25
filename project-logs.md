@@ -2948,4 +2948,88 @@ MP_NAME_PATTERN_HTML = re.compile(
 
 ---
 
-**Status:** Phase 1 Complete - Alternative data source found and imported
+## DAILY WORKFLOW FIX PLAN (2026-04-25)
+
+### Analysis Summary (from Smart Planner Agent)
+
+| Metric | Current | Target | Status |
+|--------|---------|--------|--------|
+| Health Score | 82% | 95%+ | ⚠️ Stable |
+| Total Sessions | 110 | 200 | 55% |
+| Knowledge Graph | Empty | Populated | ❌ CRITICAL |
+| Daily Workflow | Broken | Working | ❌ CRITICAL |
+| Senators in Vault | 5 | 20+ | ❌ Gap |
+
+### Issues Identified
+
+| Issue | Severity | Root Cause |
+|------|----------|-----------|
+| run_daily.py calls deprecated stenomd_scraper.py | CRITICAL | Script marked deprecated |
+| entities.json empty | CRITICAL | merge_vault_to_kg.py never called |
+| Vault imbalance: 158 deputies vs 5 senators | HIGH | Missing Senate scraping |
+| GitHub workflow missing merge step | MEDIUM | Pipeline incomplete |
+
+### Implementation Plan (5 Phases)
+
+#### Phase 1: Fix Daily Workflow
+- REPLACE `scripts/run_daily.py` entirely
+- Use `cdep_agent.py` + `senat_agent.py` instead of deprecated `stenomd_scraper.py`
+- Add `--dry-run` flag for testing
+- Add 5 steps: Chamber → Senate → Merge → Validate → Status
+
+#### Phase 2: Update GitHub Workflow
+- UPDATE `.github/workflows/daily-processor.yml`
+- Add `merge_vault_to_kg.py` step
+- Increase timeout to 45 minutes
+
+#### Phase 3: Create Senator Collection Script
+- CREATE `scripts/collect_senators.py`
+- Find senators in sessions not in vault
+- Run with `--years 2024,2025,2026 --max 50`
+
+#### Phase 4: Patch Update Scripts
+- UPDATE `scripts/update_knowledge_graph.py` - use cdep_agent.py
+- UPDATE `scripts/merge_vault_to_kg.py` - add logging
+
+#### Phase 5: Run and Verify
+- RUN `python3 scripts/run_daily.py --dry-run` (test)
+- RUN full workflow
+- VERIFY knowledge graph populated
+
+### Files Modified
+
+| File | Action |
+|------|--------|
+| scripts/run_daily.py | REPLACE |
+| .github/workflows/daily-processor.yml | UPDATE |
+| scripts/collect_senators.py | CREATE |
+| scripts/update_knowledge_graph.py | PATCH |
+| scripts/merge_vault_to_kg.py | PATCH |
+
+### Execution Status
+
+| Task | Status |
+|------|--------|
+| Update project logs | 🔄 IN PROGRESS |
+| Update timeline | ⏳ PENDING |
+| Fix run_daily.py | ⏳ PENDING |
+| Update workflow | ⏳ PENDING |
+| Create collect_senators.py | ⏳ PENDING |
+| Patch update scripts | ⏳ PENDING |
+| Test workflow | ⏳ PENDING |
+| Verify KG | ⏳ PENDING |
+| Commit to GitHub | ⏳ PENDING |
+
+### Expected Results After Implementation
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Knowledge Graph entities | 0 | 160+ |
+| Daily workflow | Broken | Working |
+| Senators in vault | 5 | 20+ |
+| Session coverage | 55% | 80%+ |
+| Health score | 82% | 90%+ |
+
+---
+
+**Status:** Ready for implementation - Strategy approved by user
