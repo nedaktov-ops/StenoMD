@@ -127,6 +127,76 @@ class TopicClassifier:
                 'gaze', 'petrol', 'carburanți', 'combustibil'
             ],
             'description': 'Infrastructure'
+        },
+        'cultura': {
+            'keywords': [
+                'cultură', 'cultural', 'artă', 'artist', 'teatru', 'cinema', 'film',
+                'muzee', 'muzeu', 'monument', 'patrimoniu', 'conservare',
+                'CARANTINA', 'spectacol', 'concert', 'festival', 'carantină',
+                'carantare', 'izolare', 'distanțare', 'restricții',
+                'patrimoniu cultural', 'teatru', 'operă', 'balet'
+            ],
+            'description': 'Culture and Arts'
+        },
+        'cercetare': {
+            'keywords': [
+                'cercetare', 'cercetător', 'știință', 'scientific', 'inovare',
+                'ANCSI', 'UEFISCDI', 'INCD', 'Institutul Național',
+                'grant', 'proiect de cercetare', 'competiție',
+                'doctorat', 'postdoctorat', 'laborator',
+                'experIMENT', 'studiu clinic', 'trial',
+                'inovație', 'tehnologie', 'high-tech'
+            ],
+            'description': 'Research and Innovation'
+        },
+        'transport': {
+            'keywords': [
+                'transport', 'transporturi', 'transport public',
+                'metrou', 'autobuz', 'tramvai', 'troleibuz',
+                'CFR', ' CFR Calatori', 'STB', 'metrorex',
+                'șofer', 'conducător', 'vehicul', 'masina',
+                'trafic', 'circulație', 'pod', 'pasarelă',
+                'siguranța rutieră', 'accident', 'CNSU'
+            ],
+            'description': 'Transportation'
+        },
+        'energie': {
+            'keywords': [
+                'energie', 'energie electrică', 'energie regenerabilă',
+                'electric', 'electricitate', 'curent',
+                'ANRE', 'Transelectrica', 'Termoelectrica',
+                'nuclear', 'centrală nucleară', 'Cernavodă',
+                'eolian', 'vânt', 'turbină', 'parc eolian',
+                'solar', 'fotovoltaic', 'panou solar',
+                'hidroelectric', 'hidrocentralka',
+                'gaz', 'gaze naturale', 'transgaz', 'romgaz',
+                'petrol', 'țitei', 'extractie',
+                'consum', 'consumator', 'factură', 'preț'
+            ],
+            'description': 'Energy'
+        },
+        'administratie': {
+            'keywords': [
+                'administrație', 'administratie publică', 'guvern',
+                'minister', 'ministerul', 'departament', 'agenție',
+                'Prefectura', 'prefect', 'primar', 'primărie',
+                'consiliu', 'consiliul local', 'consiliul judetean',
+                'CJ', 'CL', 'hotărâre', 'decizie',
+                'ordine', 'ordonanță', 'HG', 'OG', 'OUG'
+            ],
+            'description': 'Public Administration'
+        },
+        'munca': {
+            'keywords': [
+                'muncă', 'lucru', 'angajare', 'angajat', 'angajator',
+                'SOMAJ', 'șomaj', 'șomere', 'neangajat',
+                'contract', 'contract de muncă', 'CIM',
+                'salariu', 'brut', 'net', 'leafă',
+                'relații de muncă', 'codul muncii',
+                'inspectorat', 'ITM', 'control', 'amendă',
+                'drepturi', 'obligații', 'pază', 'securitate'
+            ],
+            'description': 'Labor and Employment'
         }
     }
     
@@ -170,11 +240,9 @@ class TopicClassifier:
                     matches.append(keyword)
             
             if matches:
-                # Confidence based on number of keyword matches
                 confidence = min(0.5 + (len(matches) * 0.1), 1.0)
                 results.append((topic, confidence, matches[0]))
         
-        # Sort by confidence
         results.sort(key=lambda x: x[1], reverse=True)
         return results
     

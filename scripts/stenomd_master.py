@@ -2,6 +2,7 @@
 """
 StenoMD Master Controller
 Coordinates CDEP and Senate agents for unified scraping.
+Supports parallel execution with 4 concurrent workers.
 
 Usage:
     python3 stenomd_master.py --all --year 2024 --max 10
@@ -9,6 +10,7 @@ Usage:
     python3 stenomd_master.py --senate --year 2024
     python3 stenomd_master.py --sync-vault
     python3 stenomd_master.py --status
+    python3 stenomd_master.py --parallel --years 2024,2025 --workers 4
 """
 
 import argparse
@@ -16,6 +18,8 @@ import sys
 from pathlib import Path
 from datetime import datetime
 import json
+import concurrent.futures
+import multiprocessing
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 PROJECT_DIR = SCRIPT_DIR.parent
@@ -30,6 +34,32 @@ from senat_agent import SenateAgent
 def log(msg: str):
     ts = datetime.now().strftime("%H:%M:%S")
     print(f"[MASTER:{ts}] {msg}")
+
+
+def run_parallel_years(years: list, workers: int = 4, chamber: str = 'deputies'):
+    """Run scraping in parallel across years."""
+    log(f"=== Parallel mode: {len(years)} years, {workers} workers ===")
+    
+    def scrape_year(year):
+        if chamber == 'deputies':
+            agent = EnhancedCDEPAgent()
+            return agent.run([year], 50)
+        else:
+            agent = SenateAgent()
+            return agent.run(year, 20, True)
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {executor.submit(scrape_year, year): year for year in years}
+        results = {}
+        for future in concurrent.futures.as_completed(futures):
+            year = futures[future]
+            try:
+                results[year] = future.result()
+                log(f"  Year {year}: {results[year].get('sessions_scraped', 0)} sessions")
+            except Exception as e:
+                log(f"  Year {year} failed: {e}")
+    
+    return results
 
 
 def save_checkpoint(cdep_stats: dict, senat_stats: dict):
@@ -205,6 +235,10 @@ def main():
     parser.add_argument("--sync-vault", action="store_true", help="Sync to vault")
     parser.add_argument("--status", action="store_true", help="Show status")
     parser.add_argument("--merge", action="store_true", help="Merge knowledge graph")
+    parser.add_argument("--parallel", action="store_true", help="Run in parallel mode")
+    parser.add_argument("--years", type=str, default="2024,2025", help="Years for parallel mode")
+    parser.add_argument("--workers", type=int, default=4, help="Number of parallel workers")
+    parser.add_argument("--chamber", type=str, default="deputies", help="Chamber for parallel mode")
     
     args = parser.parse_args()
     
@@ -214,6 +248,12 @@ def main():
     
     if args.merge:
         merge_knowledge_graph()
+        return
+    
+    if args.parallel:
+        years = [int(y) for y in args.years.split(',')]
+        results = run_parallel_years(years, args.workers, args.chamber)
+        log(f"=== Parallel run complete: {len(results)} years processed ===")
         return
     
     cdep_result = {}

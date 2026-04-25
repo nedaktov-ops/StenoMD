@@ -63,14 +63,15 @@ class EntityResolver:
     # Name variations that indicate same person
     HONORIFICS = ['domnul', 'doamna', 'dl', 'dna', 'dr', 'ing.']
     
-    # Common name normalizations
+    # Common name normalizations - expanded for Romanian diacritics
     NAME_NORMALIZATIONS = {
         'á': 'a', 'à': 'a', 'â': 'a', 'ă': 'a',
         'é': 'e', 'è': 'e', 'ê': 'e',
-        'í': 'i', 'ì': 'i',
+        'í': 'i', 'ì': 'i', 'î': 'i', 'Î': 'I',
         'ó': 'o', 'ò': 'o', 'ô': 'o', 'ö': 'o',
         'ú': 'u', 'ù': 'u', 'û': 'u',
-        'ț': 't', 'ş': 's',
+        'ț': 't', 'Ț': 'T', 'ş': 's', 'Ş': 'S',
+        'ă': 'a', 'Ă': 'A',
     }
     
     def __init__(self):

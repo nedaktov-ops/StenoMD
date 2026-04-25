@@ -12,10 +12,13 @@ Features:
 - Enhanced law number detection
 - Duplicate detection via vault validation
 - Backward traversal when session already extracted
+- Request caching (1hr TTL)
+- Year-range scraping support
 
 Usage:
     python3 cdep_agent.py --update --years 2024,2025,2026
     python3 cdep_agent.py --backfill --year 2020
+    python3 cdep_agent.py --years 2015-2026
 """
 
 import requests
@@ -30,8 +33,13 @@ import sys
 from typing import Dict, List, Set, Optional, Tuple
 from uuid import uuid4
 import argparse
+import functools
 
 PROGRESS_FILE = Path("/tmp/stenomd_progress_cdep.json")
+
+# Request cache with 1hr TTL
+REQUEST_CACHE: Dict[str, Tuple[str, float]] = {}
+CACHE_TTL = 3600  # 1 hour
 
 def write_progress(chamber: str, current: int, total: int, session_name: str):
     """Write progress to file for dashboard polling."""
@@ -208,6 +216,57 @@ class EnhancedCDEPAgent:
         """Random delay to avoid rate limiting."""
         delay = random.uniform(min_sec, max_sec)
         time.sleep(delay)
+    
+    def _get_cached(self, url: str) -> Optional[str]:
+        """Get cached response if not expired."""
+        if url in REQUEST_CACHE:
+            content, timestamp = REQUEST_CACHE[url]
+            if time.time() - timestamp < CACHE_TTL:
+                return content
+        return None
+    
+    def _set_cached(self, url: str, content: str):
+        """Cache response with timestamp."""
+        REQUEST_CACHE[url] = (content, time.time())
+    
+    def get_session_ids_from_calendar(self, year: int) -> List[int]:
+        """Discover all session IDs for a given year using calendar page.
+        
+        This is more efficient than brute-force ID scanning.
+        """
+        self.log(f"Discovering sessions for {year} from calendar...")
+        session_ids = []
+        
+        calendar_url = f"{BASE_URL}/pls/steno/steno{year}.Calendar?cam=1&an={year}"
+        
+        try:
+            r = self.session.get(calendar_url, timeout=20)
+            if r.status_code != 200:
+                self.log(f"Calendar unavailable, falling back to ID scan")
+                return self.get_session_ids(year, 200)
+            
+            soup = BeautifulSoup(r.text, 'html.parser')
+            
+            links = soup.find_all('a', href=True)
+            for link in links:
+                href = link.get('href', '')
+                match = re.search(r'ids=(\d+)', href)
+                if match:
+                    sid = int(match.group(1))
+                    if sid not in session_ids:
+                        session_ids.append(sid)
+            
+            if not session_ids:
+                self.log(f"No calendar links found, falling back to ID scan")
+                return self.get_session_ids(year, 200)
+                
+        except Exception as e:
+            self.log(f"Calendar error: {e}, falling back to ID scan")
+            return self.get_session_ids(year, 200)
+        
+        session_ids.sort()
+        self.log(f"Discovered {len(session_ids)} sessions from calendar")
+        return session_ids
     
     def get_session_ids(self, year: int, max_id: int = 200) -> List[int]:
         """Discover all session IDs for a given year."""
@@ -647,7 +706,10 @@ participants:
         
         # Discover all sessions across years
         for year in years:
-            session_ids = self.get_session_ids(year, max_id)
+            # Try calendar discovery first (faster)
+            session_ids = self.get_session_ids_from_calendar(year)
+            
+            # If calendar failed, fall back to ID scan
             
 # Filter out already-extracted sessions
             filtered = []
@@ -803,7 +865,7 @@ def main():
     parser = argparse.ArgumentParser(description='Enhanced CDEP Agent')
     parser.add_argument('--update', action='store_true', help='Update recent data')
     parser.add_argument('--backfill', action='store_true', help='Backfill historical data')
-    parser.add_argument('--years', default='2024,2025,2026', help='Years to process (comma-separated)')
+    parser.add_argument('--years', default='2024,2025,2026', help='Years to process (comma-separated, or range like 2015-2026)')
     parser.add_argument('--year', type=int, help='Single year for backfill')
     parser.add_argument('--max-id', type=int, default=200, help='Max session ID to try')
     parser.add_argument('--json-output', action='store_true', help='Output JSON summary to stdout')
@@ -814,7 +876,15 @@ def main():
     agent = EnhancedCDEPAgent()
     
     if args.update or not args.backfill:
-        years = [int(y) for y in args.years.split(',')]
+        years_str = args.years
+        
+        # Handle range like "2015-2026"
+        if '-' in years_str and ',' not in years_str:
+            start_year, end_year = map(int, years_str.split('-'))
+            years = list(range(start_year, end_year + 1))
+        else:
+            years = [int(y) for y in years_str.split(',')]
+        
         result = agent.run(years, args.max_id)
     elif args.backfill and args.year:
         result = agent.run([args.year], args.max_id)

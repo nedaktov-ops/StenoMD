@@ -39,14 +39,61 @@ class Classification:
 class PositionClassifier:
     """Classifies MP statements by position."""
     
-    # PRO keywords (supporting position)
+# PRO keywords (supporting position)
     PRO_KEYWORDS = [
         'sunt de acord', 'sunt în acord', 'susțin', 'susțin propunerea',
         'vot pentru', 'vot în favoare', 'sunt favorabil', 'sunt favorabilă',
         'aprobat', 'aprob', 'agree', 'favor', 'da', 'exact', 'corect',
         'este necesar', 'este important', 'sprijin', 'sprijină',
         'benefic', 'util', 'oportun', 'necesar', 'justificat',
-        'proiectul este bun', 'legea este necesară', 'votăm pentru'
+        'proiectul este bun', 'legea este necesară', 'votăm pentru',
+        'îmi exprim acordul', 'exprima acordul', 'salut inițiativa',
+        'bine, votăm', 'de acord cu', 'concord cu', 'coincidem',
+        'sublinie-import', 'appreciez', 'apreciez propunerea',
+        'excelent', 'foarte bine', 'perfect', 'ideal',
+        'propunerea merită', 'merită susținut', 'merită votat',
+        'obiectiv bun', 'scop lăudabil', 'inițiativă bună',
+        'cadrul legal', 'abordare corectă', 'soluție bună',
+        'susținere', 'aprobare', 'validare', 'confirmare',
+        'vot pozitiv', 'aviz favorabil', 'raport favorabil',
+        'amendament bun', 'text excelent', 'abordare pragmatică',
+        'necesitate reală', 'problemă reală', 'soluție viabilă',
+        'colaborare', 'parteneriat', 'consens', 'unanimitate',
+        'angajament', 'responsabilitate', 'compromis',
+        'stabilitate', 'dezvoltare', 'creștere',
+        'beneficii concrete', 'rezultate concrete', 'impact pozitiv',
+        'efecte pozitive', 'consecințe pozitive', 'valori adăugate'
+    ]
+    
+    # CONTRA keywords (opposing position)
+    CONTRA_KEYWORDS = [
+        'nu sunt de acord', 'nu sunt în acord', 'nu susțin',
+        'vot împotrivă', 'vot contra', 'mă opun', 'se opun',
+        'resping', 'respingeți', 'respingem', 'nu votez',
+        'nu este corect', 'nu este justificat', 'nu este necesar',
+        'nu este oportun', 'dăunător', 'dăunătoare', 'periculos',
+        'împotriva', 'contra', 'negative', 'defavorabil',
+        'proiectul este rău', 'legea nu este necesară', 'nu putem accepta',
+        'nu înțeleg de ce', 'neoportun', 'inutil', 'iresponsabil',
+        'improvizație', 'haotic', 'greșit', 'eror',
+        'subfinanțare', 'subfinantat', 'buget insuficient',
+        'lipsa de viziune', 'lipsă viziune', 'lipsă de leadership',
+        'sacrificare', 'abandonare', 'neglijare',
+        'corupție', 'fraudă', 'abuz', 'abuz de putere',
+        'incompetență', 'ineficiență', '-management',
+        'lipsa de transparență', 'lipsă de transparență', 'secrecy',
+        'discriminare', 'injustiție', 'inegalitate',
+        'nu am primit răspuns', 'fără răspuns', 'evaziv',
+        'nu este clar', 'neclar', 'ambiguitate', 'vagu',
+        'lipsesc actele', 'acte lipsă', 'documentație incompleta',
+        'procedură greșită', 'procedură incorectă', 'ilegal',
+        'neconstituțional', 'neconstitutional', 'neconstituțional',
+        'încălcare', 'încălcarea drepturilor', 'abuz',
+        'inamici publici', 'risc public', 'pericol public',
+        'impact negativ', 'efecte negative', 'consecințe negative',
+        'cost(uri) prea mare', 'prea scump', 'scump',
+        'lipsa de resurse', 'lipsă de resurse', 'resurse insuficiente',
+        'nu este fezabil', 'nefezabil', 'nerealist'
     ]
     
     # CONTRA keywords (opposing position)

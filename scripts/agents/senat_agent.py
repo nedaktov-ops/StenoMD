@@ -148,13 +148,31 @@ class SenateAgent:
                 data[name] = value
         return data
     
-    def search_sessions(self, year: int) -> List[Tuple[str, str, str]]:
-        """Search for sessions.
+    def search_sessions(self, year: int, max_pages: int = 5) -> List[Tuple[str, str, str]]:
+        """Search for sessions with pagination support.
         
         Note: senat.ro only returns current legislature sessions.
-        Returns up to max_sessions from current page.
+        Returns up to max_sessions from multiple pages.
         """
-        self.log(f"Searching for sessions...")
+        self.log(f"Searching for sessions (max {max_pages} pages)...")
+        all_sessions = []
+        
+        for page in range(1, max_pages + 1):
+            sessions = self._search_page(year, page)
+            if not sessions:
+                break
+            
+            all_sessions.extend(sessions)
+            self.log(f"  Page {page}: {len(sessions)} sessions")
+            
+            if len(all_sessions) >= 20:
+                break
+        
+        self.log(f"Found {len(all_sessions)} total sessions")
+        return all_sessions
+    
+    def _search_page(self, year: int, page: int = 1) -> List[Tuple[str, str, str]]:
+        """Search a single page of sessions."""
         sessions = []
         
         r = self.session.get(f"{BASE_URL}/StenoPag2.aspx", timeout=15)
