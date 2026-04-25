@@ -383,5 +383,17 @@ StenoMD/
 
 ---
 
+## PHASE 4 COMPLETE (2026-04-25)
+
+### Dead Code Removed
+| File | Status |
+|------|--------|
+| stenomd_scraper.py | Archived |
+| scrape_cdep.py | Archived |
+| dashboard.py.backup.* | Archived |
+| run_daily.py.bak | Archived |
+
+---
+
 *LastUpdated: 2026-04-25*
-*Next Action: Commit Phase 3 to GitHub*
+*Next Action: Commit Phase 4 to GitHub*

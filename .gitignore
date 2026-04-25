@@ -27,4 +27,5 @@ scripts/.watcher_state.json
 
 # Backups (local only)
 backups/
+archive/
 *.bak
