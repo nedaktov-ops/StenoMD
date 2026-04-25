@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""StenoMD Planner Agent - Smart project planning and analysis."""
+"""Steno MD Planner Agent - Smart project planning and analysis."""
 import sys
 import argparse
+import os
 from pathlib import Path
 
 # Add to path
@@ -15,17 +16,35 @@ from pattern_miner import PatternMiner
 from notifications import NotificationService
 
 
-class PlannerAgent:
-    """Smart Planner Agent for StenoMD project."""
+def _get_default_project_root() -> Path:
+    """Get default project root with config fallback."""
+    # Try config first
+    try:
+        sys.path.insert(0, str(Path(__file__).parent.parent))
+        from config import get_config
+        return get_config().PROJECT_ROOT
+    except (ImportError, AttributeError):
+        pass
     
-    def __init__(self, project_root: str = "/home/adrian/Desktop/NEDAILAB/StenoMD"):
-        self.project_root = Path(project_root)
+    # Fallback to environment variable or default
+    env_root = os.environ.get('STENOMD_DIR')
+    if env_root:
+        return Path(env_root)
+    
+    return Path(__file__).parent.parent.parent
+
+
+class PlannerAgent:
+    """Smart Planner Agent for Steno MD project."""
+    
+    def __init__(self, project_root: str = None):
+        self.project_root = Path(project_root) if project_root else _get_default_project_root()
         
-        self.analyzer = ProblemAnalyzer(project_root)
-        self.researcher = SolutionResearcher(project_root)
+        self.analyzer = ProblemAnalyzer(str(self.project_root))
+        self.researcher = SolutionResearcher(str(self.project_root))
         self.decision_engine = DecisionEngine()
-        self.auto_fixer = AutoFixer(project_root)
-        self.pattern_miner = PatternMiner(project_root)
+        self.auto_fixer = AutoFixer(str(self.project_root))
+        self.pattern_miner = PatternMiner(str(self.project_root))
         self.notifier = NotificationService()
         
     def analyze(self, deep: bool = False) -> str:
@@ -101,7 +120,8 @@ def main():
     parser.add_argument('--fix-all', action='store_true', help='Fix all')
     parser.add_argument('--plan', type=str, help='Plan for goal')
     parser.add_argument('--health', action='store_true', help='Health check')
-    parser.add_argument('--project-root', type=str, default='/home/adrian/Desktop/NEDAILAB/StenoMD')
+    parser.add_argument('--project-root', type=str, 
+                        default=str(_get_default_project_root()))
     
     args = parser.parse_args()
     
