@@ -1,0 +1,35 @@
+---
+name: Mirela Elena ADOMNICĂI
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: PSD
+party_full: Partidul Social Democrat
+constituency: SUCEAVA
+photo_url: https://www.cdep.ro/parlamentari/l2024/AdomnicaiMirelaElena.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=1&cam=2
+idm: 1
+speeches_count: 6
+laws_proposed: 25
+stable_id: pol_5b6ba3e8abb9
+type: deputy
+---
+
+# Mirela Elena ADOMNICĂI
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=1&cam=2)
+
+## Profile
+
+**Party:** Partidul Social Democrat  
+**Constituency:** SUCEAVA  
+**Speeches:** 6  
+**Laws Proposed:** 25
+
+## Notes
+
+*Deputy in the Romanian Parliament*
+
+*Last updated: 2026-04-25 20:11:47*

@@ -1,0 +1,35 @@
+---
+name: Angel TÎLVĂR
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: PSD
+party_full: Partidul Social Democrat
+constituency: VRANCEA
+photo_url: https://www.cdep.ro/parlamentari/l2024/TilvarAngel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=302&cam=2
+idm: 302
+speeches_count: 2
+laws_proposed: 4
+stable_id: pol_da6de05a4b4e
+type: deputy
+---
+
+# Angel TÎLVĂR
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=302&cam=2)
+
+## Profile
+
+**Party:** Partidul Social Democrat  
+**Constituency:** VRANCEA  
+**Speeches:** 2  
+**Laws Proposed:** 4
+
+## Notes
+
+*Deputy in the Romanian Parliament*
+
+*Last updated: 2026-04-25 20:11:47*

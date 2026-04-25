@@ -1,0 +1,35 @@
+---
+name: Andreea-Petronela CÎMPIANU
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării
+photo_url: https://www.cdep.ro/parlamentari/l2024/CimpianuAndreeaPetronela.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=67&cam=2
+idm: 67
+speeches_count: 6
+laws_proposed: 29
+stable_id: pol_d032be41242e
+type: deputy
+---
+
+# Andreea-Petronela CÎMPIANU
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=67&cam=2)
+
+## Profile
+
+**Party:** Partidul S.O.S. România  
+**Constituency:** Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării  
+**Speeches:** 6  
+**Laws Proposed:** 29
+
+## Notes
+
+*Deputy in the Romanian Parliament*
+
+*Last updated: 2026-04-25 20:11:47*

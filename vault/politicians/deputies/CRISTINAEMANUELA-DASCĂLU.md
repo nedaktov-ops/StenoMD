@@ -1,0 +1,35 @@
+---
+name: Cristina-Emanuela DASCĂLU
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: AUR
+party_full: Alianţa pentru Unirea Românilor
+constituency: IAŞI
+photo_url: https://www.cdep.ro/parlamentari/l2024/DascaluCristinaEmanuela.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=89&cam=2
+idm: 89
+speeches_count: 15
+laws_proposed: 38
+stable_id: pol_155cdaa10558
+type: deputy
+---
+
+# Cristina-Emanuela DASCĂLU
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=89&cam=2)
+
+## Profile
+
+**Party:** Alianţa pentru Unirea Românilor  
+**Constituency:** IAŞI  
+**Speeches:** 15  
+**Laws Proposed:** 38
+
+## Notes
+
+*Deputy in the Romanian Parliament*
+
+*Last updated: 2026-04-25 20:11:47*

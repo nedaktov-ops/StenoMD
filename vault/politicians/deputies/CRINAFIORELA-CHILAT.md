@@ -1,0 +1,35 @@
+---
+name: Crina-Fiorela CHILAT
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: PSD
+party_full: Partidul Social Democrat
+constituency: MARAMUREŞ
+photo_url: https://www.cdep.ro/parlamentari/l2024/ChilatCrinaFiorela.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=53&cam=2
+idm: 53
+speeches_count: 1
+laws_proposed: 28
+stable_id: pol_a13b9827d92a
+type: deputy
+---
+
+# Crina-Fiorela CHILAT
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=53&cam=2)
+
+## Profile
+
+**Party:** Partidul Social Democrat  
+**Constituency:** MARAMUREŞ  
+**Speeches:** 1  
+**Laws Proposed:** 28
+
+## Notes
+
+*Deputy in the Romanian Parliament*
+
+*Last updated: 2026-04-25 20:11:47*
