@@ -36,29 +36,33 @@ def main():
     
     print(f"Loaded {len(deputies)} deputies")
     
-    # Load speeches
+    # Load speeches - dedupe by date
     all_speeches = []
+    seen_dates = set()
     for file in speeches_dir.glob("*.json"):
-        mp_id = file.stem
         with open(file) as f:
             data = json.load(f)
             for speech in data.get("data", []):
-                for transcript in speech.get("transcripts", []):
-                    all_speeches.append({
-                        'mp_id': mp_id,
-                        'date': speech.get("date", "")[:10],
-                        'title': speech.get("title", ""),
-                        'ids': speech.get("ids", ""),
-                        'url': transcript.get("fullTextUrl", "")
-                    })
+                date = speech.get("date", "")[:10]
+                if date not in seen_dates:
+                    seen_dates.add(date)
+                    for transcript in speech.get("transcripts", []):
+                        all_speeches.append({
+                            'date': date,
+                            'title': speech.get("title", ""),
+                            'ids': speech.get("ids", ""),
+                            'url': transcript.get("fullTextUrl", "")
+                        })
+                        break  # Only first transcript per date
     
-    print(f"Loaded {len(all_speeches)} speeches")
+    print(f"Loaded {len(all_speeches)} unique sessions")
     
-    # Process limited speeches
+    # Process all speeches
     saved = 0
-    for i, speech in enumerate(all_speeches[:20]):  # Limit for testing
-        mp_name = deputies.get(speech['mp_id'], f"MP-{speech['mp_id']}")
-        print(f"Processing {i+1}/20: {speech['date']} - {mp_name}")
+    errors = 0
+    for i, speech in enumerate(all_speeches):
+        if i % 20 == 0:
+            print(f"Processing {i+1}/{len(all_speeches)}: {speech['date']}")
         
         # Fetch content
         try:
@@ -87,6 +91,7 @@ date: {speech['date']}
 title: {speech['title']}
 chamber: deputies
 ids: {speech['ids']}
+participant_count: {len(mps)}
 participants: {list(mps)}
 laws_discussed: {list(laws)}
 ---
@@ -97,13 +102,13 @@ laws_discussed: {list(laws)}
 **IDs**: {speech['ids']}  
 **Source**: [cdep.ro]({speech['url']})
 
-## Participants
+## Participants ({len(mps)})
 
 """
                 for mp in sorted(mps):
                     content += f"- [[{mp}]]\n"
                 
-                content += "\n## Laws Discussed\n\n"
+                content += f"\n## Laws Discussed ({len(laws)})\n\n"
                 for law in sorted(laws):
                     content += f"- [[{law}]]\n"
                 
@@ -114,11 +119,13 @@ laws_discussed: {list(laws)}
                     f.write(content)
                 
                 saved += 1
-                print(f"  Saved: {vault_file.name}")
         except Exception as e:
-            print(f"  Error: {e}")
+            errors += 1
+            if errors < 5:
+                print(f"  Error ({speech['date']}): {e}")
     
-    print(f"\nSaved {saved} sessions to vault")
+    print(f"\nSaved {saved}/{len(all_speeches)} sessions to vault")
+    print(f"Errors: {errors}")
 
 
 if __name__ == "__main__":
