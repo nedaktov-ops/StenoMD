@@ -1,3 +1,7 @@
+party: PNL
+party_full: Partidul Național Liberal
+constituency: Argeș
+
 ---
 
 name: Mihai Coteț

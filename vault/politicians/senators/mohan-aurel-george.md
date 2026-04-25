@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: PSD
+party_full: Partidul Social Democrat
+constituency: Bihor
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0692f467-f93f-4a21-a06a-8431696053a8

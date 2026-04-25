@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: PSD
+party_full: Partidul Social Democrat
+constituency: Mehedinți
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6a194230-e597-4335-8ce2-1da0b0aae9c4

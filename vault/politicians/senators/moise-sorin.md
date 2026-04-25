@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: PSD
+party_full: Partidul Social Democrat
+constituency: Brăila
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad29025b-adcf-4c9d-8f02-851ab171ff91

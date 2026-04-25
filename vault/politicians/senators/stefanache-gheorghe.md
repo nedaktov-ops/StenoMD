@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: USR
+party_full: Uniunea Salvați România
+constituency: Galați
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=9a773414-4c8d-41af-bd97-d9834eb23395

@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: PNL
+party_full: Partidul Național Liberal
+constituency: Alba
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=082c21cd-dcdb-42bb-9bfd-a871139cb9c5

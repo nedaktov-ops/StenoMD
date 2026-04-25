@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: AUR
+party_full: Alianța pentru Unirea Românilor
+constituency: Brașov
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=edf20da3-a851-4622-b534-0b3d833a51b9

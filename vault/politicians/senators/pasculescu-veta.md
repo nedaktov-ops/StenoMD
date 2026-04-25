@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: PNL
+party_full: Partidul Național Liberal
+constituency: Ilfov
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b236fa71-a4fe-4ee8-b18e-bed743df11d5

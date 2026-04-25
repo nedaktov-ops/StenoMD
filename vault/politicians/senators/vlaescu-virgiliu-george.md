@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: AUR
+party_full: Alianța pentru Unirea Românilor
+constituency: Suceava
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=aec2401e-7bfd-4c9f-9f67-f418bcdc5be5

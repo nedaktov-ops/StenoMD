@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: PNL
+party_full: Partidul Național Liberal
+constituency: Prahova
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=509068b6-ecf9-4365-a022-74b77483ce14

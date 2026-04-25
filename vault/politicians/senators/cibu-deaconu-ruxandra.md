@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: USR
+party_full: Uniunea Salvați România
+constituency: Sibiu
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0a8b45a7-e661-4c59-9169-281f79ff12eb

@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: PNL
+party_full: Partidul Național Liberal
+constituency: Timiș
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=33d88102-6e65-4934-9ecf-10102445c2c4

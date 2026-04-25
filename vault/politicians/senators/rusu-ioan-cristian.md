@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: SOS
+party_full: S.O.S. România
+constituency: Călărași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d9cf2a62-6109-4d68-9452-b54d6b4e786f

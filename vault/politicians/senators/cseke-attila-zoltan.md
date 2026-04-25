@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: UDMR
+party_full: Uniunea Democrată Maghiară din România
+constituency: Bihor
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2af30f2a-5ad3-45db-a322-4073884fed8f

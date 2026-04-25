@@ -1,3 +1,7 @@
+party: AUR
+party_full: Alianța pentru Unirea Românilor
+constituency: Municipiul București
+
 ---
 
 name: Niculina Stelea

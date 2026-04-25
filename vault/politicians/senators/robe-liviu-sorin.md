@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: POT
+party_full: Partidul Oamenilor Tineri
+constituency: Bistrița-Năsăud
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-acef5eed2a63

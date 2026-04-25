@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: UDMR
+party_full: Uniunea Democrată Maghiară din România
+constituency: Mureș
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=827844f4-ed1e-4293-bbe5-3dd527a0d65b

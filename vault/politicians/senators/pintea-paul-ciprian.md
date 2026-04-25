@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: POT
+party_full: Partidul Oamenilor Tineri
+constituency: Sălaj
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6491a652-0d83-455c-b9a9-a04c0f5194c0

@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: SOS
+party_full: S.O.S. România
+constituency: Ialomița
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=8c196354-6157-46a5-8b04-9d394c7b294d

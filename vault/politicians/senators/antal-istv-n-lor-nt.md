@@ -3,9 +3,9 @@ tags:
 - politician
 type: senator
 chamber: senate
-party: UNKN
-party_full: Unknown
-constituency: 
+party: UDMR
+party_full: Uniunea Democrată Maghiară din România
+constituency: Harghita
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=de52f6df-260b-4042-9a60-095a0dbfe661
