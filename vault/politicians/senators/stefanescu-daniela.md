@@ -1,0 +1,29 @@
+---
+tags:
+- politician
+type: senator
+chamber: senate
+party: UNKN
+party_full: Unknown
+constituency: 
+legislature: 2024-2028
+status: active
+url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bd44b5a4-e8ab-43c1-8b0e-dc539f57f668
+---
+
+# ȘTEFĂNESCU Daniela
+
+## Details
+
+- **Party**: Unknown (UNKN)
+- **Constituency**: 
+- **Legislature**: 2024-2028
+- **Source**: senat.ro
+
+## Activity
+
+- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=bd44b5a4-e8ab-43c1-8b0e-dc539f57f668
+
+## Tags
+
+#politician #senator

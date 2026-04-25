@@ -1,0 +1,29 @@
+---
+tags:
+- politician
+type: senator
+chamber: senate
+party: UNKN
+party_full: Unknown
+constituency: 
+legislature: 2024-2028
+status: active
+url: https://senat.ro/FisaSenator.aspx?ParlamentarID=58dd0f59-a7e9-44f4-9860-5316735921e1
+---
+
+# FLUTUR Gheorghe
+
+## Details
+
+- **Party**: Unknown (UNKN)
+- **Constituency**: 
+- **Legislature**: 2024-2028
+- **Source**: senat.ro
+
+## Activity
+
+- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=58dd0f59-a7e9-44f4-9860-5316735921e1
+
+## Tags
+
+#politician #senator

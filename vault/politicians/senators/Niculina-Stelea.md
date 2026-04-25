@@ -1,8 +1,10 @@
 ---
+
 name: Niculina Stelea
 chamber: Senate
 legislature: 2024-2028
 ---
+
 
 # Niculina Stelea
 

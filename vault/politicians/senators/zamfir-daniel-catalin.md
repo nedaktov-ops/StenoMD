@@ -1,0 +1,29 @@
+---
+tags:
+- politician
+type: senator
+chamber: senate
+party: UNKN
+party_full: Unknown
+constituency: 
+legislature: 2024-2028
+status: active
+url: https://senat.ro/FisaSenator.aspx?ParlamentarID=94bb9130-2698-4509-9bea-ffcedf3dac7f
+---
+
+# ZAMFIR Daniel-Cătălin
+
+## Details
+
+- **Party**: Unknown (UNKN)
+- **Constituency**: 
+- **Legislature**: 2024-2028
+- **Source**: senat.ro
+
+## Activity
+
+- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=94bb9130-2698-4509-9bea-ffcedf3dac7f
+
+## Tags
+
+#politician #senator

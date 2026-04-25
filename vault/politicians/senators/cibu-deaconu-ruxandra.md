@@ -1,0 +1,29 @@
+---
+tags:
+- politician
+type: senator
+chamber: senate
+party: UNKN
+party_full: Unknown
+constituency: 
+legislature: 2024-2028
+status: active
+url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0a8b45a7-e661-4c59-9169-281f79ff12eb
+---
+
+# CIBU DEACONU Ruxandra
+
+## Details
+
+- **Party**: Unknown (UNKN)
+- **Constituency**: 
+- **Legislature**: 2024-2028
+- **Source**: senat.ro
+
+## Activity
+
+- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=0a8b45a7-e661-4c59-9169-281f79ff12eb
+
+## Tags
+
+#politician #senator

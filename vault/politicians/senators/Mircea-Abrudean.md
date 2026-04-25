@@ -1,8 +1,10 @@
 ---
+
 name: Mircea Abrudean
 chamber: Senate
 legislature: 2024-2028
 ---
+
 
 # Mircea Abrudean
 

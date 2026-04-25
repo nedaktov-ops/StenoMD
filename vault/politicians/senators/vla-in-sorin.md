@@ -1,0 +1,29 @@
+---
+tags:
+- politician
+type: senator
+chamber: senate
+party: UNKN
+party_full: Unknown
+constituency: 
+legislature: 2024-2028
+status: active
+url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e681a8ad-b809-40ae-9075-f0879f10a986
+---
+
+# VLAŞIN Sorin
+
+## Details
+
+- **Party**: Unknown (UNKN)
+- **Constituency**: 
+- **Legislature**: 2024-2028
+- **Source**: senat.ro
+
+## Activity
+
+- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=e681a8ad-b809-40ae-9075-f0879f10a986
+
+## Tags
+
+#politician #senator
