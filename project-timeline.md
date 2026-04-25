@@ -92,8 +92,8 @@ MP_NAME_PATTERN_HTML = re.compile(
 - Source: https://github.com/ClaudiuCeia/open-parliament-ro
 - Data: 61 unique session dates
 - Speeches: 2,341 (2024-2025)
-- Import script: scripts/import_parliament.py
-- Import status: IN PROGRESS
+- Import status: COMPLETE - 91 sessions in vault
+- Canonical MPs: 460 (added 331 new deputies)
 
 ---
 
