@@ -3261,4 +3261,51 @@ archive/
 
 ---
 
+## REMAINING ISSUES ANALYSIS (2026-04-25)
+
+### Issue 1: Few Senators (4 of 134 needed)
+**Root Cause**: senat_agent.py only extracts presiding officer, misses all speakers
+**Location**: scripts/agents/senat_agent.py lines 280-434
+**Solution**: Scrape senat.ro/FisaSenatori.aspx directly for full senator list
+
+### Issue 2: cdep_agent.py Timeout
+**Root Cause**: Brute-force ID iteration (1->200), no retry logic, no runtime limit
+**Location**: scripts/agents/cdep_agent.py lines 271-314
+**Solution**: Add retry with exponential backoff, enable calendar API, add checkpointing
+
+### Issue 3: Empty Law Files
+**Root Cause**: No dedicated law scraper - incidental extraction only
+**Location**: Missing component
+**Solution**: Create fetch_law_details.py using cdep.ro/pls/parlam/ endpoints
+
+---
+
+## STRATEGY TO FIX REMAINING ISSUES (2026-04-25)
+
+### Phase 1: Senator List (HIGH PRIORITY)
+**Target**: 134 senators with party, constituency, and full profile data
+**Sources**:
+- Primary: senat.ro/FisaSenatori.aspx
+- Backup: data.ipu.org (CSV), ro.wikipedia.org/wiki/Legislatura_2024-2028_(Senat)
+
+**Scripts to create:**
+- scripts/fetch_senator_list.py - Scrape senator list
+- scripts/enrich_senators.py - Create vault profiles
+
+### Phase 2: cdep_agent.py Fix (HIGH PRIORITY)
+**Target**: No timeouts - unlimited run with checkpoints
+**Changes**:
+- Add retry logic with exponential backoff
+- Add --max-runtime flag
+- Add checkpointing (save every 25 sessions)
+- Enable calendar API (existing, line 710)
+
+### Phase 3: Complete Law Scraper (MEDIUM PRIORITY)
+**Target**: 500+ laws with full metadata
+**Scripts to create:**
+- scripts/fetch_law_details.py - Query cdep.ro for law details
+- scripts/enrich_laws.py - Update vault/laws/*.md
+
+---
+
 **Status:** Phase 4 complete - Configuration implementation finished

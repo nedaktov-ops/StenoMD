@@ -395,5 +395,21 @@ StenoMD/
 
 ---
 
+## PHASE 5: SENATOR LIST SCRAPING (2026-04-25)
+
+### Target: 134 senators with full profile data
+**Sources**: senat.ro, IPU Parline, Wikipedia
+
+**Scripts**: fetch_senator_list.py, enrich_senators.py
+
+### Phase 2: cdep_agent.py Fix
+**Target**: No timeouts - unlimited with checkpoints
+**Changes**: Retry + checkpoint + runtime limit
+
+### Phase 3: Complete Law Scraper
+**Target**: 500+ laws enriched
+
+---
+
 *LastUpdated: 2026-04-25*
-*Next Action: Commit Phase 4 to GitHub*
+*Next Action: Implement Phase 1 - Senator List*
