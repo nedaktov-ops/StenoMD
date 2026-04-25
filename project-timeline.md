@@ -395,21 +395,40 @@ StenoMD/
 
 ---
 
-## PHASE 5: SENATOR LIST SCRAPING (2026-04-25)
+## STRATEGY 3.0: COMPREHENSIVE IMPLEMENTATION (2026-04-25)
 
-### Target: 134 senators with full profile data
-**Sources**: senat.ro, IPU Parline, Wikipedia
+### Research-Based Updates
+- **Multi-legislature**: IDs recycle - need stable IDs
+- **Traseism**: Track party changes with CPC definition (>2 = traseist)
+- **Monitorul Oficial**: Publication references required
 
-**Scripts**: fetch_senator_list.py, enrich_senators.py
+### Phase 1: Parliamentary Reference
+- [ ] vault/_parliament/ directory
+- [ ] Constitutional articles
+- [ ] 44 committees
 
-### Phase 2: cdep_agent.py Fix
-**Target**: No timeouts - unlimited with checkpoints
-**Changes**: Retry + checkpoint + runtime limit
+### Phase 2: Clean & Fix
+- [ ] Delete empty files
+- [ ] Fix broken links
 
-### Phase 3: Complete Law Scraper
-**Target**: 500+ laws enriched
+### Phase 3: Stable IDs
+- [ ] generate_stable_ids.py
+
+### Phase 4: Party Tracking
+- [ ] add_party_tracking.py
+
+### Phase 5: Complete 2024
+- [ ] Senator profiles complete
+- [ ] Deputy committees
+- [ ] Law metadata
+
+### Phase 6: Historical
+- [ ] 2020-2024 → 2016-2020
+
+### Phase 7: RAM Optimization
+- [ ] 8GB memory settings
 
 ---
 
 *LastUpdated: 2026-04-25*
-*Next Action: Implement Phase 1 - Senator List*
+*Next Action: Begin Phase 1 - Parliamentary Reference*

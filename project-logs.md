@@ -3308,4 +3308,71 @@ archive/
 
 ---
 
-**Status:** Phase 4 complete - Configuration implementation finished
+## COMPREHENSIVE STRATEGY 3.0 (2026-04-25)
+
+### Research Completed
+
+#### 1. Romanian Parliament Structure
+- **Senate**: 136 seats, 15 committees
+- **Chamber**: 330 seats, 17 committees  
+- **Joint committees**: ~12
+- **Legislative process**: Initiation → Committee → Plenary → Second Chamber → Promulgation → Monitorul Oficial → Effect
+
+#### 2. Multi-Legislature Understanding
+- IDs recycle each legislature - MUST use stable IDs
+- Current: 2024-2028
+- Previous: 2020-2024, 2016-2020, etc.
+- Same person CAN be Deputy in one, Senator in another
+
+#### 3. Traseism (Floor-Crossing) Research
+- Legal for parliamentarians (no restriction)
+- CPC definition: >2 party changes = traseist
+- Must track original_elected_party vs current_party
+- Must track party_affiliations with dates
+
+#### 4. Monitorul Oficial
+- Part I: Laws (entry into force)
+- Part II: Stenograms
+- Parts III-VII: Announcements
+
+### NEW Profile Structure
+```yaml
+stable_id: "generated-hash"  # name+birthyear+birthplace
+electoral_history: []       # Chamber/legislature per election
+party_affiliations: []   # Party changes over time
+traseism_metrics:         # CPC definition
+current_status:
+  parliamentary_group:   # Official group
+```
+
+### Implementation Phases
+
+#### Phase 1A: Parliamentary Reference
+- vault/_parliament/ structure
+- Constitutional articles, committees, definitions
+
+#### Phase 1B: Clean & Fix
+- Delete empty files
+- Fix broken links
+
+#### Phase 2: Stable ID Generation
+- scripts/generate_stable_ids.py
+
+#### Phase 3: Traseism Tracking
+- scripts/add_party_tracking.py
+
+#### Phase 4: Complete 2024 Data
+- Senators: Add party/constituency
+- Deputies: Add committees
+- Laws: Add process metadata
+
+#### Phase 5: Historical Scraping (Reverse Chronological)
+- Single legislature at a time
+- 2020-2024 → 2016-2020 → ...
+
+#### Phase 6: Low-RAM Optimization
+- Memory settings for 8GB RAM
+
+---
+
+**Status:** Strategy designed - Awaiting Implementation
