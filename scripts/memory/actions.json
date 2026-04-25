@@ -1,7 +1,59 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-25T13:52:37.116212",
+  "last_updated": "2026-04-25T14:21:02.360345",
   "actions": [
+    {
+      "id": "c1036c0a-e1bd-4a8f-8ea5-b0a351e6d045",
+      "timestamp": "2026-04-25T14:21:02.296409",
+      "type": "scrape_session",
+      "category": null,
+      "severity": null,
+      "description": "",
+      "location": null,
+      "command": null,
+      "files_affected": [],
+      "parameters": {
+        "chamber": "senate",
+        "year": 2026,
+        "session_id": "senate_20260311_2026",
+        "date": "11 martie 2026",
+        "senators_count": 1,
+        "laws_count": 29,
+        "url": "https://www.senat.ro/StenoPag2.aspx"
+      },
+      "success": true,
+      "duration_ms": 0,
+      "result": "",
+      "side_effects": [],
+      "mode": "unknown",
+      "project_hash": ""
+    },
+    {
+      "id": "bca153ba-4dd9-4899-aee4-b4c3b19a31ed",
+      "timestamp": "2026-04-25T14:20:58.525113",
+      "type": "scrape_session",
+      "category": null,
+      "severity": null,
+      "description": "",
+      "location": null,
+      "command": null,
+      "files_affected": [],
+      "parameters": {
+        "chamber": "senate",
+        "year": 2026,
+        "session_id": "senate_20260325_2026",
+        "date": "25 martie 2026",
+        "senators_count": 1,
+        "laws_count": 18,
+        "url": "https://www.senat.ro/StenoPag2.aspx"
+      },
+      "success": true,
+      "duration_ms": 0,
+      "result": "",
+      "side_effects": [],
+      "mode": "unknown",
+      "project_hash": ""
+    },
     {
       "id": "6659d347-5815-4c01-948e-3078cf8eaf23",
       "timestamp": "2026-04-25T13:52:37.064853",
@@ -486,8 +538,8 @@
     }
   ],
   "metadata": {
-    "total_actions": 21,
+    "total_actions": 23,
     "success_rate": 1.0,
-    "avg_duration_ms": 285.7142857142857
+    "avg_duration_ms": 260.8695652173913
   }
 }
