@@ -762,6 +762,70 @@ r'<font color="#0000FF">\s*(?:Domnul|Doamna)\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(
 
 ---
 
+## SENATE SCRAPING STRATEGY (2026-04-25)
+
+### Current Status
+- **senat_agent.py**: EXISTS - uses ASP.NET form (StenoPag2.aspx)
+- **Current sessions**: 19 in vault (from 2026)
+- **Problem**: ASP.NET ViewState changed - form may need updates
+- **No Open Parliament RO equivalent** for Senate
+
+### URL Analysis (2026-04-25)
+| URL | Status | Notes |
+|-----|-------|-------|
+| senat.ro/ | 200 | Homepage OK |
+| senat.ro/StenoPag2.aspx | 200 | Search page OK |
+| senat.ro/PDF/2026/ | 403 | PDF dir blocked |
+
+### Key Findings
+1. **Form Structure Changed**:
+   - No __VIEWSTATE hidden field found (may be using new framework)
+   - Buttons: CalendarControl1$btn1, CalendarControl1$btn2, btnCauta, btnReset
+   - Primary: gr2Rezultat$ctl02$Button1 for results
+
+2. **Historical Data**:
+   - ALL BLOCKED - only 2024-2028 legislature available
+   - PDF directory returns 403 Forbidden
+
+3. **Strategy Options**:
+   - Use existing senat_agent.py (may need form updates)
+   - Cache current sessions only
+   - Manual entry for critical sessions
+
+### Senate Import Strategy
+```
+Priority 1: Update existing senat_agent.py
+  - Fix form field detection
+  - Test with current 2026 sessions
+  - Add fallback for form failures
+
+Priority 2: Cache current sessions
+  - Already have 19 sessions in vault
+  - May not scale further
+
+Priority 3: Manual research
+  - Wikipedia Romanian politicians
+  - Romanian National Archives
+
+Priority 4: External data (RESEARCHING)
+  - Monitorul Oficial (Parte II)
+  - EU Parliament joint sessions
+```
+
+### Recommended Actions (Senate)
+1. Test existing senat_agent.py with current year
+2. If broken: Fix form field extraction
+3. Document workaround in senat_agent.py
+4. Focus on deputies data (more available)
+
+### Alternative Data Sources (Senate)
+- [ ] **Monitorul Oficial** - has stenograms (paid version)
+- [ ] **Wikipedia** - senator profiles, voting history
+- [ ] **data.gov.ro** - voting records, election data
+- [ ] **Parlament Transparent** - votes, questions (only 2017)
+
+---
+
 *End of Strategy Document*
 *Last Updated: 2026-04-25*
 *Next update: After Phase 1 completion*
