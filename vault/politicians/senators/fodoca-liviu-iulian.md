@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_4f2fd27a2b41
 type: senator
 chamber: senate
 party: POT

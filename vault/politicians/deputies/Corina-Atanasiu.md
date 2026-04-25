@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/AtanasiuCorina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=12&cam=2
 speeches_count: 8
 laws_proposed: 43
+stable_id: pol_1529c86de26b
 type: deputy
 ---
 

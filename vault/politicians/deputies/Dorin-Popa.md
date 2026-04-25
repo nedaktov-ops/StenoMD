@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PopaDorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=251&cam=2
 speeches_count: 3
 laws_proposed: 20
+stable_id: pol_d4b75e7f0fce
 type: deputy
 ---
 

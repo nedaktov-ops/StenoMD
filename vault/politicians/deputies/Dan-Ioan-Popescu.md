@@ -6,6 +6,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/TanasaDan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=298&cam=2
 speeches_count: 33
 laws_proposed: 21
+stable_id: pol_be4938144e10
 type: deputy
 chamber: deputies
 legislature: 2024-2028

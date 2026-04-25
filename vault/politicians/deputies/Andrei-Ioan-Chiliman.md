@@ -6,6 +6,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GheorgheAndreiDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=118&cam=2
 speeches_count: 33
 laws_proposed: 11
+stable_id: pol_dfc2ceefa5dc
 type: deputy
 chamber: deputies
 legislature: 2024-2028

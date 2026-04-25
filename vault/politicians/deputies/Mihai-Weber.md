@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/WeberMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=327&cam=2
 speeches_count: 3
 laws_proposed: 6
+stable_id: pol_23ef2607194d
 type: deputy
 ---
 

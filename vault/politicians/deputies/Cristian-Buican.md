@@ -9,6 +9,7 @@ constituency: VÂLCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BuicanCristian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=43&cam=2
 speeches_count: 1
+stable_id: pol_c151e404d483
 type: deputy
 ---
 

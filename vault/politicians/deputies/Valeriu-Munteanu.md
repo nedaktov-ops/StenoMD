@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_a67409cfc6aa
 type: person
 party: AUR
 party_full: Alianţa pentru Unirea Românilor

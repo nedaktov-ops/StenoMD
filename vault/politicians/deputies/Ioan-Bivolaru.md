@@ -6,6 +6,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/VulpescuIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=324&cam=2
 speeches_count: 1
 laws_proposed: 4
+stable_id: pol_d6ea13a8acdb
 type: deputy
 chamber: deputies
 legislature: 2024-2028

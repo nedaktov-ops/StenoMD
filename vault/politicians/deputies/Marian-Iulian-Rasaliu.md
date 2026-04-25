@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_288e8166ca8d
 type: person
 party: POT
 party_full: Partidul Oamenilor Tineri

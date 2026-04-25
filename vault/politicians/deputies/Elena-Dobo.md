@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/DobosElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=91&cam=2
 speeches_count: 2
 laws_proposed: 29
+stable_id: pol_2fffd2159ff8
 type: deputy
 ---
 

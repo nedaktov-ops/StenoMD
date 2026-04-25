@@ -6,6 +6,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CernitMaria.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=52&cam=2
 speeches_count: 13
 laws_proposed: 29
+stable_id: pol_885af8d4fece
 type: deputy
 chamber: deputies
 legislature: 2024-2028

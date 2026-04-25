@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_9c3ab15665a3
 type: person
 party: USR
 party_full: Uniunea Salvaţi România

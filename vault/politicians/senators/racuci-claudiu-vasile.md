@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_b489add115b9
 type: senator
 chamber: senate
 party: PNL

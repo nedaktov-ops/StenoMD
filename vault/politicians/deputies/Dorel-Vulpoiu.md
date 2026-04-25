@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/VulpoiuDorel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=325&cam=2
 speeches_count: 4
 laws_proposed: 38
+stable_id: pol_d64d2725345f
 type: deputy
 ---
 

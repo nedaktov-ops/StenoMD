@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/EchertAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=98&cam=2
 speeches_count: 6
 laws_proposed: 21
+stable_id: pol_0735e75e0804
 type: deputy
 ---
 

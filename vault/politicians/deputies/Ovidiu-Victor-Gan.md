@@ -7,6 +7,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GantOvidiuVictor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=112&cam=2
 speeches_count: 5
 laws_proposed: 7
+stable_id: pol_94b5dc377cac
 type: deputy
 ---
 

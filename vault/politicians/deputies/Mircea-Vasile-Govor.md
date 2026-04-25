@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_abcb450ae1c3
 type: person
 party: PSD
 party_full: Partidul Social Democrat

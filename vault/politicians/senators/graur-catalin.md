@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_f99130a5fe9b
 type: senator
 chamber: senate
 party: PSD

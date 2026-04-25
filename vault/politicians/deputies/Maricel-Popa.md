@@ -9,6 +9,7 @@ constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/PopaMaricel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=253&cam=2
 laws_proposed: 14
+stable_id: pol_1f97453970a5
 type: deputy
 ---
 

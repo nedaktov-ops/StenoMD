@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_7025db07a9df
 type: senator
 chamber: senate
 party: USR

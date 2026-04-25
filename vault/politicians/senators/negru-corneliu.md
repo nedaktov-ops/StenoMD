@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_171d1b77e987
 type: senator
 chamber: senate
 party: AUR

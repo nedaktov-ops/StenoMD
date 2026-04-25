@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/OpreaOctavian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=232&cam=2
 speeches_count: 7
 laws_proposed: 44
+stable_id: pol_5cb1caba79d6
 type: deputy
 ---
 

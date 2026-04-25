@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_bbe11c13baed
 type: senator
 chamber: senate
 party: SOS

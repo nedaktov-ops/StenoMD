@@ -1,5 +1,6 @@
 ---
 tags: [politician]
+stable_id: pol_3aba59b8014c
 type: person
 ---
 

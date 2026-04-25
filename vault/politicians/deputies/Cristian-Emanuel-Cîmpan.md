@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_711919b2ae08
 type: person
 party: PNL
 party_full: Partidul Naţional Liberal

@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_8c5c8906a56e
 type: person
 party: SOS
 party_full: Partidul S.O.S. România

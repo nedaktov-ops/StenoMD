@@ -1,6 +1,7 @@
 ---
 tags:
 - politician
+stable_id: pol_29f4f75bce48
 type: senator
 chamber: senate
 party: UDMR

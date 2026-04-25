@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/HristuCosmin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=142&cam=2
 speeches_count: 3
 laws_proposed: 19
+stable_id: pol_450d420c9cc7
 type: deputy
 ---
 

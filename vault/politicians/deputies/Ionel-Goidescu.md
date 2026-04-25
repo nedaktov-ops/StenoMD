@@ -10,6 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GoidescuIonel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=128&cam=2
 speeches_count: 18
 laws_proposed: 45
+stable_id: pol_317b851308ac
 type: deputy
 ---
 
