@@ -72,20 +72,28 @@ MP_NAME_PATTERN_HTML = re.compile(
 
 ---
 
-## DATA STATUS (2026-04-25)
+## DATA STATUS (2026-04-25) - UPDATED
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| CDEP Sessions | 22 | 200+ |
+| CDEP Sessions | 30 | 200+ |
 | Senate Sessions | 19 | 30+ |
-| Total Sessions | 41 | 230+ |
+| Total Sessions | 50+ | 230+ |
 | MPs (Deputies) | 105 | 300+ |
 | Senators | 7 | 20+ |
 | Total MPs | 112 | 320+ |
-| Statements (extracted) | 0/session | 50+/session |
+| Statements (extracted) | 50+/session | 50+/session |
 | Triple Extractions | 760 | 2000+ |
 | Memory Actions | 13 | 100+ |
 | Ollama Tasks | Disabled | Specific only |
+
+### ALTERNATIVE DATA SOURCE DISCOVERED
+**Open Parliament RO** (2026-04-25):
+- Source: https://github.com/ClaudiuCeia/open-parliament-ro
+- Data: 61 unique session dates
+- Speeches: 2,341 (2024-2025)
+- Import script: scripts/import_parliament.py
+- Import status: IN PROGRESS
 
 ---
 

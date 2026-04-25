@@ -221,6 +221,7 @@ class EnhancedCDEPAgent:
             f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&idm=1&ids={{}}",
             f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&idm=1&ids={{}}",
             f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&ids={{}}",
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&ids={{}}",
         ]
         
         for ids in range(1, max_id + 1):
@@ -438,6 +439,7 @@ class EnhancedCDEPAgent:
             f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&idm=1&ids={session_id}",
             f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&idm=1&ids={session_id}",
             f"{BASE_URL}/pls/steno/steno{year}.stenograma?idl=1&ids={session_id}",
+            f"{BASE_URL}/pls/steno/steno{year}.stenograma_scris?idl=1&ids={session_id}",
         ]
         
         html = None

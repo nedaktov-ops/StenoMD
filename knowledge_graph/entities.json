@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.0",
-    "last_updated": "2026-04-25T03:01:51.637190",
+    "last_updated": "2026-04-25T13:55:01.193664",
     "sources": [
       "cdep.ro"
     ],
@@ -9,37 +9,7 @@
       "2024-2028"
     ]
   },
-  "persons": [
-    {
-      "id": "27f2174a-a064-4f5c-af20-9d20a94a59e7",
-      "name": "Andrei Ioan Chiliman",
-      "chamber": "deputies",
-      "party": null,
-      "legislature": "2024-2028",
-      "constituency": null,
-      "email": null,
-      "bio": null,
-      "committees": [],
-      "appearances": [
-        "session_2015_3"
-      ],
-      "statements": []
-    }
-  ],
-  "sessions": [
-    {
-      "id": "session_2015_3",
-      "date": "1998-01-27",
-      "chamber": "deputies",
-      "title": "Şedinţa Camerei Deputaţilor din 27 ianuarie 1998",
-      "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=3",
-      "participants": [
-        "Andrei Ioan Chiliman"
-      ],
-      "laws_discussed": [],
-      "summary": "Session session_2015_3 from 1998-01-27",
-      "word_count": 0
-    }
-  ],
+  "persons": [],
+  "sessions": [],
   "laws": []
 }
