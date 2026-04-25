@@ -3174,7 +3174,57 @@ scripts/dashboard.py.backup.*
 
 ---
 
-## PHASE 3 COMPLETE (2026-04-25)
+## VAULT 10x IMPROVEMENT PLAN (2026-04-25)
+
+### Phase 1: Schema Unification ✅
+**Created:** scripts/schema_normalizer.py
+**Changes:**
+- Normalized 108 session files
+- Fixed date formats: Romanian → ISO 8601
+- Fixed chamber fields: "Senate" → "senate"
+- Fixed laws_discussed: None → []
+
+**Files Fixed:**
+- vault/sessions/deputies/*.md (91 files)
+- vault/sessions/senate/*.md (19 files)
+
+### Phase 2: Data Enrichment ✅
+**Created:** scripts/enrich_profiles.py
+**Changes:**
+- Enriched 141 deputy profiles with Open Parliament RO data
+- Added: party, party_full, constituency, photo_url, url, speeches_count, laws_proposed
+- Uses data/parlamint/open-parliament-ro/data/2024/full-deputies/
+
+### Phase 3: Senator Collection ✅
+**Created:** scripts/collect_senators.py, scripts/create_senators.py
+**Changes:**
+- Ran senat_agent.py for 2024-2026
+- Current senators: 4 (limited by available sessions)
+
+### Phase 4: Session Expansion
+**Attempted:** cdep_agent.py --year 2025 --max-id 100
+**Status:** Timed out (expected - scraping is slow)
+**Note:** Sessions can be collected incrementally
+
+---
+
+### New Scripts Created
+| Script | Purpose | Status |
+|--------|---------|--------|
+| scripts/schema_normalizer.py | Unify session schemas | ✅ |
+| scripts/enrich_profiles.py | Enrich MP profiles | ✅ |
+| scripts/collect_senators.py | Collect missing senators | ✅ |
+| scripts/create_senators.py | Create senator profiles | ✅ |
+
+### Vault Improvements Summary
+| Metric | Before | After | Change |
+|--------|--------|-------|-------|
+| Session schemas | Inconsistent | Unified | ✅ |
+| Deputy profiles enriched | 0 | 141 | +141 |
+| Senator profiles | 4 | 4 | - |
+| Date formats | Mixed | ISO 8601 | ✅ |
+
+---
 
 ### Fixed Files
 - scripts/planner_agent/planner_agent.py - Config import + fallback
