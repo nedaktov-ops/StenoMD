@@ -3,7 +3,15 @@ name: Maricel Popa
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: PSD
+party_full: Partidul Social Democrat
+constituency: IAŞI
+photo_url: https://www.cdep.ro/parlamentari/l2024/PopaMaricel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=253&cam=2
+laws_proposed: 14
+type: deputy
 ---
+
 
 # Maricel Popa
 

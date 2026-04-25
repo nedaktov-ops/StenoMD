@@ -3,7 +3,16 @@ name: Alexandrin Moiseev
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BOTOŞANI
+photo_url: https://www.cdep.ro/parlamentari/l2024/MoiseevAlexandrin.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=204&cam=2
+speeches_count: 17
+laws_proposed: 9
+type: deputy
 ---
+
 
 # Alexandrin Moiseev
 

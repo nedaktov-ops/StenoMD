@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: TULCEA
+photo_url: https://www.cdep.ro/parlamentari/l2024/ToaderElenaLaura.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=304&cam=2
+speeches_count: 3
+laws_proposed: 35
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Elena-Laura Toader
 

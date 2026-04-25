@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: PSD
+party_full: Partidul Social Democrat
+constituency: BUCUREŞTI
+photo_url: https://www.cdep.ro/parlamentari/l2024/GhigiuAlexandruMihai.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=124&cam=2
+speeches_count: 13
+laws_proposed: 28
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Alexandru-Mihai Ghigiu
 

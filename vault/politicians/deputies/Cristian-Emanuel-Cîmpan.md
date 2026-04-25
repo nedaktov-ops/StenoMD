@@ -1,7 +1,17 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: PNL
+party_full: Partidul Naţional Liberal
+constituency: VÂLCEA
+photo_url: https://www.cdep.ro/parlamentari/l2024/BuicanCristian.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=43&cam=2
+speeches_count: 1
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Cristian-Emanuel Cîmpan
 

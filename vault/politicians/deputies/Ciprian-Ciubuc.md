@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: NEAMŢ
+photo_url: https://www.cdep.ro/parlamentari/l2024/CiubucCiprian.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=62&cam=2
+speeches_count: 30
+laws_proposed: 15
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Ciprian Ciubuc
 

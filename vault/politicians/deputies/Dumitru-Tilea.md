@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: AUR
+party_full: Alianţa pentru Unirea Românilor
+constituency: TELEORMAN
+photo_url: https://www.cdep.ro/parlamentari/l2024/TileaDumitru.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=301&cam=2
+speeches_count: 11
+laws_proposed: 26
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Dumitru Tilea
 

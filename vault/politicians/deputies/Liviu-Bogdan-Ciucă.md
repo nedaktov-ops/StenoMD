@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: PSD
+party_full: Partidul Social Democrat
+constituency: GALAŢI
+photo_url: https://www.cdep.ro/parlamentari/l2024/CiucaLiviuBogdan.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=63&cam=2
+speeches_count: 35
+laws_proposed: 25
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Liviu-Bogdan Ciucă
 

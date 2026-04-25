@@ -3,7 +3,16 @@ name: Adrian Echert
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: USR
+party_full: Uniunea Salvaţi România
+constituency: SIBIU
+photo_url: https://www.cdep.ro/parlamentari/l2024/EchertAdrian.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=98&cam=2
+speeches_count: 6
+laws_proposed: 21
+type: deputy
 ---
+
 
 # Adrian Echert
 

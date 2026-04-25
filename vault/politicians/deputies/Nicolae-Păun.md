@@ -3,7 +3,16 @@ name: Nicolae Păun
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: AUR
+party_full: Alianţa pentru Unirea Românilor
+constituency: VÂLCEA
+photo_url: https://www.cdep.ro/parlamentari/l2024/MindrescuNicolae.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=201&cam=2
+speeches_count: 1
+laws_proposed: 26
+type: deputy
 ---
+
 
 # Nicolae Păun
 

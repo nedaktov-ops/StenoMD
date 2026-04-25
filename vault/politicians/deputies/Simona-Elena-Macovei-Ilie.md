@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: IAŞI
+photo_url: https://www.cdep.ro/parlamentari/l2024/MacoveiIlieSimonaElena.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2
+speeches_count: 4
+laws_proposed: 27
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Simona-Elena Macovei Ilie
 

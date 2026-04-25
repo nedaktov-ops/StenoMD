@@ -3,7 +3,16 @@ name: Mihai Weber
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: PSD
+party_full: Partidul Social Democrat
+constituency: GORJ
+photo_url: https://www.cdep.ro/parlamentari/l2024/WeberMihai.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=327&cam=2
+speeches_count: 3
+laws_proposed: 6
+type: deputy
 ---
+
 
 # Mihai Weber
 

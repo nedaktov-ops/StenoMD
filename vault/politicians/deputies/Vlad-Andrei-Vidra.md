@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BIHOR
+photo_url: https://www.cdep.ro/parlamentari/l2024/VidraVladAndrei.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=323&cam=2
+speeches_count: 1
+laws_proposed: 33
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Vlad-Andrei Vidra
 

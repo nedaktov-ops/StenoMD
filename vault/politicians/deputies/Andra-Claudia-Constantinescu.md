@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BRĂILA
+photo_url: https://www.cdep.ro/parlamentari/l2024/ConstantinescuAndraClaudia.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=75&cam=2
+speeches_count: 4
+laws_proposed: 34
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Andra-Claudia Constantinescu
 

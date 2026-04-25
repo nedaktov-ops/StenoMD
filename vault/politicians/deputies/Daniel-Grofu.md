@@ -3,7 +3,16 @@ name: Daniel Grofu
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: POT
+party_full: Partidul Oamenilor Tineri
+constituency: BUCUREŞTI
+photo_url: https://www.cdep.ro/parlamentari/l2024/GrofuDaniel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=132&cam=2
+speeches_count: 6
+laws_proposed: 32
+type: deputy
 ---
+
 
 # Daniel Grofu
 

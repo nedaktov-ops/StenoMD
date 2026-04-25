@@ -1,3 +1,12 @@
+---
+photo_url: https://www.cdep.ro/parlamentari/l2024/NacovGheorghe.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=216&cam=2
+speeches_count: 5
+laws_proposed: 8
+type: deputy
+chamber: deputies
+legislature: 2024-2028
+---
 
 
 ## Appearances

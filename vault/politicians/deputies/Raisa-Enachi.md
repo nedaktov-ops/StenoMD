@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: VASLUI
+photo_url: https://www.cdep.ro/parlamentari/l2024/EnachiRaisa.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=101&cam=2
+speeches_count: 49
+laws_proposed: 48
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Raisa Enachi
 

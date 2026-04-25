@@ -3,7 +3,16 @@ name: Ionel Gheorghe
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: AUR
+party_full: Alianţa pentru Unirea Românilor
+constituency: DOLJ
+photo_url: https://www.cdep.ro/parlamentari/l2024/GheorgheIonel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=119&cam=2
+speeches_count: 9
+laws_proposed: 29
+type: deputy
 ---
+
 
 # Ionel Gheorghe
 

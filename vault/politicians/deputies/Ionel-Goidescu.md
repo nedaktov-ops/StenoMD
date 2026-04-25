@@ -3,7 +3,16 @@ name: Ionel Goidescu
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BRAŞOV
+photo_url: https://www.cdep.ro/parlamentari/l2024/GoidescuIonel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=128&cam=2
+speeches_count: 18
+laws_proposed: 45
+type: deputy
 ---
+
 
 # Ionel Goidescu
 

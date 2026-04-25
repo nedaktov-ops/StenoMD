@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BUZĂU
+photo_url: https://www.cdep.ro/parlamentari/l2024/PlopeanuRodica.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=246&cam=2
+speeches_count: 8
+laws_proposed: 28
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Rodica Plopeanu
 

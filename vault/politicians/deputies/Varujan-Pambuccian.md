@@ -3,7 +3,13 @@ name: Varujan Pambuccian
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
+photo_url: https://www.cdep.ro/parlamentari/l2024/PambuccianVarujan.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=233&cam=2
+speeches_count: 9
+laws_proposed: 4
+type: deputy
 ---
+
 
 # Varujan Pambuccian
 

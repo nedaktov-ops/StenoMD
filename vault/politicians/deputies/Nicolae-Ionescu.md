@@ -1,3 +1,15 @@
+---
+party: PSD
+party_full: Partidul Social Democrat
+constituency: CĂLĂRAŞI
+photo_url: https://www.cdep.ro/parlamentari/l2024/SamoilaIon.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=274&cam=2
+speeches_count: 1
+laws_proposed: 28
+type: deputy
+chamber: deputies
+legislature: 2024-2028
+---
 
 
 ## Appearances

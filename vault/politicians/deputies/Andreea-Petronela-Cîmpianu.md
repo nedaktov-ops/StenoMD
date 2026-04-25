@@ -1,7 +1,19 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara
+  ţării
+photo_url: https://www.cdep.ro/parlamentari/l2024/CimpianuAndreeaPetronela.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=67&cam=2
+speeches_count: 6
+laws_proposed: 29
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Andreea-Petronela Cîmpianu
 

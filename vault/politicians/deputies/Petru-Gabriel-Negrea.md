@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: AUR
+party_full: Alianţa pentru Unirea Românilor
+constituency: SUCEAVA
+photo_url: https://www.cdep.ro/parlamentari/l2024/NegreaPetruGabriel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=228&cam=2
+speeches_count: 10
+laws_proposed: 13
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Petru-Gabriel Negrea
 

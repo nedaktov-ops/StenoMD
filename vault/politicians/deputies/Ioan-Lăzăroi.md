@@ -1,7 +1,18 @@
 ---
-tags: [politician]
+tags:
+- politician
 type: person
+party: PSD
+party_full: Partidul Social Democrat
+constituency: ILFOV
+photo_url: https://www.cdep.ro/parlamentari/l2024/VulpescuIoan.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=324&cam=2
+speeches_count: 1
+laws_proposed: 4
+chamber: deputies
+legislature: 2024-2028
 ---
+
 
 # Ioan Lăzăroi
 
