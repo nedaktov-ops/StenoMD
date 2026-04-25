@@ -330,5 +330,45 @@ StenoMD/
 
 ---
 
+## CONFIGURATION SYSTEM IMPLEMENTATION (2026-04-25)
+
+### Goal: Centralize configuration and fix security issues
+
+### Blind Spots Identified by Planner Agent (25+ files)
+
+| Category | Count | Examples |
+|----------|-------|---------|
+| Hardcoded paths | 25+ | dashboard.py, rest_api.py |
+| SQL injection risk | 1 | rest_api.py |
+| CORS security | 1 | rest_api.py |
+| Bare except clauses | 20+ | merge_vault_to_kg.py |
+| Database conflicts | 2 | .db vs .sqlite3 |
+
+### Implementation Plan
+
+| Step | Task | Files |
+|------|------|-------|
+| 1 | Create config.py | scripts/config.py |
+| 2 | Update .gitignore | +10 entries |
+| 3 | Fix dashboard.py | Lines 16-20, 85 |
+| 4 | Fix rest_api.py | SQL + CORS |
+| 5 | Fix validators.py | Line 264 |
+| 6 | Fix planner_agent/*.py | 5 files |
+| 7 | Fix brain/*.py | 5 files |
+| 8 | Fix memory/*.py | 4 files |
+| 9 | Remove dead code | 4 files |
+| 10 | Test | Run tests |
+
+### Expected Results
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Hardcoded paths | 25+ | 0 |
+| SQL injection | Vulnerable | Fixed |
+| CORS | Open | Restricted |
+| Config system | None | Centralized |
+
+---
+
 *LastUpdated: 2026-04-25*
-*Next Action: Fix run_daily.py - replace deprecated scraper with cdep_agent.py*
+*Next Action: Create scripts/config.py - central configuration system*

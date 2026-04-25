@@ -10,3 +10,20 @@ vault/.obsidian/
 knowledge_graph/entities.json
 knowledge_graph/*.db
 knowledge_graph/*.sqlite3
+
+# Configuration (SECURITY - sensitive)
+scripts/config.py
+scripts/*.env
+.env
+.env.local
+
+# Memory/SQLite databases
+scripts/memory/*.db
+scripts/memory/*.json
+
+# State files
+scripts/.watcher_state.json
+
+# Backups (local only)
+backups/
+*.bak

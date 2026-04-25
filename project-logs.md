@@ -3032,4 +3032,125 @@ MP_NAME_PATTERN_HTML = re.compile(
 
 ---
 
-**Status:** Ready for implementation - Strategy approved by user
+## CONFIGURATION SYSTEM IMPLEMENTATION PLAN (2026-04-25)
+
+### Analysis: Blind Spot Review by Smart Planner Agent
+
+#### Current State (Before Fixes)
+- Health Score: 82%
+- Fixed Issues: Daily workflow, Knowledge graph
+- Remaining Issues: Hardcoded paths, Security, Error handling
+
+#### Blind Spots Identified (25+ files need changes)
+
+| Category | Count | Files |
+|----------|-------|-------|
+| Hardcoded paths | 25+ | dashboard.py, rest_api.py, validators.py, etc. |
+| SQL injection risk | 1 | rest_api.py line 105-121 |
+| CORS wide open | 1 | rest_api.py line 85 |
+| Bare except: clauses | 20+ | Multiple files |
+| Database conflicts | 2 | knowledge_graph.db vs knowledge_graph.sqlite3 |
+| Dead code | 4 | stenomd_scraper.py, scrape_cdep.py, backups |
+
+#### Files Requiring Configuration Changes (Priority Order)
+
+| Priority | File | Issues |
+|----------|------|--------|
+| P1 | scripts/config.py | NEW - Central config |
+| P1 | scripts/validators.py | Backward compat (line 264) |
+| P1 | scripts/dashboard.py | 5 issues |
+| P1 | scripts/query/rest_api.py | SQL + CORS |
+| P2 | scripts/query/parliament_qa.py | 2 issues |
+| P2 | scripts/merge_vault_to_kg.py | 2 issues |
+| P3 | scripts/agents/cdep_agent.py | Import cleanup |
+| P3 | scripts/agents/senat_agent.py | Import cleanup |
+| P4 | scripts/analyze/topics.py | KG_DB path |
+| P4 | scripts/analyze/positions.py | KG_DB path |
+| P4 | scripts/kg/triple_extractor.py | KG_DB path |
+| P5 | scripts/planner_agent/*.py | 5 files |
+| P5 | scripts/brain/*.py | 5 files |
+| P5 | scripts/memory/*.py | 4 files |
+
+#### Implementation Strategy
+
+##### Phase 1: Config System
+```python
+# scripts/config.py
+"""
+Steno MD Configuration - Centralized configuration with env override
+SECURE: Add to .gitignore
+"""
+import os
+from pathlib import Path
+from typing import Optional
+
+def get_project_root() -> Path:
+    env_path = os.environ.get('STENOMD_DIR')
+    if env_path:
+        return Path(env_path)
+    return Path(__file__).parent.parent
+
+PROJECT_ROOT = get_project_root()
+BASE_DIR = PROJECT_ROOT  # Alias
+
+# Directories
+VAULT_DIR = PROJECT_ROOT / "vault"
+DATA_DIR = PROJECT_ROOT / "data"
+KG_DIR = PROJECT_ROOT / "knowledge_graph"
+KG_DB = KG_DIR / "knowledge_graph.db"
+ENTITIES_FILE = KG_DIR / "entities.json"
+
+# API Security
+ALLOWED_ORIGIN = os.environ.get('STENOMD_ALLOWED_ORIGIN', 'localhost')
+
+# Scraping
+MAX_ID = int(os.environ.get('STENOMD_MAX_ID', '200'))
+CACHE_TTL = int(os.environ.get('STENOMD_CACHE_TTL', '3600'))
+
+# Logging
+LOG_LEVEL = os.environ.get('STENOMD_LOG_LEVEL', 'INFO')
+DEBUG = os.environ.get('STENOMD_DEBUG', '').lower() == 'true'
+```
+
+##### Phase 2: Security Fixes
+- SQL injection: Use parameterized queries
+- CORS: Use ALLOWED_ORIGIN from config
+- Add input sanitization
+
+##### Phase 3: Error Handling
+- Replace bare except: with specific exceptions
+- Add logging at each error point
+
+##### Phase 4: Dead Code Removal
+```bash
+# Remove deprecated:
+scripts/stenomd_scraper.py
+scripts/scrape_cdep.py
+scripts/run_daily.py.bak
+scripts/dashboard.py.backup.*
+```
+
+#### Expected Results After Implementation
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Files with config | 0 | ~25+ |
+| SQL injection | Vulnerable | Fixed |
+| CORS | Open (*) | Restricted |
+| Hardcoded paths | 25+ | 0 |
+| Test coverage | Same | Same |
+| Configuration | Centralized | Centralized |
+
+#### Execution Order
+
+1. Create scripts/config.py
+2. Update .gitignore
+3. Fix critical files (dashboard, rest_api, validators)
+4. Fix subdirectories (planner_agent, brain, memory)
+5. Remove dead code
+6. Run tests
+7. Commit to GitHub
+
+---
+
+**Status:** Ready for implementation - Strategy approved for single commit
