@@ -3,12 +3,16 @@
 
 ## LATEST UPDATE: 2026-04-26
 
-### Task Tracking System Implemented
-- Created Unfinished-tasks.md for active tasks
-- Created Completed-tasks.md for history
-- Created task_manager.py for automation
-- Integrated with planner agent (--tasks flag)
-- Deferred task: Phase 5 - Committee Assignments (TASK-001)
+### Obsidian-skills Integration (Revised Strategy)
+- Phase 1: Verified existing work (stable_ids, party_tracking) - ALREADY DONE
+- Phase 2: Templates updated with new fields (stable_id, party_affiliations, committees)
+- Phase 3: Senator Index rebuilt (138 now vs 4)
+- New fields added: committees, process_stage, session_number, laws_discussed
+- Use existing scripts vs creating new ones (5x efficiency)
+
+### Previous Tasks
+- Task Tracking System: Implemented (TASK-001 deferred)
+- Phase 5 - Committee Assignments: DEFERRED
 
 ## COMPREHENSIVE IMPROVEMENT PLAN - UPDATED
 

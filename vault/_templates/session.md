@@ -5,8 +5,11 @@ date:
 legislature: 
 chamber: 
 status: 
+session_number: 
+laws_discussed: []
+key_votes: []
 ---
-
+ 
 # {{title}}
 
 ## Session Details
@@ -16,6 +19,7 @@ status:
 | Date | {{date}} |
 | Legislature | {{legislature}} |
 | Chamber | {{chamber}} |
+| Session Number | {{session_number}} |
 | Status | {{status}} |
 
 ## Participants

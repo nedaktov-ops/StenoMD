@@ -6,8 +6,13 @@ year:
 status: 
 chamber: 
 category: 
+process_stage: 
+sponsors: []
+committee_referral: 
+monitorul_oficial: 
+sessions_discussed: []
 ---
-
+ 
 # {{title}}
 
 ## Law Details
@@ -19,6 +24,7 @@ category:
 | Status | {{status}} |
 | Chamber | {{chamber}} |
 | Category | {{category}} |
+| Process Stage | {{process_stage}} |
 
 ## Description
 
