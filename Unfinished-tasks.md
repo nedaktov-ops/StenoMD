@@ -34,13 +34,21 @@
 
 ### Task 003: Phase 4.2 - Voting Records
 **ID:** TASK-003  
-**Status:** READY_TO_START
+**Status:** DEFERRED
 **Priority:** MEDIUM  
 **Created:** 2026-04-26  
 **Last Checked:** 2026-04-26
 
-**Instructions:**
-Requires cdep.ro scraping (currently returns limited data)
+**Reason for Deferral:**
+- cdep.ro voting page HTML has complex table structure
+- Would require detailed parsing with Selenium/Playwright
+- Open Parliament RO doesn't include voting data yet
+- Alternative: parlament.openpolitics.ro (site unreachable)
+
+**Recommended Next Steps:**
+1. Try again when Open Parliament adds voting data
+2. Use manual tracking for key votes
+3. Research parliamentary API options
 
 ---
 
