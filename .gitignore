@@ -21,6 +21,9 @@ scripts/config.secrets.py
 # Memory/SQLite databases
 scripts/memory/*.db
 scripts/memory/*.json
+scripts/memory/*.db-shm
+scripts/memory/*.db-wal
+scripts/memory/*.db-journal
 
 # State files
 scripts/.watcher_state.json
