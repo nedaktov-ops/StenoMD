@@ -1,0 +1,15 @@
+{
+  "generated": "2026-04-26T22:08:31.390932",
+  "total_laws": 122,
+  "enhancements": [
+    "legislative_process.md document",
+    "stage explanations",
+    "terminology fixes",
+    "initiator links"
+  ],
+  "data_sources": [
+    "senat.ro",
+    "cdep.ro",
+    "vault politicians"
+  ]
+}

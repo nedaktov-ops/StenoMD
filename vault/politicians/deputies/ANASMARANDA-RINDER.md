@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) VASLUI
+constituency: VASLUI
 photo_url: https://www.cdep.ro/parlamentari/l2024/RinderAnaSmaranda.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=268&cam=2
 idm: 268
@@ -15,11 +15,12 @@ stable_id: pol_9531bffe0990
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
-  - name: "Health"
-    role: "member"
+- name: Labour
+  role: member
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Ana-Smaranda RINDER
 search_aliases: ['ANA-SMARANDA RINDER', 'ana-smaranda rinder']
 votes_cast: 6

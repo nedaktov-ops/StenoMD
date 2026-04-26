@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) SUCEAVA
+constituency: SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/RaduceaGheorgheValentin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=266&cam=2
 idm: 266
@@ -16,6 +16,7 @@ original_elected_party: POT
 type: deputy
 motions: 5
 ---
+
 ai_friendly_name: Gheorghe-Valentin RĂDUCEA
 search_aliases: ['GHEORGHE-VALENTIN RĂDUCEA', 'gheorghe-valentin răducea']
 votes_cast: 6

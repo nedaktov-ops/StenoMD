@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) SATU-MARE
+constituency: SATU-MARE
 photo_url: https://www.cdep.ro/parlamentari/l2024/CozmaAdrianFelician.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=81&cam=2
 idm: 81
@@ -15,13 +15,14 @@ stable_id: pol_c3fbbdfbf77f
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
-  - name: "Legal"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Agriculture
+  role: member
+- name: Legal
+  role: member
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Adrian-Felician COZMAvicepreşedinte al Camerei Deputaţilor
 search_aliases: ['ADRIAN-FELICIAN COZMAVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'adrian-felician cozmavicepreşedinte al camerei deputaţilor']
 votes_cast: 6

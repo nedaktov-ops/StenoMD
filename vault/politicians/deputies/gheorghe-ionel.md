@@ -3,16 +3,20 @@ name: Gheorghe Ionel
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) DOLJ
-photo_url: 
+constituency: DOLJ
+photo_url: https://www.cdep.ro/parlamentari/l2024/GheorgheIonel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=119&cam=2
 idm: 119
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 9
+laws_proposed: 29
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 ai_friendly_name: Gheorghe Ionel
 search_aliases: ['GHEORGHE IONEL', 'gheorghe ionel']
 votes_cast: 6

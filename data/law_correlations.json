@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-04-26T21:59:22.718077",
+  "total_laws": 124,
+  "graph_nodes": 2015,
+  "cross_references": 0,
+  "sources": {
+    "senat.ro": "senate stenograms",
+    "cdep.ro": "chamber stenograms",
+    "graphify": "knowledge graph"
+  }
+}

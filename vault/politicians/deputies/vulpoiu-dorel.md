@@ -3,16 +3,20 @@ name: Vulpoiu Dorel
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) GALAŢI
-photo_url: 
+constituency: GALAŢI
+photo_url: https://www.cdep.ro/parlamentari/l2024/VulpoiuDorel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=325&cam=2
 idm: 325
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 4
+laws_proposed: 38
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 ai_friendly_name: Vulpoiu Dorel
 search_aliases: ['VULPOIU DOREL', 'vulpoiu dorel']
 votes_cast: 6

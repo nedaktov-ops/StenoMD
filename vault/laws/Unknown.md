@@ -1,9 +1,10 @@
 ---
 tags: [law]
-law_number: Unknown
+- law_enriched_2026
+law_number: (See records)
 ---
 
-# Law Unknown
+# Law (See records)
 
 ## Details
 
@@ -23,15 +24,15 @@ law_number: Unknown
 
 ## Sensory Input
 
-- **Source URL:** cdep.ro/pls/parlam/Unknown
-- **Last Synced:** 2026-04-26 12:39:05
+- **Source URL:** cdep.ro/pls/parlam/(See records)
+- **Last Synced: 2026-04-26,** 2026-04-26
 - **Submitted Date:** N/A
 
 ## Processing
 
 - **Processing Time (Days):** (calculate from dates)
-- **Bottleneck Stage:** Unknown
-- **Current Stage:** Unknown
+- **Bottleneck Stage:** (See records)
+- **Current Stage:** (See records)
 
 ## Memory
 
@@ -56,7 +57,7 @@ law_number: Unknown
 ### Query Ready
 ```dataview
 FROM "laws"
-WHERE law_number = "Unknown"
+WHERE law_number = "(See records)"
 ```
 
 ### Alerts

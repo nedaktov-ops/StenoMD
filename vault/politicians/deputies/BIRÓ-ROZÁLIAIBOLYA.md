@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) BIHOR
+constituency: BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/BiroRozaliaIbolya.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=28&cam=2
 idm: 28
@@ -15,6 +15,7 @@ stable_id: pol_b2dff577a160
 original_elected_party: UDMR
 type: deputy
 ---
+
 ai_friendly_name: BIRÓ Rozália-Ibolya
 search_aliases: ['BIRÓ ROZÁLIA-IBOLYA', 'biró rozália-ibolya']
 votes_cast: 6

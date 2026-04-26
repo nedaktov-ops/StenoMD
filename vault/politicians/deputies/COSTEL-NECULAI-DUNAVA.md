@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BACĂU
+constituency: BACĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/DunavaCostelNeculai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=97&cam=2
 idm: 97
@@ -15,11 +15,12 @@ stable_id: pol_d5852185cccd
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Economic Policies
+  role: member
 ---
+
 ai_friendly_name: Costel Neculai DUNAVA
 search_aliases: ['COSTEL NECULAI DUNAVA', 'costel neculai dunava']
 votes_cast: 4

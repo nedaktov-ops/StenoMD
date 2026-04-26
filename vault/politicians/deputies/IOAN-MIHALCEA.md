@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/MihalceaIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=190&cam=2
 idm: 190
@@ -15,9 +15,10 @@ stable_id: pol_10f18b52195a
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Ioan MIHALCEA
 search_aliases: ['IOAN MIHALCEA', 'ioan mihalcea']
 votes_cast: 6

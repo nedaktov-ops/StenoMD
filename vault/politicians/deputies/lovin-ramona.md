@@ -3,16 +3,21 @@ name: Lovin Ramona
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) DIASPORA
-photo_url: 
+constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara
+  ţării
+photo_url: https://www.cdep.ro/parlamentari/l2024/LovinRamona.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=173&cam=2
 idm: 173
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 8
+laws_proposed: 33
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 ai_friendly_name: Lovin Ramona
 search_aliases: ['LOVIN RAMONA', 'lovin ramona']
 votes_cast: 6

@@ -3,16 +3,20 @@ name: Tilea Dumitru
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) TIMIŞ
-photo_url: 
+constituency: TELEORMAN
+photo_url: https://www.cdep.ro/parlamentari/l2024/TileaDumitru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=301&cam=2
 idm: 301
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 11
+laws_proposed: 26
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 ai_friendly_name: Tilea Dumitru
 search_aliases: ['TILEA DUMITRU', 'tilea dumitru']
 votes_cast: 6

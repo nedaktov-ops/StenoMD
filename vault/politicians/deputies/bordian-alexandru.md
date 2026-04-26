@@ -3,16 +3,20 @@ name: Bordian Alexandru
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) GALAŢI
-photo_url: 
+constituency: GALAŢI
+photo_url: https://www.cdep.ro/parlamentari/l2024/BordianAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=33&cam=2
 idm: 33
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 4
+laws_proposed: 31
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 ai_friendly_name: Bordian Alexandru
 search_aliases: ['BORDIAN ALEXANDRU', 'bordian alexandru']
 votes_cast: 6

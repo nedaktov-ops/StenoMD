@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) NEAMŢ
+constituency: NEAMŢ
 photo_url: https://www.cdep.ro/parlamentari/l2024/IonescuMonica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=150&cam=2
 idm: 150
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 1
 committees:
-  - name: "Human Rights"
-    role: "member"
+- name: Human Rights
+  role: member
 ---
+
 ai_friendly_name: Monica IONESCU
 search_aliases: ['MONICA IONESCU', 'monica ionescu']
 votes_cast: 8

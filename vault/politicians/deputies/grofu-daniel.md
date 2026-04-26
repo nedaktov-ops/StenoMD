@@ -3,16 +3,22 @@ name: Grofu Daniel
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) ILFOV
-photo_url: 
+constituency: BUCUREŞTI
+photo_url: https://www.cdep.ro/parlamentari/l2024/GrofuDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=132&cam=2
 idm: 132
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 6
+laws_proposed: 32
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 ai_friendly_name: Grofu Daniel
 search_aliases: ['GROFU DANIEL', 'grofu daniel']
 votes_cast: 6

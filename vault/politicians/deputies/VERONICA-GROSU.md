@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) SUCEAVA
+constituency: SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GrosuVeronica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=134&cam=2
 idm: 134
@@ -16,13 +16,14 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Education"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Budget, Finance
+  role: member
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Veronica GROSU
 search_aliases: ['VERONICA GROSU', 'veronica grosu']
 votes_cast: 5

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) VÂLCEA
+constituency: VÂLCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/NeataEugen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=225&cam=2
 idm: 225
@@ -15,9 +15,10 @@ stable_id: pol_ea310def18d7
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Eugen NEAŢĂ
 search_aliases: ['EUGEN NEAŢĂ', 'eugen neaţă']
 votes_cast: 6

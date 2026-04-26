@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) SATU-MARE
+constituency: SATU-MARE
 photo_url: https://www.cdep.ro/parlamentari/l2024/NagySzabolcs.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=217&cam=2
 idm: 217
@@ -15,9 +15,10 @@ stable_id: pol_d25057ddea85
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: NAGY Szabolcs
 search_aliases: ['NAGY SZABOLCS', 'nagy szabolcs']
 votes_cast: 5

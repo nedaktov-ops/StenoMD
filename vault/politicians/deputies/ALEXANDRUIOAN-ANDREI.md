@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) GIURGIU
+constituency: GIURGIU
 photo_url: https://www.cdep.ro/parlamentari/l2024/AndreiAlexandruIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=7&cam=2
 idm: 7
@@ -15,9 +15,10 @@ stable_id: pol_8f4f9ea0a1ba
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Alexandru-Ioan ANDREI
 search_aliases: ['ALEXANDRU-IOAN ANDREI', 'alexandru-ioan andrei']
 votes_cast: 6

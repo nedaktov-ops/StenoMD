@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) HARGHITA
+constituency: HARGHITA
 photo_url: https://www.cdep.ro/parlamentari/l2024/ZakariasZoltan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=330&cam=2
 idm: 330
@@ -15,9 +15,10 @@ stable_id: pol_17b0182f4b7e
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: ZAKARIAS Zoltán
 search_aliases: ['ZAKARIAS ZOLTÁN', 'zakarias zoltán']
 votes_cast: 7

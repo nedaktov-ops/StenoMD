@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) BRAŞOV
+constituency: BRAŞOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/PopaCristianAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=250&cam=2
 idm: 250
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 7
 committees:
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Cristian-Alexandru POPA
 search_aliases: ['CRISTIAN-ALEXANDRU POPA', 'cristian-alexandru popa']
 votes_cast: 5

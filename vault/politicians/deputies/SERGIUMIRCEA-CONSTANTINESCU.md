@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) TULCEA
+constituency: TULCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/ConstantinescuSergiuMircea.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=76&cam=2
 idm: 76
@@ -15,9 +15,10 @@ stable_id: pol_581d2c468a57
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Sergiu-Mircea CONSTANTINESCU
 search_aliases: ['SERGIU-MIRCEA CONSTANTINESCU', 'sergiu-mircea constantinescu']
 votes_cast: 6

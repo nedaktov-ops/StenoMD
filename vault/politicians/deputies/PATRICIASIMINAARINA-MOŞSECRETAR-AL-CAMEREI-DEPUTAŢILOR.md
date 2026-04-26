@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BIHOR
+constituency: BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/MosPatriciaSiminaArina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=208&cam=2
 idm: 208
@@ -15,9 +15,10 @@ stable_id: pol_17e187b1e45a
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Patricia-Simina-Arina MOŞsecretar al Camerei Deputaţilor
 search_aliases: ['PATRICIA-SIMINA-ARINA MOŞSECRETAR AL CAMEREI DEPUTAŢILOR', 'patricia-simina-arina moşsecretar al camerei deputaţilor']
 votes_cast: 6

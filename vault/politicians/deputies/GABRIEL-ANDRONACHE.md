@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BRAŞOV
+constituency: BRAŞOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/AndronacheGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=9&cam=2
 idm: 9
@@ -15,9 +15,10 @@ stable_id: pol_dc2c5ae8f676
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Gabriel ANDRONACHE
 search_aliases: ['GABRIEL ANDRONACHE', 'gabriel andronache']
 votes_cast: 6

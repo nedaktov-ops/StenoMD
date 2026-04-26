@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/GhigiuAlexandruMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=124&cam=2
 idm: 124
@@ -15,11 +15,12 @@ stable_id: pol_2ad07e7abf87
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
-  - name: "Education"
-    role: "member"
+- name: Industries and Services
+  role: member
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Alexandru-Mihai GHIGIU
 search_aliases: ['ALEXANDRU-MIHAI GHIGIU', 'alexandru-mihai ghigiu']
 votes_cast: 6

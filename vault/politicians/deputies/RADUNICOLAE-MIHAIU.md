@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/MihaiuRaduNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=189&cam=2
 idm: 189
@@ -15,9 +15,10 @@ stable_id: pol_f0e338df1e5b
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Radu-Nicolae MIHAIU
 search_aliases: ['RADU-NICOLAE MIHAIU', 'radu-nicolae mihaiu']
 votes_cast: 6

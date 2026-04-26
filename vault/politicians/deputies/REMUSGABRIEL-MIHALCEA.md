@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ARGEŞ
+constituency: ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MihalceaRemusGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=191&cam=2
 idm: 191
@@ -15,9 +15,10 @@ stable_id: pol_cdc7d47bcec9
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Remus-Gabriel MIHALCEA
 search_aliases: ['REMUS-GABRIEL MIHALCEA', 'remus-gabriel mihalcea']
 votes_cast: 5

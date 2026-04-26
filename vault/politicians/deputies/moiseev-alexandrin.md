@@ -3,16 +3,20 @@ name: Moiseev Alexandrin
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
-party_full: Partidul Social Democrat
-constituency: (From election) BOTOŞANI
-photo_url: 
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BOTOŞANI
+photo_url: https://www.cdep.ro/parlamentari/l2024/MoiseevAlexandrin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=204&cam=2
 idm: 204
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 17
+laws_proposed: 9
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 ai_friendly_name: Moiseev Alexandrin
 search_aliases: ['MOISEEV ALEXANDRIN', 'moiseev alexandrin']
 votes_cast: 6

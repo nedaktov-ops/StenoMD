@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ALBA
+constituency: ALBA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BaraNicolaeAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=18&cam=2
 idm: 18
@@ -15,11 +15,12 @@ stable_id: pol_51f2cd0a37b5
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
-  - name: "Education"
-    role: "member"
+- name: Health
+  role: member
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Nicolae-Adrian BARA
 search_aliases: ['NICOLAE-ADRIAN BARA', 'nicolae-adrian bara']
 votes_cast: 6

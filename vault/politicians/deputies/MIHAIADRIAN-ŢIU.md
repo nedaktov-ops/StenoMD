@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) OLT
+constituency: OLT
 photo_url: https://www.cdep.ro/parlamentari/l2024/TiuMihaiAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2
 idm: 312
@@ -16,11 +16,12 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Industries and Services"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Mihai-Adrian ŢIU
 search_aliases: ['MIHAI-ADRIAN ŢIU', 'mihai-adrian ţiu']
 votes_cast: 6

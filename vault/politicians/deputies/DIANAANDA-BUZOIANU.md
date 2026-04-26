@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/BuzoianuDianaAnda.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=48&cam=2
 idm: 48
@@ -15,6 +15,7 @@ stable_id: pol_8b64371cccb0
 original_elected_party: USR
 type: deputy
 ---
+
 ai_friendly_name: Diana-Anda BUZOIANU
 search_aliases: ['DIANA-ANDA BUZOIANU', 'diana-anda buzoianu']
 votes_cast: 1

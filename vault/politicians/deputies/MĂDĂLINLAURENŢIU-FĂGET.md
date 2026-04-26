@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) CONSTANŢA
+constituency: CONSTANŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/FagetMadalinLaurentiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=103&cam=2
 idm: 103
@@ -16,9 +16,10 @@ original_elected_party: SOS
 type: deputy
 motions: 1
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Mădălin-Laurenţiu FĂGET
 search_aliases: ['MĂDĂLIN-LAURENŢIU FĂGET', 'mădălin-laurenţiu făget']
 votes_cast: 6

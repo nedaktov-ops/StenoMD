@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BOTOŞANI
+constituency: BOTOŞANI
 photo_url: https://www.cdep.ro/parlamentari/l2024/MititeluEduardTatian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=199&cam=2
 idm: 199
@@ -15,9 +15,10 @@ stable_id: pol_1116f3056a8f
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Eduard-Tatian MITITELU
 search_aliases: ['EDUARD-TATIAN MITITELU', 'eduard-tatian mititelu']
 votes_cast: 5

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BUZĂU
+constituency: BUZĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/CiolacuIonMarcel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=59&cam=2
 idm: 59
@@ -15,6 +15,7 @@ stable_id: pol_96cb9f98e388
 original_elected_party: PSD
 type: deputy
 ---
+
 ai_friendly_name: Ion-Marcel CIOLACU
 search_aliases: ['ION-MARCEL CIOLACU', 'ion-marcel ciolacu']
 votes_cast: 9

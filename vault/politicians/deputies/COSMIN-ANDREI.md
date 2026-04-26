@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) TULCEA
+constituency: TULCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/AndreiCosmin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=8&cam=2
 idm: 8
@@ -15,9 +15,10 @@ stable_id: pol_4aaeb9efd08f
 original_elected_party: SOS
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Cosmin ANDREI
 search_aliases: ['COSMIN ANDREI', 'cosmin andrei']
 votes_cast: 5

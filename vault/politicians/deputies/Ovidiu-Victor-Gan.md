@@ -11,7 +11,12 @@ idm: 112
 speeches_count: 5
 laws_proposed: 52
 type: deputy
+photo_url: https://www.cdep.ro/parlamentari/l2024/GantOvidiuVictor.JPG
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 ai_friendly_name: Ovidiu Victor Gan
 search_aliases: ['OVIDIU VICTOR GAN', 'ovidiu victor gan']
 votes_cast: 6

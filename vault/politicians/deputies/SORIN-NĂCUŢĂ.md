@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/NacutaSorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=332&cam=2
 idm: 332
@@ -15,9 +15,10 @@ stable_id: pol_77c2cd5ebb64
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Sorin NĂCUŢĂ
 search_aliases: ['SORIN NĂCUŢĂ', 'sorin năcuţă']
 votes_cast: 6

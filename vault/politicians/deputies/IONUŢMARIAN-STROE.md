@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/StroeIonutMarian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=289&cam=2
 idm: 289
@@ -15,9 +15,10 @@ stable_id: pol_b06b02c02d03
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Ionuţ-Marian STROE
 search_aliases: ['IONUŢ-MARIAN STROE', 'ionuţ-marian stroe']
 votes_cast: 4

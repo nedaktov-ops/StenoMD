@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) HUNEDOARA
+constituency: HUNEDOARA
 photo_url: https://www.cdep.ro/parlamentari/l2024/IntoteroNataliaElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=147&cam=2
 idm: 147
@@ -15,11 +15,12 @@ stable_id: pol_c226230088bd
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor
 search_aliases: ['NATALIA-ELENA INTOTEROVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'natalia-elena intoterovicepreşedinte al camerei deputaţilor']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ARGEŞ
+constituency: ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MindrocCatalinViorel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=202&cam=2
 idm: 202
@@ -15,11 +15,12 @@ stable_id: pol_65c558c99165
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Industries and Services
+  role: member
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Cătălin-Viorel MÎNDROC
 search_aliases: ['CĂTĂLIN-VIOREL MÎNDROC', 'cătălin-viorel mîndroc']
 votes_cast: 6

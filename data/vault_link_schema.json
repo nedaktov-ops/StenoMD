@@ -1,0 +1,19 @@
+{
+  "generated": "2026-04-26T22:12:21.330725",
+  "links_added": {
+    "senators": 272,
+    "deputies": 480,
+    "laws": 122,
+    "sessions": 61
+  },
+  "link_types": {
+    "politicians -> colleagues": true,
+    "politicians -> laws": true,
+    "politicians -> sessions": true,
+    "politicians -> committees": true,
+    "laws -> politicians": true,
+    "laws -> sessions": true,
+    "sessions -> politicians": true,
+    "sessions -> laws": true
+  }
+}

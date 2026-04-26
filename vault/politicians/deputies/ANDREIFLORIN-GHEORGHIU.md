@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) VÂLCEA
+constituency: VÂLCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GheorghiuAndreiFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=121&cam=2
 idm: 121
@@ -15,9 +15,10 @@ stable_id: pol_b253fd45333d
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Andrei-Florin GHEORGHIU
 search_aliases: ['ANDREI-FLORIN GHEORGHIU', 'andrei-florin gheorghiu']
 votes_cast: 6

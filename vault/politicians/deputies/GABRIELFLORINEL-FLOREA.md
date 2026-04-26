@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) TELEORMAN
+constituency: TELEORMAN
 photo_url: https://www.cdep.ro/parlamentari/l2024/FloreaGabrielFlorinel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=108&cam=2
 idm: 108
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Gabriel-Florinel FLOREA
 search_aliases: ['GABRIEL-FLORINEL FLOREA', 'gabriel-florinel florea']
 votes_cast: 6

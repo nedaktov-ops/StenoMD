@@ -3,16 +3,22 @@ name: Toma Ilie
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) HUNEDOARA
-photo_url: 
+constituency: HUNEDOARA
+photo_url: https://www.cdep.ro/parlamentari/l2024/TomaIlie.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=305&cam=2
 idm: 305
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 31
+laws_proposed: 27
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 ai_friendly_name: Toma Ilie
 search_aliases: ['TOMA ILIE', 'toma ilie']
 votes_cast: 6

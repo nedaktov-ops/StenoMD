@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) MUREŞ
+constituency: MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/BiroDanielRazvan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=27&cam=2
 idm: 27
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Daniel-Răzvan BIRO
 search_aliases: ['DANIEL-RĂZVAN BIRO', 'daniel-răzvan biro']
 votes_cast: 5

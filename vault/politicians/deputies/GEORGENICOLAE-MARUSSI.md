@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) PRAHOVA
+constituency: PRAHOVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/MarussiGeorgeNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=181&cam=2
 idm: 181
@@ -15,11 +15,12 @@ stable_id: pol_f02a257a96a5
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
-  - name: "Agriculture"
-    role: "member"
+- name: Industries and Services
+  role: member
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: George-Nicolae MARUSSI
 search_aliases: ['GEORGE-NICOLAE MARUSSI', 'george-nicolae marussi']
 votes_cast: 6

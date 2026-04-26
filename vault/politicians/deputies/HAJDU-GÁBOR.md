@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) HARGHITA
+constituency: HARGHITA
 photo_url: https://www.cdep.ro/parlamentari/l2024/HajduGabor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=139&cam=2
 idm: 139
@@ -15,11 +15,12 @@ stable_id: pol_b68361070649
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Legal
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: HAJDU Gábor
 search_aliases: ['HAJDU GÁBOR', 'hajdu gábor']
 votes_cast: 5

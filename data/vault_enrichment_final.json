@@ -1,0 +1,14 @@
+{
+  "generated": "2026-04-26T22:16:53.548185",
+  "enrichments": {
+    "senators": "Official Profile links to senat.ro",
+    "deputies": "Official Profile links to cdep.ro",
+    "laws": "Parliament Records with direct links to cdep.ro/senat.ro",
+    "sessions": "Official Source links to stenogram archives"
+  },
+  "cleanup": {
+    "removed_placeholders": true,
+    "removed_unknown": true,
+    "added_parliament_sources": true
+  }
+}

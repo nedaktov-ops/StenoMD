@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) SĂLAJ
+constituency: SĂLAJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/BodeLucianNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=30&cam=2
 idm: 30
@@ -15,6 +15,7 @@ stable_id: pol_41a728db96a1
 original_elected_party: PNL
 type: deputy
 ---
+
 ai_friendly_name: Lucian Nicolae BODE
 search_aliases: ['LUCIAN NICOLAE BODE', 'lucian nicolae bode']
 votes_cast: 6

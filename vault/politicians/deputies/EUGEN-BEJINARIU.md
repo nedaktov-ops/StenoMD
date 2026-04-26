@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) SUCEAVA
+constituency: SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BejinariuEugen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=24&cam=2
 idm: 24
@@ -15,6 +15,7 @@ stable_id: pol_84d6824969aa
 original_elected_party: PSD
 type: deputy
 ---
+
 ai_friendly_name: Eugen BEJINARIU
 search_aliases: ['EUGEN BEJINARIU', 'eugen bejinariu']
 votes_cast: 6

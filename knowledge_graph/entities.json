@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "2.0",
-    "last_updated": "2026-04-25T18:26:10.867762",
+    "last_updated": "2026-04-27T01:19:06.901764",
     "sources": [
       "cdep.ro",
       "senat.ro",
@@ -14,1127 +14,5257 @@
   "persons": [
     {
       "id": "mp_1",
-      "name": "Mihai Weber",
+      "name": "ciubuc ciprian",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_2",
-      "name": "Ana Smaranda Rinder",
+      "name": "vlad andrei vidra",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_3",
-      "name": "Florian Udrea",
+      "name": "GHEORGHEVALENTIN RĂDUCEA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_4",
-      "name": "Nicolae Adrian Bara",
+      "name": "LIVIUIONUŢ MOŞTEANU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_5",
-      "name": "Adrian Echert",
+      "name": "simona bucura oprescu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_6",
-      "name": "Ioan Balan",
+      "name": "ANAMARIA GAVRILĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_7",
-      "name": "Viorica Sandu",
+      "name": "MARIAN CRUŞOVEANU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_8",
-      "name": "Ioan Bivolaru",
+      "name": "MIHAIBOGDAN NEGOESCU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_9",
-      "name": "Eduard Virgil Koler",
+      "name": "EUGEN BEJINARIU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_10",
-      "name": "Simona Geanina Pistru",
+      "name": "SAMUELVIRGIL MICLĂU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_11",
-      "name": "Lazăr Lădariu",
+      "name": "DANIELCĂTĂLIN CIORNEI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_12",
-      "name": "Ioan Lăzăroi",
+      "name": "GIGELSORINEL ŞTIRBU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_13",
-      "name": "Ana Marcela Ba",
+      "name": "SEBASTIANMIHAI RUSU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_14",
-      "name": "Petre Pu",
+      "name": "PETRUGABRIEL NEGREA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_15",
-      "name": "Nicolae Păun",
+      "name": "NICOLAEADRIAN BARA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_16",
-      "name": "Paula Maria Ivănescu",
+      "name": "goidescu ionel",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_17",
-      "name": "Alexandru Bordian",
+      "name": "MOLNAR ANDREI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_18",
-      "name": "Vlad Florentin Drinceanu",
+      "name": "GEORGE GIMA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_19",
-      "name": "Gheorghe Ana",
+      "name": "MIRELA ELENA ADOMNICĂI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_20",
-      "name": "George Nicolae Simion",
+      "name": "george adrian popa",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_21",
-      "name": "Valeriu Tabără",
+      "name": "LUCIANNICOLAE ANDRUŞCĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_22",
-      "name": "Vasile Lupu",
+      "name": "RODICA NASSAR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_23",
-      "name": "Bogdan Iulian Hu",
+      "name": "lăzăroi ioan",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_24",
-      "name": "Dorel Vulpoiu",
+      "name": "popa dorin",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_25",
-      "name": "Eugen Nicolicea",
+      "name": "ADRIAN GIURGIU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_26",
-      "name": "Anghel Stanciu",
+      "name": "florin cîrligea",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_27",
-      "name": "Fabian Cristian Radu",
+      "name": "robert ionatan sighiartău",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_28",
-      "name": "Romulus Raicu",
+      "name": "CRISTIANEMANUEL CÎMPAN",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_29",
-      "name": "Dan Ioan Popescu",
+      "name": "DUMITRU VĂDUVA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_30",
-      "name": "Nicoleta Matilda Goleac",
+      "name": "vulpoiu dorel",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_31",
-      "name": "Ioan Andrei Chiliman",
+      "name": "118",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_32",
-      "name": "Răzvan Olimpiu Cadar",
+      "name": "SEBASTIANANDREI KRONCSIŞ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_33",
-      "name": "Ioan Mang",
+      "name": "romeo daniel lungu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_34",
-      "name": "Varujan Pambuccian",
+      "name": "coarnă dumitru",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_35",
-      "name": "Simona Gianina Pistru",
+      "name": "GEORGEMIHAIL NEAMŢU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_36",
-      "name": "Ramona Lovin",
+      "name": "SERGIULUCIAN MATEI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_37",
-      "name": "Laura Gherasim",
+      "name": "VOICU VUŞCAN",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_38",
-      "name": "Petru Gabriel Negrea",
+      "name": "marius nicolae alecsandru",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_39",
-      "name": "Marian Cru",
+      "name": "KELEMEN HUNOR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_40",
-      "name": "Aneta Matei",
+      "name": "DANIELCODRUŢ BLAGA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_41",
-      "name": "Nicolae Ionescu",
+      "name": "FLORINCLAUDIU ROMAN",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_42",
-      "name": "Ion Iordache",
+      "name": "SILVIACLAUDIA MIHALCEASECRETAR AL CAMEREI DEPUTAŢILOR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_43",
-      "name": "Ciprian Constantin Paraschiv",
+      "name": "SILVIUOCTAVIAN GURLUI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_44",
-      "name": "Ciprian Ciubuc",
+      "name": "chirilă virgil alin",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_45",
-      "name": "Andrei Cosmin Gu",
+      "name": "ovidiu romulus paraschivescu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_46",
-      "name": "Elena Laura Toader",
+      "name": "răzvan olimpiu cadar",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_47",
-      "name": "Remus Gabriel Lăpu",
+      "name": "CODRUŢAMARIA CORCHEŞ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_48",
-      "name": "Vlad Andrei Vidra",
+      "name": "CRISTINAMĂDĂLINA PRUNĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_49",
-      "name": "Ramona Ioana Bruynseels",
+      "name": "ANDREEAFIRUŢA NEACŞU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_50",
-      "name": "George Adrian Popa",
+      "name": "VLADANDREI VIDRA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_51",
-      "name": "Vasile Matei",
+      "name": "TUDOR IONESCU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_52",
-      "name": "Octavian Oprea",
+      "name": "GHERVAZEN LONGHER",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_53",
-      "name": "Simiti Ioan Vida",
+      "name": "GIURECISLOBODAN GHERA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_54",
-      "name": "Amet Varol",
+      "name": "ANDREEAPETRONELA CÎMPIANU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_55",
-      "name": "Marian Iulian Rasaliu",
+      "name": "TIBERIUNICOLAE BOŞUTAR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_56",
-      "name": "Antonio Gabi Popescu",
+      "name": "MUGUR MIHĂESCU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_57",
-      "name": "Daniel Grofu",
+      "name": "136",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_58",
-      "name": "Dumitru Tilea",
+      "name": "nicolae adrian bara",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_59",
-      "name": "Sorin Grindeanu",
+      "name": "diana enache",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_60",
-      "name": "Paul Claudiu Cotîrle",
+      "name": "BENDE SÁNDOR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_61",
-      "name": "Lidia Vadim",
+      "name": "GEORGE CĂTĂLIN ŞERBAN",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_62",
-      "name": "Răzvan Iulian Ciortea",
+      "name": "georgeta carmen holban",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_63",
-      "name": "Cristina Emanuela Dascălu",
+      "name": "CLAUDIU MANTA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_64",
-      "name": "Ion Marcel Vela",
+      "name": "121",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_65",
-      "name": "George Simion",
+      "name": "IRINAFLORENTINA STOENICĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_66",
-      "name": "Varol Amet",
+      "name": "MARKÓ ATTILAGÁBOR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_67",
-      "name": "Voicu Vu",
+      "name": "silvia claudia mihalcea",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_68",
-      "name": "Sergiu Mircea Constantinescu",
+      "name": "DIANA ENACHE",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_69",
-      "name": "Rodica Plopeanu",
+      "name": "PETREFLORIN MANOLE",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_70",
-      "name": "Boris Volosatîi",
+      "name": "VLADFLORENTIN DRINCEANU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_71",
-      "name": "Petre Naidin",
+      "name": "ŞTEFAN ŢINTĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_72",
-      "name": "Ioan Gavra",
+      "name": "122",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_73",
-      "name": "Iulian Alexandru Muraru",
+      "name": "alexandrin moiseev",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_74",
-      "name": "Petru Bejinariu",
+      "name": "stelian cristian ion",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_75",
-      "name": "Leonida Lari Iorga",
+      "name": "ARIADNAELENA CÎRLIGEANU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_76",
-      "name": "Robert Alecu",
+      "name": "SORIN NĂCUŢĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_77",
-      "name": "Cosmin Teodor Iosub",
+      "name": "NICOLAE MÎNDRESCU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_78",
-      "name": "Nicolae Mirel Ion",
+      "name": "ROBERTIONATAN SIGHIARTĂU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_79",
-      "name": "Monica Iagăr",
+      "name": "KOLCSÁR ANQUETILKÁROLY",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_80",
-      "name": "Andrei Ioan Chiliman",
+      "name": "ŞTEFAN BOUDA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_81",
-      "name": "Vasilică Toma",
+      "name": "nini alexandru pascalini",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_82",
-      "name": "Bogdan Gheorghe Trif",
+      "name": "allen coliban",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_83",
-      "name": "Romulus Neagu",
+      "name": "MARIANA VÂRGĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_84",
-      "name": "Romeo Daniel Lungu",
+      "name": "cristian alexandru popa",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_85",
-      "name": "Călin Florin Groza",
+      "name": "OANA MURARIUSECRETAR AL CAMEREI DEPUTAŢILOR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_86",
-      "name": "Ionel Goidescu",
+      "name": "IULIAN BULAI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_87",
-      "name": "Iosif Florin Jianu",
+      "name": "142",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_88",
-      "name": "Eugen Nea",
+      "name": "ciprian doru rigman",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_89",
-      "name": "Mitzura Domnica Arghezi",
+      "name": "ramona ioana bruynseels",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_90",
-      "name": "Elek Barna",
+      "name": "150",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_91",
-      "name": "Ion Diaconescu",
+      "name": "ŞTEFANALEXANDRU BĂIŞANU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_92",
-      "name": "Mihai Dorin Drecin",
+      "name": "balan ioan",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_93",
-      "name": "Verginia Vedina",
+      "name": "ALLEN COLIBAN",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_94",
-      "name": "Ion Alin Tomoescu",
+      "name": "MITICĂMARIUS MĂRGĂRIT",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_95",
-      "name": "Silviu Titus Păunescu",
+      "name": "CSOMA BOTOND",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_96",
-      "name": "Alexandra Hu",
+      "name": "alecu robert",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_97",
-      "name": "Raisa Enachi",
+      "name": "munteanu valeriu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_98",
-      "name": "Alexandru Paul Dimitriu",
+      "name": "LUCIANFLORIN PUŞCAŞU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_99",
-      "name": "Maricel Popa",
+      "name": "cătălin viorel mîndroc",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_100",
-      "name": "Vasile Cîtea",
+      "name": "ALEXANDRUFLORIN ROGOBETE",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_101",
-      "name": "Radu Mihail Ionescu",
+      "name": "george gima",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_102",
-      "name": "Marius Felix Bulearcă",
+      "name": "DIANA STOICA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_103",
-      "name": "Gabriel Florinel Florea",
+      "name": "IULIUS MARIAN FIRCZAK",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_104",
-      "name": "Nicolae Popa",
+      "name": "CIPRIAN PANDEA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_105",
-      "name": "Florin Caraga",
+      "name": "titus păunescu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_106",
-      "name": "Vasile Nagy",
+      "name": "furtună mirela",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_107",
-      "name": "Alexandru Mihai Ghigiu",
+      "name": "SIMONAGEANINA PISTRUPOPA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_108",
-      "name": "Dan Tanasă",
+      "name": "marius constantin budăi",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_109",
-      "name": "Sergiu Lucian Matei",
+      "name": "liviu ionuț moșteanu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_110",
-      "name": "Andrei George Plujar",
+      "name": "LUCIAN NICOLAE BODE",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_111",
-      "name": "Silviu Nicu Macovei",
+      "name": "SORINGEORGE OLTENAŞU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_112",
-      "name": "Dorin Popa",
+      "name": "dumitru țiplea",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_113",
-      "name": "Daniel Cătălin Ciornei",
+      "name": "ariana oana bucur",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_114",
-      "name": "Mirela Furtună",
+      "name": "BIANCAEUGENIA GAVRILĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_115",
-      "name": "Corina Atanasiu",
+      "name": "alina gorghiu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_116",
-      "name": "Valeriu Munteanu",
+      "name": "MARIUSCONSTANTIN BUDĂI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_117",
-      "name": "Dumitru Coarnă",
+      "name": "128",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_118",
-      "name": "Simona Elena Macovei Ilie",
+      "name": "IULIANALEXANDRU MURARU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_119",
-      "name": "Mircea Mihai Munteanu",
+      "name": "GABRIEL ANDRONACHE",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_120",
-      "name": "Elena Dobo",
+      "name": "KÁNTOR BOGLÁRKA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_121",
-      "name": "Ionel Ciunt",
+      "name": "oprea octavian",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_122",
-      "name": "Maria Cernit",
+      "name": "ELENA DOBOŞ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_123",
-      "name": "Bogdan Alexandru Bola",
+      "name": "146",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_124",
-      "name": "Sebastian Răducanu",
+      "name": "IOAN MIHALCEA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_125",
-      "name": "Alexandrin Moiseev",
+      "name": "ALINAŞTEFANIA GORGHIU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_126",
-      "name": "Nicolae Giugea",
+      "name": "139",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_127",
-      "name": "Marian Mina",
+      "name": "patricia simina arina moș",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_128",
-      "name": "Andreea Petronela Cîmpianu",
+      "name": "EDUARDVIRGIL KOLER",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_129",
-      "name": "Mihail Nică",
+      "name": "ALEXANDRU POPA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_130",
-      "name": "Daniel Răzvan Biro",
+      "name": "radu mihail ionescu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_131",
-      "name": "Ecaterina Mariana Sz",
+      "name": "LIDIA VADIMTUDOR",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_132",
-      "name": "Varga Attila",
+      "name": "weber mihai",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_133",
-      "name": "Andra Claudia Constantinescu",
+      "name": "DRAGOŞFLORIN COMAN",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_134",
-      "name": "Miron Tudor Mitrea",
+      "name": "SERES DÉNES",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_135",
-      "name": "Cosmin Hristu",
+      "name": "ANDREI DANIEL GHEORGHE",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_136",
-      "name": "Cristian Buican",
+      "name": "dan artimon",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_137",
-      "name": "Maia Sandu",
+      "name": "ANDREICOSMIN GUŞĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_138",
-      "name": "Petru Bogdan Cojocaru",
+      "name": "GEORGE SCARLAT",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_139",
-      "name": "Mircea Vasile Govor",
+      "name": "SILVIUTITUS PĂUNESCU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_140",
-      "name": "Cristian Emanuel Cîmpan",
+      "name": "ADRIANMIROSLAV MERKA",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_141",
-      "name": "Tamas Sandor",
+      "name": "cristina butură",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_142",
-      "name": "Liviu Bogdan Ciucă",
+      "name": "doinița ciocan",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_143",
-      "name": "Gheorghe Daniel Georgescu",
+      "name": "Amet Varol",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_144",
-      "name": "Ilie Toma",
+      "name": "ciprian pandea",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_145",
-      "name": "Ciprian Doru Rigman",
+      "name": "EMANUELDUMITRU UNGUREANU",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_146",
-      "name": "Ioan Sonea",
+      "name": "bianca eugenia gavrilă",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_147",
-      "name": "Florin Claudiu Roman",
+      "name": "remus gabriel mihalcea",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_148",
-      "name": "Cosmin Ioan Corendea",
+      "name": "mirela florența matichescu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_149",
-      "name": "Tiberiu Claudiu Barstan",
+      "name": "ion marcel ciolacu",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_150",
-      "name": "Florian Claudiu Neaga",
+      "name": "143",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_151",
-      "name": "Ovidiu Victor Gan",
+      "name": "COSMIN ANDREI",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_152",
-      "name": "Marius Adrian Isac",
+      "name": "nagy vasile",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_153",
-      "name": "Marius Constantin Budăi",
+      "name": "GEORGEMĂDĂLIN BORŞ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_154",
-      "name": "Virgil Alin Chirilă",
+      "name": "atanasiu corina",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_155",
-      "name": "Ionel Gheorghe",
+      "name": "cristian emanuel cîmpan",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_156",
-      "name": "Nicolae Groza",
+      "name": "125",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
       "id": "mp_157",
-      "name": "Radu Marin Moisin",
+      "name": "RADUDINEL MIRUŢĂ",
       "chamber": "deputies",
       "appearances": [],
       "source": "vault"
     },
     {
-      "id": "sen_158",
+      "id": "mp_158",
+      "name": "VASILEDANIEL SUCIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_159",
+      "name": "mihail neamțu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_160",
+      "name": "149",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_161",
+      "name": "teodor lazăr",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_162",
+      "name": "114",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_163",
+      "name": "iordache ion",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_164",
+      "name": "MARIUSFELIX BULEARCĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_165",
+      "name": "BIRÓ ROZÁLIAIBOLYA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_166",
+      "name": "VASILE BUDACĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_167",
+      "name": "GEORGENICOLAE SIMION",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_168",
+      "name": "lucian gabriel bogdănel",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_169",
+      "name": "RADUMIHAIL IONESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_170",
+      "name": "SIMONAELENA MACOVEI ILIE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_171",
+      "name": "133",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_172",
+      "name": "ILIEALIN COLEŞA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_173",
+      "name": "ŞTEFAN TANASĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_174",
+      "name": "TIBERIUCLAUDIU BARSTAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_175",
+      "name": "sebastian mihai rusu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_176",
+      "name": "RADUNICOLAE MIHAIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_177",
+      "name": "tilea dumitru",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_178",
+      "name": "buican cristian",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_179",
+      "name": "VICTORVIOREL PONTA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_180",
+      "name": "FLORINCORNEL POPOVICI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_181",
+      "name": "zoltán miklós",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_182",
+      "name": "sandu viorica",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_183",
+      "name": "131",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_184",
+      "name": "KÖNCZEI CSABA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_185",
+      "name": "echert adrian",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_186",
+      "name": "daniel codruț blaga",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_187",
+      "name": "SIMONA BUCURAOPRESCUCHESTOR AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_188",
+      "name": "moiseev alexandrin",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_189",
+      "name": "140",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_190",
+      "name": "ANDREI DOLINEASCHI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_191",
+      "name": "BOGDANGRUIA IVAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_192",
+      "name": "cernit maria",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_193",
+      "name": "CĂLINFLORIN GROZA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_194",
+      "name": "ELENALAURA TOADER",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_195",
+      "name": "IOAN VULPESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_196",
+      "name": "DANMIHAI NICOLAE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_197",
+      "name": "CRISTIANALEXANDRU POPA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_198",
+      "name": "FLORINIONUŢ BARBU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_199",
+      "name": "SORINMIHAI GRINDEANUPREŞEDINTELE CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_200",
+      "name": "RALUCA TURCAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_201",
+      "name": "AUGUSTINFLORIN HAGIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_202",
+      "name": "ciunt ionel",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_203",
+      "name": "ADRIAN SOLOMON",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_204",
+      "name": "ZAKARIAS ZOLTÁN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_205",
+      "name": "ALEXANDRUPAUL DIMITRIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_206",
+      "name": "134",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_207",
+      "name": "123",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_208",
+      "name": "ALINBOGDAN STOICA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_209",
+      "name": "SERGIUMIRCEA CONSTANTINESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_210",
+      "name": "păun nicolae",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_211",
+      "name": "florin mircea",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_212",
+      "name": "141",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_213",
+      "name": "SILVIU VEXLER",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_214",
+      "name": "petre emanoil neagu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_215",
+      "name": "ŞTEFANIULIAN LŐRINCZ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_216",
+      "name": "POLLYANNAHANELLORE HANGAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_217",
+      "name": "REMUSGABRIEL LĂPUŞAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_218",
+      "name": "lovin ramona",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_219",
+      "name": "eduard tatian mititelu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_220",
+      "name": "Nicolae Mirel Ion",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_221",
+      "name": "rozália ibolya biró",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_222",
+      "name": "Bogdan Gheorghe Trif",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_223",
+      "name": "CIPRIANCONSTANTIN ŞERBAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_224",
+      "name": "RĂZVAN SORIN PRIŞCĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_225",
+      "name": "gheorghe ionel",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_226",
+      "name": "oana murariu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_227",
+      "name": "EUGEN NEAŢĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_228",
+      "name": "FLORIN MIRCEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_229",
+      "name": "augustin florin hagiu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_230",
+      "name": "ALEXANDRU RAFILA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_231",
+      "name": "valeriu munteanu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_232",
+      "name": "tiberiu boșutar",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_233",
+      "name": "ELIZAMĂDĂLINA PEŢAŞTEFĂNESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_234",
+      "name": "károly gál",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_235",
+      "name": "LAURENŢIU ADRIAN NECULAESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_236",
+      "name": "cosmin hristu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_237",
+      "name": "robert alecu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_238",
+      "name": "ILIEAURELIAN COTINESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_239",
+      "name": "MIHAIVIOREL FIFOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_240",
+      "name": "csaba könczei",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_241",
+      "name": "ariadna cîrligeanu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_242",
+      "name": "DUMITRU ŢIPLEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_243",
+      "name": "IONMARCEL CIOLACU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_244",
+      "name": "PETREEMANOIL NEAGU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_245",
+      "name": "MARIUSIONEL IANCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_246",
+      "name": "GABRIELFLORINEL FLOREA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_247",
+      "name": "dragoș florin coman",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_248",
+      "name": "ANDREI CSILLAG",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_249",
+      "name": "popa maricel",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_250",
+      "name": "MARIUSADRIAN ISAC",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_251",
+      "name": "SEBASTIANIOAN BURDUJA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_252",
+      "name": "MIHAI CULEAFĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_253",
+      "name": "GHEORGHEPETRU PÎCLIŞAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_254",
+      "name": "MĂDĂLINLAURENŢIU FĂGET",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_255",
+      "name": "CIPRIANDORU RIGMAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_256",
+      "name": "tanasă dan",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_257",
+      "name": "MIHAICĂTĂLIN BOTEZ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_258",
+      "name": "dan tanasă",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_259",
+      "name": "gherasim laura",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_260",
+      "name": "ALEXANDRUMIHAI GHIGIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_261",
+      "name": "bogdan velcescu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_262",
+      "name": "147",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_263",
+      "name": "RADUMARIN MOISIN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_264",
+      "name": "DANIELRĂZVAN BIRO",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_265",
+      "name": "DOINIŢA CIOCAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_266",
+      "name": "vasile nagy",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_267",
+      "name": "CLAUDIUIULIUSGAVRIL NĂSUI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_268",
+      "name": "129",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_269",
+      "name": "ADRIANFELICIAN COZMAVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_270",
+      "name": "132",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_271",
+      "name": "VERONICA GROSU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_272",
+      "name": "ilie alin coleșa",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_273",
+      "name": "ADRIAN MOCANU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_274",
+      "name": "LIVIUBOGDAN CIUCĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_275",
+      "name": "BOGDANIONEL RODEANU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_276",
+      "name": "murad mohammad",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_277",
+      "name": "ANGEL TÎLVĂR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_278",
+      "name": "MIHAICLAUDIU GHEORGHE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_279",
+      "name": "adrian wiener",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_280",
+      "name": "TEODOR LAZĂR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_281",
+      "name": "IONALIN TOMOESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_282",
+      "name": "vasile budacă",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_283",
+      "name": "radu marin moisin",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_284",
+      "name": "gheorghe petru pîclișan",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_285",
+      "name": "GEORGE BECALI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_286",
+      "name": "CĂTĂLIN DRULĂVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_287",
+      "name": "LADÁNYI LÁSZLÓZSOLT",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_288",
+      "name": "costel neculai dunava",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_289",
+      "name": "SORINTITUS MUNCACIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_290",
+      "name": "LUCIANGABRIEL BOGDĂNEL",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_291",
+      "name": "ADRIANVIRGIL CIOBANU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_292",
+      "name": "IOANA GROSARU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_293",
+      "name": "DRAGOŞ GABRIEL ZISOPOL",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_294",
+      "name": "126",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_295",
+      "name": "bogdan gruia ivan",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_296",
+      "name": "DANCĂTĂLIN ARTIMON",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_297",
+      "name": "ion marcel vela",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_298",
+      "name": "NELUVALENTIN BADEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_299",
+      "name": "tudor ionescu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_300",
+      "name": "GIANINA ŞERBANVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_301",
+      "name": "andra claudia constantinescu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_302",
+      "name": "IUSEIN IBRAM",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_303",
+      "name": "ION SAMOILĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_304",
+      "name": "adrian mocanu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_305",
+      "name": "ödön szabó",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_306",
+      "name": "148",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_307",
+      "name": "laurențiu adrian neculaescu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_308",
+      "name": "plujar andrei george",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_309",
+      "name": "victor viorel ponta",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_310",
+      "name": "elisabeta lipă",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_311",
+      "name": "120",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_312",
+      "name": "matei aneta",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_313",
+      "name": "CIPRIANMINODOR DOBRE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_314",
+      "name": "ilie aurelian cotinescu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_315",
+      "name": "IONELOVIDIU BOGDAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_316",
+      "name": "DIANAANDA BUZOIANU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_317",
+      "name": "răducanu sebastian",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_318",
+      "name": "LUCIANIOANTITUS MORAR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_319",
+      "name": "ovidiu vasile cîmpean",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_320",
+      "name": "DRAGOŞFĂNICĂ CIOBOTARU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_321",
+      "name": "alexandru popa",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_322",
+      "name": "GEORGETACARMEN HOLBAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_323",
+      "name": "rodica plopeanu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_324",
+      "name": "NICOLAEMIROSLAV PETREŢCHI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_325",
+      "name": "REMUSGABRIEL MIHALCEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_326",
+      "name": "SZABÓ ÖDÖN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_327",
+      "name": "IONELIAFLORENŢA PRIESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_328",
+      "name": "VLADIOAN ŞENDROIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_329",
+      "name": "simona georgina pistru popa",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_330",
+      "name": "PETRE PUŞCAŞU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_331",
+      "name": "MARILEN GABRIEL PIRTEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_332",
+      "name": "MIHAIADRIAN ŢIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_333",
+      "name": "botond csoma",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_334",
+      "name": "RĂZVANOLIMPIU CADAR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_335",
+      "name": "mina marian",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_336",
+      "name": "călin grațian gal",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_337",
+      "name": "CSÉP ÉVAANDREA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_338",
+      "name": "MIHAICOSMIN PASCARIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_339",
+      "name": "BOGDANALIN STOICA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_340",
+      "name": "cosmin pascariu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_341",
+      "name": "STELIANCRISTIAN ION",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_342",
+      "name": "HAJDU GÁBOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_343",
+      "name": "EDUARDTATIAN MITITELU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_344",
+      "name": "FLORINEUGEN CÎRLIGEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_345",
+      "name": "138",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_346",
+      "name": "RĂZVANIULIAN CIORTEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_347",
+      "name": "bogdan iulian huțucă",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_348",
+      "name": "bordian alexandru",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_349",
+      "name": "ŞTEFĂNIŢĂALIN AVRĂMESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_350",
+      "name": "ANDREIFLORIN GHEORGHIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_351",
+      "name": "gabriela corina ene",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_352",
+      "name": "gabriel andronache",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_353",
+      "name": "ŞTEFANOVIDIU POPA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_354",
+      "name": "GRAŢIELA LEOCADIA GAVRILESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_355",
+      "name": "AURORAADELA GEAMĂNU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_356",
+      "name": "GEORGENICOLAE MARUSSI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_357",
+      "name": "DORULUCIAN MUŞAT",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_358",
+      "name": "135",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_359",
+      "name": "MIKLÓS ZOLTÁN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_360",
+      "name": "dorin popa",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_361",
+      "name": "116",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_362",
+      "name": "ANDREIIONUŢ TESLARIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_363",
+      "name": "sorin titus muncaciu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_364",
+      "name": "PAULCLAUDIU COTÎRLEŢ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_365",
+      "name": "ROMICĂANDREI BACIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_366",
+      "name": "ANTONIOGABI POPESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_367",
+      "name": "ANDRACLAUDIA CONSTANTINESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_368",
+      "name": "FLORIN CARAGAŢĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_369",
+      "name": "CĂTĂLINVIOREL MÎNDROC",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_370",
+      "name": "ELISABETA LIPĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_371",
+      "name": "PETRUBOGDAN COJOCARU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_372",
+      "name": "aurora tasica simu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_373",
+      "name": "voicu vușcan",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_374",
+      "name": "ionel goidescu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_375",
+      "name": "MONICA IONESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_376",
+      "name": "144",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_377",
+      "name": "mihai viorel fifor",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_378",
+      "name": "RADU MARINESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_379",
+      "name": "OVIDIUVASILE CÎMPEAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_380",
+      "name": "IOSIFFLORIN JIANU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_381",
+      "name": "józsef kulcsár terza",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_382",
+      "name": "ANAMARCELA BAŞ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_383",
+      "name": "GEORGEL BADIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_384",
+      "name": "enachi raisa",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_385",
+      "name": "SILVIU FEODOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_386",
+      "name": "NATALIAELENA INTOTEROVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_387",
+      "name": "hristu cosmin",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_388",
+      "name": "florin roman",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_389",
+      "name": "119",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_390",
+      "name": "KULCSÁRTERZA JÓZSEFGYÖRGY",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_391",
+      "name": "RAMONAIOANA BRUYNSEELS",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_392",
+      "name": "Ecaterina Mariana Sz",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_393",
+      "name": "ion samoilă",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_394",
+      "name": "grofu daniel",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_395",
+      "name": "călin gheorghe matieș",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_396",
+      "name": "COSMINIOAN CORENDEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_397",
+      "name": "marian crușoveanu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_398",
+      "name": "FABIANCRISTIAN RADU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_399",
+      "name": "MIRELAFLORENŢA MATICHESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_400",
+      "name": "FLORINBOGDAN VELCESCUCHESTOR AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_401",
+      "name": "OVIDIUROMULUS PARASCHIVESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_402",
+      "name": "GHEORGHE NACOV",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_403",
+      "name": "ARIANAOANA BUCUR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_404",
+      "name": "DUMITRIŢA GLIGA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_405",
+      "name": "CĂLINGRAŢIAN GAL",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_406",
+      "name": "ANCUŢAFLORINA IRIMIA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_407",
+      "name": "BRIAN CRISTIAN",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_408",
+      "name": "ADRIAN CÂCIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_409",
+      "name": "NINIALEXANDRU PASCALINI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_410",
+      "name": "pambuccian varujan",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_411",
+      "name": "vasile daniel suciu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_412",
+      "name": "plopeanu rodica",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_413",
+      "name": "BOGDANANDREI TOADER",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_414",
+      "name": "MARIUSNICOLAE ALECSANDRU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_415",
+      "name": "BOGDANFLORIAN MIHUŢI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_416",
+      "name": "ADRIANA DIANA TUŞA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_417",
+      "name": "andrei csillag",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_418",
+      "name": "mădălin laurențiu făget",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_419",
+      "name": "137",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_420",
+      "name": "andrei george plujar",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_421",
+      "name": "MAGYAR LORÁNDBÁLINTCHESTOR AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_422",
+      "name": "ZAHORANSZKI BRIGITTAEVA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_423",
+      "name": "PATRICIASIMINAARINA MOŞSECRETAR AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_424",
+      "name": "RĂZVANMIREL CHIRIŢĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_425",
+      "name": "MIRCEAVASILE GOVOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_426",
+      "name": "ŞTEFANBUCUR STOICA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_427",
+      "name": "ALEXANDRUIOAN ANDREI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_428",
+      "name": "iagăr monica",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_429",
+      "name": "MIRCEA FECHET",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_430",
+      "name": "VERGINIA VEDINAŞ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_431",
+      "name": "GÁL KÁROLY",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_432",
+      "name": "NAGY SZABOLCS",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_433",
+      "name": "CRINAFIORELA CHILAT",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_434",
+      "name": "124",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_435",
+      "name": "130",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_436",
+      "name": "OGNEAN CRÎSTICI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_437",
+      "name": "GABRIELA PORUMBOIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_438",
+      "name": "gheorghe daniel georgescu",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_439",
+      "name": "CĂLINGHEORGHE MATIEŞ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_440",
+      "name": "CRISTINAIRINA BUTURĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_441",
+      "name": "COSMINTEODOR IOSUB",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_442",
+      "name": "AURORATASICA SIMU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_443",
+      "name": "IONEL STANCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_444",
+      "name": "marius adrian isac",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_445",
+      "name": "GEORGEADRIAN POPA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_446",
+      "name": "CEZARMIHAIL DRĂGOESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_447",
+      "name": "mihai claudiu gheorghe",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_448",
+      "name": "MIHAIADRIAN ENACHE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_449",
+      "name": "mircea fechet",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_450",
+      "name": "DUMITRIŢA ALBU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_451",
+      "name": "Ovidiu Victor Gan",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_452",
+      "name": "ANASMARANDA RINDER",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_453",
+      "name": "ROMEODANIEL LUNGUCHESTOR AL CAMEREI DEPUTAŢILOR",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_454",
+      "name": "MIRCEA ROŞCA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_455",
+      "name": "OANASILVIA ŢOIU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_456",
+      "name": "IONUŢMARIAN STROE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_457",
+      "name": "117",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_458",
+      "name": "VETUŢA STĂNESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_459",
+      "name": "MONICAELENA BERESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_460",
+      "name": "răzvan iulian ciortea",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_461",
+      "name": "GHEORGHEDANIEL GEORGESCU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_462",
+      "name": "GABRIELACORINA ENE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_463",
+      "name": "COSTEL NECULAI DUNAVA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_464",
+      "name": "SILVIUFLORIN OANCEA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_465",
+      "name": "ADRIAN WIENER",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_466",
+      "name": "maria cernit",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_467",
+      "name": "145",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_468",
+      "name": "MOHAMMAD MURAD",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_469",
+      "name": "127",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_470",
+      "name": "115",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_471",
+      "name": "SORINALEXANDRU AFLOAREI",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_472",
+      "name": "IONMARCEL VELA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_473",
+      "name": "toma ilie",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_474",
+      "name": "BOGDANIULIAN HUŢUCĂ",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_475",
+      "name": "CRISTINAEMANUELA DASCĂLU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_476",
+      "name": "DUMITRINA MITREA",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_477",
+      "name": "remus gabriel lăpușan",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_478",
+      "name": "VASS LEVENTE",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_479",
+      "name": "CIPRIANCONSTANTIN PARASCHIV",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "mp_480",
+      "name": "MARIAN NEACŞU",
+      "chamber": "deputies",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_481",
+      "name": "neagu nicolae",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_482",
+      "name": "oprinoiu aurel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_483",
+      "name": "marius alexandru dunca",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_484",
+      "name": "luca mălăiescu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_485",
+      "name": "ovidiu puiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_486",
+      "name": "sebastian cernic",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_487",
+      "name": "pasculescu veta",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_488",
+      "name": "oana constantina buzatu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_489",
+      "name": "stelea niculina",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_490",
+      "name": "rusu ioan cristian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_491",
+      "name": "cernic sebastian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_492",
       "name": "Mihai Coteț",
       "chamber": "senate",
       "appearances": [],
       "source": "vault"
     },
     {
-      "id": "sen_159",
+      "id": "sen_493",
+      "name": "dorina barcari",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_494",
+      "name": "andrei dîrlău",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_495",
+      "name": "sava clement",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_496",
+      "name": "liviu lucian mazilu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_497",
+      "name": "anghel razvan paul",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_498",
+      "name": "floroiu ionel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_499",
+      "name": "rus vasile ciprian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_500",
+      "name": "bolojan ilie",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_501",
+      "name": "marginean lucian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_502",
+      "name": "cimpeanu sorin mihai",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_503",
+      "name": "cerva nadia cosmina",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_504",
+      "name": "rodica cușnir",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_505",
+      "name": "barna tánczos",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_506",
+      "name": "fodoca liviu iulian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_507",
+      "name": "predoiu marian catalin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_508",
+      "name": "dumitru spau",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_509",
+      "name": "peiu petrisor gabriel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_510",
+      "name": "nicolae vlahu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_511",
+      "name": "daniel paul romeo gheorghe",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_512",
+      "name": "cazanciuc robert marius",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_513",
+      "name": "anisie monica cristina",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_514",
+      "name": "paduraru raducu adrian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_515",
+      "name": "teofil parasca",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_516",
+      "name": "călin petru marian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_517",
+      "name": "malaiescu luca",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_518",
+      "name": "nicolae moldovan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_519",
+      "name": "mariana vali aldea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_520",
+      "name": "sorin cîmpeanu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_521",
+      "name": "cosa silviu iulian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_522",
+      "name": "humelnicu marius",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_523",
+      "name": "cseke attila zoltan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_524",
+      "name": "cristian augustin niculescu țâgârlaș",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_525",
+      "name": "sorin vlașin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_526",
+      "name": "dorin silviu petrea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_527",
+      "name": "niculescu g rla cristian augustin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_528",
+      "name": "violeta alexandru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_529",
+      "name": "mihai daniela",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_530",
       "name": "Mircea Abrudean",
       "chamber": "senate",
       "appearances": [],
       "source": "vault"
     },
     {
-      "id": "sen_160",
+      "id": "sen_531",
+      "name": "diana șoșoacă",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_532",
+      "name": "cornel cristian resmeriță",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_533",
+      "name": "puiu ovidiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_534",
+      "name": "orban carmen",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_535",
+      "name": "daniela ștefănescu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_536",
+      "name": "plaesu laurentiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_537",
+      "name": "buzatu oana constantina",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_538",
+      "name": "vlaescu virgiliu george",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_539",
+      "name": "palarie stefan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_540",
+      "name": "presura alexandra",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_541",
+      "name": "vasile blaga",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_542",
+      "name": "titus corlățean",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_543",
+      "name": "turos l r nd",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_544",
+      "name": "negoi eugen remus",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_545",
+      "name": "ovidiu jitaru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_546",
+      "name": "paul stănescu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_547",
+      "name": "ștefan geamănu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_548",
+      "name": "aurel oprinoiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_549",
+      "name": "v ntu cristian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_550",
+      "name": "cătălin silegeanu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_551",
+      "name": "dobra elena adelina",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_552",
+      "name": "george cătălin bochileanu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_553",
+      "name": "bota gheorghe ioan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_554",
+      "name": "fej r l szl d n",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_555",
+      "name": "vasilică potecă",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_556",
+      "name": "pauliuc nicoleta",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_557",
+      "name": "petrică lucian rusu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_558",
+      "name": "novak levente",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_559",
+      "name": "mircia chelaru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_560",
+      "name": "moise sorin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_561",
+      "name": "liviu sorin robe",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_562",
+      "name": "bem cristian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_563",
+      "name": "laurențiu plăeșu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_564",
+      "name": "nicolae neagu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_565",
+      "name": "marius humelnicu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_566",
+      "name": "tasnadi istvan szilard",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_567",
+      "name": "elena simona spătaru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_568",
+      "name": "rodica constantinescu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_569",
+      "name": "robert cazanciuc",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_570",
+      "name": "robert daniel ghiță",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_571",
+      "name": "bochileanu george catalin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_572",
+      "name": "aurel george mohan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_573",
+      "name": "sipos sorin gheorghe",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_574",
+      "name": "ve tea mihail",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_575",
+      "name": "adrian streinu cercel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_576",
+      "name": "fenechiu catalin daniel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_577",
+      "name": "petrea dorin silviu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_578",
+      "name": "marian calin petru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_579",
       "name": "Vasile Blaga",
       "chamber": "senate",
       "appearances": [],
       "source": "vault"
     },
     {
-      "id": "sen_161",
+      "id": "sen_580",
+      "name": "iacob constantin ciprian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_581",
+      "name": "peiu grigore adrian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_582",
+      "name": "epelu lauren iu cristinel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_583",
+      "name": "grigore adrian peiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_584",
+      "name": "marian vasile",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_585",
+      "name": "t nczos barna",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_586",
+      "name": "vasile ciprian rus",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_587",
+      "name": "ion narcis mircescu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_588",
+      "name": "ghita robert daniel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_589",
+      "name": "ioan cristian rusu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_590",
+      "name": "attila zoltan cseke",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_591",
+      "name": "ilie gavril bolojan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_592",
+      "name": "mihai coteț",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_593",
+      "name": "ambrozie irineu darău",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_594",
+      "name": "dumitru manea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_595",
+      "name": "károly zsolt császár",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_596",
+      "name": "sorin gheorghe șipoș",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_597",
+      "name": "darau ambrozie irineu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_598",
+      "name": "eugen remus negoi",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_599",
+      "name": "ciprian iacob",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_600",
+      "name": "roman marius valentin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_601",
+      "name": "ion cristinel rujan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_602",
+      "name": "cibu deaconu ruxandra",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_603",
+      "name": "daniela mihai",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_604",
+      "name": "vla in sorin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_605",
+      "name": "stefanache gheorghe",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_606",
+      "name": "varga glad aurel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_607",
+      "name": "aldea valentina mariana",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_608",
+      "name": "lucian romașcanu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_609",
+      "name": "lóránd turos",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_610",
+      "name": "cristian bem",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_611",
+      "name": "gheorghe ștefănache",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_612",
+      "name": "sorin moise",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_613",
+      "name": "elena adelina dobra",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_614",
+      "name": "istván loránt antal",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_615",
+      "name": "luminița păucean fernandes",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_616",
+      "name": "stoiciu victoria",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_617",
+      "name": "poteca vasilica",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_618",
+      "name": "lucian mărginean",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_619",
+      "name": "stoica ciprian titi",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_620",
+      "name": "cusnir rodica",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_621",
+      "name": "constantinescu rodica",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_622",
+      "name": "resmeri a cornel cristian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_623",
+      "name": "geamanu stefan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_624",
+      "name": "cătălin graur",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_625",
+      "name": "claudiu vasile răcuci",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_626",
+      "name": "ghinea cristian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_627",
+      "name": "felix stroe",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_628",
+      "name": "ionuț ciprian ciuperceanu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_629",
+      "name": "paul ciprian pintea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_630",
+      "name": "negru corneliu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_631",
+      "name": "glad aurel varga",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_632",
+      "name": "clement sava",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_633",
+      "name": "florin nicolae jianu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_634",
+      "name": "vasile marian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_635",
+      "name": "stanescu paul",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_636",
+      "name": "claudiu daniel catană",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_637",
+      "name": "barcari dorina",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_638",
+      "name": "niculina stelea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_639",
+      "name": "marian cătălin predoiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_640",
+      "name": "rujan ion cristinel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_641",
+      "name": "pintea paul ciprian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_642",
       "name": "Niculina Stelea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_643",
+      "name": "corla ean titus",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_644",
+      "name": "petrișor peiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_645",
+      "name": "eugen dogariu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_646",
+      "name": "lavric sorin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_647",
+      "name": "cătălin emil mîndru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_648",
+      "name": "cristian ghinea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_649",
+      "name": "ciuperceanu ionut ciprian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_650",
+      "name": "racuci claudiu vasile",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_651",
+      "name": "ninel peia",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_652",
+      "name": "maté kovács",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_653",
+      "name": "cristian vântu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_654",
+      "name": "alexandra presură",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_655",
+      "name": "marius bodea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_656",
+      "name": "dan cașcaval",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_657",
+      "name": "liviu iulian fodoca",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_658",
+      "name": "chertif costache",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_659",
+      "name": "gheorghe vela",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_660",
+      "name": "claudiu târziu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_661",
+      "name": "ionel floroiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_662",
+      "name": "jitaru ovidiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_663",
+      "name": "federovici doina elena",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_664",
+      "name": "nicula mircea cristian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_665",
+      "name": "cătălin daniel fenechiu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_666",
+      "name": "chelaru mircia",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_667",
+      "name": "bodea marius",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_668",
+      "name": "cs sz r k roly zsolt",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_669",
+      "name": "carp ionel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_670",
+      "name": "dogariu eugen",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_671",
+      "name": "istvan szilard tasnadi",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_672",
+      "name": "valentin roman",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_673",
+      "name": "mircea abrudean",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_674",
+      "name": "antal istv n lor nt",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_675",
+      "name": "paucean fernandes luminita",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_676",
+      "name": "corneliu negru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_677",
+      "name": "silegeanu catalin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_678",
+      "name": "razvan paul anghel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_679",
+      "name": "levente novak",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_680",
+      "name": "sorin lavric",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_681",
+      "name": "andra bică",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_682",
+      "name": "vlahu nicolae",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_683",
+      "name": "mazilu liviu lucian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_684",
+      "name": "mindru catalin emil",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_685",
+      "name": "cotet mihai",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_686",
+      "name": "cezar petre",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_687",
+      "name": "virgiliu george vlăescu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_688",
+      "name": "flutur gheorghe",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_689",
+      "name": "ioan stan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_690",
+      "name": "lászló ödön fejér",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_691",
+      "name": "răducu adrian păduraru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_692",
+      "name": "spataru elena simona",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_693",
+      "name": "gheorghe ioan bota",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_694",
+      "name": "dumitrescu cristina gabriella",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_695",
+      "name": "mircea ionuț sandu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_696",
+      "name": "dunca marius alexandru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_697",
+      "name": "onea olga",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_698",
+      "name": "mihail veștea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_699",
+      "name": "ruxandra cibu deaconu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_700",
+      "name": "alina elena tănăsescu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_701",
+      "name": "nicolae ionel ciucă",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_702",
+      "name": "carmen orban",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_703",
+      "name": "vela gheorghe",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_704",
+      "name": "abrudean mircea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_705",
+      "name": "ștefan borțun",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_706",
+      "name": "bica andra",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_707",
+      "name": "alexandru victoria violeta",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_708",
+      "name": "kondor gota",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_709",
+      "name": "mohan aurel george",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_710",
+      "name": "sandu mircea ionut",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_711",
+      "name": "stefanescu daniela",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_712",
+      "name": "ionel carp",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_713",
+      "name": "manea dumitru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_714",
+      "name": "ana cynthia ioana păun",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_715",
+      "name": "blaga vasile",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_716",
+      "name": "doina elena federovici",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_717",
+      "name": "ágota kondor",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_718",
+      "name": "maria gabriela horga",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_719",
+      "name": "eugen cristian șipoș",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_720",
+      "name": "peia ninel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_721",
+      "name": "daniel cătălin zamfir",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_722",
+      "name": "dirlau andrei emil",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_723",
+      "name": "horga maria gabriela",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_724",
+      "name": "robe liviu sorin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_725",
+      "name": "olga onea",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_726",
+      "name": "paun ana cynthia ioana",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_727",
+      "name": "nicoleta pauliuc",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_728",
+      "name": "zamfir daniel catalin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_729",
+      "name": "petre george cezar",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_730",
+      "name": "gheorghe flutur",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_731",
+      "name": "silviu iulian coșa",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_732",
+      "name": "victoria stoiciu",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_733",
+      "name": "streinu cercel adrian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_734",
+      "name": "mircescu ion narcis",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_735",
+      "name": "parasca teofil",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_736",
+      "name": "gheorghe daniel paul romeo",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_737",
+      "name": "cascaval dan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_738",
+      "name": "ciprian titi stoica",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_739",
+      "name": "spau dumitru",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_740",
+      "name": "catana claudiu daniel",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_741",
+      "name": "bortun stefan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_742",
+      "name": "rusu petrica lucian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_743",
+      "name": "stroe felix",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_744",
+      "name": "ștefan pălărie",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_745",
+      "name": "sipos eugen cristian",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_746",
+      "name": "monica anisie",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_747",
+      "name": "kov cs mat",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_748",
+      "name": "graur catalin",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_749",
+      "name": "costache chertif",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_750",
+      "name": "stan ioan",
+      "chamber": "senate",
+      "appearances": [],
+      "source": "vault"
+    },
+    {
+      "id": "sen_751",
+      "name": "tanasescu alina elena",
       "chamber": "senate",
       "appearances": [],
       "source": "vault"
@@ -1142,8 +5272,8 @@
   ],
   "sessions": [
     {
-      "id": "2025-02-24",
-      "date": "2025-02-24",
+      "id": "'2025-02-24'",
+      "date": "'2025-02-24'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 24 februarie  2025",
       "url": "",
@@ -1151,8 +5281,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-02",
-      "date": "2025-06-02",
+      "id": "'2025-06-02'",
+      "date": "'2025-06-02'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 2 iunie      2025",
       "url": "",
@@ -1160,8 +5290,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-26",
-      "date": "2025-05-26",
+      "id": "'2025-05-26'",
+      "date": "'2025-05-26'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 26 mai        2025",
       "url": "",
@@ -1169,8 +5299,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-12",
-      "date": "2025-03-12",
+      "id": "'2025-03-12'",
+      "date": "'2025-03-12'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 12 martie 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=25&prn=1",
@@ -1178,8 +5308,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-15",
-      "date": "2025-04-15",
+      "id": "'2025-04-15'",
+      "date": "'2025-04-15'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 15 aprilie 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=43&prn=1",
@@ -1187,8 +5317,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-30",
-      "date": "2025-06-30",
+      "id": "'2025-06-30'",
+      "date": "'2025-06-30'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 30 iunie      2025",
       "url": "",
@@ -1196,8 +5326,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-02-16",
-      "date": "1998-02-16",
+      "id": "'1998-02-16'",
+      "date": "'1998-02-16'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 16 februarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=10",
@@ -1205,8 +5335,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-22",
-      "date": "2025-09-22",
+      "id": "'2025-09-22'",
+      "date": "'2025-09-22'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 22 septembrie 2025",
       "url": "",
@@ -1214,8 +5344,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-10",
-      "date": "2025-02-10",
+      "id": "'2025-02-10'",
+      "date": "'2025-02-10'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 10 februarie  2025",
       "url": "",
@@ -1223,8 +5353,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-11",
-      "date": "2025-06-11",
+      "id": "'2025-06-11'",
+      "date": "'2025-06-11'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 11 iunie 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=57&prn=1",
@@ -1232,8 +5362,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-11-05",
-      "date": "2024-11-05",
+      "id": "'2024-11-05'",
+      "date": "'2024-11-05'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 5 noiembrie 2024",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=10&prn=1",
@@ -1241,8 +5371,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-15",
-      "date": "2025-04-15",
+      "id": "'2025-04-15'",
+      "date": "'2025-04-15'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 15 aprilie    2025",
       "url": "",
@@ -1250,8 +5380,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-23",
-      "date": "2025-04-23",
+      "id": "'2025-04-23'",
+      "date": "'2025-04-23'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 23 aprilie    2025",
       "url": "",
@@ -1259,8 +5389,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-18",
-      "date": "2025-06-18",
+      "id": "'2025-06-18'",
+      "date": "'2025-06-18'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 18 iunie      2025",
       "url": "",
@@ -1268,8 +5398,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-08",
-      "date": "2025-09-08",
+      "id": "'2025-09-08'",
+      "date": "'2025-09-08'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 8 septembrie 2025",
       "url": "",
@@ -1277,8 +5407,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-03",
-      "date": "2025-03-03",
+      "id": "'2025-03-03'",
+      "date": "'2025-03-03'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 3 martie     2025",
       "url": "",
@@ -1286,8 +5416,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-19",
-      "date": "2025-02-19",
+      "id": "'2025-02-19'",
+      "date": "'2025-02-19'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 19 februarie  2025",
       "url": "",
@@ -1295,8 +5425,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-11",
-      "date": "2025-06-11",
+      "id": "'2025-06-11'",
+      "date": "'2025-06-11'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 11 iunie      2025",
       "url": "",
@@ -1304,8 +5434,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-21",
-      "date": "2025-05-21",
+      "id": "'2025-05-21'",
+      "date": "'2025-05-21'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 21 mai        2025",
       "url": "",
@@ -1313,8 +5443,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-06",
-      "date": "2025-05-06",
+      "id": "'2025-05-06'",
+      "date": "'2025-05-06'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 6 mai        2025",
       "url": "",
@@ -1322,8 +5452,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-05",
-      "date": "2025-03-05",
+      "id": "'2025-03-05'",
+      "date": "'2025-03-05'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 5 martie 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=23&prn=1",
@@ -1331,8 +5461,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-11",
-      "date": "2025-03-11",
+      "id": "'2025-03-11'",
+      "date": "'2025-03-11'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 11 martie     2025",
       "url": "",
@@ -1340,8 +5470,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-13",
-      "date": "2025-05-13",
+      "id": "'2025-05-13'",
+      "date": "'2025-05-13'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 13 mai        2025",
       "url": "",
@@ -1349,8 +5479,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-01-22",
-      "date": "1998-01-22",
+      "id": "'1998-01-22'",
+      "date": "'1998-01-22'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 22 ianuarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=2",
@@ -1358,8 +5488,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-16",
-      "date": "2025-06-16",
+      "id": "'2025-06-16'",
+      "date": "'2025-06-16'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 16 iunie      2025",
       "url": "",
@@ -1367,8 +5497,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-22",
-      "date": "2025-04-22",
+      "id": "'2025-04-22'",
+      "date": "'2025-04-22'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 22 aprilie    2025",
       "url": "",
@@ -1376,8 +5506,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-25",
-      "date": "2025-02-25",
+      "id": "'2025-02-25'",
+      "date": "'2025-02-25'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 25 februarie  2025",
       "url": "",
@@ -1385,8 +5515,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-02-03",
-      "date": "1998-02-03",
+      "id": "'1998-02-03'",
+      "date": "'1998-02-03'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 3 februarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=5",
@@ -1398,13 +5528,13 @@
       "date": "2025-05-13",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 13 mai 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=53&prn=1",
+      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=53",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2025-02-17",
-      "date": "2025-02-17",
+      "id": "'2025-02-17'",
+      "date": "'2025-02-17'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 17 februarie  2025",
       "url": "",
@@ -1412,8 +5542,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-02-10",
-      "date": "1998-02-10",
+      "id": "'1998-02-10'",
+      "date": "'1998-02-10'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 10 februarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=8",
@@ -1421,17 +5551,17 @@
       "source": "vault"
     },
     {
-      "id": "2025-07-14",
-      "date": "2025-07-14",
+      "id": "'2025-07-14'",
+      "date": "'2025-07-14'",
       "chamber": "deputies",
-      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 14 iulie      2025 (sesiune extraordinara)",
+      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 14 iulie      2025 (sesiune",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2025-03-05",
-      "date": "2025-03-05",
+      "id": "'2025-03-05'",
+      "date": "'2025-03-05'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 5 martie     2025",
       "url": "",
@@ -1439,8 +5569,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-10",
-      "date": "2025-03-10",
+      "id": "'2025-03-10'",
+      "date": "'2025-03-10'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 10 martie     2025",
       "url": "",
@@ -1448,8 +5578,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-12",
-      "date": "2025-02-12",
+      "id": "'2025-02-12'",
+      "date": "'2025-02-12'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 12 februarie  2025",
       "url": "",
@@ -1457,8 +5587,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-24",
-      "date": "2025-03-24",
+      "id": "'2025-03-24'",
+      "date": "'2025-03-24'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 24 martie     2025",
       "url": "",
@@ -1466,8 +5596,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-23",
-      "date": "2025-06-23",
+      "id": "'2025-06-23'",
+      "date": "'2025-06-23'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 23 iunie      2025",
       "url": "",
@@ -1475,8 +5605,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-10",
-      "date": "2025-09-10",
+      "id": "'2025-09-10'",
+      "date": "'2025-09-10'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 10 septembrie 2025",
       "url": "",
@@ -1484,8 +5614,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-02-05",
-      "date": "1998-02-05",
+      "id": "'1998-02-05'",
+      "date": "'1998-02-05'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 5 februarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=6",
@@ -1493,8 +5623,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-26",
-      "date": "2025-02-26",
+      "id": "'2025-02-26'",
+      "date": "'2025-02-26'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 26 februarie 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=22&prn=1",
@@ -1502,8 +5632,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-02",
-      "date": "2025-04-02",
+      "id": "'2025-04-02'",
+      "date": "'2025-04-02'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 2 aprilie    2025",
       "url": "",
@@ -1515,7 +5645,7 @@
       "date": "2025-02-12",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 12 februarie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=20&prn=1",
+      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=20",
       "participants": [],
       "source": "vault"
     },
@@ -1524,13 +5654,13 @@
       "date": "2025-04-23",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 23 aprilie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=51&prn=1",
+      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=51",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2025-03-25",
-      "date": "2025-03-25",
+      "id": "'2025-03-25'",
+      "date": "'2025-03-25'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 25 martie     2025",
       "url": "",
@@ -1538,8 +5668,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-14",
-      "date": "2025-04-14",
+      "id": "'2025-04-14'",
+      "date": "'2025-04-14'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 14 aprilie    2025",
       "url": "",
@@ -1547,8 +5677,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-11-12",
-      "date": "2024-11-12",
+      "id": "'2024-11-12'",
+      "date": "'2024-11-12'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 12 noiembrie 2024",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=12&prn=1",
@@ -1556,8 +5686,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-07",
-      "date": "2025-05-07",
+      "id": "'2025-05-07'",
+      "date": "'2025-05-07'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 7 mai        2025",
       "url": "",
@@ -1565,8 +5695,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-24",
-      "date": "2025-06-24",
+      "id": "'2025-06-24'",
+      "date": "'2025-06-24'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 24 iunie      2025",
       "url": "",
@@ -1574,8 +5704,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-01",
-      "date": "2025-09-01",
+      "id": "'2025-09-01'",
+      "date": "'2025-09-01'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 1 septembrie 2025",
       "url": "",
@@ -1583,8 +5713,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-20",
-      "date": "2025-05-20",
+      "id": "'2025-05-20'",
+      "date": "'2025-05-20'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 20 mai        2025",
       "url": "",
@@ -1592,8 +5722,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-12-17",
-      "date": "2024-12-17",
+      "id": "'2024-12-17'",
+      "date": "'2024-12-17'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 17 decembrie 2024",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=19&prn=1",
@@ -1601,8 +5731,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-01-27",
-      "date": "1998-01-27",
+      "id": "'1998-01-27'",
+      "date": "'1998-01-27'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 27 ianuarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=3",
@@ -1610,8 +5740,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-12-23",
-      "date": "2024-12-23",
+      "id": "'2024-12-23'",
+      "date": "'2024-12-23'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 23 decembrie  2024",
       "url": "",
@@ -1623,13 +5753,13 @@
       "date": "2025-02-19",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 19 februarie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=21&prn=1",
+      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=21",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "1998-02-12",
-      "date": "1998-02-12",
+      "id": "'1998-02-12'",
+      "date": "'1998-02-12'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 12 februarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=9",
@@ -1637,8 +5767,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-12",
-      "date": "2025-03-12",
+      "id": "'2025-03-12'",
+      "date": "'2025-03-12'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
       "url": "",
@@ -1646,8 +5776,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-05",
-      "date": "2025-02-05",
+      "id": "'2025-02-05'",
+      "date": "'2025-02-05'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 5 februarie  2025",
       "url": "",
@@ -1655,8 +5785,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-12-11",
-      "date": "2024-12-11",
+      "id": "'2024-12-11'",
+      "date": "'2024-12-11'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 11 decembrie 2024",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=17&prn=1",
@@ -1664,8 +5794,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-31",
-      "date": "2025-03-31",
+      "id": "'2025-03-31'",
+      "date": "'2025-03-31'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 31 martie     2025",
       "url": "",
@@ -1673,8 +5803,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-04",
-      "date": "2025-06-04",
+      "id": "'2025-06-04'",
+      "date": "'2025-06-04'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 4 iunie 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=56&prn=1",
@@ -1682,8 +5812,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-28",
-      "date": "2025-02-28",
+      "id": "'2025-02-28'",
+      "date": "'2025-02-28'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 28 februarie  2025",
       "url": "",
@@ -1691,8 +5821,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-12",
-      "date": "2025-05-12",
+      "id": "'2025-05-12'",
+      "date": "'2025-05-12'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 12 mai        2025",
       "url": "",
@@ -1700,17 +5830,17 @@
       "source": "vault"
     },
     {
-      "id": "2025-07-07",
-      "date": "2025-07-07",
+      "id": "'2025-07-07'",
+      "date": "'2025-07-07'",
       "chamber": "deputies",
-      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 7 iulie      2025 (sesiune extraordinara)",
+      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 7 iulie      2025 (sesiune",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2024-12-21",
-      "date": "2024-12-21",
+      "id": "'2024-12-21'",
+      "date": "'2024-12-21'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
       "url": "",
@@ -1718,8 +5848,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-28",
-      "date": "2025-05-28",
+      "id": "'2025-05-28'",
+      "date": "'2025-05-28'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
       "url": "",
@@ -1727,8 +5857,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-17",
-      "date": "2025-03-17",
+      "id": "'2025-03-17'",
+      "date": "'2025-03-17'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 17 martie     2025",
       "url": "",
@@ -1736,8 +5866,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-12-22",
-      "date": "2024-12-22",
+      "id": "'2024-12-22'",
+      "date": "'2024-12-22'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 22 decembrie  2024",
       "url": "",
@@ -1745,8 +5875,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-04",
-      "date": "2025-06-04",
+      "id": "'2025-06-04'",
+      "date": "'2025-06-04'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 4 iunie      2025",
       "url": "",
@@ -1754,8 +5884,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-07",
-      "date": "2025-09-07",
+      "id": "'2025-09-07'",
+      "date": "'2025-09-07'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 7 septembrie 2025",
       "url": "",
@@ -1763,8 +5893,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-19",
-      "date": "2025-03-19",
+      "id": "'2025-03-19'",
+      "date": "'2025-03-19'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 19 martie     2025",
       "url": "",
@@ -1772,8 +5902,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-26",
-      "date": "2025-02-26",
+      "id": "'2025-02-26'",
+      "date": "'2025-02-26'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 26 februarie  2025",
       "url": "",
@@ -1781,8 +5911,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-03",
-      "date": "2025-09-03",
+      "id": "'2025-09-03'",
+      "date": "'2025-09-03'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 3 septembrie 2025",
       "url": "",
@@ -1790,8 +5920,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-02-03",
-      "date": "2025-02-03",
+      "id": "'2025-02-03'",
+      "date": "'2025-02-03'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 3 februarie  2025",
       "url": "",
@@ -1799,8 +5929,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-15",
-      "date": "2025-09-15",
+      "id": "'2025-09-15'",
+      "date": "'2025-09-15'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 15 septembrie 2025",
       "url": "",
@@ -1808,8 +5938,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-28",
-      "date": "2025-05-28",
+      "id": "'2025-05-28'",
+      "date": "'2025-05-28'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 28 mai 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=55&prn=1",
@@ -1817,8 +5947,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-02-09",
-      "date": "1998-02-09",
+      "id": "'1998-02-09'",
+      "date": "'1998-02-09'",
       "chamber": "deputies",
       "title": "Şedinţa Camerei Deputaţilor din 9 februarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=7",
@@ -1826,8 +5956,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-04",
-      "date": "2025-09-04",
+      "id": "'2025-09-04'",
+      "date": "'2025-09-04'",
       "chamber": "deputies",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 4 septembrie 2025",
       "url": "",
@@ -1835,8 +5965,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-07",
-      "date": "2025-04-07",
+      "id": "'2025-04-07'",
+      "date": "'2025-04-07'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 7 aprilie    2025",
       "url": "",
@@ -1844,8 +5974,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-04-08",
-      "date": "2025-04-08",
+      "id": "'2025-04-08'",
+      "date": "'2025-04-08'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 8 aprilie    2025",
       "url": "",
@@ -1853,8 +5983,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-26",
-      "date": "2025-03-26",
+      "id": "'2025-03-26'",
+      "date": "'2025-03-26'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 26 martie 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=26&prn=1",
@@ -1862,8 +5992,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-03-26",
-      "date": "2025-03-26",
+      "id": "'2025-03-26'",
+      "date": "'2025-03-26'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 26 martie     2025",
       "url": "",
@@ -1871,8 +6001,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-25",
-      "date": "2025-06-25",
+      "id": "'2025-06-25'",
+      "date": "'2025-06-25'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 25 iunie      2025",
       "url": "",
@@ -1880,8 +6010,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-05-21",
-      "date": "2025-05-21",
+      "id": "'2025-05-21'",
+      "date": "'2025-05-21'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 21 mai 2025",
       "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=54&prn=1",
@@ -1893,7 +6023,7 @@
       "date": "2025-04-02",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 2 aprilie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=32&prn=1",
+      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=32",
       "participants": [],
       "source": "vault"
     },
@@ -1902,13 +6032,13 @@
       "date": "2025-04-08",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 8 aprilie 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=42&prn=1",
+      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=42",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2024-12-20",
-      "date": "2024-12-20",
+      "id": "'2024-12-20'",
+      "date": "'2024-12-20'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 20 decembrie  2024",
       "url": "",
@@ -1916,8 +6046,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-09-17",
-      "date": "2025-09-17",
+      "id": "'2025-09-17'",
+      "date": "'2025-09-17'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 17 septembrie 2025",
       "url": "",
@@ -1925,8 +6055,8 @@
       "source": "vault"
     },
     {
-      "id": "1998-01-21",
-      "date": "1998-01-21",
+      "id": "'1998-01-21'",
+      "date": "'1998-01-21'",
       "chamber": "deputies",
       "title": "Şedinţa comună a Camerei Deputaţilor şi Senatului din 21 ianuarie 1998",
       "url": "https://www.cdep.ro/pls/steno/steno2015.stenograma?idl=1&idm=1&ids=1",
@@ -1934,8 +6064,8 @@
       "source": "vault"
     },
     {
-      "id": "2025-06-10",
-      "date": "2025-06-10",
+      "id": "'2025-06-10'",
+      "date": "'2025-06-10'",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 10 iunie      2025",
       "url": "",
@@ -1947,40 +6077,40 @@
       "date": "2025-05-07",
       "chamber": "deputies",
       "title": "Sedinta Camerei Deputatilor din 7 mai 2025",
-      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=52&prn=1",
+      "url": "https://www.cdep.ro/pls/steno/steno2024.stenograma_scris?idl=1&idm=1&ids=52",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "1 aprilie 2026",
-      "date": "1 aprilie 2026",
-      "chamber": "Senate",
+      "id": "'2026-04-01'",
+      "date": "'2026-04-01'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-04-01",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2026-03-11",
-      "date": "2026-03-11",
-      "chamber": "Senate",
+      "id": "'2026-03-11'",
+      "date": "'2026-03-11'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Comune a Parlamentului României din data de 2026-03-11",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2026-03-25",
-      "date": "2026-03-25",
-      "chamber": "Senate",
+      "id": "'2026-03-25'",
+      "date": "'2026-03-25'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-03-25",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2024-11-05",
-      "date": "2024-11-05",
+      "id": "'2024-11-05'",
+      "date": "'2024-11-05'",
       "chamber": "senate",
       "title": "2024-11-05",
       "url": "",
@@ -1988,53 +6118,53 @@
       "source": "vault"
     },
     {
-      "id": "18 martie 2026",
-      "date": "18 martie 2026",
-      "chamber": "Senate",
+      "id": "'2026-03-18'",
+      "date": "'2026-03-18'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-03-18",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "7 aprilie 2026",
-      "date": "7 aprilie 2026",
-      "chamber": "Senate",
+      "id": "'2026-04-07'",
+      "date": "'2026-04-07'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-04-07",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "16 martie 2026",
-      "date": "16 martie 2026",
-      "chamber": "Senate",
+      "id": "'2026-03-16'",
+      "date": "'2026-03-16'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-03-16",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "30 martie 2026",
-      "date": "30 martie 2026",
-      "chamber": "Senate",
+      "id": "'2026-03-30'",
+      "date": "'2026-03-30'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-03-30",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2026-03-30",
-      "date": "2026-03-30",
-      "chamber": "Senate",
+      "id": "'2026-03-30'",
+      "date": "'2026-03-30'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-03-30",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "2024-11-12",
-      "date": "2024-11-12",
+      "id": "'2024-11-12'",
+      "date": "'2024-11-12'",
       "chamber": "senate",
       "title": "2024-11-12",
       "url": "",
@@ -2042,8 +6172,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-12-17",
-      "date": "2024-12-17",
+      "id": "'2024-12-17'",
+      "date": "'2024-12-17'",
       "chamber": "senate",
       "title": "2024-12-17",
       "url": "",
@@ -2051,9 +6181,9 @@
       "source": "vault"
     },
     {
-      "id": "2026-04-01",
-      "date": "2026-04-01",
-      "chamber": "Senate",
+      "id": "'2026-04-01'",
+      "date": "'2026-04-01'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-04-01",
       "url": "",
       "participants": [],
@@ -2069,9 +6199,9 @@
       "source": "vault"
     },
     {
-      "id": "19 martie 2026",
-      "date": "19 martie 2026",
-      "chamber": "Senate",
+      "id": "'2026-03-19'",
+      "date": "'2026-03-19'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Comune a Parlamentului României din data de 2026-03-19",
       "url": "",
       "participants": [],
@@ -2087,8 +6217,8 @@
       "source": "vault"
     },
     {
-      "id": "2024-12-11",
-      "date": "2024-12-11",
+      "id": "'2024-12-11'",
+      "date": "'2024-12-11'",
       "chamber": "senate",
       "title": "2024-12-11",
       "url": "",
@@ -2096,18 +6226,18 @@
       "source": "vault"
     },
     {
-      "id": "2026-03-20",
-      "date": "2026-03-20",
-      "chamber": "Senate",
+      "id": "'2026-03-20'",
+      "date": "'2026-03-20'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Comune a Parlamentului României din data de 2026-03-20",
       "url": "",
       "participants": [],
       "source": "vault"
     },
     {
-      "id": "23 martie 2026",
-      "date": "23 martie 2026",
-      "chamber": "Senate",
+      "id": "'2026-03-23'",
+      "date": "'2026-03-23'",
+      "chamber": "senate",
       "title": "Stenograma Şedinţei Senatului din data de 2026-03-23",
       "url": "",
       "participants": [],

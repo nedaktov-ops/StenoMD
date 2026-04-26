@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/ManolePetreFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=177&cam=2
 idm: 177
@@ -15,13 +15,14 @@ stable_id: pol_0926f6d693d9
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
-  - name: "Defense"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Defense
+  role: member
+- name: Defense
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Petre-Florin MANOLE
 search_aliases: ['PETRE-FLORIN MANOLE', 'petre-florin manole']
 votes_cast: 1

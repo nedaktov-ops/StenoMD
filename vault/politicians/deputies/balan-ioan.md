@@ -3,16 +3,22 @@ name: Balan Ioan
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) TELEORMAN
-photo_url: 
+constituency: SUCEAVA
+photo_url: https://www.cdep.ro/parlamentari/l2024/BalanIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=17&cam=2
 idm: 17
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 1
+laws_proposed: 5
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 ai_friendly_name: Balan Ioan
 search_aliases: ['BALAN IOAN', 'balan ioan']
 votes_cast: 6

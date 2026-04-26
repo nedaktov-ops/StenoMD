@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) VASLUI
+constituency: VASLUI
 photo_url: https://www.cdep.ro/parlamentari/l2024/TeslariuAndreiIonut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=300&cam=2
 idm: 300
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 1
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Andrei-Ionuţ TESLARIU
 search_aliases: ['ANDREI-IONUŢ TESLARIU', 'andrei-ionuţ teslariu']
 votes_cast: 5

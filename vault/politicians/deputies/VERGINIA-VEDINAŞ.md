@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) VRANCEA
+constituency: VRANCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/VedinasVerginia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=319&cam=2
 idm: 319
@@ -16,9 +16,10 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Verginia VEDINAŞ
 search_aliases: ['VERGINIA VEDINAŞ', 'verginia vedinaş']
 votes_cast: 5

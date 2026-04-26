@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) TIMIŞ
+constituency: TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/BasAnaMarcela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=21&cam=2
 idm: 21
@@ -16,11 +16,12 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Human Rights"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Human Rights
+  role: member
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Ana-Marcela BAŞ
 search_aliases: ['ANA-MARCELA BAŞ', 'ana-marcela baş']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) DOLJ
+constituency: DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MarinescuRadu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=179&cam=2
 idm: 179
@@ -15,11 +15,12 @@ stable_id: pol_34ad997f76c1
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Legal
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Radu MARINESCU
 search_aliases: ['RADU MARINESCU', 'radu marinescu']
 votes_cast: 4

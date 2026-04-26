@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) SIBIU
+constituency: SIBIU
 photo_url: https://www.cdep.ro/parlamentari/l2024/KroncsisSebastianAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=164&cam=2
 idm: 164
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 6
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Sebastian-Andrei KRONCSIŞ
 search_aliases: ['SEBASTIAN-ANDREI KRONCSIŞ', 'sebastian-andrei kroncsiş']
 votes_cast: 6

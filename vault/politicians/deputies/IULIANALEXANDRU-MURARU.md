@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/MuraruIulianAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=214&cam=2
 idm: 214
@@ -15,9 +15,10 @@ stable_id: pol_bb883a0c8378
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Iulian-Alexandru MURARU
 search_aliases: ['IULIAN-ALEXANDRU MURARU', 'iulian-alexandru muraru']
 votes_cast: 4

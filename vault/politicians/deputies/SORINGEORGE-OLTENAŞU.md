@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) IALOMIŢA
+constituency: IALOMIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/OltenasuSorinGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=231&cam=2
 idm: 231
@@ -16,9 +16,10 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Sorin-George OLTENAŞU
 search_aliases: ['SORIN-GEORGE OLTENAŞU', 'sorin-george oltenaşu']
 votes_cast: 6

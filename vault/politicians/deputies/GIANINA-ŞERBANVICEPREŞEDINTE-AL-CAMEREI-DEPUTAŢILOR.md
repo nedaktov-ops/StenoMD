@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) ILFOV
+constituency: ILFOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/SerbanGianina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=296&cam=2
 idm: 296
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Gianina ŞERBANvicepreşedinte al Camerei Deputaţilor
 search_aliases: ['GIANINA ŞERBANVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'gianina şerbanvicepreşedinte al camerei deputaţilor']
 votes_cast: 4

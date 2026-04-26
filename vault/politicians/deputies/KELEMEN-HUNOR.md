@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) HARGHITA
+constituency: HARGHITA
 photo_url: https://www.cdep.ro/parlamentari/l2024/KelemenHunor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=160&cam=2
 idm: 160
@@ -15,11 +15,12 @@ stable_id: pol_fd5cbbfc2919
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Culture"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Culture
+  role: member
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: KELEMEN Hunor
 search_aliases: ['KELEMEN HUNOR', 'kelemen hunor']
 votes_cast: 5

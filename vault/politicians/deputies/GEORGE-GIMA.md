@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) CONSTANŢA
+constituency: CONSTANŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GimaGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=125&cam=2
 idm: 125
@@ -15,11 +15,12 @@ stable_id: pol_32715a8b6afb
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Culture"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Culture
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: George GIMA
 search_aliases: ['GEORGE GIMA', 'george gima']
 votes_cast: 5

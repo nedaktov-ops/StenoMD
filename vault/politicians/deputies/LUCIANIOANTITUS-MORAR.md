@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) MARAMUREŞ
+constituency: MARAMUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MorarLucianIoanTitus.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=207&cam=2
 idm: 207
@@ -15,9 +15,10 @@ stable_id: pol_d4578ffd860d
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
 ---
+
 ai_friendly_name: Lucian-Ioan-Titus MORAR
 search_aliases: ['LUCIAN-IOAN-TITUS MORAR', 'lucian-ioan-titus morar']
 votes_cast: 6

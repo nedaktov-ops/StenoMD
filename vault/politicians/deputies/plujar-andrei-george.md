@@ -3,16 +3,20 @@ name: Plujar Andrei George
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) CARAŞ-SEVERIN
-photo_url: 
+constituency: CARAŞ-SEVERIN
+photo_url: https://www.cdep.ro/parlamentari/l2024/PlujarAndreiGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=247&cam=2
 idm: 247
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 5
+laws_proposed: 36
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 ai_friendly_name: Plujar Andrei George
 search_aliases: ['PLUJAR ANDREI GEORGE', 'plujar andrei george']
 votes_cast: 6

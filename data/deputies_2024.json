@@ -1,0 +1,672 @@
+{
+  "legislature": "2024-2028",
+  "source": "ro.wikipedia.org/wiki/Legislatura_2024-2028_(Camera_Deputaților)",
+  "deputies": [
+    {
+      "name": "Florin Roman",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Alba"
+    },
+    {
+      "name": "Călin-Gheorghe Matieș",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Alba"
+    },
+    {
+      "name": "Voicu Vușcan",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Alba"
+    },
+    {
+      "name": "Nicolae-Adrian Bara",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Alba"
+    },
+    {
+      "name": "Bianca-Eugenia Gavrilă",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Alba"
+    },
+    {
+      "name": "Mihai-Viorel Fifor",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Arad"
+    },
+    {
+      "name": "Simona-Georgina Pistru-Popa",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Arad"
+    },
+    {
+      "name": "Răzvan-Olimpiu Cadar",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Arad"
+    },
+    {
+      "name": "Adrian Wiener",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Arad"
+    },
+    {
+      "name": "Dan Artimon",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Arad"
+    },
+    {
+      "name": "Cosmin Pascariu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Arad"
+    },
+    {
+      "name": "Vasile Nagy",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Arad"
+    },
+    {
+      "name": "Simona Bucura-Oprescu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Remus-Gabriel Mihalcea",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Cătălin-Viorel Mîndroc",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Alina Gorghiu",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Liviu-Ionuț Moșteanu",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Bogdan Velcescu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Cristina Butură",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Dorin Popa",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Tudor Ionescu",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Argeș"
+    },
+    {
+      "name": "Mircea Fechet",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Teodor Lazăr",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Diana Enache",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Robert Alecu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Costel-Neculai Dunava",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Vasile Budacă",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Lucian-Gabriel Bogdănel",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "George-Adrian Popa",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Radu-Mihail Ionescu",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Nini-Alexandru Pascalini",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Bacău"
+    },
+    {
+      "name": "Mihail Neamțu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Ödön Szabó",
+      "party": "UDMR",
+      "party_full": "Uniunea Democrată Maghiară din România",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Rozália-Ibolya Biró",
+      "party": "UDMR",
+      "party_full": "Uniunea Democrată Maghiară din România",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Patricia-Simina Arina Moș",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Dumitru Țiplea",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Călin-Grațian Gal",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Gabriela-Corina Ene",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Vlad-Andrei Vidra",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Cristian-Emanuel Cîmpan",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Bihor"
+    },
+    {
+      "name": "Tiberiu Boșutar",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Bistrița-Năsăud"
+    },
+    {
+      "name": "Vasile-Daniel Suciu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Bistrița-Năsăud"
+    },
+    {
+      "name": "Bogdan-Gruia Ivan",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Bistrița-Năsăud"
+    },
+    {
+      "name": "Robert-Ionatan Sighiartău",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Bistrița-Năsăud"
+    },
+    {
+      "name": "Andrei Csillag",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Bistrița-Năsăud"
+    },
+    {
+      "name": "Eduard-Tatian Mititelu",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Botoșani"
+    },
+    {
+      "name": "Ariadna Cîrligeanu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Botoșani"
+    },
+    {
+      "name": "Elisabeta Lipă",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Botoșani"
+    },
+    {
+      "name": "Marius-Constantin Budăi",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Botoșani"
+    },
+    {
+      "name": "Alexandrin Moiseev",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Botoșani"
+    },
+    {
+      "name": "Gheorghe-Petru Pîclișan",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Botoșani"
+    },
+    {
+      "name": "Allen Coliban",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Ovidiu-Romulus Paraschivescu",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Ariana-Oana Bucur",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Augustin-Florin Hagiu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Dan Tanasă",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Sebastian-Mihai Rusu",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Gabriel Andronache",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Ionel Goidescu",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Cristian-Alexandru Popa",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Brașov"
+    },
+    {
+      "name": "Florin Cîrligea",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Brăila"
+    },
+    {
+      "name": "Doinița Ciocan",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Brăila"
+    },
+    {
+      "name": "Florin Mircea",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Brăila"
+    },
+    {
+      "name": "Alexandru Popa",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Brăila"
+    },
+    {
+      "name": "Andra-Claudia Constantinescu",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Brăila"
+    },
+    {
+      "name": "Adrian Mocanu",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Buzău"
+    },
+    {
+      "name": "Sorin-Titus Muncaciu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Buzău"
+    },
+    {
+      "name": "Marius-Nicolae Alecsandru",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Buzău"
+    },
+    {
+      "name": "Ion-Marcel Ciolacu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Buzău"
+    },
+    {
+      "name": "Petre-Emanoil Neagu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Buzău"
+    },
+    {
+      "name": "Romeo-Daniel Lungu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Buzău"
+    },
+    {
+      "name": "Rodica Plopeanu",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Buzău"
+    },
+    {
+      "name": "Ion-Marcel Vela",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Caraș-Severin"
+    },
+    {
+      "name": "Marius-Adrian Isac",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Caraș-Severin"
+    },
+    {
+      "name": "Silvia-Claudia Mihalcea",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Caraș-Severin"
+    },
+    {
+      "name": "Andrei George Plujar",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Caraș-Severin"
+    },
+    {
+      "name": "Dragoș-Florin Coman",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Călărași"
+    },
+    {
+      "name": "Mihai-Claudiu Gheorghe",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Călărași"
+    },
+    {
+      "name": "Ion Samoilă",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Călărași"
+    },
+    {
+      "name": "Ciprian Pandea",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Călărași"
+    },
+    {
+      "name": "Răzvan-Iulian Ciortea",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Remus-Gabriel Lăpușan",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Oana Murariu",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Ciprian-Doru Rigman",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Radu-Marin Moisin",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Ovidiu-Vasile Cîmpean",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Ramona-Ioana Bruynseels",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Ilie-Alin Coleșa",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Botond Csoma",
+      "party": "UDMR",
+      "party_full": "Uniunea Democrată Maghiară din România",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Aurora-Tasica Simu",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Cluj"
+    },
+    {
+      "name": "Stelian-Cristian Ion",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "George Gima",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Gheorghe-Daniel Georgescu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Mirela-Florența Matichescu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Bogdan-Iulian Huțucă",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Marian Crușoveanu",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Murad Mohammad",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Titus Păunescu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Cosmin Hristu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Mădălin-Laurențiu Făget",
+      "party": "SOS",
+      "party_full": "S.O.S. România",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Maria Cernit",
+      "party": "POT",
+      "party_full": "Partidul Oamenilor Tineri",
+      "constituency": "Constanța"
+    },
+    {
+      "name": "Zoltán Miklós",
+      "party": "UDMR",
+      "party_full": "Uniunea Democrată Maghiară din România",
+      "constituency": "Covasna"
+    },
+    {
+      "name": "Károly Gál",
+      "party": "UDMR",
+      "party_full": "Uniunea Democrată Maghiară din România",
+      "constituency": "Covasna"
+    },
+    {
+      "name": "József Kulcsár-Terza",
+      "party": "UDMR",
+      "party_full": "Uniunea Democrată Maghiară din România",
+      "constituency": "Covasna"
+    },
+    {
+      "name": "Csaba Könczei",
+      "party": "UDMR",
+      "party_full": "Uniunea Democrată Maghiară din România",
+      "constituency": "Covasna"
+    },
+    {
+      "name": "Victor-Viorel Ponta",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Dâmbovița"
+    },
+    {
+      "name": "Laurențiu-Adrian Neculaescu",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Dâmbovița"
+    },
+    {
+      "name": "Georgeta-Carmen Holban",
+      "party": "PSD",
+      "party_full": "Partidul Social Democrat",
+      "constituency": "Dâmbovița"
+    },
+    {
+      "name": "Daniel-Codruț Blaga",
+      "party": "USR",
+      "party_full": "Uniunea Salvați România",
+      "constituency": "Dâmbovița"
+    },
+    {
+      "name": "Valeriu Munteanu",
+      "party": "AUR",
+      "party_full": "Alianța pentru Unirea Românilor",
+      "constituency": "Dâmbovița"
+    },
+    {
+      "name": "Ilie-Aurelian Cotinescu",
+      "party": "PNL",
+      "party_full": "Partidul Național Liberal",
+      "constituency": "Dâmbovița"
+    }
+  ]
+}

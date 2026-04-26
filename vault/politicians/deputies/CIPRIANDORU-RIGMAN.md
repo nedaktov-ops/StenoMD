@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) CLUJ
+constituency: CLUJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/RigmanCiprianDoru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=267&cam=2
 idm: 267
@@ -15,13 +15,14 @@ stable_id: pol_58214c590696
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
-  - name: "Culture"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Education
+  role: member
+- name: Culture
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Ciprian-Doru RIGMAN
 search_aliases: ['CIPRIAN-DORU RIGMAN', 'ciprian-doru rigman']
 votes_cast: 6

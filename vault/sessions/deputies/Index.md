@@ -74,3 +74,6 @@ WHERE date = "Index"
 
 ### Searchable Transcript
 - Full text available
+
+### Official Source
+- [cdep.ro Stenogram](https://www.cdep.ro/pls/steno)

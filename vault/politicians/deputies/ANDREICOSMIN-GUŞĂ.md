@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) PRAHOVA
+constituency: PRAHOVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GusaAndreiCosmin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=137&cam=2
 idm: 137
@@ -16,9 +16,10 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Culture"
-    role: "member"
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Andrei-Cosmin GUŞĂ
 search_aliases: ['ANDREI-COSMIN GUŞĂ', 'andrei-cosmin guşă']
 votes_cast: 5

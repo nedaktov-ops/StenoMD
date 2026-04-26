@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) DÂMBOVIŢA
+constituency: DÂMBOVIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BlagaDanielCodrut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=29&cam=2
 idm: 29
@@ -15,9 +15,10 @@ stable_id: pol_bd650de5d63a
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Daniel-Codruţ BLAGA
 search_aliases: ['DANIEL-CODRUŢ BLAGA', 'daniel-codruţ blaga']
 votes_cast: 6

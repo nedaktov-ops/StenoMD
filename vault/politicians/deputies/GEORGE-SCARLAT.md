@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) GALAŢI
+constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/ScarlatGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=276&cam=2
 idm: 276
@@ -15,11 +15,12 @@ stable_id: pol_db15439a9c4d
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Agriculture"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: George SCARLAT
 search_aliases: ['GEORGE SCARLAT', 'george scarlat']
 votes_cast: 6

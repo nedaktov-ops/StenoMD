@@ -6,13 +6,19 @@ source: cdep.ro
 party: (From election records)
 party_full: Grupul parlamentar al minorităţilor naţionale
 constituency: (From election) Minority
-photo_url: 
+photo_url: https://www.cdep.ro/parlamentari/l2024/PaunNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=239&cam=2
 idm: 239
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 4
+laws_proposed: 2
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Human Rights"
+    role: "member"
 ---
+
 ai_friendly_name: Păun Nicolae
 search_aliases: ['PĂUN NICOLAE', 'păun nicolae']
 votes_cast: 5

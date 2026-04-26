@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/StoicaAlinBogdan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=285&cam=2
 idm: 285
@@ -15,9 +15,10 @@ stable_id: pol_352756c51c9b
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Alin-Bogdan STOICA
 search_aliases: ['ALIN-BOGDAN STOICA', 'alin-bogdan stoica']
 votes_cast: 6

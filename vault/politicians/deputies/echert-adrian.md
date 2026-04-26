@@ -3,16 +3,20 @@ name: Echert Adrian
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) SUCEAVA
-photo_url: 
+constituency: SIBIU
+photo_url: https://www.cdep.ro/parlamentari/l2024/EchertAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=98&cam=2
 idm: 98
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 6
+laws_proposed: 21
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 ai_friendly_name: Echert Adrian
 search_aliases: ['ECHERT ADRIAN', 'echert adrian']
 votes_cast: 6

@@ -1,0 +1,91 @@
+# GraphifyStenoMD Configuration
+
+version: "1.0"
+created: "2026-04-26"
+
+# Paths
+paths:
+  project_root: "/home/adrian/Desktop/NEDAILAB/StenoMD"
+  vault: "vault"
+  scripts: "scripts"
+  knowledge_graph: "knowledge_graph"
+  output: "GraphifyStenoMD/output"
+  cache: "GraphifyStenoMD/cache"
+  
+# Graph settings
+graph:
+  auto_update: false  # Manual trigger only
+  merge_strategy: "manual"  # OptionB: Keep separate, sync on demand
+  community_algorithm: "louvain"
+  min_community_size: 3
+  
+# Skills configuration  
+skills:
+  trigger_prefix: "/stenomd"
+  enable_reminders: true
+  confirm_destructive: true
+  
+# Agent settings
+agents:
+  max_workers: 4
+  timeout_seconds: 300
+  retry_attempts: 3
+  cache_ttl_hours: 24
+  
+# Query settings  
+queries:
+  default_limit: 50
+  max_depth: 6
+  token_budget: 2000
+  cache_results: true
+  
+# Workflow settings  
+workflows:
+  auto_commit: false  # Manual trigger only
+  notify_on_complete: true
+  log_level: "INFO"
+  
+# Vault sync settings
+vault:
+  validate_on_sync: true
+  backup_before_sync: true
+  validate_frontmatter: true
+  check_links: true
+  
+# Data sources
+sources:
+  cdep_ro:
+    enabled: true
+    base_url: "https://www.cdep.ro"
+  senat_ro:
+    enabled: true  
+    base_url: "https://www.senat.ro"
+  knowledge_graph:
+    path: "knowledge_graph/entities.json"
+    
+# Field requirements for validation
+required_fields:
+  politician:
+    - stable_id
+    - type
+    - chamber
+    - party
+    - constituency
+    - legislature
+  session:
+    - date
+    - chamber
+    - legislature
+  law:
+    - law_number
+    - title
+    - chamber
+    - year
+    
+# Report settings
+reports:
+  output_dir: "GraphifyStenoMD/reports"
+  formats:
+    - markdown
+    - json
+  include_graph_summary: true

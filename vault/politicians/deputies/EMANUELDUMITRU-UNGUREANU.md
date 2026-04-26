@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) SUCEAVA
+constituency: SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/UngureanuEmanuelDumitru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=314&cam=2
 idm: 314
@@ -15,9 +15,10 @@ stable_id: pol_f3be66d0550d
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Emanuel-Dumitru UNGUREANU
 search_aliases: ['EMANUEL-DUMITRU UNGUREANU', 'emanuel-dumitru ungureanu']
 votes_cast: 6

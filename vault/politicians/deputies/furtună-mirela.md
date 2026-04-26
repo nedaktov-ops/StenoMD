@@ -3,16 +3,20 @@ name: Furtună Mirela
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ILFOV
-photo_url: 
+constituency: BUCUREŞTI
+photo_url: https://www.cdep.ro/parlamentari/l2024/FurtunaMirela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=109&cam=2
 idm: 109
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 3
+laws_proposed: 9
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 ai_friendly_name: Furtună Mirela
 search_aliases: ['FURTUNĂ MIRELA', 'furtună mirela']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/StoicaDiana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=287&cam=2
 idm: 287
@@ -15,9 +15,10 @@ stable_id: pol_72316525b5d2
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Diana STOICA
 search_aliases: ['DIANA STOICA', 'diana stoica']
 votes_cast: 2

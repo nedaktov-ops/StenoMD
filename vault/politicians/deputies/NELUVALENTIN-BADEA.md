@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) TELEORMAN
+constituency: TELEORMAN
 photo_url: https://www.cdep.ro/parlamentari/l2024/BadeaNeluValentin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=15&cam=2
 idm: 15
@@ -16,6 +16,7 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+
 ai_friendly_name: Nelu-Valentin BADEA
 search_aliases: ['NELU-VALENTIN BADEA', 'nelu-valentin badea']
 votes_cast: 12

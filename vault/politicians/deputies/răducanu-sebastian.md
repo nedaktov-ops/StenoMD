@@ -3,16 +3,22 @@ name: Răducanu Sebastian
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) TULCEA
-photo_url: 
+constituency: TIMIŞ
+photo_url: https://www.cdep.ro/parlamentari/l2024/RaducanuSebastian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=265&cam=2
 idm: 265
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 3
+laws_proposed: 11
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 ai_friendly_name: Răducanu Sebastian
 search_aliases: ['RĂDUCANU SEBASTIAN', 'răducanu sebastian']
 votes_cast: 6

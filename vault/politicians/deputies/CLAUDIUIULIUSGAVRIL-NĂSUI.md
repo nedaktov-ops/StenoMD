@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/NasuiClaudiuIuliusGavril.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=220&cam=2
 idm: 220
@@ -15,9 +15,10 @@ stable_id: pol_321b316b4857
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
+- name: Budget, Finance
+  role: member
 ---
+
 ai_friendly_name: Claudiu-Iulius-Gavril NĂSUI
 search_aliases: ['CLAUDIU-IULIUS-GAVRIL NĂSUI', 'claudiu-iulius-gavril năsui']
 votes_cast: 6

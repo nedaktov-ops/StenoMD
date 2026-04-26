@@ -5,14 +5,15 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) CONSTANŢA
-photo_url: 
+constituency: CONSTANŢA
+photo_url: https://www.cdep.ro/parlamentari/l2024/HristuCosmin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=142&cam=2
 idm: 142
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 3
+laws_proposed: 19
 type: deputy
 ---
+
 ai_friendly_name: Hristu Cosmin
 search_aliases: ['HRISTU COSMIN', 'hristu cosmin']
 votes_cast: 6

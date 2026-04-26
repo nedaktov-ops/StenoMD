@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) HARGHITA
+constituency: HARGHITA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BendeSandor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=25&cam=2
 idm: 25
@@ -15,9 +15,10 @@ stable_id: pol_e0286eccb3b3
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: BENDE Sándor
 search_aliases: ['BENDE SÁNDOR', 'bende sándor']
 votes_cast: 6

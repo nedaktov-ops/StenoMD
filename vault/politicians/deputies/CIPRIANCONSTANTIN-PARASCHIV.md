@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/ParaschivCiprianConstantin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=235&cam=2
 idm: 235
@@ -16,6 +16,7 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+
 ai_friendly_name: Ciprian-Constantin PARASCHIV
 search_aliases: ['CIPRIAN-CONSTANTIN PARASCHIV', 'ciprian-constantin paraschiv']
 votes_cast: 6

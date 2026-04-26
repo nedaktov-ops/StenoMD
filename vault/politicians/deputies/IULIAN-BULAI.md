@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) NEAMŢ
+constituency: NEAMŢ
 photo_url: https://www.cdep.ro/parlamentari/l2024/BulaiIulian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=44&cam=2
 idm: 44
@@ -15,9 +15,10 @@ stable_id: pol_a9c942ed3cc9
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Iulian BULAI
 search_aliases: ['IULIAN BULAI', 'iulian bulai']
 votes_cast: 3

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) DÂMBOVIŢA
+constituency: DÂMBOVIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/NeculaescuLaurentiuAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=226&cam=2
 idm: 226
@@ -15,9 +15,10 @@ stable_id: pol_4ed24fabde6f
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
+- name: Human Rights
+  role: member
 ---
+
 ai_friendly_name: Laurenţiu Adrian NECULAESCU
 search_aliases: ['LAURENŢIU ADRIAN NECULAESCU', 'laurenţiu adrian neculaescu']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) SUCEAVA
+constituency: SIBIU
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=148&cam=2
 idm: 148
 speeches_count: 8
@@ -14,11 +14,13 @@ stable_id: pol_a1a4e808e7d5
 original_elected_party: SOS
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Legal
+  role: member
+- name: Defense
+  role: member
+photo_url: https://www.cdep.ro/parlamentari/l2024/IonNicolaeMirel.JPG
 ---
+
 ai_friendly_name: Nicolae Mirel Ion
 search_aliases: ['NICOLAE MIREL ION', 'nicolae mirel ion']
 votes_cast: 5

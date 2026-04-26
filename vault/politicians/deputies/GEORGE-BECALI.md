@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/BecaliGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=23&cam=2
 idm: 23
@@ -16,11 +16,12 @@ original_elected_party: AUR
 type: deputy
 motions: 1
 committees:
-  - name: "Legal"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Legal
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: George BECALI
 search_aliases: ['GEORGE BECALI', 'george becali']
 votes_cast: 6

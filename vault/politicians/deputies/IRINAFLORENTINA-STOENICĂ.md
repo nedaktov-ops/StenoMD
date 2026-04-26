@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) DOLJ
+constituency: DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/StoenicaIrinaFlorentina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=284&cam=2
 idm: 284
@@ -15,11 +15,12 @@ stable_id: pol_64e6451fc385
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
-  - name: "Labour"
-    role: "member"
+- name: Agriculture
+  role: member
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Irina-Florentina STOENICĂ
 search_aliases: ['IRINA-FLORENTINA STOENICĂ', 'irina-florentina stoenică']
 votes_cast: 6

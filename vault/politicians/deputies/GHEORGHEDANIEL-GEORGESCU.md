@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) CONSTANŢA
+constituency: CONSTANŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GeorgescuGheorgheDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=117&cam=2
 idm: 117
@@ -15,9 +15,10 @@ stable_id: pol_35bea3877993
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Gheorghe-Daniel GEORGESCU
 search_aliases: ['GHEORGHE-DANIEL GEORGESCU', 'gheorghe-daniel georgescu']
 votes_cast: 6

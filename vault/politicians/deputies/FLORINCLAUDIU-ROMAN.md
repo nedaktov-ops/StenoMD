@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) ALBA
+constituency: ALBA
 photo_url: https://www.cdep.ro/parlamentari/l2024/RomanFlorinClaudiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=271&cam=2
 idm: 271
@@ -15,11 +15,12 @@ stable_id: pol_438a3b8d121f
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
-  - name: "Labour"
-    role: "member"
+- name: Public Administration
+  role: member
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Florin-Claudiu ROMAN
 search_aliases: ['FLORIN-CLAUDIU ROMAN', 'florin-claudiu roman']
 votes_cast: 6

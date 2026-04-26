@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) HUNEDOARA
+constituency: HUNEDOARA
 photo_url: https://www.cdep.ro/parlamentari/l2024/HanganPollyannaHanellore.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=140&cam=2
 idm: 140
@@ -15,9 +15,10 @@ stable_id: pol_7baf0a9eb301
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
 ---
+
 ai_friendly_name: Pollyanna-Hanellore HANGAN
 search_aliases: ['POLLYANNA-HANELLORE HANGAN', 'pollyanna-hanellore hangan']
 votes_cast: 6

@@ -4,15 +4,23 @@ chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
 party: SOS
-party_full: S.O.S. România
-constituency: (From election) TELEORMAN
-photo_url: 
+party_full: Partidul S.O.S. România
+constituency: SUCEAVA
+photo_url: https://www.cdep.ro/parlamentari/l2024/LazaroiIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=169&cam=2
 idm: 169
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 3
+laws_proposed: 33
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Labour"
+    role: "member"
+  - name: "Education"
+    role: "member"
 ---
+
 ai_friendly_name: Lăzăroi Ioan
 search_aliases: ['LĂZĂROI IOAN', 'lăzăroi ioan']
 votes_cast: 6

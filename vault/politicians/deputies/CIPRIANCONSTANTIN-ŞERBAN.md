@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) NEAMŢ
+constituency: NEAMŢ
 photo_url: https://www.cdep.ro/parlamentari/l2024/SerbanCiprianConstantin2025.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=294&cam=2
 idm: 294
@@ -15,6 +15,7 @@ stable_id: pol_375cbb32611e
 original_elected_party: PSD
 type: deputy
 ---
+
 ai_friendly_name: Ciprian-Constantin ŞERBAN
 search_aliases: ['CIPRIAN-CONSTANTIN ŞERBAN', 'ciprian-constantin şerban']
 votes_cast: 6

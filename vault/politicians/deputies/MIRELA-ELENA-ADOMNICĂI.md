@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) SUCEAVA
+constituency: SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/AdomnicaiMirelaElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=1&cam=2
 idm: 1
@@ -15,11 +15,12 @@ stable_id: pol_5b6ba3e8abb9
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
-  - name: "Labour"
-    role: "member"
+- name: Human Rights
+  role: member
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Mirela Elena ADOMNICĂI
 search_aliases: ['MIRELA ELENA ADOMNICĂI', 'mirela elena adomnicăi']
 votes_cast: 6

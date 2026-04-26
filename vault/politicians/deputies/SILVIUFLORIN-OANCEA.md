@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) IALOMIŢA
+constituency: IALOMIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/OanceaSilviuFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=230&cam=2
 idm: 230
@@ -16,6 +16,7 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+
 ai_friendly_name: Silviu-Florin OANCEA
 search_aliases: ['SILVIU-FLORIN OANCEA', 'silviu-florin oancea']
 votes_cast: 6

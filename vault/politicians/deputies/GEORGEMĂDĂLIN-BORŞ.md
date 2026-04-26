@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) TELEORMAN
+constituency: TELEORMAN
 photo_url: https://www.cdep.ro/parlamentari/l2024/BorsGeorgeMadalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=34&cam=2
 idm: 34
@@ -15,9 +15,10 @@ stable_id: pol_49084bec016a
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: George-Mădălin BORŞ
 search_aliases: ['GEORGE-MĂDĂLIN BORŞ', 'george-mădălin borş']
 votes_cast: 6

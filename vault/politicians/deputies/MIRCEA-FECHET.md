@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BACĂU
+constituency: BACĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/FechetMircea.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=104&cam=2
 idm: 104
@@ -15,6 +15,7 @@ stable_id: pol_f9c1959c508c
 original_elected_party: PNL
 type: deputy
 ---
+
 ai_friendly_name: Mircea FECHET
 search_aliases: ['MIRCEA FECHET', 'mircea fechet']
 votes_cast: 6

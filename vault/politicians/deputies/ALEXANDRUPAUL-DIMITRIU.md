@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/DimitriuAlexandruPaul.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=90&cam=2
 idm: 90
@@ -15,9 +15,10 @@ stable_id: pol_fe3ff01e2459
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Alexandru-Paul DIMITRIU
 search_aliases: ['ALEXANDRU-PAUL DIMITRIU', 'alexandru-paul dimitriu']
 votes_cast: 6

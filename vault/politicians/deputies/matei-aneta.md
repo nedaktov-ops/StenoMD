@@ -3,16 +3,20 @@ name: Matei Aneta
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) GIURGIU
-photo_url: 
+constituency: GIURGIU
+photo_url: https://www.cdep.ro/parlamentari/l2024/MateiAneta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=182&cam=2
 idm: 182
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 4
+laws_proposed: 32
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 ai_friendly_name: Matei Aneta
 search_aliases: ['MATEI ANETA', 'matei aneta']
 votes_cast: 6

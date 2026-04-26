@@ -3,16 +3,20 @@ name: Ciubuc Ciprian
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
-party_full: Deputaţi neafiliaţi
-constituency: (From election) OLT
-photo_url: 
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: NEAMŢ
+photo_url: https://www.cdep.ro/parlamentari/l2024/CiubucCiprian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=62&cam=2
 idm: 62
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 30
+laws_proposed: 15
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 ai_friendly_name: Ciubuc Ciprian
 search_aliases: ['CIUBUC CIPRIAN', 'ciubuc ciprian']
 votes_cast: 5

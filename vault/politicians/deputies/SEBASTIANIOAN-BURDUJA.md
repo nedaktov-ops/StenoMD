@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/BurdujaSebastianIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=46&cam=2
 idm: 46
@@ -15,9 +15,10 @@ stable_id: pol_138c4e27d1ac
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Sebastian-Ioan BURDUJA
 search_aliases: ['SEBASTIAN-IOAN BURDUJA', 'sebastian-ioan burduja']
 votes_cast: 5

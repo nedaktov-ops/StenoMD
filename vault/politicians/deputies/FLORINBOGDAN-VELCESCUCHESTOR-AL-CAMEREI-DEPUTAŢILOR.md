@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) ARGEŞ
+constituency: ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/VelcescuFlorinBogdan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=321&cam=2
 idm: 321
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor
 search_aliases: ['FLORIN-BOGDAN VELCESCUCHESTOR AL CAMEREI DEPUTAŢILOR', 'florin-bogdan velcescuchestor al camerei deputaţilor']
 votes_cast: 5

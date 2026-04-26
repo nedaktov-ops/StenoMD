@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) ARGEŞ
+constituency: ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MosteanuLiviuIonut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=209&cam=2
 idm: 209
@@ -15,9 +15,10 @@ stable_id: pol_d44736689bb9
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Liviu-Ionuţ MOŞTEANU
 search_aliases: ['LIVIU-IONUŢ MOŞTEANU', 'liviu-ionuţ moşteanu']
 votes_cast: 5

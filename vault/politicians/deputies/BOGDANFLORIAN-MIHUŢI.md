@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) OLT
+constituency: OLT
 photo_url: https://www.cdep.ro/parlamentari/l2024/MihutiBogdanFlorian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=194&cam=2
 idm: 194
@@ -15,6 +15,7 @@ stable_id: pol_41c578b09308
 original_elected_party: PSD
 type: deputy
 ---
+
 ai_friendly_name: Bogdan-Florian MIHUŢI
 search_aliases: ['BOGDAN-FLORIAN MIHUŢI', 'bogdan-florian mihuţi']
 votes_cast: 6

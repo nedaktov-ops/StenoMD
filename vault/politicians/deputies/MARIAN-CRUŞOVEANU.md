@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) CONSTANŢA
+constituency: CONSTANŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/CrusoveanuMarian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=84&cam=2
 idm: 84
@@ -15,9 +15,10 @@ stable_id: pol_c5c1c17ba794
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Marian CRUŞOVEANU
 search_aliases: ['MARIAN CRUŞOVEANU', 'marian cruşoveanu']
 votes_cast: 6

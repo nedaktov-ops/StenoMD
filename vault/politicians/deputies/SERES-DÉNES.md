@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) SĂLAJ
+constituency: SĂLAJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/SeresDenes.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=277&cam=2
 idm: 277
@@ -15,9 +15,10 @@ stable_id: pol_526b9583ef5c
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: SERES Dénes
 search_aliases: ['SERES DÉNES', 'seres dénes']
 votes_cast: 6

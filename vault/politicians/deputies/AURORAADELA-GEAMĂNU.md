@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) DOLJ
+constituency: DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/GeamanuAuroraAdela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=116&cam=2
 idm: 116
@@ -15,9 +15,10 @@ stable_id: pol_12e069d87a84
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Aurora-Adela GEAMĂNU
 search_aliases: ['AURORA-ADELA GEAMĂNU', 'aurora-adela geamănu']
 votes_cast: 6

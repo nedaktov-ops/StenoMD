@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) TULCEA
+constituency: TULCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/DobosElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=91&cam=2
 idm: 91
@@ -16,11 +16,12 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Education"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Education
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Elena DOBOŞ
 search_aliases: ['ELENA DOBOŞ', 'elena doboş']
 votes_cast: 6

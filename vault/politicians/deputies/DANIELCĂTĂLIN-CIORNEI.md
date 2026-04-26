@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) MARAMUREŞ
+constituency: MARAMUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/CiorneiDanielCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=60&cam=2
 idm: 60
@@ -16,11 +16,12 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Defense"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Defense
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Daniel-Cătălin CIORNEI
 search_aliases: ['DANIEL-CĂTĂLIN CIORNEI', 'daniel-cătălin ciornei']
 votes_cast: 5

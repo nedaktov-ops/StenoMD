@@ -3,16 +3,22 @@ name: Iagăr Monica
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) SĂLAJ
-photo_url: 
+constituency: SATU-MARE
+photo_url: https://www.cdep.ro/parlamentari/l2024/IagarMonica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=144&cam=2
 idm: 144
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 15
+laws_proposed: 30
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 ai_friendly_name: Iagăr Monica
 search_aliases: ['IAGĂR MONICA', 'iagăr monica']
 votes_cast: 5

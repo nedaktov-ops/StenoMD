@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) COVASNA
+constituency: COVASNA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GalKaroly.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=111&cam=2
 idm: 111
@@ -15,9 +15,10 @@ stable_id: pol_06af93fa1544
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: GÁL Károly
 search_aliases: ['GÁL KÁROLY', 'gál károly']
 votes_cast: 6

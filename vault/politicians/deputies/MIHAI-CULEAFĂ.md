@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) MEHEDINŢI
+constituency: MEHEDINŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/CuleafaMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=88&cam=2
 idm: 88
@@ -15,9 +15,10 @@ stable_id: pol_fa89cd6aa2d2
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Mihai CULEAFĂ
 search_aliases: ['MIHAI CULEAFĂ', 'mihai culeafă']
 votes_cast: 6

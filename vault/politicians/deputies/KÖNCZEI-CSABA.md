@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) COVASNA
+constituency: COVASNA
 photo_url: https://www.cdep.ro/parlamentari/l2024/KonczeiCsaba.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=163&cam=2
 idm: 163
@@ -15,11 +15,12 @@ stable_id: pol_56ee4f532858
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Agriculture
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: KÖNCZEI Csaba
 search_aliases: ['KÖNCZEI CSABA', 'könczei csaba']
 votes_cast: 4

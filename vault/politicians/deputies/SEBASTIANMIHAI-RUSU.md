@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BRAŞOV
+constituency: BRAŞOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/RusuSebastianMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=273&cam=2
 idm: 273
@@ -15,11 +15,12 @@ stable_id: pol_2881d30f0ed7
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
-  - name: "Labour"
-    role: "member"
+- name: Human Rights
+  role: member
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Sebastian-Mihai RUSU
 search_aliases: ['SEBASTIAN-MIHAI RUSU', 'sebastian-mihai rusu']
 votes_cast: 5

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) PRAHOVA
+constituency: PRAHOVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/PuscasuPetre.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=262&cam=2
 idm: 262
@@ -16,6 +16,7 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+
 ai_friendly_name: Petre PUŞCAŞU
 search_aliases: ['PETRE PUŞCAŞU', 'petre puşcaşu']
 votes_cast: 6

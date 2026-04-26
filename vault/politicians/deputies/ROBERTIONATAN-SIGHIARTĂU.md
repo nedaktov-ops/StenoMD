@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BISTRIŢA-NĂSĂUD
+constituency: BISTRIŢA-NĂSĂUD
 photo_url: https://www.cdep.ro/parlamentari/l2024/SighiartauRobertIonatan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=278&cam=2
 idm: 278
@@ -15,11 +15,12 @@ stable_id: pol_4c163ba46f82
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Robert-Ionatan SIGHIARTĂU
 search_aliases: ['ROBERT-IONATAN SIGHIARTĂU', 'robert-ionatan sighiartău']
 votes_cast: 3

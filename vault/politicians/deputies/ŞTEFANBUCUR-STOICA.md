@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) DOLJ
+constituency: DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/StoicaStefanBucur.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=288&cam=2
 idm: 288
@@ -15,6 +15,7 @@ stable_id: pol_8cfbf1a6a29a
 original_elected_party: PNL
 type: deputy
 ---
+
 ai_friendly_name: Ştefan-Bucur STOICA
 search_aliases: ['ŞTEFAN-BUCUR STOICA', 'ştefan-bucur stoica']
 votes_cast: 6

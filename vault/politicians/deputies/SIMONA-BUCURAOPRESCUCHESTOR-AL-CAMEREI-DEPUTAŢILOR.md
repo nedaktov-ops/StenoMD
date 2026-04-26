@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ARGEŞ
+constituency: ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/BucuraOprescuSimona.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=40&cam=2
 idm: 40
@@ -15,11 +15,12 @@ stable_id: pol_f49fcef7561c
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Public Administration"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Simona BUCURA-OPRESCUchestor al Camerei Deputaţilor
 search_aliases: ['SIMONA BUCURA-OPRESCUCHESTOR AL CAMEREI DEPUTAŢILOR', 'simona bucura-oprescuchestor al camerei deputaţilor']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) TIMIŞ
+constituency: TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MolnarAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=206&cam=2
 idm: 206
@@ -15,11 +15,12 @@ stable_id: pol_ba9b66216bcd
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: MOLNAR Andrei
 search_aliases: ['MOLNAR ANDREI', 'molnar andrei']
 votes_cast: 6

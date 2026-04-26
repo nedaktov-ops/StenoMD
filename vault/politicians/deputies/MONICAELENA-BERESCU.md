@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/BerescuMonicaElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=26&cam=2
 idm: 26
@@ -15,9 +15,10 @@ stable_id: pol_f1d579b6c495
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Monica-Elena BERESCU
 search_aliases: ['MONICA-ELENA BERESCU', 'monica-elena berescu']
 votes_cast: 6

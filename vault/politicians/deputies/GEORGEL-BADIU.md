@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) VRANCEA
+constituency: VRANCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BadiuGeorgel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=16&cam=2
 idm: 16
@@ -16,11 +16,12 @@ original_elected_party: AUR
 type: deputy
 motions: 7
 committees:
-  - name: "Legal"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Legal
+  role: member
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Georgel BADIU
 search_aliases: ['GEORGEL BADIU', 'georgel badiu']
 votes_cast: 10

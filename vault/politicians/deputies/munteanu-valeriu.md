@@ -3,16 +3,20 @@ name: Munteanu Valeriu
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) DÂMBOVIŢA
-photo_url: 
+constituency: DÂMBOVIŢA
+photo_url: https://www.cdep.ro/parlamentari/l2024/MunteanuValeriu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=211&cam=2
 idm: 211
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 25
+laws_proposed: 30
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 ai_friendly_name: Munteanu Valeriu
 search_aliases: ['MUNTEANU VALERIU', 'munteanu valeriu']
 votes_cast: 6

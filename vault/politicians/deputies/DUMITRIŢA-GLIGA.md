@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) MUREŞ
+constituency: MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/GligaDumitrita.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=127&cam=2
 idm: 127
@@ -15,11 +15,12 @@ stable_id: pol_16010dd6bc61
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Education
+  role: member
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Dumitriţa GLIGA
 search_aliases: ['DUMITRIŢA GLIGA', 'dumitriţa gliga']
 votes_cast: 6

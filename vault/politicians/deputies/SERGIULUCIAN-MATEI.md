@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) ILFOV
+constituency: ILFOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/MateiSergiuLucian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=183&cam=2
 idm: 183
@@ -16,6 +16,7 @@ original_elected_party: POT
 type: deputy
 motions: 6
 ---
+
 ai_friendly_name: Sergiu-Lucian MATEI
 search_aliases: ['SERGIU-LUCIAN MATEI', 'sergiu-lucian matei']
 votes_cast: 6

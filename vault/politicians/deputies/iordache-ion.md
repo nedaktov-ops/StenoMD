@@ -3,16 +3,20 @@ name: Iordache Ion
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) GORJ
-photo_url: 
+constituency: GORJ
+photo_url: https://www.cdep.ro/parlamentari/l2024/IordacheIon.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=153&cam=2
 idm: 153
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 1
+laws_proposed: 7
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 ai_friendly_name: Iordache Ion
 search_aliases: ['IORDACHE ION', 'iordache ion']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) TIMIŞ
+constituency: TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/DrulaCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=96&cam=2
 idm: 96
@@ -15,6 +15,7 @@ stable_id: pol_2a77b6cbd41a
 original_elected_party: USR
 type: deputy
 ---
+
 ai_friendly_name: Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor
 search_aliases: ['CĂTĂLIN DRULĂVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'cătălin drulăvicepreşedinte al camerei deputaţilor']
 votes_cast: 5

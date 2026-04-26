@@ -3,16 +3,22 @@ name: Tanasă Dan
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) BRAŞOV
-photo_url: 
+constituency: BRAŞOV
+photo_url: https://www.cdep.ro/parlamentari/l2024/TanasaDan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=298&cam=2
 idm: 298
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 33
+laws_proposed: 21
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 ai_friendly_name: Tanasă Dan
 search_aliases: ['TANASĂ DAN', 'tanasă dan']
 votes_cast: 6

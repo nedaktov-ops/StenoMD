@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) MARAMUREŞ
+constituency: MARAMUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/BogdanIonelOvidiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=31&cam=2
 idm: 31
@@ -15,9 +15,10 @@ stable_id: pol_1b4b05b17a6a
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
+- name: Budget, Finance
+  role: member
 ---
+
 ai_friendly_name: Ionel-Ovidiu BOGDAN
 search_aliases: ['IONEL-OVIDIU BOGDAN', 'ionel-ovidiu bogdan']
 votes_cast: 6

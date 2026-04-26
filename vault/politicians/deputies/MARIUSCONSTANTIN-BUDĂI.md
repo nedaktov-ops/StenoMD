@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BOTOŞANI
+constituency: BOTOŞANI
 photo_url: https://www.cdep.ro/parlamentari/l2024/BudaiMariusConstantin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=42&cam=2
 idm: 42
@@ -15,11 +15,12 @@ stable_id: pol_a47ce4001fc5
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Labour"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Marius-Constantin BUDĂI
 search_aliases: ['MARIUS-CONSTANTIN BUDĂI', 'marius-constantin budăi']
 votes_cast: 6

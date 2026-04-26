@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) BIHOR
+constituency: BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/VidraVladAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=323&cam=2
 idm: 323
@@ -16,11 +16,12 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Vlad-Andrei VIDRA
 search_aliases: ['VLAD-ANDREI VIDRA', 'vlad-andrei vidra']
 votes_cast: 5

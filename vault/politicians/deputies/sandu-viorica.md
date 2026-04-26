@@ -3,16 +3,24 @@ name: Sandu Viorica
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) GALAŢI
-photo_url: 
+constituency: GALAŢI
+photo_url: https://www.cdep.ro/parlamentari/l2024/SanduViorica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=275&cam=2
 idm: 275
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 9
+laws_proposed: 23
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
 ---
+
 ai_friendly_name: Sandu Viorica
 search_aliases: ['SANDU VIORICA', 'sandu viorica']
 votes_cast: 6

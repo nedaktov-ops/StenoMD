@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) DÂMBOVIŢA
+constituency: DÂMBOVIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/AndruscaLucianNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=10&cam=2
 idm: 10
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 2
 committees:
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Lucian-Nicolae ANDRUŞCĂ
 search_aliases: ['LUCIAN-NICOLAE ANDRUŞCĂ', 'lucian-nicolae andruşcă']
 votes_cast: 6

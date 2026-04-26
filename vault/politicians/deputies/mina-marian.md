@@ -5,14 +5,15 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) GIURGIU
-photo_url: 
+constituency: GIURGIU
+photo_url: https://www.cdep.ro/parlamentari/l2024/MinaMarian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=196&cam=2
 idm: 196
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 3
+laws_proposed: 17
 type: deputy
 ---
+
 ai_friendly_name: Mina Marian
 search_aliases: ['MINA MARIAN', 'mina marian']
 votes_cast: 6

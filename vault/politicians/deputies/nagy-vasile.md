@@ -3,16 +3,17 @@ name: Nagy Vasile
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
-party_full: S.O.S. România
-constituency: (From election) ARAD
-photo_url: 
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: ARAD
+photo_url: https://www.cdep.ro/parlamentari/l2024/NagyVasile.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=218&cam=2
 idm: 218
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 2
+laws_proposed: 36
 type: deputy
 ---
+
 ai_friendly_name: Nagy Vasile
 search_aliases: ['NAGY VASILE', 'nagy vasile']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) SIBIU
+constituency: SIBIU
 photo_url: https://www.cdep.ro/parlamentari/l2024/TurcanRaluca.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=308&cam=2
 idm: 308
@@ -15,13 +15,14 @@ stable_id: pol_225573509dfe
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
-  - name: "Education"
-    role: "member"
-  - name: "Culture"
-    role: "member"
+- name: Labour
+  role: member
+- name: Education
+  role: member
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Raluca TURCAN
 search_aliases: ['RALUCA TURCAN', 'raluca turcan']
 votes_cast: 6

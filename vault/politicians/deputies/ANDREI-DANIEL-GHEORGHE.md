@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) ILFOV
+constituency: ILFOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/GheorgheAndreiDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=118&cam=2
 idm: 118
@@ -15,9 +15,10 @@ stable_id: pol_05e1648a6f1c
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Culture"
-    role: "member"
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Andrei Daniel GHEORGHE
 search_aliases: ['ANDREI DANIEL GHEORGHE', 'andrei daniel gheorghe']
 votes_cast: 5

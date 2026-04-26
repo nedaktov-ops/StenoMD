@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) CARAŞ-SEVERIN
+constituency: CARAŞ-SEVERIN
 photo_url: https://www.cdep.ro/parlamentari/l2024/IsacMariusAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=156&cam=2
 idm: 156
@@ -15,9 +15,10 @@ stable_id: pol_7487efabdbd5
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Marius-Adrian ISAC
 search_aliases: ['MARIUS-ADRIAN ISAC', 'marius-adrian isac']
 votes_cast: 6

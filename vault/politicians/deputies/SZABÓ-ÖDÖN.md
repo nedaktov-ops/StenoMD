@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) BIHOR
+constituency: BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/SzaboOdon.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=291&cam=2
 idm: 291
@@ -15,9 +15,10 @@ stable_id: pol_950ee736abc0
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: SZABÓ Ödön
 search_aliases: ['SZABÓ ÖDÖN', 'szabó ödön']
 votes_cast: 5

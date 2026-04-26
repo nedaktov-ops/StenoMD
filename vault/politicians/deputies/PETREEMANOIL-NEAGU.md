@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BUZĂU
+constituency: BUZĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/NeaguPetreEmanoil.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=223&cam=2
 idm: 223
@@ -15,11 +15,12 @@ stable_id: pol_54851e2051e1
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Public Administration
+  role: member
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Petre-Emanoil NEAGU
 search_aliases: ['PETRE-EMANOIL NEAGU', 'petre-emanoil neagu']
 votes_cast: 6

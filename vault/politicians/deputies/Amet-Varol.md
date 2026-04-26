@@ -11,7 +11,9 @@ idm: 6
 speeches_count: 3
 laws_proposed: 24
 type: deputy
+photo_url: https://www.cdep.ro/parlamentari/l2024/AmetVarol.JPG
 ---
+
 ai_friendly_name: Amet Varol
 search_aliases: ['AMET VAROL', 'amet varol']
 votes_cast: 4

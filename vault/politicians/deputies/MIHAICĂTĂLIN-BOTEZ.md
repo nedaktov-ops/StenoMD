@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) VASLUI
+constituency: VASLUI
 photo_url: https://www.cdep.ro/parlamentari/l2024/BotezMihaiCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=36&cam=2
 idm: 36
@@ -15,11 +15,12 @@ stable_id: pol_87e56755d7bf
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Budget, Finance"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Budget, Finance
+  role: member
 ---
+
 ai_friendly_name: Mihai-Cătălin BOTEZ
 search_aliases: ['MIHAI-CĂTĂLIN BOTEZ', 'mihai-cătălin botez']
 votes_cast: 6

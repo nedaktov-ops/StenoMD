@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) NEAMŢ
+constituency: NEAMŢ
 photo_url: https://www.cdep.ro/parlamentari/l2024/CiobanuAdrianVirgil.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=56&cam=2
 idm: 56
@@ -15,9 +15,10 @@ stable_id: pol_92611099d30c
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Adrian-Virgil CIOBANU
 search_aliases: ['ADRIAN-VIRGIL CIOBANU', 'adrian-virgil ciobanu']
 votes_cast: 6

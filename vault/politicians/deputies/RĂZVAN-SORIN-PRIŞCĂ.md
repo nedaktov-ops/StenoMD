@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/PriscaRazvanSorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=259&cam=2
 idm: 259
@@ -15,6 +15,7 @@ stable_id: pol_4f2aa56fb670
 original_elected_party: PNL
 type: deputy
 ---
+
 ai_friendly_name: Răzvan Sorin PRIŞCĂ
 search_aliases: ['RĂZVAN SORIN PRIŞCĂ', 'răzvan sorin prişcă']
 votes_cast: 6

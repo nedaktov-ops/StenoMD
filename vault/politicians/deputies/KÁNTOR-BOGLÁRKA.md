@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) VASLUI
+constituency: VASLUI
 photo_url: https://www.cdep.ro/parlamentari/l2024/KantorBoglarka.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=159&cam=2
 idm: 159
@@ -15,9 +15,10 @@ stable_id: pol_49978618b62c
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: KÁNTOR Boglárka
 search_aliases: ['KÁNTOR BOGLÁRKA', 'kántor boglárka']
 votes_cast: 4

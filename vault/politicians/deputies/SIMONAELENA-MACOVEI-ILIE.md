@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/MacoveiIlieSimonaElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2
 idm: 175
@@ -16,11 +16,12 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Simona-Elena MACOVEI ILIE
 search_aliases: ['SIMONA-ELENA MACOVEI ILIE', 'simona-elena macovei ilie']
 votes_cast: 6

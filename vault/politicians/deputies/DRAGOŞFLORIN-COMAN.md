@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) CĂLĂRAŞI
+constituency: CĂLĂRAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/ComanDragosFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=74&cam=2
 idm: 74
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Dragoş-Florin COMAN
 search_aliases: ['DRAGOŞ-FLORIN COMAN', 'dragoş-florin coman']
 votes_cast: 1

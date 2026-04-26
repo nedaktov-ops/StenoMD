@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BRAŞOV
+constituency: BRAŞOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/HagiuAugustinFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=138&cam=2
 idm: 138
@@ -15,6 +15,7 @@ stable_id: pol_9b871e3e5df0
 original_elected_party: PSD
 type: deputy
 ---
+
 ai_friendly_name: Augustin-Florin HAGIU
 search_aliases: ['AUGUSTIN-FLORIN HAGIU', 'augustin-florin hagiu']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ALBA
+constituency: ALBA
 photo_url: https://www.cdep.ro/parlamentari/l2024/VuscanVoicu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=326&cam=2
 idm: 326
@@ -15,9 +15,10 @@ stable_id: pol_50856a1c187c
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Voicu VUŞCAN
 search_aliases: ['VOICU VUŞCAN', 'voicu vuşcan']
 votes_cast: 6

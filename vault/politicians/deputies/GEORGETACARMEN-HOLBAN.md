@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) DÂMBOVIŢA
+constituency: DÂMBOVIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/HolbanGeorgetaCarmen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=141&cam=2
 idm: 141
@@ -15,9 +15,10 @@ stable_id: pol_69fd95ed4d48
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Georgeta-Carmen HOLBAN
 search_aliases: ['GEORGETA-CARMEN HOLBAN', 'georgeta-carmen holban']
 votes_cast: 5

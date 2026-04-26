@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/DascaluCristinaEmanuela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=89&cam=2
 idm: 89
@@ -16,13 +16,14 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Human Rights"
-    role: "member"
-  - name: "Education"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Human Rights
+  role: member
+- name: Education
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Cristina-Emanuela DASCĂLU
 search_aliases: ['CRISTINA-EMANUELA DASCĂLU', 'cristina-emanuela dascălu']
 votes_cast: 5

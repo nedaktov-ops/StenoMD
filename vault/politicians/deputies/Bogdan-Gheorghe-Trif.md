@@ -3,9 +3,9 @@ name: Bogdan Gheorghe Trif
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: Grupul
+party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) SUCEAVA
+constituency: SIBIU
 photo_url: https://www.cdep.ro/parlamentari/l2024/TrifBogdanGheorghe.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=307&cam=2
 idm: 307
@@ -14,7 +14,11 @@ laws_proposed: 30
 stable_id: pol_placeholder
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 ai_friendly_name: Bogdan Gheorghe Trif
 search_aliases: ['BOGDAN GHEORGHE TRIF', 'bogdan gheorghe trif']
 votes_cast: 4

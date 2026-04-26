@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) MUREŞ
+constituency: MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/KolcsarAnquetilKaroly.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=161&cam=2
 idm: 161
@@ -15,11 +15,12 @@ stable_id: pol_5a69099b0dbe
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Agriculture"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: KOLCSÁR Anquetil-Károly
 search_aliases: ['KOLCSÁR ANQUETIL-KÁROLY', 'kolcsár anquetil-károly']
 votes_cast: 6

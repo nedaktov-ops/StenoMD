@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) MUREŞ
+constituency: MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/GiurgiuAdrian1.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=126&cam=2
 idm: 126
@@ -15,6 +15,7 @@ stable_id: pol_48b18aa691f8
 original_elected_party: USR
 type: deputy
 ---
+
 ai_friendly_name: Adrian GIURGIU
 search_aliases: ['ADRIAN GIURGIU', 'adrian giurgiu']
 votes_cast: 6

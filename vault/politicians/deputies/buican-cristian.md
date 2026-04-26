@@ -3,16 +3,20 @@ name: Buican Cristian
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) VRANCEA
-photo_url: 
+constituency: VÂLCEA
+photo_url: https://www.cdep.ro/parlamentari/l2024/BuicanCristian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=43&cam=2
 idm: 43
-speeches_count: (See speeches)
+speeches_count: 1
 laws_proposed: (See sponsored laws)
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 ai_friendly_name: Buican Cristian
 search_aliases: ['BUICAN CRISTIAN', 'buican cristian']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) TIMIŞ
+constituency: TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/SendroiuVladIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=293&cam=2
 idm: 293
@@ -15,9 +15,10 @@ stable_id: pol_31ef4bf5a5c2
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Vlad-Ioan ŞENDROIU
 search_aliases: ['VLAD-IOAN ŞENDROIU', 'vlad-ioan şendroiu']
 votes_cast: 6

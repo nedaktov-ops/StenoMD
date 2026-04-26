@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) CONSTANŢA
+constituency: CONSTANŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/MatichescuMirelaFlorenta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=184&cam=2
 idm: 184
@@ -15,11 +15,12 @@ stable_id: pol_e40c615f6c87
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Defense
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Mirela-Florenţa MATICHESCU
 search_aliases: ['MIRELA-FLORENŢA MATICHESCU', 'mirela-florenţa matichescu']
 votes_cast: 6

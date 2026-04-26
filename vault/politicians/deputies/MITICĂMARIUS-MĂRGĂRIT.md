@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) GALAŢI
+constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/MargaritMiticaMarius.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=186&cam=2
 idm: 186
@@ -15,9 +15,10 @@ stable_id: pol_5b7476e05152
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Mitică-Marius MĂRGĂRIT
 search_aliases: ['MITICĂ-MARIUS MĂRGĂRIT', 'mitică-marius mărgărit']
 votes_cast: 6

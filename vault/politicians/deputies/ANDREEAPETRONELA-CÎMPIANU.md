@@ -5,7 +5,8 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării
+constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara
+  ţării
 photo_url: https://www.cdep.ro/parlamentari/l2024/CimpianuAndreeaPetronela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=67&cam=2
 idm: 67
@@ -16,9 +17,10 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Andreea-Petronela CÎMPIANU
 search_aliases: ['ANDREEA-PETRONELA CÎMPIANU', 'andreea-petronela cîmpianu']
 votes_cast: 4

@@ -3,16 +3,20 @@ name: Atanasiu Corina
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUCUREŞTI
-photo_url: 
+constituency: VRANCEA
+photo_url: https://www.cdep.ro/parlamentari/l2024/AtanasiuCorina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=12&cam=2
 idm: 12
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 8
+laws_proposed: 43
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 ai_friendly_name: Atanasiu Corina
 search_aliases: ['ATANASIU CORINA', 'atanasiu corina']
 votes_cast: 5

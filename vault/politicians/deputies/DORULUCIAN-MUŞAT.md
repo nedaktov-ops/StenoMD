@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) SĂLAJ
+constituency: SĂLAJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MusatDoruLucian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=215&cam=2
 idm: 215
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Doru-Lucian MUŞAT
 search_aliases: ['DORU-LUCIAN MUŞAT', 'doru-lucian muşat']
 votes_cast: 6

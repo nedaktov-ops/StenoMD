@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) BACĂU
+constituency: BACĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/PascaliniNiniAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=237&cam=2
 idm: 237
@@ -16,11 +16,12 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Agriculture"
-    role: "member"
-  - name: "Human Rights"
-    role: "member"
+- name: Agriculture
+  role: member
+- name: Human Rights
+  role: member
 ---
+
 ai_friendly_name: Nini-Alexandru PASCALINI
 search_aliases: ['NINI-ALEXANDRU PASCALINI', 'nini-alexandru pascalini']
 votes_cast: 6

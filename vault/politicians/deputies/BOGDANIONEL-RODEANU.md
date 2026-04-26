@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) GALAŢI
+constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/RodeanuBogdanIonel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=269&cam=2
 idm: 269
@@ -15,9 +15,10 @@ stable_id: pol_5c336773c51d
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Bogdan-Ionel RODEANU
 search_aliases: ['BOGDAN-IONEL RODEANU', 'bogdan-ionel rodeanu']
 votes_cast: 5

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ARAD
+constituency: ARAD
 photo_url: https://www.cdep.ro/parlamentari/l2024/FiforMihaiViorel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=106&cam=2
 idm: 106
@@ -15,9 +15,10 @@ stable_id: pol_d84eb9770e30
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Mihai-Viorel FIFOR
 search_aliases: ['MIHAI-VIOREL FIFOR', 'mihai-viorel fifor']
 votes_cast: 6

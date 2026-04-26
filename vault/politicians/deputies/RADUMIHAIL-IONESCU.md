@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) BACĂU
+constituency: BACĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/IonescuRaduMihail.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=151&cam=2
 idm: 151
@@ -16,6 +16,7 @@ original_elected_party: POT
 type: deputy
 motions: 1
 ---
+
 ai_friendly_name: Radu-Mihail IONESCU
 search_aliases: ['RADU-MIHAIL IONESCU', 'radu-mihail ionescu']
 votes_cast: 6

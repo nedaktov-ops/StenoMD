@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BUZĂU
+constituency: BUZĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/AlecsandruMariusNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=4&cam=2
 idm: 4
@@ -15,9 +15,10 @@ stable_id: pol_3649aba54cd2
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Marius-Nicolae ALECSANDRU
 search_aliases: ['MARIUS-NICOLAE ALECSANDRU', 'marius-nicolae alecsandru']
 votes_cast: 6

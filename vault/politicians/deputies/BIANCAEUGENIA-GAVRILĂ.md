@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) ALBA
+constituency: ALBA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GavrilaBiancaEugenia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=114&cam=2
 idm: 114
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 5
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Bianca-Eugenia GAVRILĂ
 search_aliases: ['BIANCA-EUGENIA GAVRILĂ', 'bianca-eugenia gavrilă']
 votes_cast: 6

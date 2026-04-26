@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) TIMIŞ
+constituency: TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/NegoescuMihaiBogdan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=227&cam=2
 idm: 227
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 8
 committees:
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
 ---
+
 ai_friendly_name: Mihai-Bogdan NEGOESCU
 search_aliases: ['MIHAI-BOGDAN NEGOESCU', 'mihai-bogdan negoescu']
 votes_cast: 11

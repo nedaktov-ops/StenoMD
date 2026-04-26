@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BIHOR
+constituency: BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/GalCalinGratian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2
 idm: 110
@@ -15,11 +15,12 @@ stable_id: pol_4cc52ecfcc15
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Labour"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Călin-Graţian GAL
 search_aliases: ['CĂLIN-GRAŢIAN GAL', 'călin-graţian gal']
 votes_cast: 6

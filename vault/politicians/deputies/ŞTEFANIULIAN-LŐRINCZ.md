@@ -5,7 +5,8 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării
+constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara
+  ţării
 photo_url: https://www.cdep.ro/parlamentari/l2024/LorinczStefanIulian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=172&cam=2
 idm: 172
@@ -15,9 +16,10 @@ stable_id: pol_c4283a5b34df
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Ştefan-Iulian LŐRINCZ
 search_aliases: ['ŞTEFAN-IULIAN LŐRINCZ', 'ştefan-iulian lőrincz']
 votes_cast: 6

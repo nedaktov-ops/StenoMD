@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) CLUJ
+constituency: CLUJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/LapusanRemusGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=168&cam=2
 idm: 168
@@ -15,9 +15,10 @@ stable_id: pol_474d2e27af5f
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
 ---
+
 ai_friendly_name: Remus-Gabriel LĂPUŞAN
 search_aliases: ['REMUS-GABRIEL LĂPUŞAN', 'remus-gabriel lăpuşan']
 votes_cast: 6

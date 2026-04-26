@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/BaciuRomicaAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=14&cam=2
 idm: 14
@@ -15,11 +15,12 @@ stable_id: pol_07c8433853f9
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Health
+  role: member
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Romică-Andrei BACIU
 search_aliases: ['ROMICĂ-ANDREI BACIU', 'romică-andrei baciu']
 votes_cast: 4

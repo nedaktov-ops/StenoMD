@@ -3,16 +3,22 @@ name: Goidescu Ionel
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
-party_full: S.O.S. România
-constituency: (From election) BRAŞOV
-photo_url: 
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BRAŞOV
+photo_url: https://www.cdep.ro/parlamentari/l2024/GoidescuIonel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=128&cam=2
 idm: 128
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 18
+laws_proposed: 45
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
+  - name: "Public Administration"
+    role: "member"
 ---
+
 ai_friendly_name: Goidescu Ionel
 search_aliases: ['GOIDESCU IONEL', 'goidescu ionel']
 votes_cast: 6

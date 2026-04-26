@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/VargaMariana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=318&cam=2
 idm: 318
@@ -16,9 +16,10 @@ original_elected_party: SOS
 type: deputy
 motions: 1
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Mariana VÂRGĂ
 search_aliases: ['MARIANA VÂRGĂ', 'mariana vârgă']
 votes_cast: 6

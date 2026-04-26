@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) MUREŞ
+constituency: MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MarkoAttilaGabor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=180&cam=2
 idm: 180
@@ -15,9 +15,10 @@ stable_id: pol_740e44bc6512
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
+- name: Human Rights
+  role: member
 ---
+
 ai_friendly_name: MARKÓ Attila-Gábor
 search_aliases: ['MARKÓ ATTILA-GÁBOR', 'markó attila-gábor']
 votes_cast: 6

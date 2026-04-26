@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) ARAD
+constituency: ARAD
 photo_url: https://www.cdep.ro/parlamentari/l2024/CadarRazvanOlimpiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=49&cam=2
 idm: 49
@@ -15,9 +15,10 @@ stable_id: pol_3110aeca0412
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
 ---
+
 ai_friendly_name: Răzvan-Olimpiu CADAR
 search_aliases: ['RĂZVAN-OLIMPIU CADAR', 'răzvan-olimpiu cadar']
 votes_cast: 5

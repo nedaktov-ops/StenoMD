@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) HUNEDOARA
+constituency: HUNEDOARA
 photo_url: https://www.cdep.ro/parlamentari/l2024/StanescuVetuta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=283&cam=2
 idm: 283
@@ -15,9 +15,10 @@ stable_id: pol_40983fbed21c
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Vetuţa STĂNESCU
 search_aliases: ['VETUŢA STĂNESCU', 'vetuţa stănescu']
 votes_cast: 6

@@ -6,13 +6,14 @@ source: cdep.ro
 party: (From election records)
 party_full: Grupul parlamentar al minorităţilor naţionale
 constituency: (From election) Minority
-photo_url: 
+photo_url: https://www.cdep.ro/parlamentari/l2024/PambuccianVarujan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=233&cam=2
 idm: 233
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 9
+laws_proposed: 4
 type: deputy
 ---
+
 ai_friendly_name: Pambuccian Varujan
 search_aliases: ['PAMBUCCIAN VARUJAN', 'pambuccian varujan']
 votes_cast: 5

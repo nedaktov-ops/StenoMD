@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/img/judete/judet24.jpg
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=2&cam=2
 idm: 2
@@ -15,6 +15,7 @@ stable_id: pol_7407f6fc91c2
 original_elected_party: PNL
 type: deputy
 ---
+
 ai_friendly_name: Sorin-Alexandru AFLOAREI
 search_aliases: ['SORIN-ALEXANDRU AFLOAREI', 'sorin-alexandru afloarei']
 votes_cast: 1

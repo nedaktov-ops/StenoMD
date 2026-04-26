@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) CLUJ
+constituency: CLUJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/CsomaBotond.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=87&cam=2
 idm: 87
@@ -15,6 +15,7 @@ stable_id: pol_586af922b2ba
 original_elected_party: UDMR
 type: deputy
 ---
+
 ai_friendly_name: CSOMA Botond
 search_aliases: ['CSOMA BOTOND', 'csoma botond']
 votes_cast: 6

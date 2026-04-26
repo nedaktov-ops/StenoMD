@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) CĂLĂRAŞI
+constituency: CĂLĂRAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/SamoilaIon.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=274&cam=2
 idm: 274
@@ -15,9 +15,10 @@ stable_id: pol_223a5e74384e
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Ion SAMOILĂ
 search_aliases: ['ION SAMOILĂ', 'ion samoilă']
 votes_cast: 6

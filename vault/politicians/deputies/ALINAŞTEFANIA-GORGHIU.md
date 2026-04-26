@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) ARGEŞ
+constituency: ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/GorghiuAlinaStefania.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=129&cam=2
 idm: 129
@@ -15,11 +15,12 @@ stable_id: pol_874e62c1baf7
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Legal
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Alina-Ştefania GORGHIU
 search_aliases: ['ALINA-ŞTEFANIA GORGHIU', 'alina-ştefania gorghiu']
 votes_cast: 6

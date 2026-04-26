@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) CLUJ
+constituency: CLUJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/CiorteaRazvanIulian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=61&cam=2
 idm: 61
@@ -15,11 +15,12 @@ stable_id: pol_6021f4ea8ca2
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Defense
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Răzvan-Iulian CIORTEA
 search_aliases: ['RĂZVAN-IULIAN CIORTEA', 'răzvan-iulian ciortea']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) DÂMBOVIŢA
+constituency: DÂMBOVIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/CotinescuIlieAurelian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=79&cam=2
 idm: 79
@@ -15,11 +15,12 @@ stable_id: pol_dda6a7b27325
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Industries and Services
+  role: member
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Ilie-Aurelian COTINESCU
 search_aliases: ['ILIE-AURELIAN COTINESCU', 'ilie-aurelian cotinescu']
 votes_cast: 6

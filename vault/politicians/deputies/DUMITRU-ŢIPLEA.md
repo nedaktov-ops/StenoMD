@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) BIHOR
+constituency: BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/TipleaDumitru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=311&cam=2
 idm: 311
@@ -15,11 +15,12 @@ stable_id: pol_a0cfa67017fc
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
-  - name: "Public Administration"
-    role: "member"
+- name: Agriculture
+  role: member
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Dumitru ŢIPLEA
 search_aliases: ['DUMITRU ŢIPLEA', 'dumitru ţiplea']
 votes_cast: 6

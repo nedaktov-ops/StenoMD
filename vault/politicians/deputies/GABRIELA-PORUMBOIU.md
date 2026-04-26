@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) DOLJ
+constituency: DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/PorumboiuGabriela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=257&cam=2
 idm: 257
@@ -16,11 +16,12 @@ original_elected_party: POT
 type: deputy
 motions: 7
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Gabriela PORUMBOIU
 search_aliases: ['GABRIELA PORUMBOIU', 'gabriela porumboiu']
 votes_cast: 6

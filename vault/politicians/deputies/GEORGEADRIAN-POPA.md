@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BACĂU
+constituency: BACĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/PopaGeorgeAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=252&cam=2
 idm: 252
@@ -15,11 +15,12 @@ stable_id: pol_fc4a59fe9f56
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
-  - name: "Health"
-    role: "member"
+- name: Human Rights
+  role: member
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: George-Adrian POPA
 search_aliases: ['GEORGE-ADRIAN POPA', 'george-adrian popa']
 votes_cast: 6

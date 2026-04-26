@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) MARAMUREŞ
+constituency: MARAMUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/GrozaCalinFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=135&cam=2
 idm: 135
@@ -16,6 +16,7 @@ original_elected_party: POT
 type: deputy
 motions: 2
 ---
+
 ai_friendly_name: Călin-Florin GROZA
 search_aliases: ['CĂLIN-FLORIN GROZA', 'călin-florin groza']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) CONSTANŢA
+constituency: CONSTANŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/HutucaBogdanIulian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=143&cam=2
 idm: 143
@@ -15,9 +15,10 @@ stable_id: pol_159518fc70e4
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
+- name: Budget, Finance
+  role: member
 ---
+
 ai_friendly_name: Bogdan-Iulian HUŢUCĂ
 search_aliases: ['BOGDAN-IULIAN HUŢUCĂ', 'bogdan-iulian huţucă']
 votes_cast: 5

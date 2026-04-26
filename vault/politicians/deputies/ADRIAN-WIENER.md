@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) ARAD
+constituency: ARAD
 photo_url: https://www.cdep.ro/parlamentari/l2024/WienerAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=328&cam=2
 idm: 328
@@ -15,11 +15,12 @@ stable_id: pol_b240c7b535f3
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Adrian WIENER
 search_aliases: ['ADRIAN WIENER', 'adrian wiener']
 votes_cast: 5

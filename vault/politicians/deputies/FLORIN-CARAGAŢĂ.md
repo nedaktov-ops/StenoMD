@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) IALOMIŢA
+constituency: IALOMIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/CaragataFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=50&cam=2
 idm: 50
@@ -16,6 +16,7 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 ---
+
 ai_friendly_name: Florin CARAGAŢĂ
 search_aliases: ['FLORIN CARAGAŢĂ', 'florin caragaţă']
 votes_cast: 6

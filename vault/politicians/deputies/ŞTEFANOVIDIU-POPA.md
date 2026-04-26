@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) VÂLCEA
+constituency: VÂLCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/PopaStefanOvidiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=254&cam=2
 idm: 254
@@ -15,9 +15,10 @@ stable_id: pol_87951df9d110
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Ştefan-Ovidiu POPA
 search_aliases: ['ŞTEFAN-OVIDIU POPA', 'ştefan-ovidiu popa']
 votes_cast: 6

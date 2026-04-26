@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) ARGEŞ
+constituency: ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/IonescuTudor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2
 idm: 152
@@ -16,11 +16,12 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 committees:
-  - name: "Education"
-    role: "member"
-  - name: "Culture"
-    role: "member"
+- name: Education
+  role: member
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Tudor IONESCU
 search_aliases: ['TUDOR IONESCU', 'tudor ionescu']
 votes_cast: 4

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) ILFOV
+constituency: ILFOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/VulpescuIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=324&cam=2
 idm: 324
@@ -15,9 +15,10 @@ stable_id: pol_0754f49b1487
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Culture"
-    role: "member"
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Ioan VULPESCU
 search_aliases: ['IOAN VULPESCU', 'ioan vulpescu']
 votes_cast: 6

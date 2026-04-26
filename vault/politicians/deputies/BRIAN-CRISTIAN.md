@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) MARAMUREŞ
+constituency: MARAMUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/CristianBrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=82&cam=2
 idm: 82
@@ -15,9 +15,10 @@ stable_id: pol_132604eb97d3
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Brian CRISTIAN
 search_aliases: ['BRIAN CRISTIAN', 'brian cristian']
 votes_cast: 6

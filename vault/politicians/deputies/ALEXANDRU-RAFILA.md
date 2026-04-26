@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/RafilaAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=264&cam=2
 idm: 264
@@ -15,9 +15,10 @@ stable_id: pol_727a9697d925
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: Alexandru RAFILA
 search_aliases: ['ALEXANDRU RAFILA', 'alexandru rafila']
 votes_cast: 4

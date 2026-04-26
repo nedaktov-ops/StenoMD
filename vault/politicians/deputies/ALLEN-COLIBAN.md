@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BRAŞOV
+constituency: BRAŞOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/ColibanAllen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=73&cam=2
 idm: 73
@@ -15,9 +15,10 @@ stable_id: pol_71105f1b0ff2
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 ai_friendly_name: Allen COLIBAN
 search_aliases: ['ALLEN COLIBAN', 'allen coliban']
 votes_cast: 6

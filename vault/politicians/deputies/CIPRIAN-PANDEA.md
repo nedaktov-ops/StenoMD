@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) CĂLĂRAŞI
+constituency: CĂLĂRAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/PandeaCiprian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=234&cam=2
 idm: 234
@@ -15,11 +15,12 @@ stable_id: pol_f651bb344e49
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Agriculture"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Ciprian PANDEA
 search_aliases: ['CIPRIAN PANDEA', 'ciprian pandea']
 votes_cast: 6

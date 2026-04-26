@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) PRAHOVA
+constituency: PRAHOVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/SerbanGeorgeCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=295&cam=2
 idm: 295
@@ -15,11 +15,12 @@ stable_id: pol_7ec5b0b1b158
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Human Rights
+  role: member
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: George Cătălin ŞERBAN
 search_aliases: ['GEORGE CĂTĂLIN ŞERBAN', 'george cătălin şerban']
 votes_cast: 5

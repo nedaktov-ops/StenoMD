@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) COVASNA
+constituency: COVASNA
 photo_url: https://www.cdep.ro/parlamentari/l2024/KulcsarTerzaJozsefGyorgy.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=165&cam=2
 idm: 165
@@ -15,9 +15,10 @@ stable_id: pol_373b7e36dac1
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
+- name: Human Rights
+  role: member
 ---
+
 ai_friendly_name: KULCSÁR-TERZA József-György
 search_aliases: ['KULCSÁR-TERZA JÓZSEF-GYÖRGY', 'kulcsár-terza józsef-györgy']
 votes_cast: 6

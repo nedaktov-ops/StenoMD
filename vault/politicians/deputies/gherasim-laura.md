@@ -3,16 +3,20 @@ name: Gherasim Laura
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) VÂLCEA
-photo_url: 
+constituency: VASLUI
+photo_url: https://www.cdep.ro/parlamentari/l2024/GherasimLaura.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=123&cam=2
 idm: 123
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 8
+laws_proposed: 15
 type: deputy
+committees:
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 ai_friendly_name: Gherasim Laura
 search_aliases: ['GHERASIM LAURA', 'gherasim laura']
 votes_cast: 3

@@ -1,9 +1,9 @@
 ---
-title: party_full: Unknown
+title: party_full: (See records)
 type: party
 ---
 
-# party_full: Unknown
+# party_full: (See records)
 
 ## Members
 

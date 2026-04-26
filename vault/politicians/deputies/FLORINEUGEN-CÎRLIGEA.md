@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) BRĂILA
+constituency: BRĂILA
 photo_url: https://www.cdep.ro/parlamentari/l2024/CirligeaFlorinEugen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=68&cam=2
 idm: 68
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Florin-Eugen CÎRLIGEA
 search_aliases: ['FLORIN-EUGEN CÎRLIGEA', 'florin-eugen cîrligea']
 votes_cast: 11

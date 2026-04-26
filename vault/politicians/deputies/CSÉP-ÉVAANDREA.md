@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) MUREŞ
+constituency: MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/CsepEvaAndrea.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=85&cam=2
 idm: 85
@@ -15,9 +15,10 @@ stable_id: pol_8db02b133c34
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: CSÉP Éva-Andrea
 search_aliases: ['CSÉP ÉVA-ANDREA', 'csép éva-andrea']
 votes_cast: 6

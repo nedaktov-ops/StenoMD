@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) COVASNA
+constituency: COVASNA
 photo_url: https://www.cdep.ro/parlamentari/l2024/MiklosZoltan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=195&cam=2
 idm: 195
@@ -15,9 +15,10 @@ stable_id: pol_3eeaf9dbecb6
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
+- name: Budget, Finance
+  role: member
 ---
+
 ai_friendly_name: MIKLÓS Zoltán
 search_aliases: ['MIKLÓS ZOLTÁN', 'miklós zoltán']
 votes_cast: 5

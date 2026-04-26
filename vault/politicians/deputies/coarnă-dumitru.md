@@ -3,16 +3,20 @@ name: Coarnă Dumitru
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
-party_full: Deputaţi neafiliaţi
-constituency: (From election) ILFOV
-photo_url: 
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: BUCUREŞTI
+photo_url: https://www.cdep.ro/parlamentari/l2024/CoarnaDumitru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=70&cam=2
 idm: 70
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 114
+laws_proposed: 18
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 ai_friendly_name: Coarnă Dumitru
 search_aliases: ['COARNĂ DUMITRU', 'coarnă dumitru']
 votes_cast: 6

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) HUNEDOARA
+constituency: HUNEDOARA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GavrilaAnamaria.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=113&cam=2
 idm: 113
@@ -16,6 +16,7 @@ original_elected_party: POT
 type: deputy
 motions: 7
 ---
+
 ai_friendly_name: Anamaria GAVRILĂ
 search_aliases: ['ANAMARIA GAVRILĂ', 'anamaria gavrilă']
 votes_cast: 5

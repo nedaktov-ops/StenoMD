@@ -70,3 +70,6 @@ WHERE date = "Index"
 
 ### Searchable Transcript
 - Full text available
+
+### Official Source
+- [senat.ro Stenogram](https://www.senat.ro/Steno)

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) GALAŢI
+constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/JianuIosifFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=158&cam=2
 idm: 158
@@ -16,6 +16,7 @@ original_elected_party: SOS
 type: deputy
 motions: 1
 ---
+
 ai_friendly_name: Iosif-Florin JIANU
 search_aliases: ['IOSIF-FLORIN JIANU', 'iosif-florin jianu']
 votes_cast: 4

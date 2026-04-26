@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) DOLJ
+constituency: DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/DragoescuCezarMihail.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=94&cam=2
 idm: 94
@@ -15,9 +15,10 @@ stable_id: pol_27d1881362dc
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
+- name: Budget, Finance
+  role: member
 ---
+
 ai_friendly_name: Cezar-Mihail DRĂGOESCU
 search_aliases: ['CEZAR-MIHAIL DRĂGOESCU', 'cezar-mihail drăgoescu']
 votes_cast: 6

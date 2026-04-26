@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/TusaAdrianaDiana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=309&cam=2
 idm: 309
@@ -15,9 +15,10 @@ stable_id: pol_7cc2c6f54e29
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Culture"
-    role: "member"
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Adriana Diana TUŞA
 search_aliases: ['ADRIANA DIANA TUŞA', 'adriana diana tuşa']
 votes_cast: 6

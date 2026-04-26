@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) TIMIŞ
+constituency: TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/PirteaMarilenGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=243&cam=2
 idm: 243
@@ -15,11 +15,12 @@ stable_id: pol_391333f657fb
 original_elected_party: PNL
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
-  - name: "Foreign Policy"
-    role: "member"
+- name: Education
+  role: member
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Marilen - Gabriel PIRTEA
 search_aliases: ['MARILEN - GABRIEL PIRTEA', 'marilen - gabriel pirtea']
 votes_cast: 5

@@ -1,0 +1,27 @@
+{
+  "generated": "2026-04-26T21:53:35.686662",
+  "sources": {
+    "senat.ro": {
+      "type": "senate_stenograms",
+      "count": 4,
+      "latest": "2026-04-07",
+      "path": "data/senate/"
+    },
+    "cdep.ro": {
+      "type": "chamber_stenograms",
+      "count": 70,
+      "latest": "2024-12",
+      "path": "data/cdep/"
+    }
+  },
+  "vault_counts": {
+    "senators": 272,
+    "deputies": 480,
+    "sessions": 62,
+    "laws": 124
+  },
+  "graph": {
+    "nodes": 16834,
+    "edges": 25094
+  }
+}

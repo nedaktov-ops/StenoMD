@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) MEHEDINŢI
+constituency: MEHEDINŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/TomoescuIonAlin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=306&cam=2
 idm: 306
@@ -15,9 +15,10 @@ stable_id: pol_137aacef4c2b
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Ion-Alin TOMOESCU
 search_aliases: ['ION-ALIN TOMOESCU', 'ion-alin tomoescu']
 votes_cast: 5

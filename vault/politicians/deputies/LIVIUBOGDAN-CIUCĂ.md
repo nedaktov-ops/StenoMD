@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) GALAŢI
+constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/CiucaLiviuBogdan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=63&cam=2
 idm: 63
@@ -15,9 +15,10 @@ stable_id: pol_b92a5e95759f
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Liviu-Bogdan CIUCĂ
 search_aliases: ['LIVIU-BOGDAN CIUCĂ', 'liviu-bogdan ciucă']
 votes_cast: 6

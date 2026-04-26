@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) SIBIU
+constituency: SIBIU
 photo_url: https://www.cdep.ro/parlamentari/l2024/RaduFabianCristian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=263&cam=2
 idm: 263
@@ -16,6 +16,7 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+
 ai_friendly_name: Fabian-Cristian RADU
 search_aliases: ['FABIAN-CRISTIAN RADU', 'fabian-cristian radu']
 votes_cast: 6

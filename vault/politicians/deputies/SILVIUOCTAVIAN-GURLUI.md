@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) IAŞI
+constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/GurluiSilviuOctavian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=136&cam=2
 idm: 136
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 ai_friendly_name: Silviu-Octavian GURLUI
 search_aliases: ['SILVIU-OCTAVIAN GURLUI', 'silviu-octavian gurlui']
 votes_cast: 6

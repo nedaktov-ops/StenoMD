@@ -3,16 +3,24 @@ name: Chirilă Virgil Alin
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) MUREŞ
-photo_url: 
+constituency: MEHEDINŢI
+photo_url: https://www.cdep.ro/parlamentari/l2024/ChirilaVirgilAlin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=54&cam=2
 idm: 54
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 11
+laws_proposed: 23
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Public Administration"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 ai_friendly_name: Chirilă Virgil Alin
 search_aliases: ['CHIRILĂ VIRGIL ALIN', 'chirilă virgil alin']
 votes_cast: 6

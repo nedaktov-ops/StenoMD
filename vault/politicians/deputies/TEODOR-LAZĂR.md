@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BACĂU
+constituency: BACĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/LazarTeodor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=167&cam=2
 idm: 167
@@ -15,9 +15,10 @@ stable_id: pol_af52b18a4ba7
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Teodor LAZĂR
 search_aliases: ['TEODOR LAZĂR', 'teodor lazăr']
 votes_cast: 6

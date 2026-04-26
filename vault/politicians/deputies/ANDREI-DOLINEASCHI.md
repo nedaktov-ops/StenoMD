@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BUCUREŞTI
+constituency: BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/DolineaschiAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=93&cam=2
 idm: 93
@@ -15,9 +15,10 @@ stable_id: pol_0c75cfd1cd24
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
+- name: Human Rights
+  role: member
 ---
+
 ai_friendly_name: Andrei DOLINEASCHI
 search_aliases: ['ANDREI DOLINEASCHI', 'andrei dolineaschi']
 votes_cast: 5

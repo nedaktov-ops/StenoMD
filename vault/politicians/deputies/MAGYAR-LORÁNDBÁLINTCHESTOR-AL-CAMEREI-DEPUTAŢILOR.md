@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) SATU-MARE
+constituency: SATU-MARE
 photo_url: https://www.cdep.ro/parlamentari/l2024/MagyarLorandBalint.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=176&cam=2
 idm: 176
@@ -15,9 +15,10 @@ stable_id: pol_6570f7948a97
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: MAGYAR Loránd-Bálintchestor al Camerei Deputaţilor
 search_aliases: ['MAGYAR LORÁND-BÁLINTCHESTOR AL CAMEREI DEPUTAŢILOR', 'magyar loránd-bálintchestor al camerei deputaţilor']
 votes_cast: 6

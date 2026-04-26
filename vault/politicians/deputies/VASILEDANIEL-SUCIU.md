@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BISTRIŢA-NĂSĂUD
+constituency: BISTRIŢA-NĂSĂUD
 photo_url: https://www.cdep.ro/parlamentari/l2024/SuciuVasileDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=290&cam=2
 idm: 290
@@ -15,9 +15,10 @@ stable_id: pol_49f4ed8b0360
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Vasile-Daniel SUCIU
 search_aliases: ['VASILE-DANIEL SUCIU', 'vasile-daniel suciu']
 votes_cast: 5

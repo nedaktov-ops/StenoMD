@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) ILFOV
+constituency: ILFOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/VaduvaDumitru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=317&cam=2
 idm: 317
@@ -15,11 +15,12 @@ stable_id: pol_b4f4586ccff4
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Legal
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 ai_friendly_name: Dumitru VĂDUVA
 search_aliases: ['DUMITRU VĂDUVA', 'dumitru văduva']
 votes_cast: 6

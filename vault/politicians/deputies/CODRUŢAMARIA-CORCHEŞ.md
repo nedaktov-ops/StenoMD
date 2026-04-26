@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) TIMIŞ
+constituency: TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/CorchesCodrutaMaria.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=77&cam=2
 idm: 77
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 6
 committees:
-  - name: "Culture"
-    role: "member"
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Codruţa-Maria CORCHEŞ
 search_aliases: ['CODRUŢA-MARIA CORCHEŞ', 'codruţa-maria corcheş']
 votes_cast: 6

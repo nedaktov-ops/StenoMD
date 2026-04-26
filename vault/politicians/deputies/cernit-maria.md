@@ -3,16 +3,17 @@ name: Cernit Maria
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) CONSTANŢA
-photo_url: 
+constituency: CONSTANŢA
+photo_url: https://www.cdep.ro/parlamentari/l2024/CernitMaria.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=52&cam=2
 idm: 52
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 13
+laws_proposed: 29
 type: deputy
 ---
+
 ai_friendly_name: Cernit Maria
 search_aliases: ['CERNIT MARIA', 'cernit maria']
 votes_cast: 6

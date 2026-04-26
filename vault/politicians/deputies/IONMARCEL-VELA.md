@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: (From election) CARAŞ-SEVERIN
+constituency: CARAŞ-SEVERIN
 photo_url: https://www.cdep.ro/parlamentari/l2024/VelaIonMarcel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=320&cam=2
 idm: 320
@@ -15,6 +15,7 @@ stable_id: pol_03f090fe4158
 original_elected_party: PNL
 type: deputy
 ---
+
 ai_friendly_name: Ion-Marcel VELA
 search_aliases: ['ION-MARCEL VELA', 'ion-marcel vela']
 votes_cast: 6

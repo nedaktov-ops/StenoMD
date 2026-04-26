@@ -3,16 +3,17 @@ name: Enachi Raisa
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
-party_full: Deputaţi neafiliaţi
-constituency: (From election) VÂLCEA
-photo_url: 
+party: SOS
+party_full: Partidul S.O.S. România
+constituency: VASLUI
+photo_url: https://www.cdep.ro/parlamentari/l2024/EnachiRaisa.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=101&cam=2
 idm: 101
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 49
+laws_proposed: 48
 type: deputy
 ---
+
 ai_friendly_name: Enachi Raisa
 search_aliases: ['ENACHI RAISA', 'enachi raisa']
 votes_cast: 6

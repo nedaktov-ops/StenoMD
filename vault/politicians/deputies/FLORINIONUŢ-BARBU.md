@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) OLT
+constituency: OLT
 photo_url: https://www.cdep.ro/parlamentari/l2024/BarbuFlorinIonut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=19&cam=2
 idm: 19
@@ -15,9 +15,10 @@ stable_id: pol_2c898bfe1a4c
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Florin-Ionuţ BARBU
 search_aliases: ['FLORIN-IONUŢ BARBU', 'florin-ionuţ barbu']
 votes_cast: 14

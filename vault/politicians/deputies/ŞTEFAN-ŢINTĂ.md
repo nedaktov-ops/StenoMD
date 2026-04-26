@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) IALOMIŢA
+constituency: IALOMIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/TintaStefan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=310&cam=2
 idm: 310
@@ -15,9 +15,10 @@ stable_id: pol_c801552901e9
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 ai_friendly_name: Ştefan ŢINTĂ
 search_aliases: ['ŞTEFAN ŢINTĂ', 'ştefan ţintă']
 votes_cast: 6

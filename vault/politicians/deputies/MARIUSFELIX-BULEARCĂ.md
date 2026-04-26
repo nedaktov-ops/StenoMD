@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) PRAHOVA
+constituency: PRAHOVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BulearcaMariusFelix.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=45&cam=2
 idm: 45
@@ -15,9 +15,10 @@ stable_id: pol_d3f8094215ca
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 ai_friendly_name: Marius-Felix BULEARCĂ
 search_aliases: ['MARIUS-FELIX BULEARCĂ', 'marius-felix bulearcă']
 votes_cast: 6

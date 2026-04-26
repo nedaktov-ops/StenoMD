@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) GORJ
+constituency: GORJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MirutaRaduDinel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2
 idm: 198
@@ -15,9 +15,10 @@ stable_id: pol_ad3b17541ad0
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 ai_friendly_name: Radu-Dinel MIRUŢĂ
 search_aliases: ['RADU-DINEL MIRUŢĂ', 'radu-dinel miruţă']
 votes_cast: 3

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) SUCEAVA
+constituency: SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BaisanuStefanAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=22&cam=2
 idm: 22
@@ -15,9 +15,10 @@ stable_id: pol_d2370eccf0e6
 original_elected_party: SOS
 type: deputy
 committees:
-  - name: "Culture"
-    role: "member"
+- name: Culture
+  role: member
 ---
+
 ai_friendly_name: Ştefan-Alexandru BĂIŞANU
 search_aliases: ['ŞTEFAN-ALEXANDRU BĂIŞANU', 'ştefan-alexandru băişanu']
 votes_cast: 6

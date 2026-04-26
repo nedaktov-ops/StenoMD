@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) BOTOŞANI
+constituency: BOTOŞANI
 photo_url: https://www.cdep.ro/parlamentari/l2024/LipaElisabeta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=170&cam=2
 idm: 170
@@ -15,6 +15,7 @@ stable_id: pol_2db51d13cfef
 original_elected_party: PSD
 type: deputy
 ---
+
 ai_friendly_name: Elisabeta LIPĂ
 search_aliases: ['ELISABETA LIPĂ', 'elisabeta lipă']
 votes_cast: 6

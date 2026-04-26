@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) BRAŞOV
+constituency: BRAŞOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/ParaschivescuOvidiuRomulus.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=236&cam=2
 idm: 236
@@ -15,6 +15,7 @@ stable_id: pol_cceeff94244f
 original_elected_party: USR
 type: deputy
 ---
+
 ai_friendly_name: Ovidiu-Romulus PARASCHIVESCU
 search_aliases: ['OVIDIU-ROMULUS PARASCHIVESCU', 'ovidiu-romulus paraschivescu']
 votes_cast: 6

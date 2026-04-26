@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) CLUJ
+constituency: CLUJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/SimuAuroraTasica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=280&cam=2
 idm: 280
@@ -16,9 +16,10 @@ original_elected_party: POT
 type: deputy
 motions: 3
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Aurora-Tasica SIMU
 search_aliases: ['AURORA-TASICA SIMU', 'aurora-tasica simu']
 votes_cast: 6

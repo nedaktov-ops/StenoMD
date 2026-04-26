@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: (From election) BIHOR
+constituency: BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/CimpanCristianEmanuel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=65&cam=2
 idm: 65
@@ -16,11 +16,12 @@ original_elected_party: POT
 type: deputy
 motions: 6
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Agriculture"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Agriculture
+  role: member
 ---
+
 ai_friendly_name: Cristian-Emanuel CÎMPAN
 search_aliases: ['CRISTIAN-EMANUEL CÎMPAN', 'cristian-emanuel cîmpan']
 votes_cast: 6

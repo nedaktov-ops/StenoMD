@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: (From election) CLUJ
+constituency: CLUJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MurariuOana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=213&cam=2
 idm: 213
@@ -15,11 +15,12 @@ stable_id: pol_24e33c25c4ba
 original_elected_party: USR
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Human Rights
+  role: member
+- name: Legal
+  role: member
 ---
+
 ai_friendly_name: Oana MURARIUsecretar al Camerei Deputaţilor
 search_aliases: ['OANA MURARIUSECRETAR AL CAMEREI DEPUTAŢILOR', 'oana murariusecretar al camerei deputaţilor']
 votes_cast: 5

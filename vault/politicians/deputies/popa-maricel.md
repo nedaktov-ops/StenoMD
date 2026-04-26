@@ -3,16 +3,20 @@ name: Popa Maricel
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
+party: PSD
 party_full: Partidul Social Democrat
-constituency: (From election) IAŞI
-photo_url: 
+constituency: IAŞI
+photo_url: https://www.cdep.ro/parlamentari/l2024/PopaMaricel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=253&cam=2
 idm: 253
 speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+laws_proposed: 14
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 ai_friendly_name: Popa Maricel
 search_aliases: ['POPA MARICEL', 'popa maricel']
 votes_cast: 6

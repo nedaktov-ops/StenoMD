@@ -3,9 +3,9 @@ name: Ecaterina Mariana Sz
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: Grupul
+party: SOS
 party_full: Partidul S.O.S. România
-constituency: (From election) GALAŢI
+constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/SzokeEcaterinaMariana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=292&cam=2
 idm: 292
@@ -14,7 +14,13 @@ laws_proposed: 8
 stable_id: pol_placeholder
 original_elected_party: SOS
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 ai_friendly_name: Ecaterina Mariana Sz
 search_aliases: ['ECATERINA MARIANA SZ', 'ecaterina mariana sz']
 votes_cast: 6

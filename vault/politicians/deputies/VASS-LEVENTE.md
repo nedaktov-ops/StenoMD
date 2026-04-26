@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: (From election) MUREŞ
+constituency: MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/VassLevente.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=316&cam=2
 idm: 316
@@ -15,9 +15,10 @@ stable_id: pol_17b145225d70
 original_elected_party: UDMR
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 ai_friendly_name: VASS Levente
 search_aliases: ['VASS LEVENTE', 'vass levente']
 votes_cast: 6

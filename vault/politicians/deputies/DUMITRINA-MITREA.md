@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) NEAMŢ
+constituency: NEAMŢ
 photo_url: https://www.cdep.ro/parlamentari/l2024/MitreaDumitrina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=200&cam=2
 idm: 200
@@ -16,9 +16,10 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 ai_friendly_name: Dumitrina MITREA
 search_aliases: ['DUMITRINA MITREA', 'dumitrina mitrea']
 votes_cast: 5

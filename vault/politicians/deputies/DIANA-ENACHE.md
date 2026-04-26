@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: (From election) BACĂU
+constituency: BACĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/EnacheDiana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=99&cam=2
 idm: 99
@@ -16,6 +16,7 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+
 ai_friendly_name: Diana ENACHE
 search_aliases: ['DIANA ENACHE', 'diana enache']
 votes_cast: 5

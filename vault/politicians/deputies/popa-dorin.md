@@ -3,16 +3,24 @@ name: Popa Dorin
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: (From election records)
-party_full: Partidul Social Democrat
-constituency: (From election) ARGEŞ
-photo_url: 
+party: POT
+party_full: Partidul Oamenilor Tineri
+constituency: ARGEŞ
+photo_url: https://www.cdep.ro/parlamentari/l2024/PopaDorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=251&cam=2
 idm: 251
-speeches_count: (See speeches)
-laws_proposed: (See sponsored laws)
+speeches_count: 3
+laws_proposed: 20
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Labour"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 ai_friendly_name: Popa Dorin
 search_aliases: ['POPA DORIN', 'popa dorin']
 votes_cast: 4
