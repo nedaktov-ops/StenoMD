@@ -2,7 +2,34 @@
 
 **Last Updated:** 2026-04-26  
 **Status:** ACTIVE  
-**Total Pending:** 3
+**Total Pending:** 4
+
+---
+
+## MAINTENANCE REQUIRED
+
+### Task SENATOR-SCRAPE: Senator Data Enrichment (senat.ro)
+**ID:** TASK-SENATOR-SCRAPE  
+**Status:** READY_TO_START  
+**Priority:** CRITICAL
+
+**Issue:**
+- 137/137 senators have speeches_count=0 and laws_proposed=0
+- Need actual data from senat.ro for AI vault completeness
+- No alternative data source exists (parlamint only covers Chamber of Deputies)
+
+**Strategy:**
+- Use ultra-respectful scraping with 20-40 second delays
+- Max 3-5 senators per session to avoid bans
+- Scripts created:
+  - scripts/scrape_senat_ro_ultra_slow.py (ready to run)
+  - scripts/scrape_senat_ro.py (backup)
+
+**How to Run:**
+```bash
+python3 scripts/scrape_senat_ro_ultra_slow.py
+```
+Run once per day to slowly accumulate data without getting banned.
 
 ---
 
