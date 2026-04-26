@@ -15,7 +15,11 @@ stable_id: pol_1da1b76c29d5
 original_elected_party: POT
 type: deputy
 motions: 3
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 

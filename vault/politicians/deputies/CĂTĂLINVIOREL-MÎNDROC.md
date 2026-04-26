@@ -14,7 +14,13 @@ laws_proposed: 14
 stable_id: pol_65c558c99165
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Cătălin-Viorel MÎNDROC

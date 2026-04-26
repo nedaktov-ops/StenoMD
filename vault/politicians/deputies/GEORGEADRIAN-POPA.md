@@ -14,7 +14,13 @@ laws_proposed: 35
 stable_id: pol_fc4a59fe9f56
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # George-Adrian POPA

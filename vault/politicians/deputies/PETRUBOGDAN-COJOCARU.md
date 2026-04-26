@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Petru-Bogdan COJOCARU
 
 **Chamber:** Chamber of Deputies  

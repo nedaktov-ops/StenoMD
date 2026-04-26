@@ -19,6 +19,7 @@ motions: 9
 
 
 
+
 # Nelu-Valentin BADEA
 
 **Chamber:** Chamber of Deputies  

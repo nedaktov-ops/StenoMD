@@ -1,28 +1,27 @@
 ---
-tags:
-- politician
+tags: 
 stable_id: pol_e1af4a068ad1
-committees:
-  - name: Industries and Services
-    position: &nbsp;
-    chamber: deputy
+committees: 
+- name: Industries and Services
+position: &nbsp;
+chamber: deputies
 original_elected_party: PSD
-party_affiliations:
+party_affiliations: 
 - party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_e1af4a068ad1
+start_date: "2024-12"
+is_original: true
 type: person
-party: PSD
+party: Grupul
 party_full: Partidul Social Democrat
-constituency: SIBIU
+constituency: SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/TrifBogdanGheorghe.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=307&cam=2
 speeches_count: 6
-laws_proposed: 15
-chamber: deputies
+laws_proposed: 30
 legislature: 2024-2028
+idm: 307
 ---
+
 
 
 # Bogdan Gheorghe Trif

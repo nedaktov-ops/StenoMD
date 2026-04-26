@@ -15,7 +15,11 @@ stable_id: pol_e3908d5ae852
 original_elected_party: POT
 type: deputy
 motions: 5
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 

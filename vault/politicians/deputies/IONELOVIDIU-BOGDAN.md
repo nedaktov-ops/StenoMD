@@ -14,7 +14,11 @@ laws_proposed: 45
 stable_id: pol_1b4b05b17a6a
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Ionel-Ovidiu BOGDAN

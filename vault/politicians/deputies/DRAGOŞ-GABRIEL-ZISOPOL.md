@@ -14,7 +14,11 @@ laws_proposed: 24
 stable_id: pol_124e3c28b7ea
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Dragoş Gabriel ZISOPOL

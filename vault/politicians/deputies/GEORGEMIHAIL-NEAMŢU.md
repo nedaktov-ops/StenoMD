@@ -15,7 +15,13 @@ stable_id: pol_2ec15556bbdb
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Culture"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 

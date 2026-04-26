@@ -14,7 +14,11 @@ laws_proposed: 59
 stable_id: pol_132604eb97d3
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Brian CRISTIAN

@@ -14,7 +14,15 @@ laws_proposed: 43
 stable_id: pol_889150324d27
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Legal"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Gabriela-Corina ENE

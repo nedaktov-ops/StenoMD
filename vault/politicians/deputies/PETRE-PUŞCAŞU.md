@@ -19,6 +19,7 @@ motions: 9
 
 
 
+
 # Petre PUŞCAŞU
 
 **Chamber:** Chamber of Deputies  

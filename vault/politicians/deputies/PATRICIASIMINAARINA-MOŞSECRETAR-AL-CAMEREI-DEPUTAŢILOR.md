@@ -14,7 +14,11 @@ laws_proposed: 31
 stable_id: pol_17e187b1e45a
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Patricia-Simina-Arina MOŞsecretar al Camerei Deputaţilor

@@ -14,7 +14,11 @@ laws_proposed: 6
 stable_id: pol_2231e4ce0fac
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Marius-Ionel IANCU

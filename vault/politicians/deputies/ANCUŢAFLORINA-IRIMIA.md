@@ -15,7 +15,13 @@ stable_id: pol_aca6a8bf9e51
 original_elected_party: POT
 type: deputy
 motions: 2
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 

@@ -14,7 +14,11 @@ laws_proposed: 12
 stable_id: pol_8b7e8c5d6f5d
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 # Iusein IBRAM

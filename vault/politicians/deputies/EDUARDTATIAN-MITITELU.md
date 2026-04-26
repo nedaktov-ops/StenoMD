@@ -14,7 +14,11 @@ laws_proposed: 24
 stable_id: pol_1116f3056a8f
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Eduard-Tatian MITITELU

@@ -14,7 +14,13 @@ laws_proposed: 15
 stable_id: pol_34ad997f76c1
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Radu MARINESCU

@@ -15,7 +15,11 @@ stable_id: pol_269205638cbd
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 

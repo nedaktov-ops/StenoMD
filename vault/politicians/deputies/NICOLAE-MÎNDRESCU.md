@@ -19,6 +19,7 @@ motions: 9
 
 
 
+
 # Nicolae MÎNDRESCU
 
 **Chamber:** Chamber of Deputies  

@@ -14,7 +14,15 @@ laws_proposed: 35
 stable_id: pol_f89b8af57556
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Human Rights"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Silviu FEODOR

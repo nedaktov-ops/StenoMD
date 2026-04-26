@@ -14,7 +14,13 @@ laws_proposed: 59
 stable_id: pol_dda6a7b27325
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Ilie-Aurelian COTINESCU

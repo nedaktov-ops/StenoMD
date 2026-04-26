@@ -14,7 +14,11 @@ laws_proposed: 12
 stable_id: pol_49f4ed8b0360
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Vasile-Daniel SUCIU

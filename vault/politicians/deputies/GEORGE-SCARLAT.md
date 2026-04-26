@@ -14,7 +14,13 @@ laws_proposed: 73
 stable_id: pol_db15439a9c4d
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # George SCARLAT

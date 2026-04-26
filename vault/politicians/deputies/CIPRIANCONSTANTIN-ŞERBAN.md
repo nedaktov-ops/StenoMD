@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Ciprian-Constantin ŞERBAN
 
 **Chamber:** Chamber of Deputies  

@@ -14,7 +14,13 @@ laws_proposed: 19
 stable_id: pol_24e33c25c4ba
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Oana MURARIUsecretar al Camerei Deputaţilor

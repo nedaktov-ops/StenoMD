@@ -14,7 +14,11 @@ laws_proposed: 42
 stable_id: pol_49978618b62c
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # KÁNTOR Boglárka

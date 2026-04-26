@@ -14,7 +14,11 @@ laws_proposed: 14
 stable_id: pol_50856a1c187c
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Voicu VUŞCAN

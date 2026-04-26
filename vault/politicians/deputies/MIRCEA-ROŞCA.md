@@ -14,7 +14,11 @@ laws_proposed: 6
 stable_id: pol_f23a07ca7090
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Mircea ROŞCA

@@ -15,7 +15,13 @@ stable_id: pol_f8343b8aab73
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Education"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 

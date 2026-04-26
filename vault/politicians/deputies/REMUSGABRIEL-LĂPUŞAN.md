@@ -14,7 +14,11 @@ laws_proposed: 29
 stable_id: pol_474d2e27af5f
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Remus-Gabriel LĂPUŞAN

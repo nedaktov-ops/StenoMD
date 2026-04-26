@@ -14,7 +14,11 @@ laws_proposed: 42
 stable_id: pol_bb93ae8c5c7c
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Adrian-Miroslav MERKA

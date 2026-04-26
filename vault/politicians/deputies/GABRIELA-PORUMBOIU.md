@@ -15,7 +15,13 @@ stable_id: pol_7beb73a9a168
 original_elected_party: POT
 type: deputy
 motions: 7
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 

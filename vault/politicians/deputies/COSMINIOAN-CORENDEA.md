@@ -15,7 +15,11 @@ stable_id: pol_7e085654a7c4
 original_elected_party: AUR
 type: deputy
 motions: 8
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 

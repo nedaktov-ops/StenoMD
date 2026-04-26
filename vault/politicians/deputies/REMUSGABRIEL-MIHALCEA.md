@@ -14,7 +14,11 @@ laws_proposed: 21
 stable_id: pol_cdc7d47bcec9
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Remus-Gabriel MIHALCEA

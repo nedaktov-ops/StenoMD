@@ -14,7 +14,13 @@ laws_proposed: 26
 stable_id: pol_fd5cbbfc2919
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # KELEMEN Hunor

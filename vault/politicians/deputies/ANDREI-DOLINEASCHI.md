@@ -14,7 +14,11 @@ laws_proposed: 50
 stable_id: pol_0c75cfd1cd24
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 # Andrei DOLINEASCHI

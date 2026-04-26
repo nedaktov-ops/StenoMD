@@ -15,7 +15,11 @@ stable_id: pol_ffc12e37f93e
 original_elected_party: AUR
 type: deputy
 motions: 7
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 

@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Sorin-Alexandru AFLOAREI
 
 **Chamber:** Chamber of Deputies  

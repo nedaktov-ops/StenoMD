@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Bogdan-Gruia IVAN
 
 **Chamber:** Chamber of Deputies  

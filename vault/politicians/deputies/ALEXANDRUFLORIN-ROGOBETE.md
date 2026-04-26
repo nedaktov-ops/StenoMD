@@ -14,7 +14,13 @@ laws_proposed: 12
 stable_id: pol_504148d7a901
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Alexandru-Florin ROGOBETE

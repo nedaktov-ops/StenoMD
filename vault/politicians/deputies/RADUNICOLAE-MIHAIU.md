@@ -14,7 +14,11 @@ laws_proposed: 19
 stable_id: pol_f0e338df1e5b
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Radu-Nicolae MIHAIU

@@ -1,6 +1,6 @@
 ---
 name: Victor-Viorel PONTA
-chamber: Chamber of Deputies
+chamber: deputy
 legislature: 2024-2028
 source: cdep.ro
 party: PSD
@@ -11,22 +11,18 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=248&cam=2
 idm: 248
 speeches_count: 1
 laws_proposed: 1
-stable_id: pol_ddf2b4f53af2
-committees:
-  - name: Economic Policies
-    position: &nbsp;
-    chamber: deputy
-  - name: Industries and Services
-    position: &nbsp;
-    chamber: deputy
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
 stable_id: pol_26277b08a559
+committees: 
+- name: Industries and Services
+position: &nbsp;
+original_elected_party: PSD
+party_affiliations: 
+- party: PSD
+start_date: "2024-12"
+is_original: true
 type: deputy
 ---
+
 
 # Victor-Viorel PONTA
 

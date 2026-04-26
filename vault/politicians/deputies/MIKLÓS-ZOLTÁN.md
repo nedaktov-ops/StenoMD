@@ -14,7 +14,11 @@ laws_proposed: 57
 stable_id: pol_3eeaf9dbecb6
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # MIKLÓS Zoltán

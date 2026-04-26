@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Mircea FECHET
 
 **Chamber:** Chamber of Deputies  

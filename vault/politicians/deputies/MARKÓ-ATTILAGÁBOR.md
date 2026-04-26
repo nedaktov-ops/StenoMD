@@ -14,7 +14,11 @@ laws_proposed: 77
 stable_id: pol_740e44bc6512
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 # MARKÓ Attila-Gábor

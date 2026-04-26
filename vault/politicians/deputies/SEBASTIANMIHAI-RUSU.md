@@ -14,7 +14,13 @@ laws_proposed: 41
 stable_id: pol_2881d30f0ed7
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Sebastian-Mihai RUSU

@@ -14,7 +14,11 @@ laws_proposed: 44
 stable_id: pol_35bea3877993
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Gheorghe-Daniel GEORGESCU

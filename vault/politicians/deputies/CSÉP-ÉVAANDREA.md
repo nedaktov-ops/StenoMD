@@ -14,7 +14,11 @@ laws_proposed: 83
 stable_id: pol_8db02b133c34
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # CSÉP Éva-Andrea

@@ -15,7 +15,11 @@ stable_id: pol_ec891239c7e9
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 

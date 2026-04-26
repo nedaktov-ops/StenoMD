@@ -14,7 +14,13 @@ laws_proposed: 43
 stable_id: pol_438a3b8d121f
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Florin-Claudiu ROMAN

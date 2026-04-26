@@ -14,7 +14,11 @@ laws_proposed: 63
 stable_id: pol_feed8d8f3b1c
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Ştefan TANASĂ

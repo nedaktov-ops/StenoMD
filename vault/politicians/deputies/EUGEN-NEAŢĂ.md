@@ -14,7 +14,11 @@ laws_proposed: 21
 stable_id: pol_ea310def18d7
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Eugen NEAŢĂ

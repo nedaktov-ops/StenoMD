@@ -15,7 +15,13 @@ stable_id: pol_1387f8db57ee
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 

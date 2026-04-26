@@ -14,7 +14,13 @@ laws_proposed: 19
 stable_id: pol_083ca3256b1e
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Ghervazen LONGHER

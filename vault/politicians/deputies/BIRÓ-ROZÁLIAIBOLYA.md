@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # BIRÓ Rozália-Ibolya
 
 **Chamber:** Chamber of Deputies  

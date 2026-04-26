@@ -15,7 +15,13 @@ stable_id: pol_4c4f2a1d225a
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 

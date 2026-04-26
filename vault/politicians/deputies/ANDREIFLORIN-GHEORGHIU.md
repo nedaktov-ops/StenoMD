@@ -14,7 +14,11 @@ laws_proposed: 93
 stable_id: pol_b253fd45333d
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Andrei-Florin GHEORGHIU

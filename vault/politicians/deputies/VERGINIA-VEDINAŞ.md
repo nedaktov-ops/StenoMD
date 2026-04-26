@@ -15,7 +15,11 @@ stable_id: pol_bd57afdc6a3c
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 

@@ -14,7 +14,13 @@ laws_proposed: 29
 stable_id: pol_d5852185cccd
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Costel Neculai DUNAVA

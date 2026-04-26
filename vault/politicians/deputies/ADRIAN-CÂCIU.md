@@ -14,7 +14,13 @@ laws_proposed: 41
 stable_id: pol_42e364075f45
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Adrian CÂCIU

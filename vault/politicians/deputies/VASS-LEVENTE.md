@@ -14,7 +14,11 @@ laws_proposed: 40
 stable_id: pol_17b145225d70
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # VASS Levente

@@ -14,7 +14,13 @@ laws_proposed: 20
 stable_id: pol_07c8433853f9
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Romică-Andrei BACIU

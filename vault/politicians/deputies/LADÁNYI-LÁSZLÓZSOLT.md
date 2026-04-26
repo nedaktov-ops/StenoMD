@@ -14,7 +14,11 @@ laws_proposed: 33
 stable_id: pol_b14253876b22
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # LADÁNYI László-Zsolt

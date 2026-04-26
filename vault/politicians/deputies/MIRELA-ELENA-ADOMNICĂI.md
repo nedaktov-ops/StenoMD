@@ -14,7 +14,13 @@ laws_proposed: 47
 stable_id: pol_5b6ba3e8abb9
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Mirela Elena ADOMNICĂI

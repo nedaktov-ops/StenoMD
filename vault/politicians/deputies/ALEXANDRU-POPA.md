@@ -14,7 +14,11 @@ laws_proposed: 12
 stable_id: pol_521d7914c50c
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Alexandru POPA

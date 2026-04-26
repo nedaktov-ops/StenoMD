@@ -14,7 +14,11 @@ laws_proposed: 55
 stable_id: pol_4703fe082874
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Dragoş-Fănică CIOBOTARU

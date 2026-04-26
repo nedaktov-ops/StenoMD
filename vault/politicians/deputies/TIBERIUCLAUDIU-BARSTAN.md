@@ -15,7 +15,11 @@ stable_id: pol_ab13904b83ef
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 

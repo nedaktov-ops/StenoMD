@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # CSOMA Botond
 
 **Chamber:** Chamber of Deputies  

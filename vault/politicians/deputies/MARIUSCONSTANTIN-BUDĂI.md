@@ -14,7 +14,13 @@ laws_proposed: 31
 stable_id: pol_a47ce4001fc5
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Marius-Constantin BUDĂI

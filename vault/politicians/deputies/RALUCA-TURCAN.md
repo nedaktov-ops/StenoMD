@@ -14,7 +14,15 @@ laws_proposed: 22
 stable_id: pol_225573509dfe
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
+  - name: "Education"
+    role: "member"
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Raluca TURCAN

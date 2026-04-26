@@ -14,7 +14,11 @@ laws_proposed: 37
 stable_id: pol_373b7e36dac1
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 # KULCSÁR-TERZA József-György

@@ -14,7 +14,13 @@ laws_proposed: 19
 stable_id: pol_f651bb344e49
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Ciprian PANDEA

@@ -14,7 +14,11 @@ laws_proposed: 12
 stable_id: pol_b06b02c02d03
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Ionuţ-Marian STROE

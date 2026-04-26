@@ -14,7 +14,11 @@ laws_proposed: 13
 stable_id: pol_43d4e252b0e1
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Claudiu MANTA

@@ -15,7 +15,11 @@ stable_id: pol_73aee29465f8
 original_elected_party: POT
 type: deputy
 motions: 1
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 

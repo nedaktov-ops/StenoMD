@@ -14,7 +14,13 @@ laws_proposed: 25
 stable_id: pol_303959270bb3
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Simona-Geanina PISTRU-POPA

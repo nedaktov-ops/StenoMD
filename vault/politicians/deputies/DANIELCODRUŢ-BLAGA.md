@@ -14,7 +14,11 @@ laws_proposed: 34
 stable_id: pol_bd650de5d63a
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Daniel-Codruţ BLAGA

@@ -14,7 +14,11 @@ laws_proposed: 71
 stable_id: pol_3649aba54cd2
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Marius-Nicolae ALECSANDRU

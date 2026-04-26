@@ -14,7 +14,13 @@ laws_proposed: 8
 stable_id: pol_b42f0135db77
 original_elected_party: SOS
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Ecaterina-Mariana SZŐKE

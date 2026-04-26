@@ -14,7 +14,11 @@ laws_proposed: 35
 stable_id: pol_12e069d87a84
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Aurora-Adela GEAMĂNU

@@ -14,7 +14,11 @@ laws_proposed: 24
 stable_id: pol_40983fbed21c
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Vetuţa STĂNESCU

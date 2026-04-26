@@ -15,7 +15,11 @@ stable_id: pol_e25189ea851d
 original_elected_party: AUR
 type: deputy
 motions: 8
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 

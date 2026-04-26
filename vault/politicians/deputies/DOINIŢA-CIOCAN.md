@@ -14,7 +14,15 @@ laws_proposed: 49
 stable_id: pol_abed72ad1ac0
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Public Administration"
+    role: "member"
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Doiniţa CIOCAN

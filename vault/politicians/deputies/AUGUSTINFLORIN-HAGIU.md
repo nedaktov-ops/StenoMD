@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Augustin-Florin HAGIU
 
 **Chamber:** Chamber of Deputies  

@@ -14,7 +14,13 @@ laws_proposed: 18
 stable_id: pol_54851e2051e1
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Petre-Emanoil NEAGU

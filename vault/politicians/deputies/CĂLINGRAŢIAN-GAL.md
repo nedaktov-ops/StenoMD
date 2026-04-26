@@ -14,7 +14,13 @@ laws_proposed: 52
 stable_id: pol_4cc52ecfcc15
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Călin-Graţian GAL

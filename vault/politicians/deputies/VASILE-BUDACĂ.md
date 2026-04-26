@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Vasile BUDACĂ
 
 **Chamber:** Chamber of Deputies  

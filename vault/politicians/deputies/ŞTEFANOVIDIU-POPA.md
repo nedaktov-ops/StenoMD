@@ -14,7 +14,11 @@ laws_proposed: 38
 stable_id: pol_87951df9d110
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Ştefan-Ovidiu POPA

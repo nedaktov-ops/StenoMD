@@ -14,7 +14,13 @@ laws_proposed: 40
 stable_id: pol_874e62c1baf7
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Alina-Ştefania GORGHIU

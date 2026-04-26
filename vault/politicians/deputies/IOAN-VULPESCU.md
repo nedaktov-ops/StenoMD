@@ -14,7 +14,11 @@ laws_proposed: 33
 stable_id: pol_0754f49b1487
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Ioan VULPESCU

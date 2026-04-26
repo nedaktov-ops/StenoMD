@@ -15,7 +15,11 @@ stable_id: pol_10dce767303d
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 

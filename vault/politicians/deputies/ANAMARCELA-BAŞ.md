@@ -15,7 +15,13 @@ stable_id: pol_7bd659b28de4
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 

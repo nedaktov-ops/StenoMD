@@ -14,7 +14,11 @@ laws_proposed: 41
 stable_id: pol_72316525b5d2
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Diana STOICA

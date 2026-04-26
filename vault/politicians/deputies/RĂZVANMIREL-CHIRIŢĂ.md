@@ -15,7 +15,11 @@ stable_id: pol_b2eb4d0669be
 original_elected_party: POT
 type: deputy
 motions: 7
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 

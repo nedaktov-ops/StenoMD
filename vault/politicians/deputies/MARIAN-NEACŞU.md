@@ -14,7 +14,11 @@ laws_proposed: 42
 stable_id: pol_238dd0113cf0
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Marian NEACŞU

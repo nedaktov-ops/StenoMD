@@ -14,7 +14,13 @@ laws_proposed: 9
 stable_id: pol_4c163ba46f82
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Robert-Ionatan SIGHIARTĂU

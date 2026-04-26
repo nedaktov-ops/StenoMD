@@ -14,7 +14,11 @@ laws_proposed: 35
 stable_id: pol_27d1881362dc
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Cezar-Mihail DRĂGOESCU

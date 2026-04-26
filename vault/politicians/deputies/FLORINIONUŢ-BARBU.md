@@ -14,7 +14,11 @@ laws_proposed: 62
 stable_id: pol_2c898bfe1a4c
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Florin-Ionuţ BARBU

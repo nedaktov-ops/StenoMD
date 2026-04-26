@@ -14,7 +14,13 @@ laws_proposed: 16
 stable_id: pol_2fb9d4035773
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Bogdan-Andrei TOADER

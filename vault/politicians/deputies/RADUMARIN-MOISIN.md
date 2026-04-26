@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Radu-Marin MOISIN
 
 **Chamber:** Chamber of Deputies  

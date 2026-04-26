@@ -14,7 +14,13 @@ laws_proposed: 25
 stable_id: pol_6021f4ea8ca2
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Răzvan-Iulian CIORTEA

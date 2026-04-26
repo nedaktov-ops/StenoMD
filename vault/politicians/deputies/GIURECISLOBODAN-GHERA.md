@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Giureci-Slobodan GHERA
 
 **Chamber:** Chamber of Deputies  

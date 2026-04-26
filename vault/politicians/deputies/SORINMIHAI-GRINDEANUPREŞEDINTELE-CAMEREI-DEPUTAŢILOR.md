@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Sorin-Mihai GRINDEANUPreşedintele Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  

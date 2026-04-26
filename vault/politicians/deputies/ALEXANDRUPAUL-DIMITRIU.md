@@ -14,7 +14,11 @@ laws_proposed: 59
 stable_id: pol_fe3ff01e2459
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Alexandru-Paul DIMITRIU

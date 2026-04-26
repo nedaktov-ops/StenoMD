@@ -14,7 +14,11 @@ laws_proposed: 14
 stable_id: pol_fa89cd6aa2d2
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Mihai CULEAFĂ

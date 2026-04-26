@@ -14,7 +14,11 @@ laws_proposed: 25
 stable_id: pol_c4283a5b34df
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Ştefan-Iulian LŐRINCZ

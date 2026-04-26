@@ -1,6 +1,6 @@
 ---
 name: Gheorghe NACOV
-chamber: Chamber of Deputies
+chamber: deputy
 legislature: 2024-2028
 source: cdep.ro
 party: 
@@ -11,19 +11,18 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=216&cam=2
 idm: 216
 speeches_count: 5
 laws_proposed: 8
-stable_id: pol_63479bf73915
-committees:
-  - name: Public Administration
-    position: &nbsp;
-    chamber: deputy
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
 stable_id: pol_4f9b4f478e7a
+committees: 
+- name: Public Administration
+position: &nbsp;
+original_elected_party: party_full
+party_affiliations: 
+- party: party_full
+start_date: "2024-12"
+is_original: true
 type: deputy
 ---
+
 
 # Gheorghe NACOV
 

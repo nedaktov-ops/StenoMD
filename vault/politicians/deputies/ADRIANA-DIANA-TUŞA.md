@@ -14,7 +14,11 @@ laws_proposed: 9
 stable_id: pol_7cc2c6f54e29
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Adriana Diana TUŞA

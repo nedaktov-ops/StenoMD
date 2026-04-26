@@ -14,7 +14,13 @@ laws_proposed: 45
 stable_id: pol_0399a756ca77
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Crina-Fiorela CHILAT

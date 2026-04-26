@@ -14,7 +14,11 @@ laws_proposed: 56
 stable_id: pol_49084bec016a
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # George-Mădălin BORŞ

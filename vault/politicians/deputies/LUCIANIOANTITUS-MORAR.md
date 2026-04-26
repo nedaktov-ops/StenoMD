@@ -14,7 +14,11 @@ laws_proposed: 40
 stable_id: pol_d4578ffd860d
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Lucian-Ioan-Titus MORAR

@@ -14,7 +14,11 @@ laws_proposed: 8
 stable_id: pol_d44736689bb9
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Liviu-Ionuţ MOŞTEANU

@@ -14,7 +14,11 @@ laws_proposed: 32
 stable_id: pol_7baf0a9eb301
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Pollyanna-Hanellore HANGAN

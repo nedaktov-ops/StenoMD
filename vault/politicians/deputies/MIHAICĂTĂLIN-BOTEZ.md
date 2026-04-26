@@ -14,7 +14,13 @@ laws_proposed: 53
 stable_id: pol_87e56755d7bf
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Mihai-Cătălin BOTEZ

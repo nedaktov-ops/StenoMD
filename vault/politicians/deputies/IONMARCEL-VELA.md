@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Ion-Marcel VELA
 
 **Chamber:** Chamber of Deputies  

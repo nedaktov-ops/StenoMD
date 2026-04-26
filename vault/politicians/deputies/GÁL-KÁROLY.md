@@ -14,7 +14,11 @@ laws_proposed: 53
 stable_id: pol_06af93fa1544
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # GÁL Károly

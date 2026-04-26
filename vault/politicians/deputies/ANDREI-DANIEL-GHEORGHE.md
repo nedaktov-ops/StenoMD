@@ -14,7 +14,11 @@ laws_proposed: 24
 stable_id: pol_05e1648a6f1c
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Andrei Daniel GHEORGHE

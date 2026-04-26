@@ -14,7 +14,11 @@ laws_proposed: 10
 stable_id: pol_e297d45f39cb
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Oana-Silvia ŢOIU

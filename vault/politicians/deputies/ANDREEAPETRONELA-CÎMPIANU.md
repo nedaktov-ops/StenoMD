@@ -15,7 +15,11 @@ stable_id: pol_0ad4b2b37966
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 

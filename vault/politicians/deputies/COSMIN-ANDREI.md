@@ -14,7 +14,11 @@ laws_proposed: 40
 stable_id: pol_4aaeb9efd08f
 original_elected_party: SOS
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Cosmin ANDREI

@@ -14,7 +14,11 @@ laws_proposed: 98
 stable_id: pol_92611099d30c
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Adrian-Virgil CIOBANU

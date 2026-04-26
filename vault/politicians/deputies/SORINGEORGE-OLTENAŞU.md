@@ -15,7 +15,11 @@ stable_id: pol_9be75b61f6c1
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 

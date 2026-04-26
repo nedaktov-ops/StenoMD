@@ -14,7 +14,11 @@ laws_proposed: 108
 stable_id: pol_dc2c5ae8f676
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Gabriel ANDRONACHE

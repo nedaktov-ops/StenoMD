@@ -14,7 +14,13 @@ laws_proposed: 65
 stable_id: pol_b68361070649
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # HAJDU Gábor

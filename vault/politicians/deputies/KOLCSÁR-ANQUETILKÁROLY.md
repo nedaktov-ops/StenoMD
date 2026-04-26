@@ -14,7 +14,13 @@ laws_proposed: 29
 stable_id: pol_5a69099b0dbe
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # KOLCSÁR Anquetil-Károly

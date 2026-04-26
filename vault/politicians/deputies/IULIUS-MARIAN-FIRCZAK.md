@@ -14,7 +14,11 @@ laws_proposed: 12
 stable_id: pol_8b028041192c
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Iulius Marian FIRCZAK

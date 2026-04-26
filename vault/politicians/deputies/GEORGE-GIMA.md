@@ -14,7 +14,13 @@ laws_proposed: 51
 stable_id: pol_32715a8b6afb
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # George GIMA

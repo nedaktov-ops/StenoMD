@@ -14,7 +14,11 @@ laws_proposed: 20
 stable_id: pol_6b36f9bf8e1b
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Rodica NASSAR

@@ -14,7 +14,13 @@ laws_proposed: 21
 stable_id: pol_51f2cd0a37b5
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Nicolae-Adrian BARA

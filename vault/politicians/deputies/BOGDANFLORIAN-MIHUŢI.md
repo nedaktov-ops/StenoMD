@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Bogdan-Florian MIHUŢI
 
 **Chamber:** Chamber of Deputies  

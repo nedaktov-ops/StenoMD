@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Adrian GIURGIU
 
 **Chamber:** Chamber of Deputies  

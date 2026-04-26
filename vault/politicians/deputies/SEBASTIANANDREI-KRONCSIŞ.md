@@ -15,7 +15,11 @@ stable_id: pol_9d211a311105
 original_elected_party: POT
 type: deputy
 motions: 6
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 

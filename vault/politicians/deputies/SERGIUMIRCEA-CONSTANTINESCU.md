@@ -14,7 +14,11 @@ laws_proposed: 64
 stable_id: pol_581d2c468a57
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Sergiu-Mircea CONSTANTINESCU

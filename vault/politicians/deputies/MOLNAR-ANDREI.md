@@ -14,7 +14,13 @@ laws_proposed: 38
 stable_id: pol_ba9b66216bcd
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # MOLNAR Andrei

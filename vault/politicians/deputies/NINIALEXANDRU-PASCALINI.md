@@ -15,7 +15,13 @@ stable_id: pol_7fdba076434b
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Agriculture"
+    role: "member"
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 

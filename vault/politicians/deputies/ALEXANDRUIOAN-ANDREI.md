@@ -14,7 +14,11 @@ laws_proposed: 36
 stable_id: pol_8f4f9ea0a1ba
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Alexandru-Ioan ANDREI

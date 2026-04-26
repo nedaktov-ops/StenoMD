@@ -14,7 +14,11 @@ laws_proposed: 38
 stable_id: pol_6570f7948a97
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # MAGYAR Loránd-Bálintchestor al Camerei Deputaţilor

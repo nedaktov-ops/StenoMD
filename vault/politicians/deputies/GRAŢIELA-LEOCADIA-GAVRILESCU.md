@@ -14,7 +14,13 @@ laws_proposed: 27
 stable_id: pol_29de24f4aa6f
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Graţiela Leocadia GAVRILESCU

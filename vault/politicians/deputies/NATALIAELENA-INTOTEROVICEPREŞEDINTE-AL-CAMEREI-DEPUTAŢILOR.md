@@ -14,7 +14,13 @@ laws_proposed: 41
 stable_id: pol_c226230088bd
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor

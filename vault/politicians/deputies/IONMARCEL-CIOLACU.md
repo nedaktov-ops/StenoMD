@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Ion-Marcel CIOLACU
 
 **Chamber:** Chamber of Deputies  

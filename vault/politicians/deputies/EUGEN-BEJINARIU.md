@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Eugen BEJINARIU
 
 **Chamber:** Chamber of Deputies  

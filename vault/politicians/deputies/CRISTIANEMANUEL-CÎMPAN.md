@@ -15,7 +15,13 @@ stable_id: pol_6387ada443bc
 original_elected_party: POT
 type: deputy
 motions: 6
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 

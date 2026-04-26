@@ -1,6 +1,6 @@
 ---
 name: Cristina-Mădălina PRUNĂ
-chamber: Chamber of Deputies
+chamber: deputy
 legislature: 2024-2028
 source: cdep.ro
 party: USR
@@ -11,19 +11,18 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=260&cam=2
 idm: 260
 speeches_count: 23
 laws_proposed: 24
-stable_id: pol_de3149f7df0b
-committees:
-  - name: Industries and Services
-    position: &nbsp;
-    chamber: deputy
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
 stable_id: pol_925d4cc32b64
+committees: 
+- name: Industries and Services
+position: &nbsp;
+original_elected_party: USR
+party_affiliations: 
+- party: USR
+start_date: "2024-12"
+is_original: true
 type: deputy
 ---
+
 
 # Cristina-Mădălina PRUNĂ
 

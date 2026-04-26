@@ -14,7 +14,11 @@ laws_proposed: 11
 stable_id: pol_2918e8c88b61
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Adrian SOLOMON

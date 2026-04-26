@@ -14,7 +14,11 @@ laws_proposed: 36
 stable_id: pol_31ef4bf5a5c2
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Vlad-Ioan ŞENDROIU

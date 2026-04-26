@@ -14,7 +14,11 @@ laws_proposed: 51
 stable_id: pol_352756c51c9b
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Alin-Bogdan STOICA

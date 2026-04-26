@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Diana-Anda BUZOIANU
 
 **Chamber:** Chamber of Deputies  

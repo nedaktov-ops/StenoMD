@@ -14,7 +14,11 @@ laws_proposed: 72
 stable_id: pol_3110aeca0412
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Răzvan-Olimpiu CADAR

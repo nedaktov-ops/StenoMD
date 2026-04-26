@@ -14,7 +14,11 @@ laws_proposed: 42
 stable_id: pol_d3f8094215ca
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Marius-Felix BULEARCĂ

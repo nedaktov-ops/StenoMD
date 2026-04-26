@@ -14,7 +14,11 @@ laws_proposed: 29
 stable_id: pol_5b7476e05152
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Mitică-Marius MĂRGĂRIT

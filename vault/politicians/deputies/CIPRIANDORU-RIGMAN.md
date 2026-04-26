@@ -14,7 +14,15 @@ laws_proposed: 23
 stable_id: pol_58214c590696
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
+  - name: "Culture"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Ciprian-Doru RIGMAN

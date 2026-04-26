@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Ovidiu-Romulus PARASCHIVESCU
 
 **Chamber:** Chamber of Deputies  

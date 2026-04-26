@@ -14,7 +14,11 @@ laws_proposed: 55
 stable_id: pol_c5c1c17ba794
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Marian CRUŞOVEANU

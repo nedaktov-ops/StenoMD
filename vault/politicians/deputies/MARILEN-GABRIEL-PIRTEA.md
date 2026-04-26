@@ -14,7 +14,13 @@ laws_proposed: 13
 stable_id: pol_391333f657fb
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Marilen - Gabriel PIRTEA

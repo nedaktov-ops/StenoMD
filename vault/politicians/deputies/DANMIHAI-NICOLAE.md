@@ -15,7 +15,13 @@ stable_id: pol_9c4b18b26a4c
 original_elected_party: POT
 type: deputy
 motions: 6
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 

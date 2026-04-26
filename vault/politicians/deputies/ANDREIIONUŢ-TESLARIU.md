@@ -15,7 +15,11 @@ stable_id: pol_71a3c6d914b0
 original_elected_party: POT
 type: deputy
 motions: 1
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 

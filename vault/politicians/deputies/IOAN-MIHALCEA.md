@@ -14,7 +14,11 @@ laws_proposed: 16
 stable_id: pol_10f18b52195a
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Ioan MIHALCEA

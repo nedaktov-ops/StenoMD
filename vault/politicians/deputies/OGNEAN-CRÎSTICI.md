@@ -14,7 +14,11 @@ laws_proposed: 43
 stable_id: pol_c0d49dacf02a
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Ognean CRÎSTICI

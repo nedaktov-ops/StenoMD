@@ -19,6 +19,7 @@ motions: 9
 
 
 
+
 # Ştefăniţă-Alin AVRĂMESCU
 
 **Chamber:** Chamber of Deputies  

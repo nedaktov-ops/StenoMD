@@ -14,7 +14,11 @@ laws_proposed: 15
 stable_id: pol_d84eb9770e30
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Mihai-Viorel FIFOR

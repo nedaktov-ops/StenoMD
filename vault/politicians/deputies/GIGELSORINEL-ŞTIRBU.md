@@ -14,7 +14,11 @@ laws_proposed: 18
 stable_id: pol_90347902b1ae
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Gigel-Sorinel ŞTIRBU

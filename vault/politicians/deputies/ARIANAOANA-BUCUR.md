@@ -14,7 +14,15 @@ laws_proposed: 49
 stable_id: pol_80c305073f7e
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Labour"
+    role: "member"
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Ariana-Oana BUCUR

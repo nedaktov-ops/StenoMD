@@ -14,7 +14,11 @@ laws_proposed: 30
 stable_id: pol_69fd95ed4d48
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Georgeta-Carmen HOLBAN

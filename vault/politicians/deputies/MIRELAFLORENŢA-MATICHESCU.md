@@ -14,7 +14,13 @@ laws_proposed: 20
 stable_id: pol_e40c615f6c87
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Mirela-Florenţa MATICHESCU

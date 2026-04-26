@@ -14,7 +14,15 @@ laws_proposed: 64
 stable_id: pol_c3fbbdfbf77f
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
+  - name: "Legal"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Adrian-Felician COZMAvicepreşedinte al Camerei Deputaţilor

@@ -14,7 +14,11 @@ laws_proposed: 18
 stable_id: pol_77c2cd5ebb64
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Sorin NĂCUŢĂ

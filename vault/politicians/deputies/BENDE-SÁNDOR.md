@@ -14,7 +14,11 @@ laws_proposed: 52
 stable_id: pol_e0286eccb3b3
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # BENDE Sándor

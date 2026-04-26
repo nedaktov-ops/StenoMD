@@ -14,7 +14,11 @@ laws_proposed: 29
 stable_id: pol_ffc2e9c5e6f9
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Stelian-Cristian ION

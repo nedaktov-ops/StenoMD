@@ -14,7 +14,11 @@ laws_proposed: 49
 stable_id: pol_34c7ee624eba
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor

@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Ştefan-Bucur STOICA
 
 **Chamber:** Chamber of Deputies  

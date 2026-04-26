@@ -14,7 +14,13 @@ laws_proposed: 20
 stable_id: pol_9531bffe0990
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Ana-Smaranda RINDER

@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Adrian MOCANU
 
 **Chamber:** Chamber of Deputies  

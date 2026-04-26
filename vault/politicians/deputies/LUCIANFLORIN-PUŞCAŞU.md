@@ -15,7 +15,13 @@ stable_id: pol_18761d3e667f
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 

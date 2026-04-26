@@ -1,28 +1,28 @@
 ---
-tags:
-- politician
+tags: 
 stable_id: pol_05b673aca283
-committees:
-  - name: Health
-    position: Chairperson
-    chamber: deputy
+committees: 
+- name: Health
+position: Chairperson
+chamber: deputies
 original_elected_party: PSD
-party_affiliations:
+party_affiliations: 
 - party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_05b673aca283
+start_date: "2024-12"
+is_original: true
 type: person
-party: PSD
+party: Grupul
 party_full: Partidul Social Democrat
-constituency: IAŞI
+constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/RafilaAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=264&cam=2
 speeches_count: 2
-laws_proposed: 4
-chamber: deputies
+laws_proposed: 56
 legislature: 2024-2028
+idm: 33
+motions: 8
 ---
+
 
 
 # Bogdan-Alexandru Bola

@@ -14,7 +14,13 @@ laws_proposed: 51
 stable_id: pol_eebdfa78220e
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Paul-Claudiu COTÎRLEŢ

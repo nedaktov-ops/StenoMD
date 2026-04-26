@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Romeo-Daniel LUNGUchestor al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  

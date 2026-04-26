@@ -14,7 +14,11 @@ laws_proposed: 37
 stable_id: pol_b821a0f8b029
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Florin MIRCEA

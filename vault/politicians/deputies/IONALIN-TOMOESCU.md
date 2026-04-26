@@ -14,7 +14,11 @@ laws_proposed: 26
 stable_id: pol_137aacef4c2b
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Ion-Alin TOMOESCU

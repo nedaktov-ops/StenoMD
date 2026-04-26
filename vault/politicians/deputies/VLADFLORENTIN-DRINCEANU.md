@@ -14,7 +14,11 @@ laws_proposed: 30
 stable_id: pol_53b6e380958e
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Vlad-Florentin DRINCEANU

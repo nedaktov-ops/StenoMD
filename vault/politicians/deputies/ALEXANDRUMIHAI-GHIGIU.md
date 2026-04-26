@@ -14,7 +14,13 @@ laws_proposed: 54
 stable_id: pol_2ad07e7abf87
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Alexandru-Mihai GHIGIU

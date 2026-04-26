@@ -14,7 +14,13 @@ laws_proposed: 28
 stable_id: pol_f02a257a96a5
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # George-Nicolae MARUSSI

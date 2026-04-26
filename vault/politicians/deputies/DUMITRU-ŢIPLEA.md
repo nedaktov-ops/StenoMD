@@ -14,7 +14,13 @@ laws_proposed: 30
 stable_id: pol_a0cfa67017fc
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Dumitru ŢIPLEA

@@ -14,7 +14,11 @@ laws_proposed: 15
 stable_id: pol_321b316b4857
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Claudiu-Iulius-Gavril NĂSUI

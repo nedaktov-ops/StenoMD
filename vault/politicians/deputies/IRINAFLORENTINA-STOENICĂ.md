@@ -14,7 +14,13 @@ laws_proposed: 21
 stable_id: pol_64e6451fc385
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Irina-Florentina STOENICĂ

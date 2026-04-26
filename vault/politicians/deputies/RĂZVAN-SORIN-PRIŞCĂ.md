@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Răzvan Sorin PRIŞCĂ
 
 **Chamber:** Chamber of Deputies  

@@ -15,7 +15,13 @@ stable_id: pol_4166fbea8bac
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Education"
+    role: "member"
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 

@@ -14,7 +14,11 @@ laws_proposed: 34
 stable_id: pol_5c336773c51d
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Bogdan-Ionel RODEANU

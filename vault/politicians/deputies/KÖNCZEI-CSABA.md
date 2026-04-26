@@ -14,7 +14,13 @@ laws_proposed: 51
 stable_id: pol_56ee4f532858
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # KÖNCZEI Csaba

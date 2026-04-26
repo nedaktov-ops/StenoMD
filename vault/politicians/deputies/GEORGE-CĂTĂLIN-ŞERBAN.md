@@ -14,7 +14,13 @@ laws_proposed: 15
 stable_id: pol_7ec5b0b1b158
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # George Cătălin ŞERBAN

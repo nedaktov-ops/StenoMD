@@ -15,7 +15,11 @@ stable_id: pol_d768266f898b
 original_elected_party: SOS
 type: deputy
 motions: 1
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 

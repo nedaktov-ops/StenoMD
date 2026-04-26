@@ -19,6 +19,7 @@ motions: 5
 
 
 
+
 # Gheorghe-Valentin RĂDUCEA
 
 **Chamber:** Chamber of Deputies  

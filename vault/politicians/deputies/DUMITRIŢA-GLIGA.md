@@ -14,7 +14,13 @@ laws_proposed: 63
 stable_id: pol_16010dd6bc61
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Dumitriţa GLIGA

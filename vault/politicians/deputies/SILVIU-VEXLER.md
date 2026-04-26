@@ -14,7 +14,11 @@ laws_proposed: 32
 stable_id: pol_caa907c3f833
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Silviu VEXLER

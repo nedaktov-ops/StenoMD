@@ -14,7 +14,11 @@ laws_proposed: 35
 stable_id: pol_950ee736abc0
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # SZABÓ Ödön

@@ -14,7 +14,11 @@ laws_proposed: 26
 stable_id: pol_c801552901e9
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Ştefan ŢINTĂ

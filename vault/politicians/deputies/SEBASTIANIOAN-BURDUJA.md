@@ -14,7 +14,11 @@ laws_proposed: 50
 stable_id: pol_138c4e27d1ac
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Sebastian-Ioan BURDUJA

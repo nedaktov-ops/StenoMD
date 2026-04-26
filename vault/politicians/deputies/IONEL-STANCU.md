@@ -14,7 +14,13 @@ laws_proposed: 24
 stable_id: pol_a68774240efb
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Ionel STANCU

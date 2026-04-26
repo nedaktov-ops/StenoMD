@@ -14,7 +14,11 @@ laws_proposed: 30
 stable_id: pol_bb883a0c8378
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Iulian-Alexandru MURARU

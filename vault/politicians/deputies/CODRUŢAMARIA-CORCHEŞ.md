@@ -15,7 +15,11 @@ stable_id: pol_b009b26cdb03
 original_elected_party: POT
 type: deputy
 motions: 6
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 

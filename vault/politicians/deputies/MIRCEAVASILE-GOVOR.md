@@ -14,7 +14,13 @@ laws_proposed: 36
 stable_id: pol_96ce9115ffff
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Mircea-Vasile GOVOR

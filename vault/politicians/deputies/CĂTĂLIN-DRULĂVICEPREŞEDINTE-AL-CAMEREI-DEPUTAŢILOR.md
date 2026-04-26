@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  

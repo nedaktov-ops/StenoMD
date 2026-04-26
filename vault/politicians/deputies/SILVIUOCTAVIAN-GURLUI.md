@@ -15,7 +15,11 @@ stable_id: pol_bca430c5f190
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 

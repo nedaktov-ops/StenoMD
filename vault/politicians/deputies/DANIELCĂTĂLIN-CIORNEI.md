@@ -15,7 +15,13 @@ stable_id: pol_f0349ccdc3f2
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Defense"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 

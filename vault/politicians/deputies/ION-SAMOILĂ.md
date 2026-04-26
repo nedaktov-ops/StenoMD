@@ -14,7 +14,11 @@ laws_proposed: 18
 stable_id: pol_223a5e74384e
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Agriculture"
+    role: "member"
 ---
+
 
 
 # Ion SAMOILĂ

@@ -14,7 +14,11 @@ laws_proposed: 21
 stable_id: pol_526b9583ef5c
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # SERES Dénes

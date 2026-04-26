@@ -1,31 +1,28 @@
 ---
-tags:
-- politician
+tags: 
 stable_id: pol_5c1202a6e9a5
-committees:
-  - name: Culture
-    position: Vice-Chairpersons
-    chamber: deputy
-  - name: Foreign Policy
-    position: &nbsp;
-    chamber: deputy
+committees: 
+- name: Foreign Policy
+position: &nbsp;
+chamber: deputies
 original_elected_party: USR
-party_affiliations:
+party_affiliations: 
 - party: USR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_5c1202a6e9a5
+start_date: "2024-12"
+is_original: true
 type: person
-party: USR
+party: Grupul
 party_full: Uniunea Salvaţi România
-constituency: CONSTANŢA
+constituency: DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/GimaGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=125&cam=2
 speeches_count: 7
-laws_proposed: 43
-chamber: deputies
+laws_proposed: 32
 legislature: 2024-2028
+idm: 119
+motions: 9
 ---
+
 
 
 # George Simion

@@ -14,7 +14,11 @@ laws_proposed: 45
 stable_id: pol_b92a5e95759f
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Liviu-Bogdan CIUCĂ

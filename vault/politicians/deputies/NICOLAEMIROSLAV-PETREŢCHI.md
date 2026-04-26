@@ -14,7 +14,11 @@ laws_proposed: 17
 stable_id: pol_2eca9bd033af
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Nicolae-Miroslav PETREŢCHI

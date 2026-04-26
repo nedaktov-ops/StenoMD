@@ -14,7 +14,13 @@ laws_proposed: 29
 stable_id: pol_b240c7b535f3
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Adrian WIENER

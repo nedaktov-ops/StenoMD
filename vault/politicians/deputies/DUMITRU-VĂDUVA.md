@@ -14,7 +14,13 @@ laws_proposed: 63
 stable_id: pol_b4f4586ccff4
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Legal"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 # Dumitru VĂDUVA

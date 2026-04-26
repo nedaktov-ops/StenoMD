@@ -15,7 +15,15 @@ stable_id: pol_dc6085a1d504
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Economic Policies"
+    role: "member"
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 

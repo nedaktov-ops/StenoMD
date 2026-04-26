@@ -1,24 +1,27 @@
 ---
-tags:
-- politician
+tags: 
 stable_id: pol_2dfcfd018251
 original_elected_party: AUR
-party_affiliations:
+party_affiliations: 
 - party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_2dfcfd018251
+start_date: "2024-12"
+is_original: true
 type: person
-party: AUR
+party: Grupul
 party_full: Alianţa pentru Unirea Românilor
-constituency: SIBIU
+constituency: VRANCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/RaduFabianCristian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=263&cam=2
 speeches_count: 5
-laws_proposed: 30
+laws_proposed: 81
 chamber: deputies
 legislature: 2024-2028
+idm: 43
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Fabian-Cristian Radu

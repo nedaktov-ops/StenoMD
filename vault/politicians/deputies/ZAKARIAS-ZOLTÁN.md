@@ -14,7 +14,11 @@ laws_proposed: 31
 stable_id: pol_17b0182f4b7e
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # ZAKARIAS Zoltán

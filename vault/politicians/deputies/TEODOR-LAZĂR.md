@@ -14,7 +14,11 @@ laws_proposed: 32
 stable_id: pol_af52b18a4ba7
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Teodor LAZĂR

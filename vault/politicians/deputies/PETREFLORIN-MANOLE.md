@@ -14,7 +14,15 @@ laws_proposed: 17
 stable_id: pol_0926f6d693d9
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
+  - name: "Defense"
+    role: "member"
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Petre-Florin MANOLE

@@ -15,7 +15,13 @@ stable_id: pol_b9cd05315e75
 original_elected_party: SOS
 type: deputy
 motions: 6
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 

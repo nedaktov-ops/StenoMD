@@ -14,7 +14,11 @@ laws_proposed: 20
 stable_id: pol_a9c942ed3cc9
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Iulian BULAI

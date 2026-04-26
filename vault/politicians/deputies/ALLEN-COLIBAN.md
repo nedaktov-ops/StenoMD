@@ -14,7 +14,11 @@ laws_proposed: 43
 stable_id: pol_71105f1b0ff2
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Allen COLIBAN

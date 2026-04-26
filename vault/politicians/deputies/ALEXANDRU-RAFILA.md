@@ -14,7 +14,11 @@ laws_proposed: 20
 stable_id: pol_727a9697d925
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Alexandru RAFILA

@@ -14,7 +14,11 @@ laws_proposed: 21
 stable_id: pol_d25057ddea85
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # NAGY Szabolcs

@@ -15,7 +15,13 @@ stable_id: pol_5af4370729d7
 original_elected_party: AUR
 type: deputy
 motions: 7
+committees:
+  - name: "Legal"
+    role: "member"
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 

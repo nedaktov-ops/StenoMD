@@ -14,7 +14,15 @@ laws_proposed: 8
 stable_id: pol_a9cd07aec559
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
+  - name: "Public Administration"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Eliza-Mădălina PEŢA-ŞTEFĂNESCU

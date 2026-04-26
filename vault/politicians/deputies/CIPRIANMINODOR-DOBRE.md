@@ -14,7 +14,13 @@ laws_proposed: 37
 stable_id: pol_163fb2260062
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Education"
+    role: "member"
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 # Ciprian-Minodor DOBRE

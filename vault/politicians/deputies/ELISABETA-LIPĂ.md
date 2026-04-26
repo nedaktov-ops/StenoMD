@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Elisabeta LIPĂ
 
 **Chamber:** Chamber of Deputies  

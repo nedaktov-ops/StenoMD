@@ -15,7 +15,11 @@ stable_id: pol_db00d7120b36
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Legal"
+    role: "member"
 ---
+
 
 
 

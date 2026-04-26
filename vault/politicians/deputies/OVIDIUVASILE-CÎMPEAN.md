@@ -14,7 +14,13 @@ laws_proposed: 35
 stable_id: pol_2ffdae6cd0bc
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
+  - name: "Education"
+    role: "member"
 ---
+
 
 
 # Ovidiu-Vasile CÎMPEAN

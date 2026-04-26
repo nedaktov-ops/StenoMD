@@ -15,7 +15,11 @@ stable_id: pol_cf434198bbaf
 original_elected_party: POT
 type: deputy
 motions: 7
+committees:
+  - name: "Abuse, Corruption"
+    role: "member"
 ---
+
 
 
 

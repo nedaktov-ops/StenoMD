@@ -14,7 +14,11 @@ laws_proposed: 32
 stable_id: pol_f3be66d0550d
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 # Emanuel-Dumitru UNGUREANU

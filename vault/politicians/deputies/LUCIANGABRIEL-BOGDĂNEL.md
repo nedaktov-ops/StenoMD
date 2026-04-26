@@ -14,7 +14,13 @@ laws_proposed: 58
 stable_id: pol_87b1116d446f
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Public Administration"
+    role: "member"
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Lucian-Gabriel BOGDĂNEL

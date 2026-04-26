@@ -14,7 +14,11 @@ laws_proposed: 14
 stable_id: pol_4ed24fabde6f
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Human Rights"
+    role: "member"
 ---
+
 
 
 # Laurenţiu Adrian NECULAESCU

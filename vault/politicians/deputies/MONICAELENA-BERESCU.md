@@ -14,7 +14,11 @@ laws_proposed: 26
 stable_id: pol_f1d579b6c495
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Labour"
+    role: "member"
 ---
+
 
 
 # Monica-Elena BERESCU

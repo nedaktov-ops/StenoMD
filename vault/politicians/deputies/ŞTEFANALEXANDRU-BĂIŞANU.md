@@ -14,7 +14,11 @@ laws_proposed: 51
 stable_id: pol_d2370eccf0e6
 original_elected_party: SOS
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # Ştefan-Alexandru BĂIŞANU

@@ -14,7 +14,11 @@ laws_proposed: 3
 stable_id: pol_5acdb5226b56
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Economic Policies"
+    role: "member"
 ---
+
 
 
 # Bogdan-Alin STOICA

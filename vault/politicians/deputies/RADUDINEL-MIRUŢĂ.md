@@ -14,7 +14,11 @@ laws_proposed: 14
 stable_id: pol_ad3b17541ad0
 original_elected_party: USR
 type: deputy
+committees:
+  - name: "Industries and Services"
+    role: "member"
 ---
+
 
 
 # Radu-Dinel MIRUŢĂ

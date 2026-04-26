@@ -14,7 +14,11 @@ laws_proposed: 46
 stable_id: pol_c68de233a5e0
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Defense"
+    role: "member"
 ---
+
 
 
 # Ştefan BOUDA

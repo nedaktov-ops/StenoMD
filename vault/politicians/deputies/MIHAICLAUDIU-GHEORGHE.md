@@ -15,7 +15,11 @@ stable_id: pol_02c9e7ad5fda
 original_elected_party: AUR
 type: deputy
 motions: 9
+committees:
+  - name: "Health"
+    role: "member"
 ---
+
 
 
 

@@ -14,7 +14,11 @@ laws_proposed: 27
 stable_id: pol_970b96b89efa
 original_elected_party: UDMR
 type: deputy
+committees:
+  - name: "Culture"
+    role: "member"
 ---
+
 
 
 # ZAHORANSZKI Brigitta-Eva

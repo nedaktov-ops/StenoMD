@@ -14,7 +14,11 @@ laws_proposed: 52
 stable_id: pol_f59054dfe9ef
 original_elected_party: party_full
 type: deputy
+committees:
+  - name: "Foreign Policy"
+    role: "member"
 ---
+
 
 
 # Ovidiu Victor GANŢsecretar al Camerei Deputaţilor

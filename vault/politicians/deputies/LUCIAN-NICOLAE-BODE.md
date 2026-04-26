@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 # Lucian Nicolae BODE
 
 **Chamber:** Chamber of Deputies  

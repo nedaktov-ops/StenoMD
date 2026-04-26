@@ -14,7 +14,13 @@ laws_proposed: 66
 stable_id: pol_f49fcef7561c
 original_elected_party: PSD
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Public Administration"
+    role: "member"
 ---
+
 
 
 # Simona BUCURA-OPRESCUchestor al Camerei Deputaţilor

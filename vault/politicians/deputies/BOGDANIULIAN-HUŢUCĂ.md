@@ -14,7 +14,11 @@ laws_proposed: 37
 stable_id: pol_159518fc70e4
 original_elected_party: PNL
 type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
 ---
+
 
 
 # Bogdan-Iulian HUŢUCĂ
