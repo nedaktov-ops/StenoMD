@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: AUR
 party_full: Alianța pentru Unirea Românilor
-constituency: Municipiul București
+constituency: (From election) Municipiul București
 legislature: 2024-2028
 status: active
 url: 
@@ -18,8 +18,8 @@ ai_friendly_name: Niculina Stelea
 search_aliases: ['NICULINA STELEA', 'niculina stelea']
 activity_score: 0
 idm: 8163
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 
 # Niculina Stelea
@@ -85,3 +85,23 @@ WHERE file.name = "Niculina Stelea"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

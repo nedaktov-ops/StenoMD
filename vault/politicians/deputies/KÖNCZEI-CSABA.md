@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: COVASNA
+constituency: (From election) COVASNA
 photo_url: https://www.cdep.ro/parlamentari/l2024/KonczeiCsaba.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=163&cam=2
 idm: 163
@@ -22,6 +22,7 @@ committees:
 ---
 ai_friendly_name: KÖNCZEI Csaba
 search_aliases: ['KÖNCZEI CSABA', 'könczei csaba']
+votes_cast: 4
 activity_score: 53
 # KÖNCZEI Csaba
 
@@ -108,4 +109,19 @@ WHERE idm = "163"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

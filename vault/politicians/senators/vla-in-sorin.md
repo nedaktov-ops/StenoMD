@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Municipiul București
+constituency: (From election) Municipiul București
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e681a8ad-b809-40ae-9075-f0879f10a986
@@ -16,10 +16,11 @@ party_affiliations:
 ---
 ai_friendly_name: VLAŞIN Sorin
 search_aliases: ['VLAŞIN SORIN', 'vlaşin sorin']
+sessions_attended: 120
 activity_score: 0
 idm: 2064
 speeches_count: 16
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # VLAŞIN Sorin
 
@@ -84,3 +85,23 @@ WHERE file.name = "VLAŞIN Sorin"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

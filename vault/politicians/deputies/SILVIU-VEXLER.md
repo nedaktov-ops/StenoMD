@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: MIN
 party_full: Grupul parlamentar al minorităţilor naţionale
-constituency: Minority
+constituency: (From election) Minority
 photo_url: https://www.cdep.ro/parlamentari/l2024/VexlerSilviu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=322&cam=2
 idm: 322
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Silviu VEXLER
 search_aliases: ['SILVIU VEXLER', 'silviu vexler']
+votes_cast: 3
 activity_score: 42
 # Silviu VEXLER
 
@@ -106,4 +107,19 @@ WHERE idm = "322"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

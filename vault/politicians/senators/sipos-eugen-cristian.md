@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Timiș
+constituency: (From election) Timiș
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=aa6ba21b-d06f-4f62-8659-d4e74add85cb
@@ -16,10 +16,11 @@ party_affiliations:
 ---
 ai_friendly_name: ȘIPOȘ Eugen-Cristian
 search_aliases: ['ȘIPOȘ EUGEN-CRISTIAN', 'șipoș eugen-cristian']
+sessions_attended: 120
 activity_score: 0
 idm: 5472
 speeches_count: 32
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # ȘIPOȘ Eugen-Cristian
 
@@ -84,3 +85,23 @@ WHERE file.name = "ȘIPOȘ Eugen-Cristian"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: SOS
 party_full: S.O.S. România
-constituency: Iași
+constituency: (From election) Iași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e23f34ee-f4f8-4e72-8302-7453373e0cec
 ---
 ai_friendly_name: MANEA Dumitru
 search_aliases: ['MANEA DUMITRU', 'manea dumitru']
+sessions_attended: 120
 activity_score: 0
 idm: 1318
 speeches_count: 59
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # MANEA Dumitru
 
@@ -87,3 +88,23 @@ WHERE file.name = "MANEA Dumitru"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

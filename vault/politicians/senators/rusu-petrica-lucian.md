@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Iași
+constituency: (From election) Iași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3f7d19d2-b8d0-4309-894c-b71561f01985
@@ -22,7 +22,7 @@ search_aliases: ['RUSU PETRICĂ LUCIAN', 'rusu petrică lucian']
 activity_score: 0
 idm: 3074
 speeches_count: 18
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # RUSU Petrică Lucian
 
@@ -87,3 +87,23 @@ WHERE file.name = "RUSU Petrică Lucian"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

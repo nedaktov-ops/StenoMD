@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: BUZĂU
+constituency: (From election) BUZĂU
 photo_url: https://www.cdep.ro/parlamentari/l2024/LunguRomeoDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=174&cam=2
 idm: 174
@@ -17,6 +17,7 @@ type: deputy
 ---
 ai_friendly_name: Romeo-Daniel LUNGUchestor al Camerei Deputaţilor
 search_aliases: ['ROMEO-DANIEL LUNGUCHESTOR AL CAMEREI DEPUTAŢILOR', 'romeo-daniel lunguchestor al camerei deputaţilor']
+votes_cast: 6
 activity_score: 32
 # Romeo-Daniel LUNGUchestor al Camerei Deputaţilor
 
@@ -103,4 +104,19 @@ WHERE idm = "174"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

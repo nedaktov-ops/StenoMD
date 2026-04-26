@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: MUREŞ
+constituency: (From election) MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/GiurgiuAdrian1.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=126&cam=2
 idm: 126
@@ -17,6 +17,7 @@ type: deputy
 ---
 ai_friendly_name: Adrian GIURGIU
 search_aliases: ['ADRIAN GIURGIU', 'adrian giurgiu']
+votes_cast: 6
 activity_score: 56
 # Adrian GIURGIU
 
@@ -103,4 +104,19 @@ WHERE idm = "126"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

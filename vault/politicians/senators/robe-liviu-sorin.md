@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: Bistrița-Năsăud
+constituency: (From election) Bistrița-Năsăud
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-acef5eed2a63
@@ -22,7 +22,7 @@ search_aliases: ['ROBE LIVIU SORIN', 'robe liviu sorin']
 activity_score: 0
 idm: 5413
 speeches_count: 12
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # ROBE Liviu Sorin
 
@@ -87,3 +87,23 @@ WHERE file.name = "ROBE Liviu Sorin"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

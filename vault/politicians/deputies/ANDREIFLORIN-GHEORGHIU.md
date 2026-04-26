@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: VÂLCEA
+constituency: (From election) VÂLCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GheorghiuAndreiFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=121&cam=2
 idm: 121
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Andrei-Florin GHEORGHIU
 search_aliases: ['ANDREI-FLORIN GHEORGHIU', 'andrei-florin gheorghiu']
+votes_cast: 6
 activity_score: 99
 # Andrei-Florin GHEORGHIU
 
@@ -106,4 +107,19 @@ WHERE idm = "121"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

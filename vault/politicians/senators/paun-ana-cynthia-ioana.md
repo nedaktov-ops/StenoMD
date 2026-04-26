@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Ilfov
+constituency: (From election) Ilfov
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b78349041f6
 ---
 ai_friendly_name: PĂUN Ana-Cynthia-Ioana
 search_aliases: ['PĂUN ANA-CYNTHIA-IOANA', 'păun ana-cynthia-ioana']
+sessions_attended: 120
 activity_score: 0
 idm: 5528
 speeches_count: 54
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # PĂUN Ana-Cynthia-Ioana
 
@@ -87,3 +88,23 @@ WHERE file.name = "PĂUN Ana-Cynthia-Ioana"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

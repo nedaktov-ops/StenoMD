@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: MIN
 party_full: Grupul parlamentar al minorităţilor naţionale
-constituency: Minority
+constituency: (From election) Minority
 photo_url: https://www.cdep.ro/parlamentari/l2024/GheraGiureciSlobodan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=122&cam=2
 idm: 122
@@ -17,6 +17,7 @@ type: deputy
 ---
 ai_friendly_name: Giureci-Slobodan GHERA
 search_aliases: ['GIURECI-SLOBODAN GHERA', 'giureci-slobodan ghera']
+votes_cast: 6
 activity_score: 29
 # Giureci-Slobodan GHERA
 
@@ -103,4 +104,19 @@ WHERE idm = "122"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

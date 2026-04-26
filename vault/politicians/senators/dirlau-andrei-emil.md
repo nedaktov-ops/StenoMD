@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: AUR
 party_full: Alianța pentru Unirea Românilor
-constituency: Alba
+constituency: (From election) Alba
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a98c83aa-d99d-464b-a5a1-44566f751a51
 ---
 ai_friendly_name: DÎRLĂU Andrei-Emil
 search_aliases: ['DÎRLĂU ANDREI-EMIL', 'dîrlău andrei-emil']
+sessions_attended: 120
 activity_score: 0
 idm: 8794
 speeches_count: 86
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # DÎRLĂU Andrei-Emil
 
@@ -87,3 +88,23 @@ WHERE file.name = "DÎRLĂU Andrei-Emil"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

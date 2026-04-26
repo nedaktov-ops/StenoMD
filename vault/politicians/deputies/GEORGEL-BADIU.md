@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: VRANCEA
+constituency: (From election) VRANCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BadiuGeorgel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=16&cam=2
 idm: 16
@@ -23,6 +23,7 @@ committees:
 ---
 ai_friendly_name: Georgel BADIU
 search_aliases: ['GEORGEL BADIU', 'georgel badiu']
+votes_cast: 10
 activity_score: 18
 # Georgel BADIU
 
@@ -109,4 +110,19 @@ WHERE idm = "16"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

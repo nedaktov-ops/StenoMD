@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Călărași
+constituency: (From election) Călărași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f640457c-0362-4c02-96d1-7c38b9957bdd
 ---
 ai_friendly_name: MIHAI Daniela
 search_aliases: ['MIHAI DANIELA', 'mihai daniela']
+sessions_attended: 120
 activity_score: 0
 idm: 5325
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # MIHAI Daniela
 
@@ -87,3 +88,23 @@ WHERE file.name = "MIHAI Daniela"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

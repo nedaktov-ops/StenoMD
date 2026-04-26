@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: MUREŞ
+constituency: (From election) MUREŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/DobreCiprianMinodor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=92&cam=2
 idm: 92
@@ -22,6 +22,7 @@ committees:
 ---
 ai_friendly_name: Ciprian-Minodor DOBRE
 search_aliases: ['CIPRIAN-MINODOR DOBRE', 'ciprian-minodor dobre']
+votes_cast: 4
 activity_score: 40
 # Ciprian-Minodor DOBRE
 
@@ -108,4 +109,19 @@ WHERE idm = "92"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

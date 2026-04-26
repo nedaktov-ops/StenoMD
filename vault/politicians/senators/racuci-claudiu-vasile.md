@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Teleorman
+constituency: (From election) Teleorman
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=082c21cd-dcdb-42bb-9bfd-a871139cb9c5
@@ -19,7 +19,7 @@ search_aliases: ['RĂCUCI CLAUDIU-VASILE', 'răcuci claudiu-vasile']
 activity_score: 0
 idm: 7613
 speeches_count: 4
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # RĂCUCI Claudiu-Vasile
 
@@ -84,3 +84,23 @@ WHERE file.name = "RĂCUCI Claudiu-Vasile"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

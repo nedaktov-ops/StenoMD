@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Municipiul București
+constituency: (From election) Municipiul București
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=33c6752d-c2b6-42af-a6b4-233b9f6e9994
@@ -21,8 +21,8 @@ ai_friendly_name: CAZANCIUC Robert-Marius
 search_aliases: ['CAZANCIUC ROBERT-MARIUS', 'cazanciuc robert-marius']
 activity_score: 0
 idm: 7840
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # CAZANCIUC Robert-Marius
 
@@ -87,3 +87,23 @@ WHERE file.name = "CAZANCIUC Robert-Marius"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

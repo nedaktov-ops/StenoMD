@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Sibiu
+constituency: (From election) Sibiu
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0a8b45a7-e661-4c59-9169-281f79ff12eb
@@ -22,7 +22,7 @@ search_aliases: ['CIBU DEACONU RUXANDRA', 'cibu deaconu ruxandra']
 activity_score: 0
 idm: 466
 speeches_count: 34
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # CIBU DEACONU Ruxandra
 
@@ -87,3 +87,23 @@ WHERE file.name = "CIBU DEACONU Ruxandra"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

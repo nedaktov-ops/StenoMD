@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: MIN
 party_full: Grupul parlamentar al minorităţilor naţionale
-constituency: Minority
+constituency: (From election) Minority
 photo_url: https://www.cdep.ro/parlamentari/l2024/LongherGhervazen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=171&cam=2
 idm: 171
@@ -22,6 +22,7 @@ committees:
 ---
 ai_friendly_name: Ghervazen LONGHER
 search_aliases: ['GHERVAZEN LONGHER', 'ghervazen longher']
+votes_cast: 5
 activity_score: 21
 # Ghervazen LONGHER
 
@@ -108,4 +109,19 @@ WHERE idm = "171"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

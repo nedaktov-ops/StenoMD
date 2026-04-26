@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: DOLJ
+constituency: (From election) DOLJ
 photo_url: https://www.cdep.ro/parlamentari/l2024/PetaStefanescuElizaMadalina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=242&cam=2
 idm: 242
@@ -24,6 +24,7 @@ committees:
 ---
 ai_friendly_name: Eliza-Mădălina PEŢA-ŞTEFĂNESCU
 search_aliases: ['ELIZA-MĂDĂLINA PEŢA-ŞTEFĂNESCU', 'eliza-mădălina peţa-ştefănescu']
+votes_cast: 5
 activity_score: 9
 # Eliza-Mădălina PEŢA-ŞTEFĂNESCU
 
@@ -106,4 +107,19 @@ WHERE idm = "242"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: TELEORMAN
+constituency: (From election) TELEORMAN
 photo_url: https://www.cdep.ro/parlamentari/l2024/BorsGeorgeMadalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=34&cam=2
 idm: 34
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: George-Mădălin BORŞ
 search_aliases: ['GEORGE-MĂDĂLIN BORŞ', 'george-mădălin borş']
+votes_cast: 6
 activity_score: 60
 # George-Mădălin BORŞ
 
@@ -106,4 +107,19 @@ WHERE idm = "34"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

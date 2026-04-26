@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: BIHOR
+constituency: (From election) BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/EneGabrielaCorina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=102&cam=2
 idm: 102
@@ -24,6 +24,7 @@ committees:
 ---
 ai_friendly_name: Gabriela-Corina ENE
 search_aliases: ['GABRIELA-CORINA ENE', 'gabriela-corina ene']
+votes_cast: 3
 activity_score: 57
 # Gabriela-Corina ENE
 
@@ -110,4 +111,19 @@ WHERE idm = "102"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

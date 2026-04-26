@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Arad
+constituency: (From election) Arad
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=dac88f11-d51d-43e7-b5c0-e5692e92c4e1
 ---
 ai_friendly_name: VARGA Glad-Aurel
 search_aliases: ['VARGA GLAD-AUREL', 'varga glad-aurel']
+sessions_attended: 120
 activity_score: 0
 idm: 2781
 speeches_count: 28
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # VARGA Glad-Aurel
 
@@ -87,3 +88,23 @@ WHERE file.name = "VARGA Glad-Aurel"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: BUCUREŞTI
+constituency: (From election) BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/StroeIonutMarian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=289&cam=2
 idm: 289
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Ionuţ-Marian STROE
 search_aliases: ['IONUŢ-MARIAN STROE', 'ionuţ-marian stroe']
+votes_cast: 4
 activity_score: 14
 # Ionuţ-Marian STROE
 
@@ -106,4 +107,19 @@ WHERE idm = "289"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

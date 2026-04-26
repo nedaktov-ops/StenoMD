@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Botoșani
+constituency: (From election) Botoșani
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e695c911-b82f-4af1-a537-4ae1baa991bf
@@ -16,10 +16,11 @@ party_affiliations:
 ---
 ai_friendly_name: FEDEROVICI Doina-Elena
 search_aliases: ['FEDEROVICI DOINA-ELENA', 'federovici doina-elena']
+sessions_attended: 120
 activity_score: 0
 idm: 2330
 speeches_count: 102
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # FEDEROVICI Doina-Elena
 
@@ -84,3 +85,23 @@ WHERE file.name = "FEDEROVICI Doina-Elena"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: BRĂILA
+constituency: (From election) BRĂILA
 photo_url: https://www.cdep.ro/parlamentari/l2024/ConstantinescuAndraClaudia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=75&cam=2
 idm: 75
@@ -18,6 +18,7 @@ motions: 6
 ---
 ai_friendly_name: Andra-Claudia CONSTANTINESCU
 search_aliases: ['ANDRA-CLAUDIA CONSTANTINESCU', 'andra-claudia constantinescu']
+votes_cast: 6
 activity_score: 88
 # Andra-Claudia CONSTANTINESCU
 
@@ -104,4 +105,19 @@ WHERE idm = "75"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

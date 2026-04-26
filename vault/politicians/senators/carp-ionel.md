@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: SOS
 party_full: S.O.S. România
-constituency: Tulcea
+constituency: (From election) Tulcea
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=65699efd-f7e5-4128-b80f-1ef173563d66
@@ -22,7 +22,7 @@ search_aliases: ['CARP IONEL', 'carp ionel']
 activity_score: 0
 idm: 8175
 speeches_count: 13
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # CARP Ionel
 
@@ -87,3 +87,23 @@ WHERE file.name = "CARP Ionel"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

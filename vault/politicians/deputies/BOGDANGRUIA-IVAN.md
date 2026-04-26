@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: BISTRIŢA-NĂSĂUD
+constituency: (From election) BISTRIŢA-NĂSĂUD
 photo_url: https://www.cdep.ro/parlamentari/l2024/IvanBogdanGruia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=157&cam=2
 idm: 157
@@ -17,6 +17,7 @@ type: deputy
 ---
 ai_friendly_name: Bogdan-Gruia IVAN
 search_aliases: ['BOGDAN-GRUIA IVAN', 'bogdan-gruia ivan']
+votes_cast: 5
 activity_score: 23
 # Bogdan-Gruia IVAN
 
@@ -103,4 +104,19 @@ WHERE idm = "157"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

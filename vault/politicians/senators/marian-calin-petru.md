@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Prahova
+constituency: (From election) Prahova
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=509068b6-ecf9-4365-a022-74b77483ce14
@@ -22,7 +22,7 @@ search_aliases: ['MARIAN CĂLIN-PETRU', 'marian călin-petru']
 activity_score: 0
 idm: 3172
 speeches_count: 2
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # MARIAN Călin-Petru
 
@@ -87,3 +87,23 @@ WHERE file.name = "MARIAN Călin-Petru"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

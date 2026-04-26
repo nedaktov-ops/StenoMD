@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: ARGEŞ
+constituency: (From election) ARGEŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/IonescuTudor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2
 idm: 152
@@ -23,6 +23,7 @@ committees:
 ---
 ai_friendly_name: Tudor IONESCU
 search_aliases: ['TUDOR IONESCU', 'tudor ionescu']
+votes_cast: 4
 activity_score: 59
 # Tudor IONESCU
 
@@ -109,4 +110,19 @@ WHERE idm = "152"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

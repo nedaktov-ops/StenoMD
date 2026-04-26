@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: Mureș
+constituency: (From election) Mureș
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8cebeba4f0d4
@@ -22,7 +22,7 @@ search_aliases: ['NOVAK LEVENTE', 'novak levente']
 activity_score: 0
 idm: 1537
 speeches_count: 5
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # NOVAK Levente
 
@@ -87,3 +87,23 @@ WHERE file.name = "NOVAK Levente"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

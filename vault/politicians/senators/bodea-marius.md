@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Iași
+constituency: (From election) Iași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=dc8f43fb-e036-477b-b895-12f56a2464c1
 ---
 ai_friendly_name: BODEA Marius
 search_aliases: ['BODEA MARIUS', 'bodea marius']
+sessions_attended: 120
 activity_score: 0
 idm: 951
 speeches_count: 10
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # BODEA Marius
 
@@ -87,3 +88,23 @@ WHERE file.name = "BODEA Marius"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

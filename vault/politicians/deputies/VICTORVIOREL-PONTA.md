@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: DÂMBOVIŢA
+constituency: (From election) DÂMBOVIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/PontaVictorViorel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=248&cam=2
 idm: 248
@@ -24,6 +24,7 @@ type: deputy
 ---
 ai_friendly_name: Victor-Viorel PONTA
 search_aliases: ['VICTOR-VIOREL PONTA', 'victor-viorel ponta']
+votes_cast: 13
 activity_score: 2
 # Victor-Viorel PONTA
 
@@ -92,4 +93,19 @@ WHERE idm = "248"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

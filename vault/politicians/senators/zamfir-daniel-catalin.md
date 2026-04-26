@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Municipiul București
+constituency: (From election) Municipiul București
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=94bb9130-2698-4509-9bea-ffcedf3dac7f
@@ -19,7 +19,7 @@ search_aliases: ['ZAMFIR DANIEL-CĂTĂLIN', 'zamfir daniel-cătălin']
 activity_score: 0
 idm: 2019
 speeches_count: 50
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # ZAMFIR Daniel-Cătălin
 
@@ -84,3 +84,23 @@ WHERE file.name = "ZAMFIR Daniel-Cătălin"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

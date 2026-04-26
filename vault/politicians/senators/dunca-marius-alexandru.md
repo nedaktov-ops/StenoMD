@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Brașov
+constituency: (From election) Brașov
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5582ee24-5017-4462-ad12-49d4bde5d5bb
@@ -22,7 +22,7 @@ search_aliases: ['DUNCA MARIUS-ALEXANDRU', 'dunca marius-alexandru']
 activity_score: 0
 idm: 786
 speeches_count: 1
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # DUNCA Marius-Alexandru
 
@@ -87,3 +87,23 @@ WHERE file.name = "DUNCA Marius-Alexandru"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

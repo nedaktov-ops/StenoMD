@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: SUCEAVA
+constituency: (From election) SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/GrosuVeronica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=134&cam=2
 idm: 134
@@ -25,6 +25,7 @@ committees:
 ---
 ai_friendly_name: Veronica GROSU
 search_aliases: ['VERONICA GROSU', 'veronica grosu']
+votes_cast: 5
 activity_score: 42
 # Veronica GROSU
 
@@ -111,4 +112,19 @@ WHERE idm = "134"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

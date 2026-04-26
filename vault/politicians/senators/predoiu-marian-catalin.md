@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Prahova
+constituency: (From election) Prahova
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=979f6165-caa2-4568-abe4-a663a37147fd
@@ -18,8 +18,8 @@ ai_friendly_name: PREDOIU Marian-Cătălin
 search_aliases: ['PREDOIU MARIAN-CĂTĂLIN', 'predoiu marian-cătălin']
 activity_score: 0
 idm: 7178
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # PREDOIU Marian-Cătălin
 
@@ -84,3 +84,23 @@ WHERE file.name = "PREDOIU Marian-Cătălin"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

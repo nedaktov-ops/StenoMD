@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: ALBA
+constituency: (From election) ALBA
 photo_url: https://www.cdep.ro/parlamentari/l2024/VuscanVoicu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=326&cam=2
 idm: 326
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Voicu VUŞCAN
 search_aliases: ['VOICU VUŞCAN', 'voicu vuşcan']
+votes_cast: 6
 activity_score: 25
 # Voicu VUŞCAN
 
@@ -106,4 +107,19 @@ WHERE idm = "326"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

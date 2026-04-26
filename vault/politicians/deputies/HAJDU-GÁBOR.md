@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: HARGHITA
+constituency: (From election) HARGHITA
 photo_url: https://www.cdep.ro/parlamentari/l2024/HajduGabor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=139&cam=2
 idm: 139
@@ -22,6 +22,7 @@ committees:
 ---
 ai_friendly_name: HAJDU Gábor
 search_aliases: ['HAJDU GÁBOR', 'hajdu gábor']
+votes_cast: 5
 activity_score: 67
 # HAJDU Gábor
 
@@ -108,4 +109,19 @@ WHERE idm = "139"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

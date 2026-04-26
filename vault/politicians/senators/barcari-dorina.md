@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: AUR
 party_full: Alianța pentru Unirea Românilor
-constituency: Brașov
+constituency: (From election) Brașov
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=edf20da3-a851-4622-b534-0b3d833a51b9
 ---
 ai_friendly_name: BARCARI Dorina
 search_aliases: ['BARCARI DORINA', 'barcari dorina']
+sessions_attended: 120
 activity_score: 0
 idm: 2449
 speeches_count: 28
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # BARCARI Dorina
 
@@ -87,3 +88,23 @@ WHERE file.name = "BARCARI Dorina"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

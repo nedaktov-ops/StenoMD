@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: TIMIŞ
+constituency: (From election) TIMIŞ
 photo_url: https://www.cdep.ro/parlamentari/l2024/NegoescuMihaiBogdan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=227&cam=2
 idm: 227
@@ -21,6 +21,7 @@ committees:
 ---
 ai_friendly_name: Mihai-Bogdan NEGOESCU
 search_aliases: ['MIHAI-BOGDAN NEGOESCU', 'mihai-bogdan negoescu']
+votes_cast: 11
 activity_score: 12
 # Mihai-Bogdan NEGOESCU
 
@@ -105,4 +106,19 @@ WHERE idm = "227"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

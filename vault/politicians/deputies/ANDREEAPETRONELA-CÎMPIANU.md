@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării
+constituency: (From election) Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării
 photo_url: https://www.cdep.ro/parlamentari/l2024/CimpianuAndreeaPetronela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=67&cam=2
 idm: 67
@@ -21,6 +21,7 @@ committees:
 ---
 ai_friendly_name: Andreea-Petronela CÎMPIANU
 search_aliases: ['ANDREEA-PETRONELA CÎMPIANU', 'andreea-petronela cîmpianu']
+votes_cast: 4
 activity_score: 55
 # Andreea-Petronela CÎMPIANU
 
@@ -107,4 +108,19 @@ WHERE idm = "67"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

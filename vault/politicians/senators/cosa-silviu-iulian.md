@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Constanța
+constituency: (From election) Constanța
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c4a7837d-5479-4aad-82bc-34c696b71339
 ---
 ai_friendly_name: COȘA Silviu-Iulian
 search_aliases: ['COȘA SILVIU-IULIAN', 'coșa silviu-iulian']
+sessions_attended: 120
 activity_score: 0
 idm: 942
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # COȘA Silviu-Iulian
 
@@ -87,3 +88,23 @@ WHERE file.name = "COȘA Silviu-Iulian"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

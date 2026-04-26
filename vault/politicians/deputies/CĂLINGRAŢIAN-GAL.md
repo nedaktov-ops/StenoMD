@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: BIHOR
+constituency: (From election) BIHOR
 photo_url: https://www.cdep.ro/parlamentari/l2024/GalCalinGratian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2
 idm: 110
@@ -22,6 +22,7 @@ committees:
 ---
 ai_friendly_name: Călin-Graţian GAL
 search_aliases: ['CĂLIN-GRAŢIAN GAL', 'călin-graţian gal']
+votes_cast: 6
 activity_score: 60
 # Călin-Graţian GAL
 
@@ -108,4 +109,19 @@ WHERE idm = "110"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

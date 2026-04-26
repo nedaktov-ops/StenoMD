@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: NEAMŢ
+constituency: (From election) NEAMŢ
 photo_url: https://www.cdep.ro/parlamentari/l2024/BulaiIulian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=44&cam=2
 idm: 44
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Iulian BULAI
 search_aliases: ['IULIAN BULAI', 'iulian bulai']
+votes_cast: 3
 activity_score: 24
 # Iulian BULAI
 
@@ -106,4 +107,19 @@ WHERE idm = "44"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

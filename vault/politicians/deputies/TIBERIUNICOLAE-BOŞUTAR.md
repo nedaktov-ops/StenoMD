@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: BISTRIŢA-NĂSĂUD
+constituency: (From election) BISTRIŢA-NĂSĂUD
 photo_url: https://www.cdep.ro/parlamentari/l2024/BosutarTiberiuNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=35&cam=2
 idm: 35
@@ -21,6 +21,7 @@ committees:
 ---
 ai_friendly_name: Tiberiu-Nicolae BOŞUTAR
 search_aliases: ['TIBERIU-NICOLAE BOŞUTAR', 'tiberiu-nicolae boşutar']
+votes_cast: 6
 activity_score: 33
 # Tiberiu-Nicolae BOŞUTAR
 
@@ -107,4 +108,19 @@ WHERE idm = "35"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

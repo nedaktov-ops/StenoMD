@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: GIURGIU
+constituency: (From election) GIURGIU
 photo_url: https://www.cdep.ro/parlamentari/l2024/AndreiAlexandruIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=7&cam=2
 idm: 7
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Alexandru-Ioan ANDREI
 search_aliases: ['ALEXANDRU-IOAN ANDREI', 'alexandru-ioan andrei']
+votes_cast: 6
 activity_score: 37
 # Alexandru-Ioan ANDREI
 
@@ -106,4 +107,19 @@ WHERE idm = "7"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

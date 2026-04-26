@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: BRAŞOV
+constituency: (From election) BRAŞOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/RusuSebastianMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=273&cam=2
 idm: 273
@@ -22,6 +22,7 @@ committees:
 ---
 ai_friendly_name: Sebastian-Mihai RUSU
 search_aliases: ['SEBASTIAN-MIHAI RUSU', 'sebastian-mihai rusu']
+votes_cast: 5
 activity_score: 46
 # Sebastian-Mihai RUSU
 
@@ -108,4 +109,19 @@ WHERE idm = "273"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

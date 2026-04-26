@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: ARAD
+constituency: (From election) ARAD
 photo_url: https://www.cdep.ro/parlamentari/l2024/ArtimonDanCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=11&cam=2
 idm: 11
@@ -18,6 +18,7 @@ motions: 8
 ---
 ai_friendly_name: Dan-Cătălin ARTIMON
 search_aliases: ['DAN-CĂTĂLIN ARTIMON', 'dan-cătălin artimon']
+votes_cast: 3
 activity_score: 39
 # Dan-Cătălin ARTIMON
 
@@ -104,4 +105,19 @@ WHERE idm = "11"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Călărași
+constituency: (From election) Călărași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5dfb5f9b-9d25-40a4-9145-366ae2b2c04d
@@ -19,7 +19,7 @@ search_aliases: ['COTEȚ MIHAI', 'coteț mihai']
 activity_score: 0
 idm: 6744
 speeches_count: 8
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # COTEȚ Mihai
 
@@ -84,3 +84,23 @@ WHERE file.name = "COTEȚ Mihai"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

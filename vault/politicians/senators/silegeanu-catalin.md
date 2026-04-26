@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: AUR
 party_full: Alianța pentru Unirea Românilor
-constituency: Botoșani
+constituency: (From election) Botoșani
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a9a821ad71
 ---
 ai_friendly_name: SILEGEANU Cătălin
 search_aliases: ['SILEGEANU CĂTĂLIN', 'silegeanu cătălin']
+sessions_attended: 120
 activity_score: 0
 idm: 6513
 speeches_count: 73
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # SILEGEANU Cătălin
 
@@ -87,3 +88,23 @@ WHERE file.name = "SILEGEANU Cătălin"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

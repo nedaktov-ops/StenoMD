@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PSD
 party_full: Partidul Social Democrat
-constituency: BUCUREŞTI
+constituency: (From election) BUCUREŞTI
 photo_url: https://www.cdep.ro/parlamentari/l2024/DolineaschiAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=93&cam=2
 idm: 93
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Andrei DOLINEASCHI
 search_aliases: ['ANDREI DOLINEASCHI', 'andrei dolineaschi']
+votes_cast: 5
 activity_score: 52
 # Andrei DOLINEASCHI
 
@@ -106,4 +107,19 @@ WHERE idm = "93"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

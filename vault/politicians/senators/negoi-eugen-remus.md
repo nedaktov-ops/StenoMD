@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Constanța
+constituency: (From election) Constanța
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8750fc5bf8
@@ -21,8 +21,8 @@ ai_friendly_name: NEGOI Eugen-Remus
 search_aliases: ['NEGOI EUGEN-REMUS', 'negoi eugen-remus']
 activity_score: 0
 idm: 5194
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # NEGOI Eugen-Remus
 
@@ -87,3 +87,23 @@ WHERE file.name = "NEGOI Eugen-Remus"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

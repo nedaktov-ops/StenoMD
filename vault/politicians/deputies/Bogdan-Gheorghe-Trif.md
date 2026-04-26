@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: Grupul
 party_full: Partidul Social Democrat
-constituency: SUCEAVA
+constituency: (From election) SUCEAVA
 photo_url: https://www.cdep.ro/parlamentari/l2024/TrifBogdanGheorghe.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=307&cam=2
 idm: 307
@@ -17,6 +17,7 @@ type: deputy
 ---
 ai_friendly_name: Bogdan Gheorghe Trif
 search_aliases: ['BOGDAN GHEORGHE TRIF', 'bogdan gheorghe trif']
+votes_cast: 4
 activity_score: 36
 
 # Bogdan Gheorghe Trif
@@ -85,3 +86,19 @@ WHERE idm = "307"
 
 ## Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

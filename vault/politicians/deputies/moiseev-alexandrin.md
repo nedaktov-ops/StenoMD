@@ -3,18 +3,19 @@ name: Moiseev Alexandrin
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: Unknown
+party: (From election records)
 party_full: Partidul Social Democrat
-constituency: BOTOŞANI
+constituency: (From election) BOTOŞANI
 photo_url: 
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=204&cam=2
 idm: 204
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 type: deputy
 ---
 ai_friendly_name: Moiseev Alexandrin
 search_aliases: ['MOISEEV ALEXANDRIN', 'moiseev alexandrin']
+votes_cast: 6
 activity_score: 0
 # Moiseev Alexandrin
 
@@ -34,7 +35,7 @@ activity_score: 0
 ## Categories
 
 - [[politicians/deputies|Deputy]]
-- [[politicians/parties/Unknown|Party: Unknown]]
+- [[politicians/parties/(See records)|Party: (See records)]]
 - [[politicians/constituencies/BOTOŞANI|Constituency: BOTOŞANI]]
 
 
@@ -48,7 +49,7 @@ activity_score: 0
 ## Processing
 
 - **Activity Score:** 0
-- **Party Alignment:** Unknown
+- **Party Alignment:** (See records)
 
 
 ## Memory
@@ -104,3 +105,20 @@ WHERE idm = "204"
 
 - No speeches recorded
 - No proposals sponsored
+
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

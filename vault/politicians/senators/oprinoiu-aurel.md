@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Prahova
+constituency: (From election) Prahova
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5954ccc9-0af9-409f-9b30-91c8b292d60d
@@ -21,8 +21,8 @@ ai_friendly_name: OPRINOIU Aurel
 search_aliases: ['OPRINOIU AUREL', 'oprinoiu aurel']
 activity_score: 0
 idm: 1663
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # OPRINOIU Aurel
 
@@ -87,3 +87,23 @@ WHERE file.name = "OPRINOIU Aurel"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: MIN
 party_full: Grupul parlamentar al minorităţilor naţionale
-constituency: Minority
+constituency: (From election) Minority
 photo_url: https://www.cdep.ro/parlamentari/l2024/StancuIonel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=282&cam=2
 idm: 282
@@ -22,6 +22,7 @@ committees:
 ---
 ai_friendly_name: Ionel STANCU
 search_aliases: ['IONEL STANCU', 'ionel stancu']
+votes_cast: 6
 activity_score: 26
 # Ionel STANCU
 
@@ -108,4 +109,19 @@ WHERE idm = "282"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

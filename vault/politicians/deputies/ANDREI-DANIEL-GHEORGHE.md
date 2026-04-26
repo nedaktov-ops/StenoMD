@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: PNL
 party_full: Partidul Naţional Liberal
-constituency: ILFOV
+constituency: (From election) ILFOV
 photo_url: https://www.cdep.ro/parlamentari/l2024/GheorgheAndreiDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=118&cam=2
 idm: 118
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Andrei Daniel GHEORGHE
 search_aliases: ['ANDREI DANIEL GHEORGHE', 'andrei daniel gheorghe']
+votes_cast: 5
 activity_score: 57
 # Andrei Daniel GHEORGHE
 
@@ -106,4 +107,19 @@ WHERE idm = "118"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

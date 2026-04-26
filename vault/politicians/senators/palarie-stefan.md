@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Municipiul București
+constituency: (From election) Municipiul București
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2a3a96e0-f5d4-4a21-8c10-9606276f5311
@@ -21,8 +21,8 @@ ai_friendly_name: PĂLĂRIE Ștefan
 search_aliases: ['PĂLĂRIE ȘTEFAN', 'pălărie ștefan']
 activity_score: 0
 idm: 7506
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # PĂLĂRIE Ștefan
 
@@ -87,3 +87,23 @@ WHERE file.name = "PĂLĂRIE Ștefan"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

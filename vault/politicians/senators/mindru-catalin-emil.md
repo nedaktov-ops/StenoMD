@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Vaslui
+constituency: (From election) Vaslui
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b70cfd7f-7726-4531-99d0-83ff6f6f05b3
@@ -16,10 +16,11 @@ party_affiliations:
 ---
 ai_friendly_name: MÎNDRU Cătălin-Emil
 search_aliases: ['MÎNDRU CĂTĂLIN-EMIL', 'mîndru cătălin-emil']
+sessions_attended: 112
 activity_score: 0
 idm: 1926
 speeches_count: 43
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # MÎNDRU Cătălin-Emil
 
@@ -84,3 +85,23 @@ WHERE file.name = "MÎNDRU Cătălin-Emil"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

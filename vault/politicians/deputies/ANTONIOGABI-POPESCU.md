@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: VÂLCEA
+constituency: (From election) VÂLCEA
 photo_url: https://www.cdep.ro/parlamentari/l2024/PopescuAntonioGabi.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=255&cam=2
 idm: 255
@@ -21,6 +21,7 @@ committees:
 ---
 ai_friendly_name: Antonio-Gabi POPESCU
 search_aliases: ['ANTONIO-GABI POPESCU', 'antonio-gabi popescu']
+votes_cast: 6
 activity_score: 24
 # Antonio-Gabi POPESCU
 
@@ -107,4 +108,19 @@ WHERE idm = "255"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

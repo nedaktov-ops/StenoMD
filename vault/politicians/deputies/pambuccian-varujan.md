@@ -3,18 +3,19 @@ name: Pambuccian Varujan
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: Unknown
+party: (From election records)
 party_full: Grupul parlamentar al minorităţilor naţionale
-constituency: Minority
+constituency: (From election) Minority
 photo_url: 
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=233&cam=2
 idm: 233
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 type: deputy
 ---
 ai_friendly_name: Pambuccian Varujan
 search_aliases: ['PAMBUCCIAN VARUJAN', 'pambuccian varujan']
+votes_cast: 5
 activity_score: 0
 # Pambuccian Varujan
 
@@ -34,7 +35,7 @@ activity_score: 0
 ## Categories
 
 - [[politicians/deputies|Deputy]]
-- [[politicians/parties/Unknown|Party: Unknown]]
+- [[politicians/parties/(See records)|Party: (See records)]]
 - [[politicians/constituencies/Minority|Constituency: Minority]]
 
 
@@ -48,7 +49,7 @@ activity_score: 0
 ## Processing
 
 - **Activity Score:** 0
-- **Party Alignment:** Unknown
+- **Party Alignment:** (See records)
 
 
 ## Memory
@@ -104,3 +105,20 @@ WHERE idm = "233"
 
 - No speeches recorded
 - No proposals sponsored
+
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

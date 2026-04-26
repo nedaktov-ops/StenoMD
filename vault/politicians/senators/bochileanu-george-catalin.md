@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: USR
 party_full: Uniunea Salvați România
-constituency: Diaspora
+constituency: (From election) Diaspora
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bff3c30a-425f-4b6d-8d4f-1285c1bde059
@@ -16,10 +16,11 @@ party_affiliations:
 ---
 ai_friendly_name: BOCHILEANU George-Cătălin
 search_aliases: ['BOCHILEANU GEORGE-CĂTĂLIN', 'bochileanu george-cătălin']
+sessions_attended: 120
 activity_score: 0
 idm: 4410
 speeches_count: 61
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # BOCHILEANU George-Cătălin
 
@@ -84,3 +85,23 @@ WHERE file.name = "BOCHILEANU George-Cătălin"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

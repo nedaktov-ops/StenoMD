@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: SOS
 party_full: S.O.S. România
-constituency: Galați
+constituency: (From election) Galați
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7f782376-a244-4258-b5a5-911192e5566d
@@ -22,7 +22,7 @@ search_aliases: ['ONEA OLGA', 'onea olga']
 activity_score: 0
 idm: 2576
 speeches_count: 36
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # ONEA Olga
 
@@ -87,3 +87,23 @@ WHERE file.name = "ONEA Olga"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

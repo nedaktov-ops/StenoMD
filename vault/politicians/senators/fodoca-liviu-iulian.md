@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: Sălaj
+constituency: (From election) Sălaj
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=4ecef3dd-1f70-4433-82ba-54975207c4a1
@@ -21,8 +21,8 @@ ai_friendly_name: FODOCA Liviu-Iulian
 search_aliases: ['FODOCA LIVIU-IULIAN', 'fodoca liviu-iulian']
 activity_score: 0
 idm: 4857
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # FODOCA Liviu-Iulian
 
@@ -87,3 +87,23 @@ WHERE file.name = "FODOCA Liviu-Iulian"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

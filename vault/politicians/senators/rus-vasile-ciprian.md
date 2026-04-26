@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Timiș
+constituency: (From election) Timiș
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e5da6de6-88cd-468a-b161-b32caac784f3
@@ -16,10 +16,11 @@ party_affiliations:
 ---
 ai_friendly_name: RUS Vasile-Ciprian
 search_aliases: ['RUS VASILE-CIPRIAN', 'rus vasile-ciprian']
+sessions_attended: 120
 activity_score: 0
 idm: 6497
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # RUS Vasile-Ciprian
 
@@ -84,3 +85,23 @@ WHERE file.name = "RUS Vasile-Ciprian"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: USR
 party_full: Uniunea Salvaţi România
-constituency: DÂMBOVIŢA
+constituency: (From election) DÂMBOVIŢA
 photo_url: https://www.cdep.ro/parlamentari/l2024/BlagaDanielCodrut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=29&cam=2
 idm: 29
@@ -20,6 +20,7 @@ committees:
 ---
 ai_friendly_name: Daniel-Codruţ BLAGA
 search_aliases: ['DANIEL-CODRUŢ BLAGA', 'daniel-codruţ blaga']
+votes_cast: 6
 activity_score: 38
 # Daniel-Codruţ BLAGA
 
@@ -106,4 +107,19 @@ WHERE idm = "29"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

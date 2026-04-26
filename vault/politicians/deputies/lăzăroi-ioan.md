@@ -5,16 +5,17 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: S.O.S. România
-constituency: TELEORMAN
+constituency: (From election) TELEORMAN
 photo_url: 
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=169&cam=2
 idm: 169
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 type: deputy
 ---
 ai_friendly_name: Lăzăroi Ioan
 search_aliases: ['LĂZĂROI IOAN', 'lăzăroi ioan']
+votes_cast: 6
 activity_score: 0
 # Lăzăroi Ioan
 
@@ -104,3 +105,20 @@ WHERE idm = "169"
 
 - No speeches recorded
 - No proposals sponsored
+
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

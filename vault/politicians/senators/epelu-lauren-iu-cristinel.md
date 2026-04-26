@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Gorj
+constituency: (From election) Gorj
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=abde2f69-fbbc-418b-bc27-d979fefd6644
@@ -16,10 +16,11 @@ party_affiliations:
 ---
 ai_friendly_name: ŢEPELUŞ Laurenţiu-Cristinel
 search_aliases: ['ŢEPELUŞ LAURENŢIU-CRISTINEL', 'ţepeluş laurenţiu-cristinel']
+sessions_attended: 117
 activity_score: 0
 idm: 1032
 speeches_count: 8
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # ŢEPELUŞ Laurenţiu-Cristinel
 
@@ -84,3 +85,23 @@ WHERE file.name = "ŢEPELUŞ Laurenţiu-Cristinel"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

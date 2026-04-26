@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării
+constituency: (From election) Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării
 photo_url: https://www.cdep.ro/parlamentari/l2024/AlbuDumitrita.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=3&cam=2
 idm: 3
@@ -18,6 +18,7 @@ motions: 2
 ---
 ai_friendly_name: Dumitriţa ALBU
 search_aliases: ['DUMITRIŢA ALBU', 'dumitriţa albu']
+votes_cast: 6
 activity_score: 49
 # Dumitriţa ALBU
 
@@ -104,4 +105,19 @@ WHERE idm = "3"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

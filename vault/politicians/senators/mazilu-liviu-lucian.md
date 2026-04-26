@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
-constituency: Mehedinți
+constituency: (From election) Mehedinți
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3abf38c7-fffe-4f34-b90a-77b5c3219da5
@@ -22,7 +22,7 @@ search_aliases: ['MAZILU LIVIU-LUCIAN', 'mazilu liviu-lucian']
 activity_score: 0
 idm: 3509
 speeches_count: 34
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # MAZILU Liviu-Lucian
 
@@ -87,3 +87,23 @@ WHERE file.name = "MAZILU Liviu-Lucian"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

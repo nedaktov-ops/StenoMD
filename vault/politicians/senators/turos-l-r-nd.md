@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: Satu Mare
+constituency: (From election) Satu Mare
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3bd730d7b7f
@@ -21,8 +21,8 @@ ai_friendly_name: TUROS Lóránd
 search_aliases: ['TUROS LÓRÁND', 'turos lóránd']
 activity_score: 0
 idm: 7456
-speeches_count: 0
-laws_proposed: 0
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
 committees: []
 # TUROS Lóránd
 
@@ -87,3 +87,23 @@ WHERE file.name = "TUROS Lóránd"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

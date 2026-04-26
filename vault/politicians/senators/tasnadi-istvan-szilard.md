@@ -12,17 +12,18 @@ type: senator
 chamber: senate
 party: UDMR
 party_full: Uniunea Democrată Maghiară din România
-constituency: Cluj
+constituency: (From election) Cluj
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e6ffb390d1
 ---
 ai_friendly_name: TASNADI Istvan-Szilard
 search_aliases: ['TASNADI ISTVAN-SZILARD', 'tasnadi istvan-szilard']
+sessions_attended: 120
 activity_score: 0
 idm: 3015
 speeches_count: 2
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # TASNADI Istvan-Szilard
 
@@ -87,3 +88,23 @@ WHERE file.name = "TASNADI Istvan-Szilard"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

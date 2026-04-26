@@ -5,7 +5,7 @@ type: senator
 chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
-constituency: Bacău
+constituency: (From election) Bacău
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=87c4a776-8e64-4e70-a862-4f087aea03e5
@@ -19,7 +19,7 @@ search_aliases: ['FENECHIU CĂTĂLIN-DANIEL', 'fenechiu cătălin-daniel']
 activity_score: 0
 idm: 2465
 speeches_count: 121
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # FENECHIU Cătălin-Daniel
 
@@ -84,3 +84,23 @@ WHERE file.name = "FENECHIU Cătălin-Daniel"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

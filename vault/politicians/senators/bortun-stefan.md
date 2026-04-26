@@ -12,7 +12,7 @@ type: senator
 chamber: senate
 party: POT
 party_full: Partidul Oamenilor Tineri
-constituency: Tulcea
+constituency: (From election) Tulcea
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=29201640-de4e-47ff-89b2-18126d2790ae
@@ -22,7 +22,7 @@ search_aliases: ['BORȚUN ȘTEFAN', 'borțun ștefan']
 activity_score: 0
 idm: 1592
 speeches_count: 32
-laws_proposed: 0
+laws_proposed: (See sponsored laws)
 committees: []
 # BORȚUN Ștefan
 
@@ -87,3 +87,23 @@ WHERE file.name = "BORȚUN Ștefan"
 
 - **Status:** active
 - **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: AUR
 party_full: Alianţa pentru Unirea Românilor
-constituency: NEAMŢ
+constituency: (From election) NEAMŢ
 photo_url: https://www.cdep.ro/parlamentari/l2024/NeacsuAndreeaFiruta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=221&cam=2
 idm: 221
@@ -21,6 +21,7 @@ committees:
 ---
 ai_friendly_name: Andreea-Firuţa NEACŞU
 search_aliases: ['ANDREEA-FIRUŢA NEACŞU', 'andreea-firuţa neacşu']
+votes_cast: 6
 activity_score: 7
 # Andreea-Firuţa NEACŞU
 
@@ -99,4 +100,19 @@ WHERE idm = "221"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: Grupul
 party_full: Grupul parlamentar al minorităţilor naţionale
-constituency: BUCUREŞTI
+constituency: (From election) BUCUREŞTI
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=112&cam=2
 idm: 112
 speeches_count: 5
@@ -14,6 +14,7 @@ type: deputy
 ---
 ai_friendly_name: Ovidiu Victor Gan
 search_aliases: ['OVIDIU VICTOR GAN', 'ovidiu victor gan']
+votes_cast: 6
 activity_score: 57
 
 # Ovidiu Victor Gan
@@ -82,3 +83,19 @@ WHERE idm = "112"
 
 ## Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

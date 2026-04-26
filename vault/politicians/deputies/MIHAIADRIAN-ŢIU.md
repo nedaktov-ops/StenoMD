@@ -5,7 +5,7 @@ legislature: 2024-2028
 source: cdep.ro
 party: SOS
 party_full: Partidul S.O.S. România
-constituency: OLT
+constituency: (From election) OLT
 photo_url: https://www.cdep.ro/parlamentari/l2024/TiuMihaiAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2
 idm: 312
@@ -23,6 +23,7 @@ committees:
 ---
 ai_friendly_name: Mihai-Adrian ŢIU
 search_aliases: ['MIHAI-ADRIAN ŢIU', 'mihai-adrian ţiu']
+votes_cast: 6
 activity_score: 33
 # Mihai-Adrian ŢIU
 
@@ -109,4 +110,19 @@ WHERE idm = "312"
 
 ### Alerts
 
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
 
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions
