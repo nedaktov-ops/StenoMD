@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_b489add115b9
+original_elected_party: PNL
+party_affiliations:
+- party: PNL
+  start_date: "2024-12"
+  is_original: true
 type: senator
 chamber: senate
 party: PNL

@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_437c7cb93f15
+original_elected_party: AUR
+party_affiliations:
+- party: AUR
+  start_date: "2024-12"
+  is_original: true
 type: senator
 chamber: senate
 party: AUR

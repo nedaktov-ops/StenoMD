@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_2baafbbb8b6a
+original_elected_party: PSD
+party_affiliations:
+- party: PSD
+  start_date: "2024-12"
+  is_original: true
 type: person
 party: PSD
 party_full: Partidul Social Democrat

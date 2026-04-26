@@ -12,6 +12,11 @@ idm: 114
 speeches_count: 2
 laws_proposed: 9
 stable_id: pol_fdd0fc526d2b
+original_elected_party: POT
+party_affiliations:
+- party: POT
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

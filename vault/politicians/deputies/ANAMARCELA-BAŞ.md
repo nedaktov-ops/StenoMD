@@ -12,6 +12,11 @@ idm: 21
 speeches_count: 6
 laws_proposed: 26
 stable_id: pol_090cb00390f9
+original_elected_party: SOS
+party_affiliations:
+- party: SOS
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

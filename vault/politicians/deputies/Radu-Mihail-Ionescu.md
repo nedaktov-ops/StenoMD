@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_1e07ff3364c4
+original_elected_party: POT
+party_affiliations:
+- party: POT
+  start_date: "2024-12"
+  is_original: true
 type: person
 party: POT
 party_full: Partidul Oamenilor Tineri

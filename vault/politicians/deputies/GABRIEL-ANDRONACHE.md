@@ -12,6 +12,11 @@ idm: 9
 speeches_count: 65
 laws_proposed: 40
 stable_id: pol_dc2c5ae8f676
+original_elected_party: PNL
+party_affiliations:
+- party: PNL
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

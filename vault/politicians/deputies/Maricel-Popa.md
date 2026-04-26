@@ -10,6 +10,11 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PopaMaricel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=253&cam=2
 laws_proposed: 14
 stable_id: pol_1f97453970a5
+original_elected_party: PSD
+party_affiliations:
+- party: PSD
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

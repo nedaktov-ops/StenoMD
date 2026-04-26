@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_64a5c3a0af3b
+original_elected_party: UDMR
+party_affiliations:
+- party: UDMR
+  start_date: "2024-12"
+  is_original: true
 type: senator
 chamber: senate
 party: UDMR

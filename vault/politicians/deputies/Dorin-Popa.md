@@ -11,6 +11,11 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=251&cam=2
 speeches_count: 3
 laws_proposed: 20
 stable_id: pol_d4b75e7f0fce
+original_elected_party: POT
+party_affiliations:
+- party: POT
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

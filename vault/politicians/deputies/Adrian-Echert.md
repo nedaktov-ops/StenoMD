@@ -11,6 +11,11 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=98&cam=2
 speeches_count: 6
 laws_proposed: 21
 stable_id: pol_0735e75e0804
+original_elected_party: USR
+party_affiliations:
+- party: USR
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

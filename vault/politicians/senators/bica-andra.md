@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_a96804225627
+original_elected_party: PSD
+party_affiliations:
+- party: PSD
+  start_date: "2024-12"
+  is_original: true
 type: senator
 chamber: senate
 party: PSD

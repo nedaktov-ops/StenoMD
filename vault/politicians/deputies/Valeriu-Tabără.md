@@ -7,6 +7,11 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=211&cam=2
 speeches_count: 25
 laws_proposed: 30
 stable_id: pol_d5ab4072e4ee
+original_elected_party: AUR
+party_affiliations:
+- party: AUR
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 chamber: deputies
 legislature: 2024-2028

@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_e75c0d4f65ad
+original_elected_party: AUR
+party_affiliations:
+- party: AUR
+  start_date: "2024-12"
+  is_original: true
 type: person
 party: AUR
 party_full: Alianţa pentru Unirea Românilor

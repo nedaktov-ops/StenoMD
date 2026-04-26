@@ -11,6 +11,11 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=128&cam=2
 speeches_count: 18
 laws_proposed: 45
 stable_id: pol_317b851308ac
+original_elected_party: SOS
+party_affiliations:
+- party: SOS
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

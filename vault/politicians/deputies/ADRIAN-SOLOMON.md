@@ -12,6 +12,11 @@ idm: 281
 speeches_count: 12
 laws_proposed: 12
 stable_id: pol_2918e8c88b61
+original_elected_party: PSD
+party_affiliations:
+- party: PSD
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

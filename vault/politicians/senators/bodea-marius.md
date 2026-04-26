@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_e1acf1e12c7f
+original_elected_party: USR
+party_affiliations:
+- party: USR
+  start_date: "2024-12"
+  is_original: true
 type: senator
 chamber: senate
 party: USR

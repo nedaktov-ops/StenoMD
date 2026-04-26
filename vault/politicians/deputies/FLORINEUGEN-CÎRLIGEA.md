@@ -12,6 +12,11 @@ idm: 68
 speeches_count: 1
 laws_proposed: 9
 stable_id: pol_64e6d908d01c
+original_elected_party: AUR
+party_affiliations:
+- party: AUR
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

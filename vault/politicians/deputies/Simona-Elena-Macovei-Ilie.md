@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_e438e8f97f4e
+original_elected_party: SOS
+party_affiliations:
+- party: SOS
+  start_date: "2024-12"
+  is_original: true
 type: person
 party: SOS
 party_full: Partidul S.O.S. România

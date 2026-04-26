@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_ea1211f5b06c
+original_elected_party: SOS
+party_affiliations:
+- party: SOS
+  start_date: "2024-12"
+  is_original: true
 type: senator
 chamber: senate
 party: SOS

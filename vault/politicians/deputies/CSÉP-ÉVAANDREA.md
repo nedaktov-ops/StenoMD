@@ -12,6 +12,11 @@ idm: 85
 speeches_count: 11
 laws_proposed: 41
 stable_id: pol_eeb694202909
+original_elected_party: UDMR
+party_affiliations:
+- party: UDMR
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

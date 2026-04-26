@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_f4fdacc9d3df
+original_elected_party: PNL
+party_affiliations:
+- party: PNL
+  start_date: "2024-12"
+  is_original: true
 type: person
 party: PNL
 party_full: Partidul Naţional Liberal

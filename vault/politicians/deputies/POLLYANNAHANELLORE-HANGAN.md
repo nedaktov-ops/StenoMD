@@ -12,6 +12,11 @@ idm: 140
 speeches_count: 3
 laws_proposed: 11
 stable_id: pol_5d3fe5ad7adb
+original_elected_party: USR
+party_affiliations:
+- party: USR
+  start_date: "2024-12"
+  is_original: true
 type: deputy
 ---
 

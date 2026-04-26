@@ -2,6 +2,11 @@
 tags:
 - politician
 stable_id: pol_7f8827a0cd57
+original_elected_party: POT
+party_affiliations:
+- party: POT
+  start_date: "2024-12"
+  is_original: true
 type: senator
 chamber: senate
 party: POT
