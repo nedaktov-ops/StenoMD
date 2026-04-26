@@ -1,5 +1,11 @@
 # Constitutional Articles Reference
 
+## Related Sections
+
+- [[_parliament/index|Back to Parliament Index]]
+- [[laws|Laws]] - Browse all laws
+- [[sessions|Sessions]] - Browse all sessions
+
 Romanian Constitution (1991, revised 2003) - Key articles for Parliament understanding.
 
 ## Parliament Organization (Articles 58-71)

@@ -13,11 +13,17 @@ sponsors: []
 co_sponsors: []
 processing_time_days: 0
 bottleneck_stage: 
-current_stage: proposed
-status_history: []
+related_templates: [politician, law, session, committee]
 ---
 
 # {{title}}
+
+## Related
+
+| Link |
+|------|
+| [[laws|Laws]] |
+| [[politicians/deputies|Deputies]] |
 
 ## Basic Info
 

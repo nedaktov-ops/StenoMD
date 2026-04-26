@@ -1,6 +1,9 @@
 # Romanian Legislatures Reference
 
-Post-1989 Legislatures
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
 
 ## Current Legislature
 

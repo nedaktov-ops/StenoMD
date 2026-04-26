@@ -1,5 +1,11 @@
 # Key Romanian Parliamentary Terms
 
+## Related Sections
+
+- [[_parliament/index|Back to Parliament Index]]
+- [[laws|Laws]] - Browse all laws
+- [[politicians/deputies|Deputies]] - Browse all deputies
+
 ## Legislative Terms
 
 ### Proiect de lege (Government Bill)

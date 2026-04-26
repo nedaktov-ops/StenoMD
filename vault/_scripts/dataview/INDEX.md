@@ -2,6 +2,16 @@
 
 > Query library for the Romanian Parliament Knowledge Vault
 
+## Related Sections
+
+| Section | Link |
+|----------|-------|
+| Main | [[_brain/Dashboard|Brain Dashboard]] |
+| Deputies | [[politicians/deputies|Deputies]] |
+| Senators | [[politicians/senators|Senators]] |
+| Laws | [[laws|Laws]] |
+| Sessions | [[sessions|Sessions]] |
+
 ## Quick Reference
 
 | Category | Query File | Purpose |

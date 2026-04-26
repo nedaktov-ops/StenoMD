@@ -9,9 +9,17 @@ activity_score: 0
 meeting_frequency: monthly
 bills_reviewed: []
 member_count: 0
+related_templates: [politician, law, session, committee]
 ---
 
 # {{title}}
+
+## Related
+
+| Link |
+|------|
+| [[committees|Committees]] |
+| [[politicians/deputies|Deputies]] |
 
 ## Basic Info
 

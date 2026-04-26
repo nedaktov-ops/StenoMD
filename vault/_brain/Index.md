@@ -10,6 +10,17 @@ description: StenoMD Vault Brain Architecture Index
 
 This folder contains the brain-analogous intelligence system for the StenoMD vault.
 
+## Related Vault Sections
+
+| Section | Link |
+|----------|-------|
+| Main Index | [[Index|Main Index]] |
+| Deputies | [[politicians/deputies|Deputies]] |
+| Senators | [[politicians/senators|Senators]] |
+| Laws | [[laws|Laws]] |
+| Sessions | [[sessions|Sessions]] |
+| Parliament Ref | [[_parliament/index|Parliament Reference]] |
+
 ## Files
 
 | File | Purpose |

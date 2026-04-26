@@ -1,5 +1,11 @@
 # Parliamentary Committees
 
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+
 ## Senate (Senat) - 15 Standing Committees
 
 | # | Committee Name | Romanian Name |

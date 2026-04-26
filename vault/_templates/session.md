@@ -13,6 +13,17 @@ last_synced:
 duration_minutes: 0
 attendance_count: 0
 topics_discussed: []
+related_templates: [politician, law, session, committee]
+---
+
+# {{title}}
+
+## Related
+
+| Link |
+|------|
+| [[sessions|Sessions]] |
+| [[politicians/deputies|Deputies]] |
 speakers_identified: []
 sentiment: neutral
 ---

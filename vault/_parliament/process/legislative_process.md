@@ -1,5 +1,10 @@
 # Legislative Process Flow
 
+## Related Sections
+
+- [[laws|Laws]] - Browse all laws
+- [[_parliament/index|Back to Parliament Index]]
+
 How a bill becomes law in Romanian Parliament
 
 ## Stage 1: Initiation (Initiativa)

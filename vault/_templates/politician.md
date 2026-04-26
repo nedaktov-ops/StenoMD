@@ -17,11 +17,17 @@ last_synced:
 data_sources: []
 activity_score: 0
 collaboration_network: []
+related_templates: [politician, law, session, committee]
 ---
 
 # {{title}}
 
 ## Basic Info
+
+| Related |
+|---------|
+| [[politicians/deputies|Deputies]] |
+| [[politicians/senators|Senators]] |
 
 | Field | Value |
 |-------|-------|

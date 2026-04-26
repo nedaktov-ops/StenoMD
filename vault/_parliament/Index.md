@@ -2,6 +2,13 @@
 
 Reference materials for understanding Romanian Parliament.
 
+## Related Sections
+
+- [[laws|Laws]] - Browse all laws
+- [[politicians/deputies|Deputies]] - Browse deputies
+- [[politicians/senators|Senators]] - Browse senators
+- [[sessions|Sessions]] - Browse sessions
+
 ## Directory Structure
 
 ```
