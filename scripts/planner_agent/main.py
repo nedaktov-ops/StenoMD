@@ -6,7 +6,9 @@ import argparse
 from pathlib import Path
 
 # Add scripts to path
-sys.path.insert(0, str(Path(__file__).parent))
+scripts_dir = Path(__file__).parent
+sys.path.insert(0, str(scripts_dir))
+sys.path.insert(0, str(scripts_dir.parent))
 
 from planner_agent.problem_analyzer import ProblemAnalyzer
 from planner_agent.solution_researcher import SolutionResearcher
@@ -14,6 +16,7 @@ from planner_agent.decision_engine import DecisionEngine
 from planner_agent.auto_fixer import AutoFixer
 from planner_agent.pattern_miner import PatternMiner
 from planner_agent.notifications import NotificationService
+from task_manager import TaskManager
 
 
 class PlannerAgent:
@@ -29,7 +32,12 @@ class PlannerAgent:
         self.auto_fixer = AutoFixer(project_root)
         self.pattern_miner = PatternMiner(project_root)
         self.notifier = NotificationService()
+        self.task_manager = TaskManager(project_root)
         
+    def check_tasks(self) -> str:
+        """Check pending tasks and return report."""
+        return self.task_manager.generate_startup_report()
+    
     def analyze(self, deep: bool = False) -> str:
         """Analyze project state."""
         self.notifier.info("Starting project analysis...")
@@ -38,11 +46,9 @@ class PlannerAgent:
         
         if deep:
             self.notifier.info("Running deep analysis...")
-            # Add pattern mining
             patterns = self.pattern_miner.mine_data_patterns()
             suggestions = self.pattern_miner.suggest_improvements()
         
-        # Generate report
         report = self.analyzer.generate_report()
         
         if deep and suggestions:
@@ -98,20 +104,16 @@ class PlannerAgent:
         """Create improvement plan for goal."""
         self.notifier.info(f"Creating plan for goal: {goal}")
         
-        # Analyze problems
         analysis = self.analyzer.analyze_all()
         blockers = analysis.get('blockers', [])
         
-        # Get solutions
         solutions = self.researcher.get_known_fixes()
         
-        # Use decision engine to create plan
         problems = [{'id': b['id'], 'description': b['description'], 
                    'severity': b.get('severity', 'medium')} for b in blockers]
         
         plan = self.decision_engine.create_plan(goal, problems, solutions)
         
-        # Format output
         output = f"# Improvement Plan: {goal}\n\n"
         for i, task in enumerate(plan, 1):
             output += f"{i}. [{task['priority']:.0f}] {task['task']}\n"
@@ -138,7 +140,6 @@ Error Free: {health['components']['error_free']:.1f}%
     def learn(self, problem: str, solution: str, success: bool, details: str = "") -> str:
         """Learn from outcome."""
         self.notifier.info(f"Learning: {problem} -> {solution} = {success}")
-        # The learning is already captured in memory/actions.json
         return "Learned successfully"
 
 
@@ -152,6 +153,7 @@ def main():
     parser.add_argument('--fix-all', action='store_true', help='Fix all known issues')
     parser.add_argument('--plan', type=str, help='Create improvement plan for goal')
     parser.add_argument('--health', action='store_true', help='Quick health check')
+    parser.add_argument('--tasks', action='store_true', help='Check pending tasks')
     parser.add_argument('--learn', nargs=4, metavar=('PROBLEM', 'SOLUTION', 'SUCCESS', 'DETAILS'), help='Learn from outcome')
     parser.add_argument('--project-root', type=str, default='/home/adrian/Desktop/NEDAILAB/StenoMD', help='Project root')
     
@@ -173,6 +175,8 @@ def main():
         print(agent.plan_goal(args.plan))
     elif args.health:
         print(agent.health_check())
+    elif args.tasks:
+        print(agent.check_tasks())
     elif args.learn:
         problem, solution, success, details = args.learn
         print(agent.learn(problem, solution, success == 'True', details))
@@ -180,11 +184,10 @@ def main():
         print("StenoMD Planner Agent")
         print("Use --help for options")
         print("\nExamples:")
-        print("  python3 planner_agent.py --health")
-        print("  python3 planner_agent.py --analyze")
-        print("  python3 planner_agent.py --research 'cdep.ro 404'")
-        print("  python3 planner_agent.py --fix-all")
-        print("  python3 planner_agent.py --plan 'Increase coverage'")
+        print("  python3 planner_agent/main.py --health")
+        print("  python3 planner_agent/main.py --analyze")
+        print("  python3 planner_agent/main.py --tasks")
+        print("  python3 planner_agent/main.py --research 'cdep.ro 404'")
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@
 ## Comprehensive Implementation Plan
 
 **Created**: 2026-04-24  
-**Last Updated**: 2026-04-25  
+**Last Updated**: 2026-04-26  
 **Status**: IN PROGRESS
 
 ---
@@ -41,6 +41,16 @@
 ### 3. Performance
 - **Target**: 5-10 sessions/minute
 - **Implementation**: asyncio + aiohttp for parallelization
+
+### 4. Task Tracking System (2026-04-26)
+- **Implemented**: Unfinished-tasks.md + Completed-tasks.md
+- **Automation**: scripts/task_manager.py
+- **Integration**: Planner agent checks tasks on startup
+- **Deferred**: Phase 5 - Committee Assignments
+
+---
+
+## ALL COMPLETED PHASES (2026-04-26)
 
 ---
 
@@ -94,6 +104,26 @@ MP_NAME_PATTERN_HTML = re.compile(
 - Speeches: 2,341 (2024-2025)
 - Import status: COMPLETE - 91 sessions in vault
 - Canonical MPs: 460 (added 331 new deputies)
+
+---
+
+## ALL COMPLETED PHASES (2026-04-26)
+
+| Phase | Description | Status | GitHub |
+|-------|------------|--------|-------|
+| Phase 1 | Parliamentary Reference Structure | ✅ Complete | afb517f |
+| Phase 2 | Clean & Fix | ✅ Complete | c33ed8e |
+| Phase 2.5 | Senator Party Data | ✅ Complete | 40e0ab3 |
+| Phase 3 | Stable ID Generation | ✅ Complete | b12586c |
+| Phase 4 | Deputy Coverage (158→446) | ✅ Complete | 0472713 |
+| Phase 4 alt | Party Change Tracking | ✅ Complete | 9ecb823 |
+| Phase 6 | Law Enrichment (85/122) | ✅ Complete | 131df8c |
+| Phase 7 | Low-RAM Optimization | ✅ Complete | 56703db |
+
+### Deferred
+| Phase | Description | Status | Task ID |
+|-------|------------|--------|--------|
+| Phase 5 | Committee Assignments | ⏸️ DEFERRED | TASK-001 |
 
 ---
 

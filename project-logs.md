@@ -1,6 +1,15 @@
 # StenoMD Project Logs
 ## Primary Directive: This file must be read before any task begins and updated after each task completion.
 
+## LATEST UPDATE: 2026-04-26
+
+### Task Tracking System Implemented
+- Created Unfinished-tasks.md for active tasks
+- Created Completed-tasks.md for history
+- Created task_manager.py for automation
+- Integrated with planner agent (--tasks flag)
+- Deferred task: Phase 5 - Committee Assignments (TASK-001)
+
 ## COMPREHENSIVE IMPROVEMENT PLAN - UPDATED
 
 ### Latest User Requirements (2026-04-23)
