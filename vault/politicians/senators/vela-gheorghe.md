@@ -41,3 +41,67 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f1658cfa-9aea-415d-8ef2-ec0
 - [[politicians/senators|Senator]]
 - [[politicians/parties/POT|Party: POT]]
 - [[politicians/constituencies/Caraș-Severin|Constituency: Caraș-Severin]]
+
+
+## Sensors
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/Caraș-Severin|Constituency: Caraș-Severin]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=f1658cfa-9aea-415d-8ef2-ec0e6e4046fc
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro, parlamint
+
+
+## Processing
+
+- **Party:** Partidul Oamenilor Tineri
+- **Constituency:** Caraș-Severin
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (Track from proposals)
+
+### Co-Sponsors
+
+- (Track from proposals)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (Track from voting data)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "VELA Gheorghe"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028

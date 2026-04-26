@@ -41,3 +41,67 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=813d6a81-cea1-4ac6-9717-143
 - [[politicians/senators|Senator]]
 - [[politicians/parties/PNL|Party: PNL]]
 - [[politicians/constituencies/Bihor|Constituency: Bihor]]
+
+
+## Sensors
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/Bihor|Constituency: Bihor]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=813d6a81-cea1-4ac6-9717-143a859d4bde
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro, parlamint
+
+
+## Processing
+
+- **Party:** Partidul Național Liberal
+- **Constituency:** Bihor
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (Track from proposals)
+
+### Co-Sponsors
+
+- (Track from proposals)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (Track from voting data)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "BOLOJAN Ilie"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028

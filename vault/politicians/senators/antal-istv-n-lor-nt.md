@@ -41,3 +41,67 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=de52f6df-260b-4042-9a60-095
 - [[politicians/senators|Senator]]
 - [[politicians/parties/UDMR|Party: UDMR]]
 - [[politicians/constituencies/Harghita|Constituency: Harghita]]
+
+
+## Sensors
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/UDMR|Party: UDMR]]
+- [[politicians/constituencies/Harghita|Constituency: Harghita]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=de52f6df-260b-4042-9a60-095a0dbfe661
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro, parlamint
+
+
+## Processing
+
+- **Party:** Uniunea Democrată Maghiară din România
+- **Constituency:** Harghita
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (Track from proposals)
+
+### Co-Sponsors
+
+- (Track from proposals)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (Track from voting data)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "ANTAL István-Loránt"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028

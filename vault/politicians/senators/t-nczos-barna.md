@@ -41,3 +41,67 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1d
 - [[politicians/senators|Senator]]
 - [[politicians/parties/UDMR|Party: UDMR]]
 - [[politicians/constituencies/Harghita|Constituency: Harghita]]
+
+
+## Sensors
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/UDMR|Party: UDMR]]
+- [[politicians/constituencies/Harghita|Constituency: Harghita]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1df3fa38144
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro, parlamint
+
+
+## Processing
+
+- **Party:** Uniunea Democrată Maghiară din România
+- **Constituency:** Harghita
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (Track from proposals)
+
+### Co-Sponsors
+
+- (Track from proposals)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (Track from voting data)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "TÁNCZOS Barna"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028

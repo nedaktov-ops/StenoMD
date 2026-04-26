@@ -41,3 +41,67 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c6be0951-8179-4ab1-8166-8ca
 - [[politicians/senators|Senator]]
 - [[politicians/parties/AUR|Party: AUR]]
 - [[politicians/constituencies/Vrancea|Constituency: Vrancea]]
+
+
+## Sensors
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/Vrancea|Constituency: Vrancea]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=c6be0951-8179-4ab1-8166-8cac4c1bf4d4
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro, parlamint
+
+
+## Processing
+
+- **Party:** Alianța pentru Unirea Românilor
+- **Constituency:** Vrancea
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (Track from proposals)
+
+### Co-Sponsors
+
+- (Track from proposals)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (Track from voting data)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "NEGRU Corneliu"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028

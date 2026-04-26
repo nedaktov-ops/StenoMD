@@ -20,7 +20,7 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
-
+  
 
 
 # Dumitru ŢIPLEA

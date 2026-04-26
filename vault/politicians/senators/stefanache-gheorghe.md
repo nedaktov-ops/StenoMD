@@ -39,3 +39,67 @@ party_affiliations:
 - [[politicians/senators|Senator]]
 - [[politicians/parties/USR|Party: USR]]
 - [[politicians/constituencies/Timiș|Constituency: Timiș]]
+
+
+## Sensors
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/USR|Party: USR]]
+- [[politicians/constituencies/Timiș|Constituency: Timiș]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=9a773414-4c8d-41af-bd97-d9834eb23395
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro, parlamint
+
+
+## Processing
+
+- **Party:** Uniunea Salvați România
+- **Constituency:** Timiș
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (Track from proposals)
+
+### Co-Sponsors
+
+- (Track from proposals)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (Track from voting data)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "ȘTEFĂNACHE Gheorghe"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028

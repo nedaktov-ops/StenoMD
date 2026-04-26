@@ -39,3 +39,67 @@ party_affiliations:
 - [[politicians/senators|Senator]]
 - [[politicians/parties/PNL|Party: PNL]]
 - [[politicians/constituencies/Bacău|Constituency: Bacău]]
+
+
+## Sensors
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/Bacău|Constituency: Bacău]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=87c4a776-8e64-4e70-a862-4f087aea03e5
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro, parlamint
+
+
+## Processing
+
+- **Party:** Partidul Național Liberal
+- **Constituency:** Bacău
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (Track from proposals)
+
+### Co-Sponsors
+
+- (Track from proposals)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (Track from voting data)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "FENECHIU Cătălin-Daniel"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028
