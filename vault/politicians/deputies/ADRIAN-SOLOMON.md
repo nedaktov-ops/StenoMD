@@ -18,47 +18,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Adrian SOLOMON
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=281&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** VASLUI  
-**Speeches:** 12  
-**Laws Proposed:** 12
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22265]]
-- [[proposals/22277]]
-- [[proposals/21533]]
-- [[proposals/22457]]
-- [[proposals/22317]]
-- [[proposals/22276]]
-- [[proposals/22264]]
-- [[proposals/21668]]
-- [[proposals/21698]]
-- [[proposals/22373]]
-- [[proposals/22434]]
-
-
-## Committees
-
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -71,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=281&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 11
+- **Activity Score:** 23
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -94,23 +68,39 @@ committees:
 - [[proposals/21698]]
 - [[proposals/22373]]
 - [[proposals/22434]]
+- [[proposals/22265]]
+- [[proposals/22277]]
+- [[proposals/21533]]
+- [[proposals/22457]]
+- [[proposals/22317]]
+- [[proposals/22276]]
+- [[proposals/22264]]
+- [[proposals/21668]]
+- [[proposals/21698]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 12
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "281"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

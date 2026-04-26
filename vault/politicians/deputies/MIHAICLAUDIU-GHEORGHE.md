@@ -19,58 +19,19 @@ committees:
   - name: "Health"
     role: "member"
 ---
-
-
-
-
 # Mihai-Claudiu GHEORGHE
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=120&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** CĂLĂRAŞI  
-**Speeches:** 1  
-**Laws Proposed:** 15
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21945]]
-- [[proposals/22430]]
-- [[proposals/22430]]
-- [[proposals/22145]]
-- [[proposals/22072]]
-- [[proposals/21461]]
-- [[proposals/22071]]
-- [[proposals/21763]]
-- [[proposals/21482]]
-- [[proposals/21565]]
-- [[proposals/22262]]
-- [[proposals/22262]]
-- [[proposals/21832]]
-- [[proposals/22324]]
-- [[proposals/22324]]
-- [[proposals/22195]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/22397]]
-- [[proposals/22397]]
-- ... and 9 more
-
-
-## Committees
-
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=120&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 38
+- **Activity Score:** 30
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21668]]
 - [[proposals/22397]]
 - [[proposals/22397]]
-- ... and 9 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "120"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

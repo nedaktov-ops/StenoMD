@@ -19,58 +19,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
-
 # Bianca-Eugenia GAVRILĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=114&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** ALBA  
-**Speeches:** 2  
-**Laws Proposed:** 9
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21731]]
-- [[proposals/21677]]
-- [[proposals/21675]]
-- [[proposals/21318]]
-- [[proposals/21633]]
-- [[proposals/21631]]
-- [[proposals/21363]]
-- [[proposals/21842]]
-- [[proposals/22190]]
-- [[proposals/21833]]
-- [[proposals/21635]]
-- [[proposals/21870]]
-- [[proposals/22143]]
-- [[proposals/21825]]
-- [[proposals/21509]]
-- [[proposals/21638]]
-- [[proposals/22513]]
-- [[proposals/21920]]
-- [[proposals/21891]]
-- [[proposals/21572]]
-- ... and 10 more
-
-
-## Committees
-
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=114&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 35
+- **Activity Score:** 32
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21920]]
 - [[proposals/21891]]
 - [[proposals/21572]]
-- ... and 10 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "114"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

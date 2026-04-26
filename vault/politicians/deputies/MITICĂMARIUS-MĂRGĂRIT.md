@@ -18,57 +18,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
 # Mitică-Marius MĂRGĂRIT
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=186&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** GALAŢI  
-**Speeches:** 3  
-**Laws Proposed:** 10
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21806]]
-- [[proposals/21778]]
-- [[proposals/21657]]
-- [[proposals/22277]]
-- [[proposals/21843]]
-- [[proposals/21631]]
-- [[proposals/21910]]
-- [[proposals/21504]]
-- [[proposals/21363]]
-- [[proposals/21842]]
-- [[proposals/21699]]
-- [[proposals/22107]]
-- [[proposals/22143]]
-- [[proposals/21830]]
-- [[proposals/21638]]
-- [[proposals/22248]]
-- [[proposals/21607]]
-- [[proposals/22317]]
-- [[proposals/21601]]
-- [[proposals/21639]]
-- ... and 9 more
-
-
-## Committees
-
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=186&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 29
+- **Activity Score:** 32
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22317]]
 - [[proposals/21601]]
 - [[proposals/21639]]
-- ... and 9 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "186"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

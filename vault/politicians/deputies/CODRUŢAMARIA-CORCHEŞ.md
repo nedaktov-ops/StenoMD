@@ -19,58 +19,19 @@ committees:
   - name: "Culture"
     role: "member"
 ---
-
-
-
-
 # Codruţa-Maria CORCHEŞ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=77&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** TIMIŞ  
-**Speeches:** 7  
-**Laws Proposed:** 27
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21883]]
-- [[proposals/21943]]
-- [[proposals/22532]]
-- [[proposals/22277]]
-- [[proposals/21884]]
-- [[proposals/22192]]
-- [[proposals/21340]]
-- [[proposals/22072]]
-- [[proposals/21329]]
-- [[proposals/22404]]
-- [[proposals/21746]]
-- [[proposals/21353]]
-- [[proposals/22459]]
-- [[proposals/22454]]
-- [[proposals/22193]]
-- [[proposals/21725]]
-- [[proposals/22071]]
-- [[proposals/22513]]
-- [[proposals/21401]]
-- [[proposals/21341]]
-- ... and 19 more
-
-
-## Committees
-
-- [[committees/Culture|Culture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=77&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 45
+- **Activity Score:** 46
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/22513]]
 - [[proposals/21401]]
 - [[proposals/21341]]
-- ... and 19 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "77"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -19,58 +19,19 @@ committees:
   - name: "Health"
     role: "member"
 ---
-
-
-
-
 # Andreea-Petronela CÎMPIANU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=67&cam=2)
 
-## Profile
 
-**Party:** Partidul S.O.S. România  
-**Constituency:** Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării  
-**Speeches:** 6  
-**Laws Proposed:** 29
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/21945]]
-- [[proposals/22345]]
-- [[proposals/22429]]
-- [[proposals/22447]]
-- [[proposals/21354]]
-- [[proposals/22442]]
-- [[proposals/21585]]
-- [[proposals/21895]]
-- [[proposals/22401]]
-- [[proposals/21896]]
-- [[proposals/22312]]
-- [[proposals/22072]]
-- [[proposals/22389]]
-- [[proposals/21712]]
-- [[proposals/22313]]
-- [[proposals/22404]]
-- [[proposals/21746]]
-- [[proposals/22358]]
-- [[proposals/21635]]
-- ... and 29 more
-
-
-## Committees
-
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=67&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
 - **Activity Score:** 55
 - **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21746]]
 - [[proposals/22358]]
 - [[proposals/21635]]
-- ... and 29 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 6
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "67"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

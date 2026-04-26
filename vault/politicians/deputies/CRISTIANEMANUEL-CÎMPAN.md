@@ -21,59 +21,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
-
 # Cristian-Emanuel CÎMPAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=65&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** BIHOR  
-**Speeches:** 10  
-**Laws Proposed:** 31
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22124]]
-- [[proposals/22125]]
-- [[proposals/22532]]
-- [[proposals/22277]]
-- [[proposals/21504]]
-- [[proposals/21842]]
-- [[proposals/22190]]
-- [[proposals/22137]]
-- [[proposals/21304]]
-- [[proposals/22404]]
-- [[proposals/21635]]
-- [[proposals/21209]]
-- [[proposals/22459]]
-- [[proposals/22454]]
-- [[proposals/22424]]
-- [[proposals/21857]]
-- [[proposals/22513]]
-- [[proposals/21375]]
-- [[proposals/21639]]
-- [[proposals/21210]]
-- ... and 20 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -86,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=65&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 46
+- **Activity Score:** 50
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -118,24 +80,30 @@ committees:
 - [[proposals/21375]]
 - [[proposals/21639]]
 - [[proposals/21210]]
-- ... and 20 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 10
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "65"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

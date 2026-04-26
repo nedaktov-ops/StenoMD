@@ -18,57 +18,19 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
-
-
-
 # Marius-Nicolae ALECSANDRU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=4&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** BUZĂU  
-**Speeches:** 9  
-**Laws Proposed:** 43
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22458]]
-- [[proposals/21675]]
-- [[proposals/22033]]
-- [[proposals/22277]]
-- [[proposals/21760]]
-- [[proposals/22050]]
-- [[proposals/22226]]
-- [[proposals/22273]]
-- [[proposals/21504]]
-- [[proposals/21762]]
-- [[proposals/22443]]
-- [[proposals/22058]]
-- [[proposals/22529]]
-- [[proposals/22072]]
-- [[proposals/22284]]
-- [[proposals/22002]]
-- [[proposals/22071]]
-- [[proposals/21536]]
-- [[proposals/22133]]
-- [[proposals/22411]]
-- ... and 51 more
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=4&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 71
+- **Activity Score:** 80
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21536]]
 - [[proposals/22133]]
 - [[proposals/22411]]
-- ... and 51 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 9
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "4"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

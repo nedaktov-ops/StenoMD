@@ -19,58 +19,19 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
-
-
-
-
 # Răzvan-Mirel CHIRIŢĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=55&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 5  
-**Laws Proposed:** 31
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21943]]
-- [[proposals/22530]]
-- [[proposals/22558]]
-- [[proposals/21807]]
-- [[proposals/22238]]
-- [[proposals/22404]]
-- [[proposals/22511]]
-- [[proposals/22375]]
-- [[proposals/22382]]
-- [[proposals/21716]]
-- [[proposals/22136]]
-- [[proposals/22513]]
-- [[proposals/22364]]
-- [[proposals/21341]]
-- [[proposals/21714]]
-- [[proposals/22302]]
-- [[proposals/22026]]
-- [[proposals/22088]]
-- [[proposals/22539]]
-- [[proposals/21769]]
-- ... and 10 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=55&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 37
+- **Activity Score:** 35
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/22088]]
 - [[proposals/22539]]
 - [[proposals/21769]]
-- ... and 10 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "55"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

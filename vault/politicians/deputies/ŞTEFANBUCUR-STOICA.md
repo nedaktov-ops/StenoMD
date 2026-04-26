@@ -15,37 +15,19 @@ stable_id: pol_8cfbf1a6a29a
 original_elected_party: PNL
 type: deputy
 ---
-
-
-
 # Ştefan-Bucur STOICA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=288&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** DOLJ  
-**Speeches:** 1  
-**Laws Proposed:** 0
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21800]]
-- [[proposals/21341]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21503]]
-- [[proposals/21576]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -58,13 +40,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=288&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 6
+- **Activity Score:** 7
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -76,23 +60,36 @@ type: deputy
 - [[proposals/21668]]
 - [[proposals/21503]]
 - [[proposals/21576]]
+- [[proposals/21800]]
+- [[proposals/21341]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21503]]
+- [[proposals/21576]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "288"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -16,45 +16,19 @@ original_elected_party: POT
 type: deputy
 motions: 5
 ---
-
-
-
-
 # Gheorghe-Valentin RĂDUCEA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=266&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** SUCEAVA  
-**Speeches:** 1  
-**Laws Proposed:** 27
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21560]]
-- [[proposals/21741]]
-- [[proposals/22383]]
-- [[proposals/22424]]
-- [[proposals/22513]]
-- [[proposals/21832]]
-- [[proposals/22525]]
-- [[proposals/22431]]
-- [[proposals/21813]]
-- [[proposals/21942]]
-- [[proposals/22398]]
-- [[proposals/22452]]
-- [[proposals/21903]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -67,13 +41,15 @@ motions: 5
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=266&cam=2
-- **Last Synced:** 2026-04-26 12:38:39
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 18
+- **Activity Score:** 14
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -92,23 +68,37 @@ motions: 5
 - [[proposals/22398]]
 - [[proposals/22452]]
 - [[proposals/21903]]
+- [[proposals/21560]]
+- [[proposals/21741]]
+- [[proposals/22383]]
+- [[proposals/22424]]
+- [[proposals/22513]]
+- [[proposals/21832]]
+- [[proposals/22525]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "266"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

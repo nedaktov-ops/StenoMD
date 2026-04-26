@@ -16,53 +16,19 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
-
-
-
-
 # Ştefăniţă-Alin AVRĂMESCU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=13&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** PRAHOVA  
-**Speeches:** 4  
-**Laws Proposed:** 20
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21806]]
-- [[proposals/21761]]
-- [[proposals/21675]]
-- [[proposals/22033]]
-- [[proposals/21641]]
-- [[proposals/22430]]
-- [[proposals/21354]]
-- [[proposals/21760]]
-- [[proposals/21631]]
-- [[proposals/21598]]
-- [[proposals/21636]]
-- [[proposals/22192]]
-- [[proposals/21762]]
-- [[proposals/22190]]
-- [[proposals/22401]]
-- [[proposals/22058]]
-- [[proposals/21645]]
-- [[proposals/22002]]
-- [[proposals/21599]]
-- [[proposals/21638]]
-- ... and 45 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -75,13 +41,15 @@ motions: 9
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=13&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 74
+- **Activity Score:** 69
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -107,24 +75,30 @@ motions: 9
 - [[proposals/22002]]
 - [[proposals/21599]]
 - [[proposals/21638]]
-- ... and 45 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "13"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

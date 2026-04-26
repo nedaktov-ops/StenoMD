@@ -22,37 +22,19 @@ start_date: "2024-12"
 is_original: true
 type: deputy
 ---
-
-
 # Victor-Viorel PONTA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=248&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** DÂMBOVIŢA  
-**Speeches:** 1  
-**Laws Proposed:** 1
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22264]]
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -65,36 +47,46 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=248&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 1
+- **Activity Score:** 2
 - **Party Alignment:** PSD
+
 
 ## Memory
 
 ### Proposals Sponsored
 
 - [[proposals/22264]]
+- [[proposals/22264]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "248"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -20,58 +20,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Mirela Elena ADOMNICĂI
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=1&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** SUCEAVA  
-**Speeches:** 6  
-**Laws Proposed:** 25
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22345]]
-- [[proposals/22394]]
-- [[proposals/22277]]
-- [[proposals/21760]]
-- [[proposals/22209]]
-- [[proposals/22329]]
-- [[proposals/21762]]
-- [[proposals/22132]]
-- [[proposals/22072]]
-- [[proposals/21329]]
-- [[proposals/21746]]
-- [[proposals/22071]]
-- [[proposals/21536]]
-- [[proposals/21502]]
-- [[proposals/22560]]
-- [[proposals/22245]]
-- [[proposals/22317]]
-- [[proposals/21686]]
-- [[proposals/22540]]
-- [[proposals/22561]]
-- ... and 27 more
-
-
-## Committees
-
-- [[committees/Human Rights|Human Rights]]
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=1&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 47
+- **Activity Score:** 53
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21686]]
 - [[proposals/22540]]
 - [[proposals/22561]]
-- ... and 27 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 6
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "1"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

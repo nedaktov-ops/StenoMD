@@ -19,58 +19,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
-
 # Cosmin-Ioan CORENDEA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=78&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** GIURGIU  
-**Speeches:** 19  
-**Laws Proposed:** 11
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21822]]
-- [[proposals/22430]]
-- [[proposals/22273]]
-- [[proposals/22529]]
-- [[proposals/21329]]
-- [[proposals/21712]]
-- [[proposals/21746]]
-- [[proposals/22284]]
-- [[proposals/21353]]
-- [[proposals/21209]]
-- [[proposals/22454]]
-- [[proposals/22411]]
-- [[proposals/21401]]
-- [[proposals/21341]]
-- [[proposals/21714]]
-- [[proposals/21241]]
-- [[proposals/21844]]
-- [[proposals/21339]]
-- [[proposals/21652]]
-- [[proposals/22363]]
-- ... and 18 more
-
-
-## Committees
-
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=78&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 46
+- **Activity Score:** 57
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21339]]
 - [[proposals/21652]]
 - [[proposals/22363]]
-- ... and 18 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 19
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "78"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

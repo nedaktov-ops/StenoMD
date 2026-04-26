@@ -20,51 +20,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
 # Cătălin-Viorel MÎNDROC
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=202&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** ARGEŞ  
-**Speeches:** 2  
-**Laws Proposed:** 11
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22345]]
-- [[proposals/21354]]
-- [[proposals/21508]]
-- [[proposals/22379]]
-- [[proposals/21639]]
-- [[proposals/22286]]
-- [[proposals/22264]]
-- [[proposals/21582]]
-- [[proposals/21715]]
-- [[proposals/21538]]
-- [[proposals/22373]]
-- [[proposals/22357]]
-- [[proposals/21651]]
-- [[proposals/21823]]
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -77,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=202&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 14
+- **Activity Score:** 16
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -103,23 +73,36 @@ committees:
 - [[proposals/22357]]
 - [[proposals/21651]]
 - [[proposals/21823]]
+- [[proposals/22345]]
+- [[proposals/21354]]
+- [[proposals/21508]]
+- [[proposals/22379]]
+- [[proposals/21639]]
+- [[proposals/22286]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "202"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

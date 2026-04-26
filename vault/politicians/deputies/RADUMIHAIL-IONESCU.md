@@ -16,48 +16,19 @@ original_elected_party: POT
 type: deputy
 motions: 1
 ---
-
-
-
-
 # Radu-Mihail IONESCU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=151&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** BACĂU  
-**Speeches:** 2  
-**Laws Proposed:** 28
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22437]]
-- [[proposals/21354]]
-- [[proposals/21895]]
-- [[proposals/22439]]
-- [[proposals/21896]]
-- [[proposals/22389]]
-- [[proposals/22465]]
-- [[proposals/22466]]
-- [[proposals/22464]]
-- [[proposals/21639]]
-- [[proposals/22438]]
-- [[proposals/22440]]
-- [[proposals/21582]]
-- [[proposals/21715]]
-- [[proposals/22436]]
-- [[proposals/22390]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -70,13 +41,15 @@ motions: 1
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=151&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 17
+- **Activity Score:** 18
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -98,23 +71,34 @@ motions: 1
 - [[proposals/21715]]
 - [[proposals/22436]]
 - [[proposals/22390]]
+- [[proposals/22437]]
+- [[proposals/21354]]
+- [[proposals/21895]]
+- [[proposals/22439]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "151"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

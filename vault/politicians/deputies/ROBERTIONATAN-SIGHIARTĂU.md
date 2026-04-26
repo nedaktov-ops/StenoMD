@@ -20,46 +20,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
 # Robert-Ionatan SIGHIARTĂU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=278&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** BISTRIŢA-NĂSĂUD  
-**Speeches:** 2  
-**Laws Proposed:** 13
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22392]]
-- [[proposals/22345]]
-- [[proposals/21353]]
-- [[proposals/22244]]
-- [[proposals/22387]]
-- [[proposals/22359]]
-- [[proposals/22240]]
-- [[proposals/21131]]
-- [[proposals/22299]]
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -72,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=278&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 9
+- **Activity Score:** 11
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -93,23 +68,39 @@ committees:
 - [[proposals/22240]]
 - [[proposals/21131]]
 - [[proposals/22299]]
+- [[proposals/22392]]
+- [[proposals/22345]]
+- [[proposals/21353]]
+- [[proposals/22244]]
+- [[proposals/22387]]
+- [[proposals/22359]]
+- [[proposals/22240]]
+- [[proposals/21131]]
+- [[proposals/22299]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "278"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

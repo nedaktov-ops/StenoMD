@@ -16,53 +16,19 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
-
-
-
-
 # Nelu-Valentin BADEA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=15&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** TELEORMAN  
-**Speeches:** 2  
-**Laws Proposed:** 30
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22142]]
-- [[proposals/22345]]
-- [[proposals/21731]]
-- [[proposals/21778]]
-- [[proposals/21657]]
-- [[proposals/21657]]
-- [[proposals/22394]]
-- [[proposals/22309]]
-- [[proposals/22430]]
-- [[proposals/21633]]
-- [[proposals/22125]]
-- [[proposals/21902]]
-- [[proposals/21917]]
-- [[proposals/21631]]
-- [[proposals/21631]]
-- [[proposals/21539]]
-- [[proposals/22225]]
-- [[proposals/22076]]
-- [[proposals/21636]]
-- [[proposals/22273]]
-- ... and 86 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -75,13 +41,15 @@ motions: 9
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=15&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 115
+- **Activity Score:** 108
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -107,24 +75,30 @@ motions: 9
 - [[proposals/22076]]
 - [[proposals/21636]]
 - [[proposals/22273]]
-- ... and 86 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "15"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

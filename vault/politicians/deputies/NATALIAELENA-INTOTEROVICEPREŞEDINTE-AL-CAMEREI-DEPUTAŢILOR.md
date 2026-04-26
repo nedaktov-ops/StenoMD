@@ -20,58 +20,19 @@ committees:
   - name: "Education"
     role: "member"
 ---
-
-
-
 # Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=147&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** HUNEDOARA  
-**Speeches:** 108  
-**Laws Proposed:** 16
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22295]]
-- [[proposals/21731]]
-- [[proposals/21778]]
-- [[proposals/21675]]
-- [[proposals/21657]]
-- [[proposals/22265]]
-- [[proposals/22186]]
-- [[proposals/22277]]
-- [[proposals/21910]]
-- [[proposals/21539]]
-- [[proposals/21504]]
-- [[proposals/21363]]
-- [[proposals/22187]]
-- [[proposals/21842]]
-- [[proposals/21733]]
-- [[proposals/21796]]
-- [[proposals/21670]]
-- [[proposals/21830]]
-- [[proposals/21509]]
-- [[proposals/21638]]
-- ... and 21 more
-
-
-## Committees
-
-- [[committees/Education|Education]]
-- [[committees/Education|Education]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=147&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 41
+- **Activity Score:** 149
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21830]]
 - [[proposals/21509]]
 - [[proposals/21638]]
-- ... and 21 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 108
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "147"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

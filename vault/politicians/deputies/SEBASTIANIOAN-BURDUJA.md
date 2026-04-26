@@ -18,57 +18,19 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
-
-
-
 # Sebastian-Ioan BURDUJA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=46&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 3  
-**Laws Proposed:** 14
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22458]]
-- [[proposals/21657]]
-- [[proposals/22415]]
-- [[proposals/21631]]
-- [[proposals/21636]]
-- [[proposals/22273]]
-- [[proposals/21504]]
-- [[proposals/21363]]
-- [[proposals/22529]]
-- [[proposals/22371]]
-- [[proposals/21329]]
-- [[proposals/21366]]
-- [[proposals/21712]]
-- [[proposals/22284]]
-- [[proposals/21353]]
-- [[proposals/21618]]
-- [[proposals/22411]]
-- [[proposals/21401]]
-- [[proposals/22416]]
-- [[proposals/21714]]
-- ... and 30 more
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=46&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 50
+- **Activity Score:** 53
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21401]]
 - [[proposals/22416]]
 - [[proposals/21714]]
-- ... and 30 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "46"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

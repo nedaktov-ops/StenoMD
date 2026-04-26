@@ -20,58 +20,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
 # Mircea-Vasile GOVOR
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=130&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** SATU-MARE  
-**Speeches:** 9  
-**Laws Proposed:** 48
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/22403]]
-- [[proposals/21584]]
-- [[proposals/22532]]
-- [[proposals/22277]]
-- [[proposals/22277]]
-- [[proposals/22402]]
-- [[proposals/22209]]
-- [[proposals/22419]]
-- [[proposals/21803]]
-- [[proposals/22444]]
-- [[proposals/21776]]
-- [[proposals/21944]]
-- [[proposals/21875]]
-- [[proposals/22457]]
-- [[proposals/22418]]
-- [[proposals/22454]]
-- [[proposals/22193]]
-- [[proposals/21341]]
-- [[proposals/22317]]
-- ... and 16 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=130&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 36
+- **Activity Score:** 45
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22193]]
 - [[proposals/21341]]
 - [[proposals/22317]]
-- ... and 16 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 9
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "130"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -18,57 +18,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # CSÉP Éva-Andrea
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=85&cam=2)
 
-## Profile
 
-**Party:** Uniunea Democrată Maghiară din România  
-**Constituency:** MUREŞ  
-**Speeches:** 11  
-**Laws Proposed:** 41
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/22345]]
-- [[proposals/21731]]
-- [[proposals/22275]]
-- [[proposals/21657]]
-- [[proposals/22124]]
-- [[proposals/21633]]
-- [[proposals/22125]]
-- [[proposals/22447]]
-- [[proposals/22336]]
-- [[proposals/21843]]
-- [[proposals/22558]]
-- [[proposals/21845]]
-- [[proposals/22399]]
-- [[proposals/21917]]
-- [[proposals/21585]]
-- [[proposals/21539]]
-- [[proposals/21564]]
-- [[proposals/22444]]
-- [[proposals/21504]]
-- ... and 63 more
-
-
-## Committees
-
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=85&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 83
+- **Activity Score:** 94
 - **Party Alignment:** UDMR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21564]]
 - [[proposals/22444]]
 - [[proposals/21504]]
-- ... and 63 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 11
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "85"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

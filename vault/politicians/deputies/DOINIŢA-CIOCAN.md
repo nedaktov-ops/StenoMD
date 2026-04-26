@@ -22,59 +22,19 @@ committees:
   - name: "Culture"
     role: "member"
 ---
-
-
-
 # Doiniţa CIOCAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=58&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** BRĂILA  
-**Speeches:** 1  
-**Laws Proposed:** 25
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22345]]
-- [[proposals/22403]]
-- [[proposals/22394]]
-- [[proposals/22277]]
-- [[proposals/22377]]
-- [[proposals/22444]]
-- [[proposals/22329]]
-- [[proposals/22132]]
-- [[proposals/22072]]
-- [[proposals/21329]]
-- [[proposals/22457]]
-- [[proposals/22292]]
-- [[proposals/22071]]
-- [[proposals/21208]]
-- [[proposals/21536]]
-- [[proposals/22422]]
-- [[proposals/22560]]
-- [[proposals/22245]]
-- [[proposals/22317]]
-- [[proposals/22223]]
-- ... and 29 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
-- [[committees/Public Administration|Public Administration]]
-- [[committees/Culture|Culture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -87,13 +47,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=58&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 49
+- **Activity Score:** 50
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -119,24 +81,30 @@ committees:
 - [[proposals/22245]]
 - [[proposals/22317]]
 - [[proposals/22223]]
-- ... and 29 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "58"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

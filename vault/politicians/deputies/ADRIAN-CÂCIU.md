@@ -20,58 +20,19 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
-
-
-
 # Adrian CÂCIU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=51&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** DOLJ  
-**Speeches:** 46  
-**Laws Proposed:** 18
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/22345]]
-- [[proposals/22092]]
-- [[proposals/21800]]
-- [[proposals/21474]]
-- [[proposals/22309]]
-- [[proposals/22430]]
-- [[proposals/22277]]
-- [[proposals/21831]]
-- [[proposals/22189]]
-- [[proposals/21875]]
-- [[proposals/22132]]
-- [[proposals/22072]]
-- [[proposals/22072]]
-- [[proposals/22457]]
-- [[proposals/21746]]
-- [[proposals/21746]]
-- [[proposals/22071]]
-- [[proposals/22071]]
-- [[proposals/22379]]
-- ... and 21 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
-- [[committees/Budget, Finance|Budget, Finance]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=51&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 41
+- **Activity Score:** 87
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22071]]
 - [[proposals/22071]]
 - [[proposals/22379]]
-- ... and 21 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 46
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "51"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

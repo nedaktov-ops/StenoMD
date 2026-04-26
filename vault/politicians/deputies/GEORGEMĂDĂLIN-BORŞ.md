@@ -18,57 +18,19 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
-
-
-
 # George-Mădălin BORŞ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=34&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** TELEORMAN  
-**Speeches:** 4  
-**Laws Proposed:** 28
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22345]]
-- [[proposals/21675]]
-- [[proposals/21631]]
-- [[proposals/21910]]
-- [[proposals/22273]]
-- [[proposals/22444]]
-- [[proposals/21363]]
-- [[proposals/21842]]
-- [[proposals/22529]]
-- [[proposals/21733]]
-- [[proposals/21796]]
-- [[proposals/22284]]
-- [[proposals/21635]]
-- [[proposals/21812]]
-- [[proposals/21670]]
-- [[proposals/21471]]
-- [[proposals/22143]]
-- [[proposals/21830]]
-- [[proposals/22193]]
-- [[proposals/21638]]
-- ... and 36 more
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=34&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 56
+- **Activity Score:** 60
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21830]]
 - [[proposals/22193]]
 - [[proposals/21638]]
-- ... and 36 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "34"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

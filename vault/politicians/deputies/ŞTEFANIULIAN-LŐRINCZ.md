@@ -18,57 +18,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
 # Ştefan-Iulian LŐRINCZ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=172&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării  
-**Speeches:** 12  
-**Laws Proposed:** 20
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22458]]
-- [[proposals/22124]]
-- [[proposals/21845]]
-- [[proposals/21585]]
-- [[proposals/22529]]
-- [[proposals/21461]]
-- [[proposals/22284]]
-- [[proposals/21209]]
-- [[proposals/22411]]
-- [[proposals/22379]]
-- [[proposals/22027]]
-- [[proposals/22070]]
-- [[proposals/22319]]
-- [[proposals/21565]]
-- [[proposals/22407]]
-- [[proposals/22363]]
-- [[proposals/22328]]
-- [[proposals/22412]]
-- [[proposals/22421]]
-- [[proposals/22387]]
-- ... and 5 more
-
-
-## Committees
-
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=172&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 25
+- **Activity Score:** 37
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22412]]
 - [[proposals/22421]]
 - [[proposals/22387]]
-- ... and 5 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 12
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "172"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

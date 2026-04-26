@@ -18,50 +18,19 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
-
-
-
 # Radu-Dinel MIRUŢĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** GORJ  
-**Speeches:** 14  
-**Laws Proposed:** 9
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22458]]
-- [[proposals/21855]]
-- [[proposals/21579]]
-- [[proposals/21618]]
-- [[proposals/22383]]
-- [[proposals/21502]]
-- [[proposals/22385]]
-- [[proposals/22367]]
-- [[proposals/22013]]
-- [[proposals/21743]]
-- [[proposals/22421]]
-- [[proposals/22387]]
-- [[proposals/22012]]
-- [[proposals/21342]]
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -74,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 14
+- **Activity Score:** 28
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -100,23 +71,36 @@ committees:
 - [[proposals/22387]]
 - [[proposals/22012]]
 - [[proposals/21342]]
+- [[proposals/22458]]
+- [[proposals/21855]]
+- [[proposals/21579]]
+- [[proposals/21618]]
+- [[proposals/22383]]
+- [[proposals/21502]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 14
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "198"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

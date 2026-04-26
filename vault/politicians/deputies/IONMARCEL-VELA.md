@@ -15,49 +15,19 @@ stable_id: pol_03f090fe4158
 original_elected_party: PNL
 type: deputy
 ---
-
-
-
 # Ion-Marcel VELA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=320&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** CARAŞ-SEVERIN  
-**Speeches:** 5  
-**Laws Proposed:** 26
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22345]]
-- [[proposals/22265]]
-- [[proposals/22415]]
-- [[proposals/22300]]
-- [[proposals/22279]]
-- [[proposals/21329]]
-- [[proposals/21796]]
-- [[proposals/21579]]
-- [[proposals/22368]]
-- [[proposals/22383]]
-- [[proposals/22422]]
-- [[proposals/21690]]
-- [[proposals/22515]]
-- [[proposals/22456]]
-- [[proposals/22264]]
-- [[proposals/22240]]
-- [[proposals/21131]]
-- [[proposals/22426]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -70,13 +40,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=320&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 18
+- **Activity Score:** 23
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -100,23 +72,32 @@ type: deputy
 - [[proposals/22240]]
 - [[proposals/21131]]
 - [[proposals/22426]]
+- [[proposals/22345]]
+- [[proposals/22265]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "320"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

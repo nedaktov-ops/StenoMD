@@ -20,58 +20,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
 # Paul-Claudiu COTÎRLEŢ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=80&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** NEAMŢ  
-**Speeches:** 5  
-**Laws Proposed:** 18
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21943]]
-- [[proposals/22458]]
-- [[proposals/21584]]
-- [[proposals/21800]]
-- [[proposals/22277]]
-- [[proposals/21803]]
-- [[proposals/22273]]
-- [[proposals/21776]]
-- [[proposals/22192]]
-- [[proposals/22410]]
-- [[proposals/22529]]
-- [[proposals/22284]]
-- [[proposals/22193]]
-- [[proposals/21841]]
-- [[proposals/22411]]
-- [[proposals/22379]]
-- [[proposals/22136]]
-- [[proposals/21341]]
-- [[proposals/21535]]
-- [[proposals/22385]]
-- ... and 31 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=80&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 51
+- **Activity Score:** 56
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21341]]
 - [[proposals/21535]]
 - [[proposals/22385]]
-- ... and 31 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "80"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

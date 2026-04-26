@@ -20,58 +20,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Sebastian-Mihai RUSU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=273&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** BRAŞOV  
-**Speeches:** 5  
-**Laws Proposed:** 28
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22392]]
-- [[proposals/22345]]
-- [[proposals/21855]]
-- [[proposals/21340]]
-- [[proposals/21329]]
-- [[proposals/22274]]
-- [[proposals/21746]]
-- [[proposals/21353]]
-- [[proposals/21618]]
-- [[proposals/21816]]
-- [[proposals/22193]]
-- [[proposals/22383]]
-- [[proposals/21208]]
-- [[proposals/22361]]
-- [[proposals/21690]]
-- [[proposals/21401]]
-- [[proposals/22380]]
-- [[proposals/21714]]
-- [[proposals/21949]]
-- [[proposals/22515]]
-- ... and 21 more
-
-
-## Committees
-
-- [[committees/Human Rights|Human Rights]]
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=273&cam=2
-- **Last Synced:** 2026-04-26 12:38:39
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 41
+- **Activity Score:** 46
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21714]]
 - [[proposals/21949]]
 - [[proposals/22515]]
-- ... and 21 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "273"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -19,56 +19,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
-
 # Gabriel-Florinel FLOREA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=108&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** TELEORMAN  
-**Speeches:** 5  
-**Laws Proposed:** 24
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22530]]
-- [[proposals/22430]]
-- [[proposals/22377]]
-- [[proposals/22401]]
-- [[proposals/21817]]
-- [[proposals/22404]]
-- [[proposals/22454]]
-- [[proposals/21476]]
-- [[proposals/22478]]
-- [[proposals/22262]]
-- [[proposals/22324]]
-- [[proposals/21769]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21698]]
-- [[proposals/22397]]
-- [[proposals/21986]]
-- [[proposals/22278]]
-- [[proposals/22450]]
-
-
-## Committees
-
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=108&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 28
+- **Activity Score:** 24
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -112,23 +77,31 @@ committees:
 - [[proposals/21986]]
 - [[proposals/22278]]
 - [[proposals/22450]]
+- [[proposals/22530]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "108"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -20,58 +20,19 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
-
-
-
 # Dumitru VĂDUVA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=317&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** ILFOV  
-**Speeches:** 1  
-**Laws Proposed:** 35
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21731]]
-- [[proposals/21675]]
-- [[proposals/21657]]
-- [[proposals/21633]]
-- [[proposals/21631]]
-- [[proposals/21910]]
-- [[proposals/22273]]
-- [[proposals/21842]]
-- [[proposals/22443]]
-- [[proposals/22529]]
-- [[proposals/21992]]
-- [[proposals/22371]]
-- [[proposals/21733]]
-- [[proposals/21366]]
-- [[proposals/21796]]
-- [[proposals/22284]]
-- [[proposals/21635]]
-- [[proposals/21638]]
-- [[proposals/22411]]
-- [[proposals/22379]]
-- ... and 43 more
-
-
-## Committees
-
-- [[committees/Legal|Legal]]
-- [[committees/Abuse, Corruption|Abuse, Corruption]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=317&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 63
+- **Activity Score:** 64
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21638]]
 - [[proposals/22411]]
 - [[proposals/22379]]
-- ... and 43 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "317"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -20,56 +20,19 @@ committees:
   - name: "Legal"
     role: "member"
 ---
-
-
-
 # Oana MURARIUsecretar al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=213&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** CLUJ  
-**Speeches:** 16  
-**Laws Proposed:** 33
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22435]]
-- [[proposals/22458]]
-- [[proposals/21504]]
-- [[proposals/22266]]
-- [[proposals/21886]]
-- [[proposals/22386]]
-- [[proposals/22367]]
-- [[proposals/22208]]
-- [[proposals/22407]]
-- [[proposals/22470]]
-- [[proposals/22366]]
-- [[proposals/22333]]
-- [[proposals/22328]]
-- [[proposals/22412]]
-- [[proposals/21503]]
-- [[proposals/22330]]
-- [[proposals/22414]]
-- [[proposals/22384]]
-- [[proposals/21576]]
-
-
-## Committees
-
-- [[committees/Human Rights|Human Rights]]
-- [[committees/Legal|Legal]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -82,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=213&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 19
+- **Activity Score:** 35
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -113,23 +78,31 @@ committees:
 - [[proposals/22414]]
 - [[proposals/22384]]
 - [[proposals/21576]]
+- [[proposals/22435]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 16
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "213"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

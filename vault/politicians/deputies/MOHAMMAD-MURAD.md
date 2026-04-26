@@ -19,46 +19,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
-
 # Mohammad MURAD
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=212&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** CONSTANŢA  
-**Speeches:** 2  
-**Laws Proposed:** 5
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21631]]
-- [[proposals/21895]]
-- [[proposals/21896]]
-- [[proposals/22457]]
-- [[proposals/22262]]
-- [[proposals/22324]]
-- [[proposals/21582]]
-- [[proposals/21715]]
-- [[proposals/22450]]
-
-
-## Committees
-
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -71,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=212&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 16
+- **Activity Score:** 11
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -92,23 +67,39 @@ committees:
 - [[proposals/21582]]
 - [[proposals/21715]]
 - [[proposals/22450]]
+- [[proposals/21631]]
+- [[proposals/21895]]
+- [[proposals/21896]]
+- [[proposals/22457]]
+- [[proposals/22262]]
+- [[proposals/22324]]
+- [[proposals/21582]]
+- [[proposals/21715]]
+- [[proposals/22450]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "212"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

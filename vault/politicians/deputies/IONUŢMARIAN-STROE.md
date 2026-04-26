@@ -18,48 +18,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
 # Ionuţ-Marian STROE
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=289&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 2  
-**Laws Proposed:** 6
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22345]]
-- [[proposals/21584]]
-- [[proposals/22415]]
-- [[proposals/22277]]
-- [[proposals/22279]]
-- [[proposals/21476]]
-- [[proposals/21805]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21503]]
-- [[proposals/21583]]
-- [[proposals/21573]]
-
-
-## Committees
-
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -72,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=289&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 12
+- **Activity Score:** 14
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -96,23 +69,38 @@ committees:
 - [[proposals/21503]]
 - [[proposals/21583]]
 - [[proposals/21573]]
+- [[proposals/22345]]
+- [[proposals/21584]]
+- [[proposals/22415]]
+- [[proposals/22277]]
+- [[proposals/22279]]
+- [[proposals/21476]]
+- [[proposals/21805]]
+- [[proposals/21488]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "289"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

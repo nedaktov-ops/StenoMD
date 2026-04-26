@@ -18,57 +18,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
 # Florin-Ionuţ BARBU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=19&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** OLT  
-**Speeches:** 1  
-**Laws Proposed:** 9
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/22033]]
-- [[proposals/21641]]
-- [[proposals/22186]]
-- [[proposals/22532]]
-- [[proposals/21354]]
-- [[proposals/21760]]
-- [[proposals/22402]]
-- [[proposals/21598]]
-- [[proposals/21598]]
-- [[proposals/21762]]
-- [[proposals/21875]]
-- [[proposals/22058]]
-- [[proposals/22058]]
-- [[proposals/21645]]
-- [[proposals/21645]]
-- [[proposals/22002]]
-- [[proposals/22454]]
-- [[proposals/21599]]
-- [[proposals/21536]]
-- ... and 42 more
-
-
-## Committees
-
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=19&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 62
+- **Activity Score:** 63
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22454]]
 - [[proposals/21599]]
 - [[proposals/21536]]
-- ... and 42 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "19"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

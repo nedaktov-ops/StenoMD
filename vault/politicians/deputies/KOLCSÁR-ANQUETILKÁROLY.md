@@ -20,58 +20,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
 # KOLCSÁR Anquetil-Károly
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=161&cam=2)
 
-## Profile
 
-**Party:** Uniunea Democrată Maghiară din România  
-**Constituency:** MUREŞ  
-**Speeches:** 4  
-**Laws Proposed:** 25
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21822]]
-- [[proposals/22124]]
-- [[proposals/21350]]
-- [[proposals/21845]]
-- [[proposals/22399]]
-- [[proposals/21321]]
-- [[proposals/21585]]
-- [[proposals/22444]]
-- [[proposals/21461]]
-- [[proposals/22238]]
-- [[proposals/21809]]
-- [[proposals/22511]]
-- [[proposals/22462]]
-- [[proposals/22375]]
-- [[proposals/22416]]
-- [[proposals/21763]]
-- [[proposals/22027]]
-- [[proposals/22070]]
-- [[proposals/21565]]
-- [[proposals/21764]]
-- ... and 9 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=161&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 29
+- **Activity Score:** 33
 - **Party Alignment:** UDMR
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22070]]
 - [[proposals/21565]]
 - [[proposals/21764]]
-- ... and 9 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "161"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

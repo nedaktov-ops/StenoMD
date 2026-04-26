@@ -18,57 +18,19 @@ committees:
   - name: "Legal"
     role: "member"
 ---
-
-
-
 # Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=192&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** CARAŞ-SEVERIN  
-**Speeches:** 17  
-**Laws Proposed:** 28
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21806]]
-- [[proposals/22403]]
-- [[proposals/22295]]
-- [[proposals/21731]]
-- [[proposals/21778]]
-- [[proposals/21675]]
-- [[proposals/21657]]
-- [[proposals/22265]]
-- [[proposals/21631]]
-- [[proposals/21539]]
-- [[proposals/21504]]
-- [[proposals/21363]]
-- [[proposals/21842]]
-- [[proposals/21510]]
-- [[proposals/22190]]
-- [[proposals/22410]]
-- [[proposals/21733]]
-- [[proposals/21796]]
-- [[proposals/21509]]
-- [[proposals/22249]]
-- ... and 29 more
-
-
-## Committees
-
-- [[committees/Legal|Legal]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=192&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 49
+- **Activity Score:** 66
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21796]]
 - [[proposals/21509]]
 - [[proposals/22249]]
-- ... and 29 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 17
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "192"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

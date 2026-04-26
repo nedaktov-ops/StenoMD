@@ -20,58 +20,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Marius-Constantin BUDĂI
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=42&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** BOTOŞANI  
-**Speeches:** 3  
-**Laws Proposed:** 18
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/22345]]
-- [[proposals/21943]]
-- [[proposals/22403]]
-- [[proposals/21800]]
-- [[proposals/22277]]
-- [[proposals/22209]]
-- [[proposals/21875]]
-- [[proposals/21209]]
-- [[proposals/21209]]
-- [[proposals/22193]]
-- [[proposals/21653]]
-- [[proposals/22136]]
-- [[proposals/21341]]
-- [[proposals/21535]]
-- [[proposals/21375]]
-- [[proposals/22321]]
-- [[proposals/22276]]
-- [[proposals/21769]]
-- [[proposals/22264]]
-- ... and 11 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=42&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 31
+- **Activity Score:** 34
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22276]]
 - [[proposals/21769]]
 - [[proposals/22264]]
-- ... and 11 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "42"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -18,57 +18,19 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
-
-
-
 # Marius-Adrian ISAC
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=156&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** CARAŞ-SEVERIN  
-**Speeches:** 9  
-**Laws Proposed:** 22
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22265]]
-- [[proposals/22277]]
-- [[proposals/21533]]
-- [[proposals/22209]]
-- [[proposals/22410]]
-- [[proposals/21855]]
-- [[proposals/21340]]
-- [[proposals/21807]]
-- [[proposals/21329]]
-- [[proposals/21353]]
-- [[proposals/21812]]
-- [[proposals/21618]]
-- [[proposals/21816]]
-- [[proposals/21208]]
-- [[proposals/22379]]
-- [[proposals/22317]]
-- [[proposals/21763]]
-- [[proposals/22027]]
-- [[proposals/22540]]
-- [[proposals/21844]]
-- ... and 20 more
-
-
-## Committees
-
-- [[committees/Public Administration|Public Administration]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=156&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 40
+- **Activity Score:** 49
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22027]]
 - [[proposals/22540]]
 - [[proposals/21844]]
-- ... and 20 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 9
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "156"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

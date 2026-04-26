@@ -20,58 +20,19 @@ committees:
   - name: "Education"
     role: "member"
 ---
-
-
-
 # Nicolae-Adrian BARA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=18&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** ALBA  
-**Speeches:** 3  
-**Laws Proposed:** 15
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22532]]
-- [[proposals/22399]]
-- [[proposals/22550]]
-- [[proposals/22273]]
-- [[proposals/22410]]
-- [[proposals/21353]]
-- [[proposals/22454]]
-- [[proposals/22411]]
-- [[proposals/21401]]
-- [[proposals/22317]]
-- [[proposals/22348]]
-- [[proposals/21601]]
-- [[proposals/21339]]
-- [[proposals/22264]]
-- [[proposals/21668]]
-- [[proposals/22559]]
-- [[proposals/22406]]
-- [[proposals/22409]]
-- [[proposals/21342]]
-- [[proposals/22373]]
-- ... and 1 more
-
-
-## Committees
-
-- [[committees/Health|Health]]
-- [[committees/Education|Education]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=18&cam=2
-- **Last Synced:** 2026-04-26 12:38:39
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 21
+- **Activity Score:** 24
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22409]]
 - [[proposals/21342]]
 - [[proposals/22373]]
-- ... and 1 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "18"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

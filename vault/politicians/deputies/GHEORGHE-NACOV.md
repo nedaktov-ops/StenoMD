@@ -22,62 +22,40 @@ start_date: "2024-12"
 is_original: true
 type: deputy
 ---
-
-
 # Gheorghe NACOV
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=216&cam=2)
 
-## Profile
 
-**Party:** Unknown  
-**Constituency:**   
-**Speeches:** 5  
-**Laws Proposed:** 8
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21746]]
-- [[proposals/22462]]
-- [[proposals/21208]]
-- [[proposals/22366]]
-- [[proposals/22453]]
-- [[proposals/22335]]
-- [[proposals/22373]]
-- [[proposals/21703]]
-
-
-## Committees
-
-- [[committees/Public Administration|Public Administration]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
 
 - [[politicians/deputies|Deputy]]
-- [[politicians/parties/party_full: Unknown|Party: party_full: Unknown]]
-- [[politicians/constituencies/photo_url: https://www.cdep.ro/parlamentari/l2024/NacovGheorghe.JPG|Constituency: photo_url: https://www.cdep.ro/parlamentari/l2024/NacovGheorghe.JPG]]
+- [[politicians/parties/MIN|Party: MIN]]
+- [[politicians/constituencies/Minority|Constituency: Minority]]
 
 
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=216&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 8
-- **Party Alignment:** party_full: Unknown
+- **Activity Score:** 13
+- **Party Alignment:** MIN
+
 
 ## Memory
 
@@ -91,23 +69,38 @@ type: deputy
 - [[proposals/22335]]
 - [[proposals/22373]]
 - [[proposals/21703]]
+- [[proposals/21746]]
+- [[proposals/22462]]
+- [[proposals/21208]]
+- [[proposals/22366]]
+- [[proposals/22453]]
+- [[proposals/22335]]
+- [[proposals/22373]]
+- [[proposals/21703]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "216"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

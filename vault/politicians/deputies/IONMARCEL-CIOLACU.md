@@ -15,52 +15,19 @@ stable_id: pol_96cb9f98e388
 original_elected_party: PSD
 type: deputy
 ---
-
-
-
 # Ion-Marcel CIOLACU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=59&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** BUZĂU  
-**Speeches:** 4  
-**Laws Proposed:** 5
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21761]]
-- [[proposals/22069]]
-- [[proposals/22186]]
-- [[proposals/21580]]
-- [[proposals/22532]]
-- [[proposals/21598]]
-- [[proposals/21842]]
-- [[proposals/21618]]
-- [[proposals/22454]]
-- [[proposals/22461]]
-- [[proposals/21509]]
-- [[proposals/21599]]
-- [[proposals/21606]]
-- [[proposals/22133]]
-- [[proposals/22139]]
-- [[proposals/22317]]
-- [[proposals/21241]]
-- [[proposals/21623]]
-- [[proposals/22013]]
-- [[proposals/21646]]
-- ... and 13 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -73,13 +40,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=59&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 33
+- **Activity Score:** 37
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -105,24 +74,30 @@ type: deputy
 - [[proposals/21623]]
 - [[proposals/22013]]
 - [[proposals/21646]]
-- ... and 13 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "59"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -18,57 +18,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
 # Teodor LAZĂR
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=167&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** BACĂU  
-**Speeches:** 1  
-**Laws Proposed:** 14
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21806]]
-- [[proposals/21731]]
-- [[proposals/22458]]
-- [[proposals/21633]]
-- [[proposals/21539]]
-- [[proposals/21564]]
-- [[proposals/22273]]
-- [[proposals/21504]]
-- [[proposals/21510]]
-- [[proposals/22529]]
-- [[proposals/21992]]
-- [[proposals/21733]]
-- [[proposals/21561]]
-- [[proposals/22284]]
-- [[proposals/21630]]
-- [[proposals/21638]]
-- [[proposals/22059]]
-- [[proposals/21857]]
-- [[proposals/22411]]
-- [[proposals/21517]]
-- ... and 12 more
-
-
-## Committees
-
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=167&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 32
+- **Activity Score:** 33
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21857]]
 - [[proposals/22411]]
 - [[proposals/21517]]
-- ... and 12 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "167"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

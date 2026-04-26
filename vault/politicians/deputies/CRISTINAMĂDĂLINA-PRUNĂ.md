@@ -22,56 +22,19 @@ start_date: "2024-12"
 is_original: true
 type: deputy
 ---
-
-
 # Cristina-Mădălina PRUNĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=260&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 23  
-**Laws Proposed:** 24
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22273]]
-- [[proposals/21842]]
-- [[proposals/22542]]
-- [[proposals/22529]]
-- [[proposals/21329]]
-- [[proposals/21366]]
-- [[proposals/22284]]
-- [[proposals/21353]]
-- [[proposals/21812]]
-- [[proposals/21618]]
-- [[proposals/22411]]
-- [[proposals/22379]]
-- [[proposals/21365]]
-- [[proposals/21241]]
-- [[proposals/21339]]
-- [[proposals/22433]]
-- [[proposals/22386]]
-- [[proposals/22432]]
-- [[proposals/22393]]
-- [[proposals/22387]]
-- ... and 4 more
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +47,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=260&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 24
+- **Activity Score:** 47
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -116,24 +81,30 @@ type: deputy
 - [[proposals/22432]]
 - [[proposals/22393]]
 - [[proposals/22387]]
-- ... and 4 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 23
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "260"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

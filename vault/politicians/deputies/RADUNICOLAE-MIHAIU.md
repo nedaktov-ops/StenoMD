@@ -18,55 +18,19 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
-
-
-
 # Radu-Nicolae MIHAIU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=189&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 7  
-**Laws Proposed:** 17
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22273]]
-- [[proposals/22529]]
-- [[proposals/22284]]
-- [[proposals/21618]]
-- [[proposals/22411]]
-- [[proposals/22379]]
-- [[proposals/21241]]
-- [[proposals/21844]]
-- [[proposals/22386]]
-- [[proposals/22367]]
-- [[proposals/21652]]
-- [[proposals/22301]]
-- [[proposals/21131]]
-- [[proposals/22413]]
-- [[proposals/21342]]
-- [[proposals/21815]]
-- [[proposals/21576]]
-- [[proposals/22293]]
-- [[proposals/22526]]
-
-
-## Committees
-
-- [[committees/Public Administration|Public Administration]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -79,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=189&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 19
+- **Activity Score:** 26
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -110,23 +76,31 @@ committees:
 - [[proposals/21576]]
 - [[proposals/22293]]
 - [[proposals/22526]]
+- [[proposals/22273]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "189"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

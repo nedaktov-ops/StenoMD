@@ -18,46 +18,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Oana-Silvia ŢOIU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=313&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 14  
-**Laws Proposed:** 20
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22277]]
-- [[proposals/22273]]
-- [[proposals/22411]]
-- [[proposals/22208]]
-- [[proposals/22366]]
-- [[proposals/22363]]
-- [[proposals/22330]]
-- [[proposals/22414]]
-- [[proposals/22434]]
-- [[proposals/22526]]
-
-
-## Committees
-
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -70,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=313&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 10
+- **Activity Score:** 24
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -92,23 +67,40 @@ committees:
 - [[proposals/22414]]
 - [[proposals/22434]]
 - [[proposals/22526]]
+- [[proposals/22277]]
+- [[proposals/22273]]
+- [[proposals/22411]]
+- [[proposals/22208]]
+- [[proposals/22366]]
+- [[proposals/22363]]
+- [[proposals/22330]]
+- [[proposals/22414]]
+- [[proposals/22434]]
+- [[proposals/22526]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 14
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "313"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

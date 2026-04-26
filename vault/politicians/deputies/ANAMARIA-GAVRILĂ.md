@@ -16,53 +16,19 @@ original_elected_party: POT
 type: deputy
 motions: 7
 ---
-
-
-
-
 # Anamaria GAVRILĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=113&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** HUNEDOARA  
-**Speeches:** 44  
-**Laws Proposed:** 18
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21761]]
-- [[proposals/22430]]
-- [[proposals/21760]]
-- [[proposals/21762]]
-- [[proposals/22312]]
-- [[proposals/22313]]
-- [[proposals/21536]]
-- [[proposals/22133]]
-- [[proposals/22513]]
-- [[proposals/21886]]
-- [[proposals/21811]]
-- [[proposals/22129]]
-- [[proposals/22262]]
-- [[proposals/22324]]
-- [[proposals/21802]]
-- [[proposals/22397]]
-- [[proposals/21481]]
-- [[proposals/22311]]
-- [[proposals/21538]]
-- [[proposals/21774]]
-- ... and 3 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -75,13 +41,15 @@ motions: 7
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=113&cam=2
-- **Last Synced:** 2026-04-26 12:38:39
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 30
+- **Activity Score:** 67
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -107,24 +75,30 @@ motions: 7
 - [[proposals/22311]]
 - [[proposals/21538]]
 - [[proposals/21774]]
-- ... and 3 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 44
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "113"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

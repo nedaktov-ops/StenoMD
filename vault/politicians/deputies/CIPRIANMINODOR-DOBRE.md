@@ -20,58 +20,19 @@ committees:
   - name: "Legal"
     role: "member"
 ---
-
-
-
 # Ciprian-Minodor DOBRE
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=92&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** MUREŞ  
-**Speeches:** 3  
-**Laws Proposed:** 16
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21806]]
-- [[proposals/22345]]
-- [[proposals/22415]]
-- [[proposals/22189]]
-- [[proposals/21363]]
-- [[proposals/21842]]
-- [[proposals/22279]]
-- [[proposals/22072]]
-- [[proposals/21329]]
-- [[proposals/21746]]
-- [[proposals/21670]]
-- [[proposals/22454]]
-- [[proposals/22071]]
-- [[proposals/22361]]
-- [[proposals/21607]]
-- [[proposals/21686]]
-- [[proposals/21601]]
-- [[proposals/21639]]
-- [[proposals/22343]]
-- [[proposals/21603]]
-- ... and 17 more
-
-
-## Committees
-
-- [[committees/Education|Education]]
-- [[committees/Legal|Legal]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=92&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 37
+- **Activity Score:** 40
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21639]]
 - [[proposals/22343]]
 - [[proposals/21603]]
-- ... and 17 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "92"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

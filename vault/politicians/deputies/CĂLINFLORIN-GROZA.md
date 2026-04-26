@@ -16,53 +16,19 @@ original_elected_party: POT
 type: deputy
 motions: 2
 ---
-
-
-
-
 # Călin-Florin GROZA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=135&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** MARAMUREŞ  
-**Speeches:** 1  
-**Laws Proposed:** 29
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21350]]
-- [[proposals/21585]]
-- [[proposals/22389]]
-- [[proposals/21461]]
-- [[proposals/21712]]
-- [[proposals/21746]]
-- [[proposals/21209]]
-- [[proposals/22459]]
-- [[proposals/22424]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/22364]]
-- [[proposals/22416]]
-- [[proposals/21918]]
-- [[proposals/21619]]
-- [[proposals/21668]]
-- [[proposals/21711]]
-- [[proposals/22365]]
-- [[proposals/21473]]
-- [[proposals/21810]]
-- ... and 5 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -75,13 +41,15 @@ motions: 2
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=135&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 27
+- **Activity Score:** 26
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -107,24 +75,30 @@ motions: 2
 - [[proposals/22365]]
 - [[proposals/21473]]
 - [[proposals/21810]]
-- ... and 5 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "135"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -20,58 +20,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Crina-Fiorela CHILAT
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=53&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** MARAMUREŞ  
-**Speeches:** 1  
-**Laws Proposed:** 28
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21943]]
-- [[proposals/22403]]
-- [[proposals/22394]]
-- [[proposals/22277]]
-- [[proposals/22377]]
-- [[proposals/22444]]
-- [[proposals/21504]]
-- [[proposals/22192]]
-- [[proposals/22329]]
-- [[proposals/22410]]
-- [[proposals/22457]]
-- [[proposals/22196]]
-- [[proposals/21209]]
-- [[proposals/22193]]
-- [[proposals/22538]]
-- [[proposals/22292]]
-- [[proposals/22422]]
-- [[proposals/22136]]
-- [[proposals/22560]]
-- [[proposals/22245]]
-- ... and 25 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=53&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 45
+- **Activity Score:** 46
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22136]]
 - [[proposals/22560]]
 - [[proposals/22245]]
-- ... and 25 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "53"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

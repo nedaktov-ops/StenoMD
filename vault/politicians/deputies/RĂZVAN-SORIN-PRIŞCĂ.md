@@ -15,39 +15,19 @@ stable_id: pol_4f2aa56fb670
 original_elected_party: PNL
 type: deputy
 ---
-
-
-
 # Răzvan Sorin PRIŞCĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=259&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 2  
-**Laws Proposed:** 12
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22429]]
-- [[proposals/22380]]
-- [[proposals/22362]]
-- [[proposals/22264]]
-- [[proposals/21810]]
-- [[proposals/22509]]
-- [[proposals/21576]]
-- [[proposals/22194]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -60,13 +40,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=259&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 8
+- **Activity Score:** 10
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -80,23 +62,38 @@ type: deputy
 - [[proposals/22509]]
 - [[proposals/21576]]
 - [[proposals/22194]]
+- [[proposals/22429]]
+- [[proposals/22380]]
+- [[proposals/22362]]
+- [[proposals/22264]]
+- [[proposals/21810]]
+- [[proposals/22509]]
+- [[proposals/21576]]
+- [[proposals/22194]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "259"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

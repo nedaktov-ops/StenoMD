@@ -20,58 +20,19 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
-
-
-
 # Graţiela Leocadia GAVRILESCU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=115&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** PRAHOVA  
-**Speeches:** 1  
-**Laws Proposed:** 13
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21800]]
-- [[proposals/22336]]
-- [[proposals/22277]]
-- [[proposals/22558]]
-- [[proposals/21803]]
-- [[proposals/21776]]
-- [[proposals/22410]]
-- [[proposals/21944]]
-- [[proposals/22238]]
-- [[proposals/21209]]
-- [[proposals/21209]]
-- [[proposals/22511]]
-- [[proposals/22375]]
-- [[proposals/22245]]
-- [[proposals/21535]]
-- [[proposals/22317]]
-- [[proposals/21375]]
-- [[proposals/22302]]
-- [[proposals/21990]]
-- [[proposals/22539]]
-- ... and 7 more
-
-
-## Committees
-
-- [[committees/Health|Health]]
-- [[committees/Abuse, Corruption|Abuse, Corruption]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=115&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 27
+- **Activity Score:** 28
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22302]]
 - [[proposals/21990]]
 - [[proposals/22539]]
-- ... and 7 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "115"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

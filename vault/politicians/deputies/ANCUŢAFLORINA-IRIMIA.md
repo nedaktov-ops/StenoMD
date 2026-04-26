@@ -21,46 +21,19 @@ committees:
   - name: "Health"
     role: "member"
 ---
-
-
-
-
 # Ancuţa-Florina IRIMIA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=155&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** IAŞI  
-**Speeches:** 3  
-**Laws Proposed:** 18
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21845]]
-- [[proposals/21585]]
-- [[proposals/22424]]
-- [[proposals/22513]]
-- [[proposals/22195]]
-- [[proposals/21473]]
-- [[proposals/22398]]
-- [[proposals/21861]]
-
-
-## Committees
-
-- [[committees/Human Rights|Human Rights]]
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -73,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=155&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 10
+- **Activity Score:** 11
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -93,23 +68,38 @@ committees:
 - [[proposals/21473]]
 - [[proposals/22398]]
 - [[proposals/21861]]
+- [[proposals/21845]]
+- [[proposals/21585]]
+- [[proposals/22424]]
+- [[proposals/22513]]
+- [[proposals/22195]]
+- [[proposals/21473]]
+- [[proposals/22398]]
+- [[proposals/21861]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "155"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

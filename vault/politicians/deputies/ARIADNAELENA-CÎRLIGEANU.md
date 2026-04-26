@@ -19,58 +19,19 @@ committees:
   - name: "Legal"
     role: "member"
 ---
-
-
-
-
 # Ariadna-Elena CÎRLIGEANU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=69&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** BOTOŞANI  
-**Speeches:** 7  
-**Laws Proposed:** 25
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21761]]
-- [[proposals/21641]]
-- [[proposals/22309]]
-- [[proposals/22430]]
-- [[proposals/21760]]
-- [[proposals/21533]]
-- [[proposals/21598]]
-- [[proposals/22192]]
-- [[proposals/21762]]
-- [[proposals/22401]]
-- [[proposals/22058]]
-- [[proposals/21855]]
-- [[proposals/21340]]
-- [[proposals/21807]]
-- [[proposals/21746]]
-- [[proposals/21645]]
-- [[proposals/21353]]
-- [[proposals/22002]]
-- [[proposals/21618]]
-- [[proposals/21816]]
-- ... and 50 more
-
-
-## Committees
-
-- [[committees/Legal|Legal]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=69&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 79
+- **Activity Score:** 77
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/22002]]
 - [[proposals/21618]]
 - [[proposals/21816]]
-- ... and 50 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "69"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

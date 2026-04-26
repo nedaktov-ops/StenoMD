@@ -21,59 +21,19 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
-
-
-
-
 # Mihai-Adrian ŢIU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2)
 
-## Profile
 
-**Party:** Partidul S.O.S. România  
-**Constituency:** OLT  
-**Speeches:** 8  
-**Laws Proposed:** 45
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/21560]]
-- [[proposals/22447]]
-- [[proposals/22442]]
-- [[proposals/22401]]
-- [[proposals/22312]]
-- [[proposals/22389]]
-- [[proposals/22313]]
-- [[proposals/22404]]
-- [[proposals/22358]]
-- [[proposals/22459]]
-- [[proposals/22388]]
-- [[proposals/22383]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/22364]]
-- [[proposals/22400]]
-- [[proposals/22395]]
-- [[proposals/22287]]
-- [[proposals/22365]]
-- ... and 5 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -86,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 31
+- **Activity Score:** 33
 - **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -118,24 +80,30 @@ committees:
 - [[proposals/22395]]
 - [[proposals/22287]]
 - [[proposals/22365]]
-- ... and 5 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 8
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "312"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

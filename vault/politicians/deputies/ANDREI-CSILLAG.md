@@ -16,53 +16,19 @@ original_elected_party: POT
 type: deputy
 motions: 2
 ---
-
-
-
-
 # Andrei CSILLAG
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=86&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** BISTRIŢA-NĂSĂUD  
-**Speeches:** 1  
-**Laws Proposed:** 27
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21318]]
-- [[proposals/21474]]
-- [[proposals/21741]]
-- [[proposals/22447]]
-- [[proposals/21350]]
-- [[proposals/21533]]
-- [[proposals/22159]]
-- [[proposals/21855]]
-- [[proposals/22132]]
-- [[proposals/21340]]
-- [[proposals/21329]]
-- [[proposals/22389]]
-- [[proposals/22131]]
-- [[proposals/21809]]
-- [[proposals/21809]]
-- [[proposals/21353]]
-- [[proposals/21812]]
-- [[proposals/22028]]
-- [[proposals/22459]]
-- [[proposals/21208]]
-- ... and 44 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -75,13 +41,15 @@ motions: 2
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=86&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 66
+- **Activity Score:** 65
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -107,24 +75,30 @@ motions: 2
 - [[proposals/22028]]
 - [[proposals/22459]]
 - [[proposals/21208]]
-- ... and 44 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "86"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

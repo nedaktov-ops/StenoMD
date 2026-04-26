@@ -18,57 +18,19 @@ committees:
   - name: "Health"
     role: "member"
 ---
-
-
-
 # Georgeta-Carmen HOLBAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=141&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** DÂMBOVIŢA  
-**Speeches:** 2  
-**Laws Proposed:** 18
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22277]]
-- [[proposals/22189]]
-- [[proposals/22399]]
-- [[proposals/22209]]
-- [[proposals/21842]]
-- [[proposals/22410]]
-- [[proposals/21340]]
-- [[proposals/21329]]
-- [[proposals/21366]]
-- [[proposals/22457]]
-- [[proposals/21353]]
-- [[proposals/22245]]
-- [[proposals/22317]]
-- [[proposals/22223]]
-- [[proposals/21365]]
-- [[proposals/21241]]
-- [[proposals/21686]]
-- [[proposals/21339]]
-- [[proposals/21482]]
-- [[proposals/21621]]
-- ... and 10 more
-
-
-## Committees
-
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=141&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 30
+- **Activity Score:** 32
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21339]]
 - [[proposals/21482]]
 - [[proposals/21621]]
-- ... and 10 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "141"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

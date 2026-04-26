@@ -21,59 +21,19 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
-
-
-
-
 # Simona-Elena MACOVEI ILIE
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2)
 
-## Profile
 
-**Party:** Partidul S.O.S. România  
-**Constituency:** IAŞI  
-**Speeches:** 4  
-**Laws Proposed:** 27
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/21877]]
-- [[proposals/21803]]
-- [[proposals/21776]]
-- [[proposals/22401]]
-- [[proposals/21875]]
-- [[proposals/22404]]
-- [[proposals/22358]]
-- [[proposals/22396]]
-- [[proposals/21618]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/22364]]
-- [[proposals/22544]]
-- [[proposals/22400]]
-- [[proposals/21341]]
-- [[proposals/21375]]
-- [[proposals/22395]]
-- [[proposals/21805]]
-- [[proposals/22287]]
-- ... and 9 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Abuse, Corruption|Abuse, Corruption]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -86,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 35
+- **Activity Score:** 33
 - **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -118,24 +80,30 @@ committees:
 - [[proposals/22395]]
 - [[proposals/21805]]
 - [[proposals/22287]]
-- ... and 9 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "175"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

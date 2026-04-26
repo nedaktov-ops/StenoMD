@@ -21,57 +21,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
-
 # Călin-Gheorghe MATIEŞ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=185&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** ALBA  
-**Speeches:** 22  
-**Laws Proposed:** 20
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/21709]]
-- [[proposals/21800]]
-- [[proposals/21803]]
-- [[proposals/21776]]
-- [[proposals/21875]]
-- [[proposals/22193]]
-- [[proposals/22513]]
-- [[proposals/21341]]
-- [[proposals/22262]]
-- [[proposals/22324]]
-- [[proposals/22264]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21503]]
-- [[proposals/21568]]
-- [[proposals/22278]]
-- [[proposals/21576]]
-- [[proposals/22450]]
-
-
-## Committees
-
-- [[committees/Agriculture|Agriculture]]
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=185&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 28
+- **Activity Score:** 41
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,23 +79,31 @@ committees:
 - [[proposals/22278]]
 - [[proposals/21576]]
 - [[proposals/22450]]
+- [[proposals/21877]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 22
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "185"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

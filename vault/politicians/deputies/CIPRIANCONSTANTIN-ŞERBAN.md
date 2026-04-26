@@ -15,52 +15,19 @@ stable_id: pol_375cbb32611e
 original_elected_party: PSD
 type: deputy
 ---
-
-
-
 # Ciprian-Constantin ŞERBAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=294&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** NEAMŢ  
-**Speeches:** 149  
-**Laws Proposed:** 14
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21761]]
-- [[proposals/22295]]
-- [[proposals/22265]]
-- [[proposals/21641]]
-- [[proposals/21354]]
-- [[proposals/22277]]
-- [[proposals/21760]]
-- [[proposals/21598]]
-- [[proposals/21762]]
-- [[proposals/22420]]
-- [[proposals/21645]]
-- [[proposals/21599]]
-- [[proposals/22249]]
-- [[proposals/21536]]
-- [[proposals/21606]]
-- [[proposals/22133]]
-- [[proposals/22139]]
-- [[proposals/22317]]
-- [[proposals/21605]]
-- [[proposals/22551]]
-- ... and 25 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -73,13 +40,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=294&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 45
+- **Activity Score:** 194
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -105,24 +74,30 @@ type: deputy
 - [[proposals/22317]]
 - [[proposals/21605]]
 - [[proposals/22551]]
-- ... and 25 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 149
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "294"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

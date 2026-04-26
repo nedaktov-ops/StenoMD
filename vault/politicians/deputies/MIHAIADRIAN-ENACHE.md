@@ -19,58 +19,19 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
-
-
-
-
 # Mihai-Adrian ENACHE
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=100&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 36  
-**Laws Proposed:** 24
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22530]]
-- [[proposals/22124]]
-- [[proposals/21474]]
-- [[proposals/21641]]
-- [[proposals/22430]]
-- [[proposals/22447]]
-- [[proposals/21350]]
-- [[proposals/21760]]
-- [[proposals/21845]]
-- [[proposals/21585]]
-- [[proposals/21598]]
-- [[proposals/22192]]
-- [[proposals/21762]]
-- [[proposals/22401]]
-- [[proposals/22058]]
-- [[proposals/21461]]
-- [[proposals/21712]]
-- [[proposals/21645]]
-- [[proposals/22358]]
-- [[proposals/22396]]
-- ... and 43 more
-
-
-## Committees
-
-- [[committees/Public Administration|Public Administration]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=100&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 72
+- **Activity Score:** 99
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21645]]
 - [[proposals/22358]]
 - [[proposals/22396]]
-- ... and 43 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 36
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "100"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -21,59 +21,19 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
-
-
-
-
 # Lucian-Florin PUŞCAŞU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=261&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** SUCEAVA  
-**Speeches:** 2  
-**Laws Proposed:** 13
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22530]]
-- [[proposals/21641]]
-- [[proposals/22309]]
-- [[proposals/21354]]
-- [[proposals/21760]]
-- [[proposals/21598]]
-- [[proposals/21762]]
-- [[proposals/22058]]
-- [[proposals/21645]]
-- [[proposals/22002]]
-- [[proposals/21599]]
-- [[proposals/21536]]
-- [[proposals/21606]]
-- [[proposals/22133]]
-- [[proposals/22139]]
-- [[proposals/22001]]
-- [[proposals/22005]]
-- [[proposals/21605]]
-- [[proposals/21642]]
-- [[proposals/21886]]
-- ... and 22 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -86,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=261&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 51
+- **Activity Score:** 44
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -118,24 +80,30 @@ committees:
 - [[proposals/21605]]
 - [[proposals/21642]]
 - [[proposals/21886]]
-- ... and 22 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "261"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

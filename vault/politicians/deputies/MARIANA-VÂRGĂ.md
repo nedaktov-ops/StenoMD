@@ -19,58 +19,19 @@ committees:
   - name: "Legal"
     role: "member"
 ---
-
-
-
-
 # Mariana VÂRGĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=318&cam=2)
 
-## Profile
 
-**Party:** Partidul S.O.S. România  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 19  
-**Laws Proposed:** 30
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/21877]]
-- [[proposals/21800]]
-- [[proposals/22447]]
-- [[proposals/22442]]
-- [[proposals/22401]]
-- [[proposals/21875]]
-- [[proposals/22312]]
-- [[proposals/22389]]
-- [[proposals/22313]]
-- [[proposals/22358]]
-- [[proposals/21209]]
-- [[proposals/22459]]
-- [[proposals/21997]]
-- [[proposals/22388]]
-- [[proposals/22424]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/22400]]
-- [[proposals/21375]]
-- ... and 11 more
-
-
-## Committees
-
-- [[committees/Legal|Legal]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=318&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 32
+- **Activity Score:** 50
 - **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/22513]]
 - [[proposals/22400]]
 - [[proposals/21375]]
-- ... and 11 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 19
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "318"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -20,58 +20,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
 # George GIMA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=125&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** CONSTANŢA  
-**Speeches:** 7  
-**Laws Proposed:** 43
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22435]]
-- [[proposals/21761]]
-- [[proposals/22458]]
-- [[proposals/21800]]
-- [[proposals/21803]]
-- [[proposals/22273]]
-- [[proposals/22444]]
-- [[proposals/21504]]
-- [[proposals/21776]]
-- [[proposals/21944]]
-- [[proposals/22529]]
-- [[proposals/22371]]
-- [[proposals/22284]]
-- [[proposals/22193]]
-- [[proposals/22193]]
-- [[proposals/22411]]
-- [[proposals/21341]]
-- [[proposals/22433]]
-- [[proposals/22319]]
-- [[proposals/21886]]
-- ... and 31 more
-
-
-## Committees
-
-- [[committees/Culture|Culture]]
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=125&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 51
+- **Activity Score:** 58
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22433]]
 - [[proposals/22319]]
 - [[proposals/21886]]
-- ... and 31 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "125"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

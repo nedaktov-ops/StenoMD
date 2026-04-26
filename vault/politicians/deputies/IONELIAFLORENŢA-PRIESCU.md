@@ -19,58 +19,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
-
 # Ionelia-Florenţa PRIESCU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=258&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** GORJ  
-**Speeches:** 10  
-**Laws Proposed:** 31
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/21800]]
-- [[proposals/22430]]
-- [[proposals/21776]]
-- [[proposals/22401]]
-- [[proposals/21875]]
-- [[proposals/22389]]
-- [[proposals/21209]]
-- [[proposals/22193]]
-- [[proposals/21341]]
-- [[proposals/21805]]
-- [[proposals/22262]]
-- [[proposals/22324]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21503]]
-- [[proposals/22397]]
-- [[proposals/21583]]
-- [[proposals/21912]]
-- [[proposals/21573]]
-- ... and 6 more
-
-
-## Committees
-
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=258&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 35
+- **Activity Score:** 36
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21583]]
 - [[proposals/21912]]
 - [[proposals/21573]]
-- ... and 6 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 10
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "258"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

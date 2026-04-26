@@ -20,58 +20,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
 # Alina-Ştefania GORGHIU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=129&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** ARGEŞ  
-**Speeches:** 14  
-**Laws Proposed:** 25
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22392]]
-- [[proposals/22345]]
-- [[proposals/21584]]
-- [[proposals/22394]]
-- [[proposals/22415]]
-- [[proposals/22132]]
-- [[proposals/21329]]
-- [[proposals/21353]]
-- [[proposals/22087]]
-- [[proposals/22193]]
-- [[proposals/22292]]
-- [[proposals/22383]]
-- [[proposals/21900]]
-- [[proposals/22245]]
-- [[proposals/21341]]
-- [[proposals/22317]]
-- [[proposals/22223]]
-- [[proposals/21805]]
-- [[proposals/22268]]
-- [[proposals/22100]]
-- ... and 20 more
-
-
-## Committees
-
-- [[committees/Legal|Legal]]
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=129&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 40
+- **Activity Score:** 54
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21805]]
 - [[proposals/22268]]
 - [[proposals/22100]]
-- ... and 20 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 14
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "129"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

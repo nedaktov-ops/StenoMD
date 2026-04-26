@@ -20,52 +20,19 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
-
-
-
 # Radu MARINESCU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=179&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** DOLJ  
-**Speeches:** 1  
-**Laws Proposed:** 3
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21800]]
-- [[proposals/21504]]
-- [[proposals/21352]]
-- [[proposals/21712]]
-- [[proposals/21476]]
-- [[proposals/21516]]
-- [[proposals/22317]]
-- [[proposals/22264]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21711]]
-- [[proposals/21351]]
-- [[proposals/21319]]
-- [[proposals/22373]]
-- [[proposals/21576]]
-
-
-## Committees
-
-- [[committees/Legal|Legal]]
-- [[committees/Abuse, Corruption|Abuse, Corruption]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -78,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=179&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 15
+- **Activity Score:** 16
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -105,23 +74,35 @@ committees:
 - [[proposals/21319]]
 - [[proposals/22373]]
 - [[proposals/21576]]
+- [[proposals/21800]]
+- [[proposals/21504]]
+- [[proposals/21352]]
+- [[proposals/21712]]
+- [[proposals/21476]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "179"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

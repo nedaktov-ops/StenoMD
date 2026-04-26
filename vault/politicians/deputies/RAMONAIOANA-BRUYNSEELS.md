@@ -21,59 +21,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
-
 # Ramona-Ioana BRUYNSEELS
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=38&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** CLUJ  
-**Speeches:** 22  
-**Laws Proposed:** 13
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21945]]
-- [[proposals/22530]]
-- [[proposals/22069]]
-- [[proposals/21321]]
-- [[proposals/21585]]
-- [[proposals/21486]]
-- [[proposals/22192]]
-- [[proposals/21712]]
-- [[proposals/22454]]
-- [[proposals/22027]]
-- [[proposals/22070]]
-- [[proposals/21482]]
-- [[proposals/21565]]
-- [[proposals/21572]]
-- [[proposals/22262]]
-- [[proposals/22195]]
-- [[proposals/22264]]
-- [[proposals/21711]]
-- [[proposals/22397]]
-- [[proposals/21874]]
-- ... and 8 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -86,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=38&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 37
+- **Activity Score:** 50
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -118,24 +80,30 @@ committees:
 - [[proposals/21711]]
 - [[proposals/22397]]
 - [[proposals/21874]]
-- ... and 8 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 22
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "38"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

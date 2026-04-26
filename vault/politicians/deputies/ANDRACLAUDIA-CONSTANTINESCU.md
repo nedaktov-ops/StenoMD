@@ -16,53 +16,19 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 ---
-
-
-
-
 # Andra-Claudia CONSTANTINESCU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=75&cam=2)
 
-## Profile
 
-**Party:** Partidul S.O.S. România  
-**Constituency:** BRĂILA  
-**Speeches:** 4  
-**Laws Proposed:** 34
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/21675]]
-- [[proposals/22033]]
-- [[proposals/21641]]
-- [[proposals/22430]]
-- [[proposals/22447]]
-- [[proposals/21354]]
-- [[proposals/21760]]
-- [[proposals/21631]]
-- [[proposals/22442]]
-- [[proposals/21598]]
-- [[proposals/22076]]
-- [[proposals/21636]]
-- [[proposals/21504]]
-- [[proposals/22192]]
-- [[proposals/21762]]
-- [[proposals/22401]]
-- [[proposals/22058]]
-- [[proposals/22389]]
-- [[proposals/22313]]
-- ... and 64 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -75,13 +41,15 @@ motions: 6
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=75&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 90
+- **Activity Score:** 88
 - **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -107,24 +75,30 @@ motions: 6
 - [[proposals/22058]]
 - [[proposals/22389]]
 - [[proposals/22313]]
-- ... and 64 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "75"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

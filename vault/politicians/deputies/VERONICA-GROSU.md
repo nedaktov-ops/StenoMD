@@ -23,60 +23,19 @@ committees:
   - name: "Education"
     role: "member"
 ---
-
-
-
-
 # Veronica GROSU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=134&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** SUCEAVA  
-**Speeches:** 5  
-**Laws Proposed:** 28
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22429]]
-- [[proposals/22309]]
-- [[proposals/22430]]
-- [[proposals/22401]]
-- [[proposals/21855]]
-- [[proposals/21807]]
-- [[proposals/21329]]
-- [[proposals/21329]]
-- [[proposals/21746]]
-- [[proposals/21353]]
-- [[proposals/21618]]
-- [[proposals/21816]]
-- [[proposals/22478]]
-- [[proposals/21208]]
-- [[proposals/21690]]
-- [[proposals/21401]]
-- [[proposals/21714]]
-- [[proposals/21619]]
-- [[proposals/21844]]
-- [[proposals/21339]]
-- ... and 17 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Education|Education]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -89,13 +48,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=134&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 46
+- **Activity Score:** 42
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -121,24 +82,30 @@ committees:
 - [[proposals/21619]]
 - [[proposals/21844]]
 - [[proposals/21339]]
-- ... and 17 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "134"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

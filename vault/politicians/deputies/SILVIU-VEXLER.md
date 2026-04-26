@@ -18,76 +18,40 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Silviu VEXLER
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=322&cam=2)
 
-## Profile
 
-**Party:** Unknown  
-**Constituency:**   
-**Speeches:** 10  
-**Laws Proposed:** 10
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21822]]
-- [[proposals/21877]]
-- [[proposals/21943]]
-- [[proposals/21577]]
-- [[proposals/22265]]
-- [[proposals/21987]]
-- [[proposals/21744]]
-- [[proposals/21875]]
-- [[proposals/22378]]
-- [[proposals/21809]]
-- [[proposals/22468]]
-- [[proposals/22462]]
-- [[proposals/21909]]
-- [[proposals/22191]]
-- [[proposals/22025]]
-- [[proposals/22376]]
-- [[proposals/22013]]
-- [[proposals/22423]]
-- [[proposals/21572]]
-- [[proposals/21488]]
-- ... and 12 more
-
-
-## Committees
-
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
 
 - [[politicians/deputies|Deputy]]
-- [[politicians/parties/party_full: Unknown|Party: party_full: Unknown]]
-- [[politicians/constituencies/photo_url: https://www.cdep.ro/parlamentari/l2024/VexlerSilviu.JPG|Constituency: photo_url: https://www.cdep.ro/parlamentari/l2024/VexlerSilviu.JPG]]
+- [[politicians/parties/MIN|Party: MIN]]
+- [[politicians/constituencies/Minority|Constituency: Minority]]
 
 
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=322&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 32
-- **Party Alignment:** party_full: Unknown
+- **Activity Score:** 42
+- **Party Alignment:** MIN
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22423]]
 - [[proposals/21572]]
 - [[proposals/21488]]
-- ... and 12 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 10
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "322"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

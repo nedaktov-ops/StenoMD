@@ -18,57 +18,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
 # Iulian-Alexandru MURARU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=214&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** IAŞI  
-**Speeches:** 7  
-**Laws Proposed:** 24
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22392]]
-- [[proposals/21877]]
-- [[proposals/21800]]
-- [[proposals/22300]]
-- [[proposals/22277]]
-- [[proposals/21504]]
-- [[proposals/21776]]
-- [[proposals/21875]]
-- [[proposals/22368]]
-- [[proposals/22383]]
-- [[proposals/22422]]
-- [[proposals/22416]]
-- [[proposals/21341]]
-- [[proposals/21241]]
-- [[proposals/22540]]
-- [[proposals/22456]]
-- [[proposals/22268]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21698]]
-- ... and 10 more
-
-
-## Committees
-
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=214&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 30
+- **Activity Score:** 37
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21488]]
 - [[proposals/21668]]
 - [[proposals/21698]]
-- ... and 10 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "214"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

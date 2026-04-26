@@ -19,58 +19,19 @@ committees:
   - name: "Health"
     role: "member"
 ---
-
-
-
-
 # Cristina-Irina BUTURĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=47&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** ARGEŞ  
-**Speeches:** 7  
-**Laws Proposed:** 38
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21806]]
-- [[proposals/21943]]
-- [[proposals/21731]]
-- [[proposals/21578]]
-- [[proposals/22530]]
-- [[proposals/21675]]
-- [[proposals/21657]]
-- [[proposals/22430]]
-- [[proposals/21633]]
-- [[proposals/22447]]
-- [[proposals/22399]]
-- [[proposals/21631]]
-- [[proposals/21539]]
-- [[proposals/22076]]
-- [[proposals/21504]]
-- [[proposals/21363]]
-- [[proposals/22187]]
-- [[proposals/21842]]
-- [[proposals/21733]]
-- [[proposals/22389]]
-- ... and 43 more
-
-
-## Committees
-
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=47&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 72
+- **Activity Score:** 70
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21842]]
 - [[proposals/21733]]
 - [[proposals/22389]]
-- ... and 43 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "47"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

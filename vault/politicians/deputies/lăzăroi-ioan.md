@@ -13,83 +13,40 @@ speeches_count: 0
 laws_proposed: 0
 type: deputy
 ---
-committees:
-  - name: "Industries and Services"
-    role: "&nbsp;"
-  - name: "Labour"
-    role: "&nbsp;"
-  - name: "Education"
-    role: "&nbsp;"
-
 # Lăzăroi Ioan
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=169&cam=2)
 
-## Profile
 
-**Party:** Unknown  
-**Constituency:**   
-**Speeches:** 0  
-**Laws Proposed:** 0
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-26*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/21584]]
-- [[proposals/22447]]
-- [[proposals/22442]]
-- [[proposals/21504]]
-- [[proposals/21776]]
-- [[proposals/22401]]
-- [[proposals/22312]]
-- [[proposals/22389]]
-- [[proposals/22313]]
-- [[proposals/22358]]
-- [[proposals/21209]]
-- [[proposals/22388]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/22400]]
-- [[proposals/21241]]
-- [[proposals/22395]]
-- [[proposals/21805]]
-- [[proposals/22013]]
-- ... and 13 more
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
-- [[committees/Labour|Labour]]
-- [[committees/Education|Education]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
 
 - [[politicians/deputies|Deputy]]
-- [[politicians/parties/Unknown|Party: Unknown]]
-- [[politicians/constituencies/photo_url:|Constituency: photo_url:]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/TELEORMAN|Constituency: TELEORMAN]]
 
 
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=169&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 39
-- **Party Alignment:** Unknown
+- **Activity Score:** 0
+- **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -115,24 +72,32 @@ committees:
 - [[proposals/22395]]
 - [[proposals/21805]]
 - [[proposals/22013]]
-- ... and 13 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
+
 - Total: 0
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "169"
 ```
 
 ### Alerts
+
+
 - No speeches recorded
+- No proposals sponsored

@@ -18,57 +18,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
 # Marius-Felix BULEARCĂ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=45&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** PRAHOVA  
-**Speeches:** 5  
-**Laws Proposed:** 41
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22435]]
-- [[proposals/22458]]
-- [[proposals/21778]]
-- [[proposals/21634]]
-- [[proposals/21895]]
-- [[proposals/22542]]
-- [[proposals/21896]]
-- [[proposals/21833]]
-- [[proposals/22405]]
-- [[proposals/22188]]
-- [[proposals/21537]]
-- [[proposals/21209]]
-- [[proposals/21508]]
-- [[proposals/21341]]
-- [[proposals/21804]]
-- [[proposals/21475]]
-- [[proposals/22433]]
-- [[proposals/22319]]
-- [[proposals/21487]]
-- [[proposals/22386]]
-- ... and 22 more
-
-
-## Committees
-
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=45&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 42
+- **Activity Score:** 47
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22319]]
 - [[proposals/21487]]
 - [[proposals/22386]]
-- ... and 22 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "45"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

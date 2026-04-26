@@ -19,54 +19,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
-
 # Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=321&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** ARGEŞ  
-**Speeches:** 24  
-**Laws Proposed:** 35
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21735]]
-- [[proposals/21822]]
-- [[proposals/22430]]
-- [[proposals/21702]]
-- [[proposals/22401]]
-- [[proposals/22404]]
-- [[proposals/21746]]
-- [[proposals/22478]]
-- [[proposals/21625]]
-- [[proposals/22262]]
-- [[proposals/22324]]
-- [[proposals/22397]]
-- [[proposals/21624]]
-- [[proposals/22278]]
-- [[proposals/21576]]
-- [[proposals/22450]]
-- [[proposals/22299]]
-
-
-## Committees
-
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -79,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=321&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 26
+- **Activity Score:** 41
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -108,23 +75,33 @@ committees:
 - [[proposals/21576]]
 - [[proposals/22450]]
 - [[proposals/22299]]
+- [[proposals/21735]]
+- [[proposals/21822]]
+- [[proposals/22430]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 24
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "321"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

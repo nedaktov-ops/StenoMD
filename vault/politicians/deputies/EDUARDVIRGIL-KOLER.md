@@ -21,50 +21,19 @@ committees:
   - name: "Defense"
     role: "member"
 ---
-
-
-
-
 # Eduard-Virgil KOLER
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=162&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** MEHEDINŢI  
-**Speeches:** 8  
-**Laws Proposed:** 15
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22430]]
-- [[proposals/21994]]
-- [[proposals/21536]]
-- [[proposals/21341]]
-- [[proposals/21886]]
-- [[proposals/22129]]
-- [[proposals/22324]]
-- [[proposals/22397]]
-- [[proposals/21481]]
-- [[proposals/21538]]
-- [[proposals/22278]]
-- [[proposals/21242]]
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -77,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=162&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 21
+- **Activity Score:** 20
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -101,23 +72,38 @@ committees:
 - [[proposals/21538]]
 - [[proposals/22278]]
 - [[proposals/21242]]
+- [[proposals/22430]]
+- [[proposals/21994]]
+- [[proposals/21536]]
+- [[proposals/21341]]
+- [[proposals/21886]]
+- [[proposals/22129]]
+- [[proposals/22324]]
+- [[proposals/22397]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 8
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "162"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

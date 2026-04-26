@@ -20,56 +20,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
 # Ciprian PANDEA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=234&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** CĂLĂRAŞI  
-**Speeches:** 1  
-**Laws Proposed:** 24
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22392]]
-- [[proposals/22345]]
-- [[proposals/21800]]
-- [[proposals/22300]]
-- [[proposals/22279]]
-- [[proposals/21618]]
-- [[proposals/22383]]
-- [[proposals/22361]]
-- [[proposals/22422]]
-- [[proposals/22515]]
-- [[proposals/22456]]
-- [[proposals/22268]]
-- [[proposals/22264]]
-- [[proposals/21668]]
-- [[proposals/21698]]
-- [[proposals/21503]]
-- [[proposals/22359]]
-- [[proposals/22297]]
-- [[proposals/22455]]
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -82,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=234&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 19
+- **Activity Score:** 20
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -113,23 +78,31 @@ committees:
 - [[proposals/22359]]
 - [[proposals/22297]]
 - [[proposals/22455]]
+- [[proposals/22392]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "234"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

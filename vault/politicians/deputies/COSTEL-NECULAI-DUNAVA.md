@@ -20,58 +20,19 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
-
-
-
 # Costel Neculai DUNAVA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=97&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** BACĂU  
-**Speeches:** 3  
-**Laws Proposed:** 5
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/21877]]
-- [[proposals/22447]]
-- [[proposals/21875]]
-- [[proposals/22312]]
-- [[proposals/22313]]
-- [[proposals/22358]]
-- [[proposals/22396]]
-- [[proposals/21209]]
-- [[proposals/22087]]
-- [[proposals/21618]]
-- [[proposals/21816]]
-- [[proposals/22193]]
-- [[proposals/21900]]
-- [[proposals/21341]]
-- [[proposals/21535]]
-- [[proposals/22317]]
-- [[proposals/22395]]
-- [[proposals/22191]]
-- [[proposals/22287]]
-- ... and 9 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
-- [[committees/Economic Policies|Economic Policies]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=97&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 29
+- **Activity Score:** 32
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22395]]
 - [[proposals/22191]]
 - [[proposals/22287]]
-- ... and 9 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "97"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -18,57 +18,19 @@ committees:
   - name: "Education"
     role: "member"
 ---
-
-
-
 # SZABÓ Ödön
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=291&cam=2)
 
-## Profile
 
-**Party:** Uniunea Democrată Maghiară din România  
-**Constituency:** BIHOR  
-**Speeches:** 13  
-**Laws Proposed:** 38
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22345]]
-- [[proposals/22458]]
-- [[proposals/22275]]
-- [[proposals/21354]]
-- [[proposals/22558]]
-- [[proposals/22399]]
-- [[proposals/21631]]
-- [[proposals/22550]]
-- [[proposals/22444]]
-- [[proposals/21896]]
-- [[proposals/22238]]
-- [[proposals/22511]]
-- [[proposals/21508]]
-- [[proposals/22462]]
-- [[proposals/22375]]
-- [[proposals/22408]]
-- [[proposals/22302]]
-- [[proposals/22551]]
-- [[proposals/21639]]
-- [[proposals/22268]]
-- ... and 15 more
-
-
-## Committees
-
-- [[committees/Education|Education]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=291&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 35
+- **Activity Score:** 48
 - **Party Alignment:** UDMR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22551]]
 - [[proposals/21639]]
 - [[proposals/22268]]
-- ... and 15 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 13
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "291"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

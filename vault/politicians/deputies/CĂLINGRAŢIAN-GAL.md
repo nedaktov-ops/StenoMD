@@ -20,58 +20,19 @@ committees:
   - name: "Labour"
     role: "member"
 ---
-
-
-
 # Călin-Graţian GAL
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** BIHOR  
-**Speeches:** 8  
-**Laws Proposed:** 34
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22392]]
-- [[proposals/21877]]
-- [[proposals/22345]]
-- [[proposals/21584]]
-- [[proposals/22309]]
-- [[proposals/22415]]
-- [[proposals/22300]]
-- [[proposals/22272]]
-- [[proposals/22277]]
-- [[proposals/21486]]
-- [[proposals/22279]]
-- [[proposals/21875]]
-- [[proposals/22072]]
-- [[proposals/21209]]
-- [[proposals/21209]]
-- [[proposals/22368]]
-- [[proposals/22071]]
-- [[proposals/22383]]
-- [[proposals/22422]]
-- [[proposals/22517]]
-- ... and 32 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Labour|Labour]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 52
+- **Activity Score:** 60
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22383]]
 - [[proposals/22422]]
 - [[proposals/22517]]
-- ... and 32 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 8
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "110"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -16,44 +16,19 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
-
-
-
-
 # Silviu-Florin OANCEA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=230&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** IALOMIŢA  
-**Speeches:** 2  
-**Laws Proposed:** 21
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22069]]
-- [[proposals/22309]]
-- [[proposals/21631]]
-- [[proposals/21842]]
-- [[proposals/21670]]
-- [[proposals/21509]]
-- [[proposals/22478]]
-- [[proposals/22031]]
-- [[proposals/22262]]
-- [[proposals/21479]]
-- [[proposals/22278]]
-- [[proposals/22450]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -66,13 +41,15 @@ motions: 9
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=230&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 21
+- **Activity Score:** 14
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -90,23 +67,38 @@ motions: 9
 - [[proposals/21479]]
 - [[proposals/22278]]
 - [[proposals/22450]]
+- [[proposals/22069]]
+- [[proposals/22309]]
+- [[proposals/21631]]
+- [[proposals/21842]]
+- [[proposals/21670]]
+- [[proposals/21509]]
+- [[proposals/22478]]
+- [[proposals/22031]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "230"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

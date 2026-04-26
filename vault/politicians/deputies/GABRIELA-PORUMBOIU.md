@@ -21,59 +21,19 @@ committees:
   - name: "Legal"
     role: "member"
 ---
-
-
-
-
 # Gabriela PORUMBOIU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=257&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** DOLJ  
-**Speeches:** 15  
-**Laws Proposed:** 36
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/22530]]
-- [[proposals/21584]]
-- [[proposals/21803]]
-- [[proposals/21776]]
-- [[proposals/21352]]
-- [[proposals/22401]]
-- [[proposals/21944]]
-- [[proposals/21875]]
-- [[proposals/22404]]
-- [[proposals/21209]]
-- [[proposals/22459]]
-- [[proposals/22424]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/21341]]
-- [[proposals/21805]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21351]]
-- ... and 7 more
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Legal|Legal]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -86,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=257&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 34
+- **Activity Score:** 42
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -118,24 +80,30 @@ committees:
 - [[proposals/21488]]
 - [[proposals/21668]]
 - [[proposals/21351]]
-- ... and 7 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 15
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "257"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

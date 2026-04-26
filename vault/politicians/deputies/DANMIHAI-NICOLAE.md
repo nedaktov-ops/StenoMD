@@ -21,56 +21,19 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
-
-
-
-
 # Dan-Mihai NICOLAE
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=229&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** PRAHOVA  
-**Speeches:** 2  
-**Laws Proposed:** 30
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22530]]
-- [[proposals/21855]]
-- [[proposals/21366]]
-- [[proposals/22404]]
-- [[proposals/21353]]
-- [[proposals/22424]]
-- [[proposals/22513]]
-- [[proposals/21401]]
-- [[proposals/21365]]
-- [[proposals/21241]]
-- [[proposals/21339]]
-- [[proposals/21652]]
-- [[proposals/22460]]
-- [[proposals/22525]]
-- [[proposals/22431]]
-- [[proposals/21342]]
-- [[proposals/22398]]
-- [[proposals/22452]]
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
-- [[committees/Human Rights|Human Rights]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +46,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=229&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 24
+- **Activity Score:** 20
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -113,23 +78,32 @@ committees:
 - [[proposals/21342]]
 - [[proposals/22398]]
 - [[proposals/22452]]
+- [[proposals/22530]]
+- [[proposals/21855]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "229"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -18,45 +18,19 @@ committees:
   - name: "Culture"
     role: "member"
 ---
-
-
-
 # Adriana Diana TUŞA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=309&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** BUCUREŞTI  
-**Speeches:** 1  
-**Laws Proposed:** 7
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/22403]]
-- [[proposals/21875]]
-- [[proposals/21886]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21503]]
-- [[proposals/22316]]
-- [[proposals/21242]]
-
-
-## Committees
-
-- [[committees/Culture|Culture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -69,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=309&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 9
+- **Activity Score:** 10
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -90,23 +66,39 @@ committees:
 - [[proposals/21503]]
 - [[proposals/22316]]
 - [[proposals/21242]]
+- [[proposals/21877]]
+- [[proposals/22403]]
+- [[proposals/21875]]
+- [[proposals/21886]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21503]]
+- [[proposals/22316]]
+- [[proposals/21242]]
+
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "309"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

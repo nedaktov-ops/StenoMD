@@ -20,58 +20,19 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
-
-
-
 # Mihai-Cătălin BOTEZ
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=36&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** VASLUI  
-**Speeches:** 9  
-**Laws Proposed:** 32
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22458]]
-- [[proposals/22124]]
-- [[proposals/21474]]
-- [[proposals/21350]]
-- [[proposals/21321]]
-- [[proposals/21585]]
-- [[proposals/22273]]
-- [[proposals/22529]]
-- [[proposals/22371]]
-- [[proposals/21461]]
-- [[proposals/21712]]
-- [[proposals/21746]]
-- [[proposals/22284]]
-- [[proposals/22087]]
-- [[proposals/21618]]
-- [[proposals/22454]]
-- [[proposals/22383]]
-- [[proposals/21900]]
-- [[proposals/22411]]
-- [[proposals/22223]]
-- ... and 33 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
-- [[committees/Budget, Finance|Budget, Finance]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=36&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 53
+- **Activity Score:** 62
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/21900]]
 - [[proposals/22411]]
 - [[proposals/22223]]
-- ... and 33 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 9
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "36"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

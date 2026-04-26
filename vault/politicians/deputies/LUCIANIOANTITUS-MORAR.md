@@ -18,57 +18,19 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
-
-
-
 # Lucian-Ioan-Titus MORAR
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=207&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** MARAMUREŞ  
-**Speeches:** 1  
-**Laws Proposed:** 17
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21806]]
-- [[proposals/21731]]
-- [[proposals/21677]]
-- [[proposals/21675]]
-- [[proposals/21657]]
-- [[proposals/22277]]
-- [[proposals/21631]]
-- [[proposals/21539]]
-- [[proposals/22076]]
-- [[proposals/21564]]
-- [[proposals/22444]]
-- [[proposals/21363]]
-- [[proposals/21842]]
-- [[proposals/21699]]
-- [[proposals/21733]]
-- [[proposals/21561]]
-- [[proposals/21670]]
-- [[proposals/21825]]
-- [[proposals/21830]]
-- [[proposals/21509]]
-- ... and 20 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=207&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 40
+- **Activity Score:** 41
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21825]]
 - [[proposals/21830]]
 - [[proposals/21509]]
-- ... and 20 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "207"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -20,58 +20,19 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
-
-
-
 # Răzvan-Iulian CIORTEA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=61&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** CLUJ  
-**Speeches:** 1  
-**Laws Proposed:** 14
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21584]]
-- [[proposals/22532]]
-- [[proposals/22410]]
-- [[proposals/22454]]
-- [[proposals/22193]]
-- [[proposals/22136]]
-- [[proposals/21341]]
-- [[proposals/22317]]
-- [[proposals/21949]]
-- [[proposals/22540]]
-- [[proposals/21805]]
-- [[proposals/22268]]
-- [[proposals/21769]]
-- [[proposals/22264]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21745]]
-- [[proposals/22559]]
-- [[proposals/21503]]
-- [[proposals/21583]]
-- ... and 5 more
-
-
-## Committees
-
-- [[committees/Defense|Defense]]
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=61&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 25
+- **Activity Score:** 26
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22559]]
 - [[proposals/21503]]
 - [[proposals/21583]]
-- ... and 5 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "61"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

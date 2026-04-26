@@ -16,53 +16,19 @@ original_elected_party: SOS
 type: deputy
 motions: 1
 ---
-
-
-
-
 # Iosif-Florin JIANU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=158&cam=2)
 
-## Profile
 
-**Party:** Partidul S.O.S. România  
-**Constituency:** GALAŢI  
-**Speeches:** 1  
-**Laws Proposed:** 24
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22518]]
-- [[proposals/22124]]
-- [[proposals/22447]]
-- [[proposals/21350]]
-- [[proposals/21845]]
-- [[proposals/21321]]
-- [[proposals/21352]]
-- [[proposals/22389]]
-- [[proposals/21461]]
-- [[proposals/21712]]
-- [[proposals/22313]]
-- [[proposals/22358]]
-- [[proposals/22396]]
-- [[proposals/22388]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/22416]]
-- [[proposals/21763]]
-- [[proposals/22027]]
-- [[proposals/22395]]
-- ... and 12 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -75,13 +41,15 @@ motions: 1
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=158&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
 - **Activity Score:** 33
 - **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -107,24 +75,30 @@ motions: 1
 - [[proposals/21763]]
 - [[proposals/22027]]
 - [[proposals/22395]]
-- ... and 12 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "158"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

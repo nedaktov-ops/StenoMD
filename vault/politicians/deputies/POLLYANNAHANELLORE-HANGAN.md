@@ -18,57 +18,19 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
-
-
-
 # Pollyanna-Hanellore HANGAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=140&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** HUNEDOARA  
-**Speeches:** 3  
-**Laws Proposed:** 11
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/21945]]
-- [[proposals/22458]]
-- [[proposals/21800]]
-- [[proposals/21321]]
-- [[proposals/21585]]
-- [[proposals/21504]]
-- [[proposals/21875]]
-- [[proposals/21209]]
-- [[proposals/22087]]
-- [[proposals/21900]]
-- [[proposals/21341]]
-- [[proposals/21763]]
-- [[proposals/21482]]
-- [[proposals/21565]]
-- [[proposals/22386]]
-- [[proposals/22407]]
-- [[proposals/22065]]
-- [[proposals/22363]]
-- [[proposals/22412]]
-- ... and 12 more
-
-
-## Committees
-
-- [[committees/Economic Policies|Economic Policies]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=140&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 32
+- **Activity Score:** 35
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/22065]]
 - [[proposals/22363]]
 - [[proposals/22412]]
-- ... and 12 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "140"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

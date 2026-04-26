@@ -18,57 +18,19 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
-
-
-
 # BENDE Sándor
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=25&cam=2)
 
-## Profile
 
-**Party:** Uniunea Democrată Maghiară din România  
-**Constituency:** HARGHITA  
-**Speeches:** 7  
-**Laws Proposed:** 33
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22275]]
-- [[proposals/21732]]
-- [[proposals/21800]]
-- [[proposals/22336]]
-- [[proposals/22558]]
-- [[proposals/22189]]
-- [[proposals/22444]]
-- [[proposals/22192]]
-- [[proposals/22132]]
-- [[proposals/22072]]
-- [[proposals/22072]]
-- [[proposals/21329]]
-- [[proposals/22238]]
-- [[proposals/21746]]
-- [[proposals/21746]]
-- [[proposals/22087]]
-- [[proposals/22511]]
-- [[proposals/21618]]
-- [[proposals/22462]]
-- [[proposals/22071]]
-- ... and 32 more
-
-
-## Committees
-
-- [[committees/Industries and Services|Industries and Services]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -81,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=25&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 52
+- **Activity Score:** 59
 - **Party Alignment:** UDMR
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21618]]
 - [[proposals/22462]]
 - [[proposals/22071]]
-- ... and 32 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "25"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

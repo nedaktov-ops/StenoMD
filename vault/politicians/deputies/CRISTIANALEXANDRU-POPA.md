@@ -19,53 +19,19 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
-
-
-
-
 # Cristian-Alexandru POPA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=250&cam=2)
 
-## Profile
 
-**Party:** Partidul Oamenilor Tineri  
-**Constituency:** BRAŞOV  
-**Speeches:** 9  
-**Laws Proposed:** 28
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/21577]]
-- [[proposals/22530]]
-- [[proposals/21875]]
-- [[proposals/22404]]
-- [[proposals/22459]]
-- [[proposals/22424]]
-- [[proposals/22513]]
-- [[proposals/21909]]
-- [[proposals/21241]]
-- [[proposals/21616]]
-- [[proposals/21617]]
-- [[proposals/21810]]
-- [[proposals/21559]]
-- [[proposals/21576]]
-- [[proposals/21799]]
-
-
-## Committees
-
-- [[committees/Abuse, Corruption|Abuse, Corruption]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -78,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=250&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 23
+- **Activity Score:** 25
 - **Party Alignment:** POT
+
 
 ## Memory
 
@@ -106,23 +74,34 @@ committees:
 - [[proposals/21559]]
 - [[proposals/21576]]
 - [[proposals/21799]]
+- [[proposals/21877]]
+- [[proposals/21577]]
+- [[proposals/22530]]
+- [[proposals/21875]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 9
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "250"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

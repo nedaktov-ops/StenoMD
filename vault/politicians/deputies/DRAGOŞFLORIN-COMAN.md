@@ -19,58 +19,19 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
-
-
-
-
 # Dragoş-Florin COMAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=74&cam=2)
 
-## Profile
 
-**Party:** Alianţa pentru Unirea Românilor  
-**Constituency:** CĂLĂRAŞI  
-**Speeches:** 3  
-**Laws Proposed:** 29
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21731]]
-- [[proposals/22530]]
-- [[proposals/22265]]
-- [[proposals/22309]]
-- [[proposals/22430]]
-- [[proposals/21633]]
-- [[proposals/22125]]
-- [[proposals/22532]]
-- [[proposals/22277]]
-- [[proposals/22377]]
-- [[proposals/21598]]
-- [[proposals/21539]]
-- [[proposals/21363]]
-- [[proposals/21510]]
-- [[proposals/22190]]
-- [[proposals/21992]]
-- [[proposals/21733]]
-- [[proposals/21833]]
-- [[proposals/21645]]
-- [[proposals/21870]]
-- ... and 31 more
-
-
-## Committees
-
-- [[committees/Public Administration|Public Administration]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -83,13 +44,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=74&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 60
+- **Activity Score:** 54
 - **Party Alignment:** AUR
+
 
 ## Memory
 
@@ -115,24 +78,30 @@ committees:
 - [[proposals/21833]]
 - [[proposals/21645]]
 - [[proposals/21870]]
-- ... and 31 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 3
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "74"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

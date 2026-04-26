@@ -18,50 +18,19 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
-
-
-
 # Voicu VUŞCAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=326&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** ALBA  
-**Speeches:** 11  
-**Laws Proposed:** 25
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22277]]
-- [[proposals/22410]]
-- [[proposals/22348]]
-- [[proposals/22362]]
-- [[proposals/22286]]
-- [[proposals/22381]]
-- [[proposals/22264]]
-- [[proposals/21488]]
-- [[proposals/22347]]
-- [[proposals/22559]]
-- [[proposals/21503]]
-- [[proposals/21568]]
-- [[proposals/22373]]
-- [[proposals/21903]]
-
-
-## Committees
-
-- [[committees/Agriculture|Agriculture]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -74,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=326&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 14
+- **Activity Score:** 25
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -100,23 +71,36 @@ committees:
 - [[proposals/21568]]
 - [[proposals/22373]]
 - [[proposals/21903]]
+- [[proposals/22277]]
+- [[proposals/22410]]
+- [[proposals/22348]]
+- [[proposals/22362]]
+- [[proposals/22286]]
+- [[proposals/22381]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 11
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "326"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -15,52 +15,19 @@ stable_id: pol_8d2f9447a1c9
 original_elected_party: PSD
 type: deputy
 ---
-
-
-
 # Bogdan-Gruia IVAN
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=157&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** BISTRIŢA-NĂSĂUD  
-**Speeches:** 1  
-**Laws Proposed:** 5
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21634]]
-- [[proposals/21896]]
-- [[proposals/22188]]
-- [[proposals/21537]]
-- [[proposals/21509]]
-- [[proposals/21508]]
-- [[proposals/22317]]
-- [[proposals/22540]]
-- [[proposals/21475]]
-- [[proposals/21639]]
-- [[proposals/21487]]
-- [[proposals/22264]]
-- [[proposals/21582]]
-- [[proposals/21715]]
-- [[proposals/21538]]
-- [[proposals/22298]]
-- [[proposals/21484]]
-- [[proposals/21489]]
-- [[proposals/21673]]
-- [[proposals/21507]]
-- ... and 2 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -73,13 +40,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=157&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 22
+- **Activity Score:** 23
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -105,24 +74,30 @@ type: deputy
 - [[proposals/21489]]
 - [[proposals/21673]]
 - [[proposals/21507]]
-- ... and 2 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "157"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

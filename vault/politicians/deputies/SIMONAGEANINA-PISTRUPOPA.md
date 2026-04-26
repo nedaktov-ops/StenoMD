@@ -20,58 +20,19 @@ committees:
   - name: "Health"
     role: "member"
 ---
-
-
-
 # Simona-Geanina PISTRU-POPA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=244&cam=2)
 
-## Profile
 
-**Party:** Partidul Naţional Liberal  
-**Constituency:** ARAD  
-**Speeches:** 7  
-**Laws Proposed:** 36
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22392]]
-- [[proposals/22345]]
-- [[proposals/22415]]
-- [[proposals/22399]]
-- [[proposals/22279]]
-- [[proposals/21340]]
-- [[proposals/21746]]
-- [[proposals/21353]]
-- [[proposals/22368]]
-- [[proposals/22383]]
-- [[proposals/22422]]
-- [[proposals/21690]]
-- [[proposals/21502]]
-- [[proposals/22245]]
-- [[proposals/22515]]
-- [[proposals/22362]]
-- [[proposals/22268]]
-- [[proposals/22343]]
-- [[proposals/21743]]
-- [[proposals/22264]]
-- ... and 5 more
-
-
-## Committees
-
-- [[committees/Public Administration|Public Administration]]
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -84,13 +45,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=244&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 25
+- **Activity Score:** 32
 - **Party Alignment:** PNL
+
 
 ## Memory
 
@@ -116,24 +79,30 @@ committees:
 - [[proposals/22343]]
 - [[proposals/21743]]
 - [[proposals/22264]]
-- ... and 5 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 7
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "244"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

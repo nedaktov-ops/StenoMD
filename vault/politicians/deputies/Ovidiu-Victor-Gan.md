@@ -1,70 +1,31 @@
 ---
 name: Ovidiu Victor Gan
-chamber: deputy
+chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-photo_url: https://www.cdep.ro/parlamentari/l2024/GantOvidiuVictor.JPG
-url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=112&cam=2
-speeches_count: 5
-laws_proposed: 52
-stable_id: pol_94b5dc377cac
-committees: 
-- name: Foreign Policy
-position: &nbsp;
-type: deputy
-idm: 112
 party: Grupul
 party_full: Grupul parlamentar al minorităţilor naţionale
 constituency: BUCUREŞTI
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=112&cam=2
+idm: 112
+speeches_count: 5
+laws_proposed: 52
+type: deputy
 ---
-
-
 
 # Ovidiu Victor Gan
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
-**Source:** [cdep.ro](https://www.cdep.ro)
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=112&cam=2)
 
 
+## Related Sections
 
-## Proposals
-
-- [[proposals/22295]]
-- [[proposals/22458]]
-- [[proposals/21474]]
-- [[proposals/22180]]
-- [[proposals/21760]]
-- [[proposals/22273]]
-- [[proposals/21762]]
-- [[proposals/22058]]
-- [[proposals/22529]]
-- [[proposals/22371]]
-- [[proposals/21461]]
-- [[proposals/21746]]
-- [[proposals/22284]]
-- [[proposals/22002]]
-- [[proposals/22468]]
-- [[proposals/22462]]
-- [[proposals/21536]]
-- [[proposals/22411]]
-- [[proposals/22139]]
-- [[proposals/22248]]
-- ... and 32 more
-## Appearances
-
-- [[2024 Sessions]]
-
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-22 02:49:37*
-
-
-## Committees
-
-- [[committees/Foreign Policy|Foreign Policy]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -77,56 +38,44 @@ constituency: BUCUREŞTI
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=112&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 52
+- **Activity Score:** 57
 - **Party Alignment:** Grupul
+
 
 ## Memory
 
 ### Proposals Sponsored
 
-- [[proposals/22295]]
-- [[proposals/22458]]
-- [[proposals/21474]]
-- [[proposals/22180]]
-- [[proposals/21760]]
-- [[proposals/22273]]
-- [[proposals/21762]]
-- [[proposals/22058]]
-- [[proposals/22529]]
-- [[proposals/22371]]
-- [[proposals/21461]]
-- [[proposals/21746]]
-- [[proposals/22284]]
-- [[proposals/22002]]
-- [[proposals/22468]]
-- [[proposals/22462]]
-- [[proposals/21536]]
-- [[proposals/22411]]
-- [[proposals/22139]]
-- [[proposals/22248]]
-- ... and 32 more
+- (Track from proposals)
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 5
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "112"
 ```
 
-### Alerts
-- No speeches recorded
+
+## Alerts
+

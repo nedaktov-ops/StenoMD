@@ -18,67 +18,40 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
-
-
-
 # Iusein IBRAM
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=146&cam=2)
 
-## Profile
 
-**Party:** Unknown  
-**Constituency:**   
-**Speeches:** 1  
-**Laws Proposed:** 0
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22069]]
-- [[proposals/21580]]
-- [[proposals/21842]]
-- [[proposals/21509]]
-- [[proposals/21771]]
-- [[proposals/22013]]
-- [[proposals/22012]]
-- [[proposals/21693]]
-- [[proposals/21810]]
-- [[proposals/21576]]
-- [[proposals/21799]]
-- [[proposals/21591]]
-
-
-## Committees
-
-- [[committees/Human Rights|Human Rights]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
 
 - [[politicians/deputies|Deputy]]
-- [[politicians/parties/party_full: Unknown|Party: party_full: Unknown]]
-- [[politicians/constituencies/photo_url: https://www.cdep.ro/parlamentari/l2024/IbramIusein.JPG|Constituency: photo_url: https://www.cdep.ro/parlamentari/l2024/IbramIusein.JPG]]
+- [[politicians/parties/MIN|Party: MIN]]
+- [[politicians/constituencies/Minority|Constituency: Minority]]
 
 
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=146&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 12
-- **Party Alignment:** party_full: Unknown
+- **Activity Score:** 13
+- **Party Alignment:** MIN
+
 
 ## Memory
 
@@ -96,23 +69,38 @@ committees:
 - [[proposals/21576]]
 - [[proposals/21799]]
 - [[proposals/21591]]
+- [[proposals/22069]]
+- [[proposals/21580]]
+- [[proposals/21842]]
+- [[proposals/21509]]
+- [[proposals/21771]]
+- [[proposals/22013]]
+- [[proposals/22012]]
+- [[proposals/21693]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 1
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "146"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

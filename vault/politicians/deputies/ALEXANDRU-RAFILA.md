@@ -18,56 +18,19 @@ committees:
   - name: "Health"
     role: "member"
 ---
-
-
-
 # Alexandru RAFILA
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=264&cam=2)
 
-## Profile
 
-**Party:** Partidul Social Democrat  
-**Constituency:** IAŞI  
-**Speeches:** 2  
-**Laws Proposed:** 4
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21842]]
-- [[proposals/21329]]
-- [[proposals/21712]]
-- [[proposals/21746]]
-- [[proposals/21353]]
-- [[proposals/21725]]
-- [[proposals/21690]]
-- [[proposals/21482]]
-- [[proposals/21567]]
-- [[proposals/22264]]
-- [[proposals/21711]]
-- [[proposals/21708]]
-- [[proposals/21566]]
-- [[proposals/21620]]
-- [[proposals/21342]]
-- [[proposals/22357]]
-- [[proposals/21360]]
-- [[proposals/21871]]
-- [[proposals/21868]]
-- [[proposals/21703]]
-
-
-## Committees
-
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -80,13 +43,15 @@ committees:
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=264&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 20
+- **Activity Score:** 22
 - **Party Alignment:** PSD
+
 
 ## Memory
 
@@ -112,23 +77,30 @@ committees:
 - [[proposals/21871]]
 - [[proposals/21868]]
 - [[proposals/21703]]
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 2
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "264"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

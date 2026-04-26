@@ -15,52 +15,19 @@ stable_id: pol_cceeff94244f
 original_elected_party: USR
 type: deputy
 ---
-
-
-
 # Ovidiu-Romulus PARASCHIVESCU
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=236&cam=2)
 
-## Profile
 
-**Party:** Uniunea Salvaţi România  
-**Constituency:** BRAŞOV  
-**Speeches:** 4  
-**Laws Proposed:** 39
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/22435]]
-- [[proposals/22458]]
-- [[proposals/22050]]
-- [[proposals/22542]]
-- [[proposals/22443]]
-- [[proposals/22405]]
-- [[proposals/22379]]
-- [[proposals/21341]]
-- [[proposals/22385]]
-- [[proposals/22433]]
-- [[proposals/22319]]
-- [[proposals/22386]]
-- [[proposals/22367]]
-- [[proposals/22013]]
-- [[proposals/22366]]
-- [[proposals/22412]]
-- [[proposals/22448]]
-- [[proposals/22421]]
-- [[proposals/21503]]
-- [[proposals/22387]]
-- ... and 7 more
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -73,13 +40,15 @@ type: deputy
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=236&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 27
+- **Activity Score:** 31
 - **Party Alignment:** USR
+
 
 ## Memory
 
@@ -105,24 +74,30 @@ type: deputy
 - [[proposals/22421]]
 - [[proposals/21503]]
 - [[proposals/22387]]
-- ... and 7 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "236"
 ```
 
 ### Alerts
-- No speeches recorded
+
+

@@ -18,76 +18,40 @@ committees:
   - name: "Education"
     role: "member"
 ---
-
-
-
 # Dragoş Gabriel ZISOPOL
 
 **Chamber:** Chamber of Deputies  
 **Legislature:** 2024-2028  
 **Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=331&cam=2)
 
-## Profile
 
-**Party:** Unknown  
-**Constituency:**   
-**Speeches:** 4  
-**Laws Proposed:** 20
+## Related Sections
 
-## Notes
-
-*Deputy in the Romanian Parliament*
-
-*Last updated: 2026-04-25 20:11:47*
-
-
-## Proposals
-
-- [[proposals/21877]]
-- [[proposals/22345]]
-- [[proposals/22403]]
-- [[proposals/22275]]
-- [[proposals/21584]]
-- [[proposals/22550]]
-- [[proposals/22444]]
-- [[proposals/21504]]
-- [[proposals/21875]]
-- [[proposals/21209]]
-- [[proposals/21341]]
-- [[proposals/21909]]
-- [[proposals/22540]]
-- [[proposals/22507]]
-- [[proposals/21488]]
-- [[proposals/21668]]
-- [[proposals/21617]]
-- [[proposals/21503]]
-- [[proposals/22406]]
-- [[proposals/22298]]
-- ... and 4 more
-
-
-## Committees
-
-- [[committees/Education|Education]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
 
 - [[politicians/deputies|Deputy]]
-- [[politicians/parties/party_full: Unknown|Party: party_full: Unknown]]
-- [[politicians/constituencies/photo_url: https://www.cdep.ro/parlamentari/l2024/ZisopolDragosGabriel.JPG|Constituency: photo_url: https://www.cdep.ro/parlamentari/l2024/ZisopolDragosGabriel.JPG]]
+- [[politicians/parties/MIN|Party: MIN]]
+- [[politicians/constituencies/Minority|Constituency: Minority]]
 
 
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=331&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 24
-- **Party Alignment:** party_full: Unknown
+- **Activity Score:** 28
+- **Party Alignment:** MIN
+
 
 ## Memory
 
@@ -113,24 +77,30 @@ committees:
 - [[proposals/21503]]
 - [[proposals/22406]]
 - [[proposals/22298]]
-- ... and 4 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 4
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "331"
 ```
 
 ### Alerts
-- No speeches recorded
+
+
