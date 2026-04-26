@@ -1,0 +1,3539 @@
+[
+  {
+    "name": "Dunava Costel Neculai",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "97"
+  },
+  {
+    "name": "Botez Mihai-Ctlin",
+    "position": "Vice-Chairpersons",
+    "party": "USR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "36"
+  },
+  {
+    "name": "Gheorghe Ionel",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "119"
+  },
+  {
+    "name": "Morar Lucian-Ioan-Titus",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "207"
+  },
+  {
+    "name": "Scarlat George",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "276"
+  },
+  {
+    "name": "Lpuan Remus-Gabriel",
+    "position": "Secretaries",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "168"
+  },
+  {
+    "name": "Molnar Andrei",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "206"
+  },
+  {
+    "name": "Stoica Bogdan-Alin",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "286"
+  },
+  {
+    "name": "Buican Cristian",
+    "position": "Members",
+    "party": "PNL",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "43"
+  },
+  {
+    "name": "Cadar Rzvan-Olimpiu",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "49"
+  },
+  {
+    "name": "Cciu Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "51"
+  },
+  {
+    "name": "Chiri Rzvan-Mirel",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "55"
+  },
+  {
+    "name": "Ciocan Doinia",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "58"
+  },
+  {
+    "name": "Grosu Veronica",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "134"
+  },
+  {
+    "name": "Hangan Pollyanna-Hanellore",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "140"
+  },
+  {
+    "name": "Neacu Marian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "222"
+  },
+  {
+    "name": "Negoescu Mihai-Bogdan",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "227"
+  },
+  {
+    "name": "Plopeanu Rodica",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "246"
+  },
+  {
+    "name": "Popa Dorin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "251"
+  },
+  {
+    "name": "Simion George-Nicolae",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "279"
+  },
+  {
+    "name": "Tilea Dumitru",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "301"
+  },
+  {
+    "name": "iu Mihai-Adrian",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "312"
+  },
+  {
+    "name": "Dunava Costel Neculai",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "97"
+  },
+  {
+    "name": "Ponta Victor-Viorel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 1,
+    "committee_name": "Economic Policies",
+    "chamber": "deputy",
+    "mp_id": "248"
+  },
+  {
+    "name": "Huuc Bogdan-Iulian",
+    "position": "Chairperson",
+    "party": "PNL",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "143"
+  },
+  {
+    "name": "Bogdan Ionel-Ovidiu",
+    "position": "Vice-Chairpersons",
+    "party": "PNL",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "31"
+  },
+  {
+    "name": "Cciu Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "51"
+  },
+  {
+    "name": "Govor Mircea-Vasile",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "130"
+  },
+  {
+    "name": "Mikls Zoltn",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "195"
+  },
+  {
+    "name": "Echert Adrian",
+    "position": "Secretaries",
+    "party": "USR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "98"
+  },
+  {
+    "name": "Firczak Iulius Marian",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "107"
+  },
+  {
+    "name": "Pandea Ciprian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "234"
+  },
+  {
+    "name": "Botez Mihai-Ctlin",
+    "position": "Members",
+    "party": "USR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "36"
+  },
+  {
+    "name": "Bruynseels Ramona-Ioana",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "38"
+  },
+  {
+    "name": "Bucura-Oprescu Simona",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "40"
+  },
+  {
+    "name": "Budi Marius-Constantin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "42"
+  },
+  {
+    "name": "Chilat Crina-Fiorela",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "53"
+  },
+  {
+    "name": "Chiril Virgil Alin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "54"
+  },
+  {
+    "name": "Cmpan Cristian-Emanuel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "65"
+  },
+  {
+    "name": "Cotrle Paul-Claudiu",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "80"
+  },
+  {
+    "name": "Drgoescu Cezar-Mihail",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "94"
+  },
+  {
+    "name": "Gal Clin-Graian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "110"
+  },
+  {
+    "name": "Grosu Veronica",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "134"
+  },
+  {
+    "name": "Iancu Marius-Ionel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "145"
+  },
+  {
+    "name": "Kolcsr Anquetil-Kroly",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "161"
+  },
+  {
+    "name": "Koler Eduard-Virgil",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "162"
+  },
+  {
+    "name": "Macovei Ilie Simona-Elena",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "175"
+  },
+  {
+    "name": "Merka Adrian-Miroslav",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "187"
+  },
+  {
+    "name": "Nsui Claudiu-Iulius-Gavril",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "220"
+  },
+  {
+    "name": "Neacu Andreea-Firua",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "221"
+  },
+  {
+    "name": "Popa Maricel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "253"
+  },
+  {
+    "name": "Popovici Florin-Cornel",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "256"
+  },
+  {
+    "name": "Porumboiu Gabriela",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "257"
+  },
+  {
+    "name": "Pucau Lucian-Florin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "261"
+  },
+  {
+    "name": "Sandu Viorica",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "275"
+  },
+  {
+    "name": "Sighiartu Robert-Ionatan",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "278"
+  },
+  {
+    "name": "Szke Ecaterina-Mariana",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "292"
+  },
+  {
+    "name": "Vidra Vlad-Andrei",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "323"
+  },
+  {
+    "name": "Sandu Viorica",
+    "position": "Vice-Chairpersons",
+    "party": "PSD",
+    "committee_id": 2,
+    "committee_name": "Budget, Finance",
+    "chamber": "deputy",
+    "mp_id": "275"
+  },
+  {
+    "name": "Bende Sndor",
+    "position": "Chairperson",
+    "party": "UDMR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "25"
+  },
+  {
+    "name": "Crligea Florin-Eugen",
+    "position": "Vice-Chairpersons",
+    "party": "AUR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "68"
+  },
+  {
+    "name": "Mititelu Eduard-Tatian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "199"
+  },
+  {
+    "name": "Prun Cristina-Mdlina",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "260"
+  },
+  {
+    "name": "Toma Ilie",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "305"
+  },
+  {
+    "name": "Barstan Tiberiu-Claudiu",
+    "position": "Secretaries",
+    "party": "AUR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "20"
+  },
+  {
+    "name": "Lzroi Ioan",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "169"
+  },
+  {
+    "name": "Manta Claudiu",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "178"
+  },
+  {
+    "name": "Alecsandru Marius-Nicolae",
+    "position": "Members",
+    "party": "USR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "4"
+  },
+  {
+    "name": "Bor George-Mdlin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "34"
+  },
+  {
+    "name": "Burduja Sebastian-Ioan",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "46"
+  },
+  {
+    "name": "Colea Ilie-Alin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "72"
+  },
+  {
+    "name": "Constantinescu Sergiu-Mircea",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "76"
+  },
+  {
+    "name": "Cotinescu Ilie-Aurelian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "79"
+  },
+  {
+    "name": "Culeaf Mihai",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "88"
+  },
+  {
+    "name": "Gl Kroly",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "111"
+  },
+  {
+    "name": "Ghigiu Alexandru-Mihai",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "124"
+  },
+  {
+    "name": "Longher Ghervazen",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "171"
+  },
+  {
+    "name": "Marussi George-Nicolae",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "181"
+  },
+  {
+    "name": "Miru Radu-Dinel",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "198"
+  },
+  {
+    "name": "Mndroc Ctlin-Viorel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "202"
+  },
+  {
+    "name": "Nicolae Dan-Mihai",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "229"
+  },
+  {
+    "name": "Plopeanu Rodica",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "246"
+  },
+  {
+    "name": "Ponta Victor-Viorel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "248"
+  },
+  {
+    "name": "Pucau Lucian-Florin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "261"
+  },
+  {
+    "name": "Roca Mircea",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "272"
+  },
+  {
+    "name": "Trif Bogdan Gheorghe",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "307"
+  },
+  {
+    "name": "iu Mihai-Adrian",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "312"
+  },
+  {
+    "name": "Plopeanu Rodica",
+    "position": "Secretaries",
+    "party": "Unknown",
+    "committee_id": 3,
+    "committee_name": "Industries and Services",
+    "chamber": "deputy",
+    "mp_id": "246"
+  },
+  {
+    "name": "Ciunt Ionel",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "64"
+  },
+  {
+    "name": "Knczei Csaba",
+    "position": "Vice-Chairpersons",
+    "party": "UDMR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "163"
+  },
+  {
+    "name": "Matie Clin-Gheorghe",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "185"
+  },
+  {
+    "name": "Popa Alexandru",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "249"
+  },
+  {
+    "name": "Vucan Voicu",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "326"
+  },
+  {
+    "name": "Blaga Daniel-Codru",
+    "position": "Secretaries",
+    "party": "USR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "29"
+  },
+  {
+    "name": "Florea Gabriel-Florinel",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "108"
+  },
+  {
+    "name": "Samoil Ion",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "274"
+  },
+  {
+    "name": "Barbu Florin-Ionu",
+    "position": "Members",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "19"
+  },
+  {
+    "name": "Boutar Tiberiu-Nicolae",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "35"
+  },
+  {
+    "name": "Ciubuc Ciprian",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "62"
+  },
+  {
+    "name": "Cmpan Cristian-Emanuel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "65"
+  },
+  {
+    "name": "Cozma Adrian-Felician",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "81"
+  },
+  {
+    "name": "Geamnu Aurora-Adela",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "116"
+  },
+  {
+    "name": "Goidescu Ionel",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "128"
+  },
+  {
+    "name": "Govor Mircea-Vasile",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "130"
+  },
+  {
+    "name": "Iordache Ion",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "153"
+  },
+  {
+    "name": "Kolcsr Anquetil-Kroly",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "161"
+  },
+  {
+    "name": "Magyar Lornd-Blint",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "176"
+  },
+  {
+    "name": "Marussi George-Nicolae",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "181"
+  },
+  {
+    "name": "Pandea Ciprian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "234"
+  },
+  {
+    "name": "Pascalini Nini-Alexandru",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "237"
+  },
+  {
+    "name": "Punescu Silviu-Titus",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "240"
+  },
+  {
+    "name": "Pclian Gheorghe-Petru",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "245"
+  },
+  {
+    "name": "Plujar Andrei George",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "247"
+  },
+  {
+    "name": "Priescu Ionelia-Florena",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "258"
+  },
+  {
+    "name": "Sandu Viorica",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "275"
+  },
+  {
+    "name": "Scarlat George",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "276"
+  },
+  {
+    "name": "Stoenic Irina-Florentina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "284"
+  },
+  {
+    "name": "iplea Dumitru",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "311"
+  },
+  {
+    "name": "Velcescu Florin-Bogdan",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 4,
+    "committee_name": "Agriculture",
+    "chamber": "deputy",
+    "mp_id": "321"
+  },
+  {
+    "name": "Feodor Silviu",
+    "position": "Chairperson",
+    "party": "MIN",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "105"
+  },
+  {
+    "name": "Ba Ana-Marcela",
+    "position": "Vice-Chairpersons",
+    "party": "SOS",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "21"
+  },
+  {
+    "name": "Ionescu Monica",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "150"
+  },
+  {
+    "name": "Irimia Ancua-Florina",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "155"
+  },
+  {
+    "name": "Pun Nicolae",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "239"
+  },
+  {
+    "name": "Mark Attila-Gbor",
+    "position": "Secretaries",
+    "party": "UDMR",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "180"
+  },
+  {
+    "name": "Adomnici Mirela Elena",
+    "position": "Members",
+    "party": "PSD",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "1"
+  },
+  {
+    "name": "Bordian Alexandru",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "33"
+  },
+  {
+    "name": "Bucur Ariana-Oana",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "39"
+  },
+  {
+    "name": "Dasclu Cristina-Emanuela",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "89"
+  },
+  {
+    "name": "Dolineaschi Andrei",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "93"
+  },
+  {
+    "name": "Kulcsr-Terza Jzsef-Gyrgy",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "165"
+  },
+  {
+    "name": "Moiseev Alexandrin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "204"
+  },
+  {
+    "name": "Murariu Oana",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "213"
+  },
+  {
+    "name": "Neculaescu Laureniu Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "226"
+  },
+  {
+    "name": "Nicolae Dan-Mihai",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "229"
+  },
+  {
+    "name": "Pascalini Nini-Alexandru",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "237"
+  },
+  {
+    "name": "Pea-tefnescu Eliza-Mdlina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "242"
+  },
+  {
+    "name": "Popa George-Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "252"
+  },
+  {
+    "name": "Popescu Antonio-Gabi",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "255"
+  },
+  {
+    "name": "Rusu Sebastian-Mihai",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "273"
+  },
+  {
+    "name": "Stancu Ionel",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "282"
+  },
+  {
+    "name": "erban George Ctlin",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "295"
+  },
+  {
+    "name": "Ibram Iusein",
+    "position": "Chairperson",
+    "party": "MIN",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "146"
+  },
+  {
+    "name": "Pun Nicolae",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "239"
+  },
+  {
+    "name": "Feodor Silviu",
+    "position": "Vice-Chairpersons",
+    "party": "MIN",
+    "committee_id": 5,
+    "committee_name": "Human Rights",
+    "chamber": "deputy",
+    "mp_id": "105"
+  },
+  {
+    "name": "Roman Florin-Claudiu",
+    "position": "Chairperson",
+    "party": "PNL",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "271"
+  },
+  {
+    "name": "Biro Daniel-Rzvan",
+    "position": "Vice-Chairpersons",
+    "party": "AUR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "27"
+  },
+  {
+    "name": "Chiril Virgil Alin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "54"
+  },
+  {
+    "name": "Mihaiu Radu-Nicolae",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "189"
+  },
+  {
+    "name": "Pistru-Popa Simona-Geanina",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "244"
+  },
+  {
+    "name": "Nagy Szabolcs",
+    "position": "Secretaries",
+    "party": "UDMR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "217"
+  },
+  {
+    "name": "Stnescu Vetua",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "283"
+  },
+  {
+    "name": "Toader Bogdan-Andrei",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "303"
+  },
+  {
+    "name": "Bogdnel Lucian-Gabriel",
+    "position": "Members",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "32"
+  },
+  {
+    "name": "Bucura-Oprescu Simona",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "40"
+  },
+  {
+    "name": "Ciobotaru Drago-Fnic",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "57"
+  },
+  {
+    "name": "Ciocan Doinia",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "58"
+  },
+  {
+    "name": "Coliban Allen",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "73"
+  },
+  {
+    "name": "Coman Drago-Florin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "74"
+  },
+  {
+    "name": "Cristian Brian",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "82"
+  },
+  {
+    "name": "Enache Mihai-Adrian",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "100"
+  },
+  {
+    "name": "Ene Gabriela-Corina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "102"
+  },
+  {
+    "name": "Georgescu Gheorghe-Daniel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "117"
+  },
+  {
+    "name": "Gheorghiu Andrei-Florin",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "121"
+  },
+  {
+    "name": "Goidescu Ionel",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "128"
+  },
+  {
+    "name": "Grofu Daniel",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "132"
+  },
+  {
+    "name": "Isac Marius-Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "156"
+  },
+  {
+    "name": "Matei Aneta",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "182"
+  },
+  {
+    "name": "Nacov Gheorghe",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "216"
+  },
+  {
+    "name": "Neagu Petre-Emanoil",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "223"
+  },
+  {
+    "name": "Pea-tefnescu Eliza-Mdlina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "242"
+  },
+  {
+    "name": "Seres Dnes",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "277"
+  },
+  {
+    "name": "erban Gianina",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "296"
+  },
+  {
+    "name": "Tanas Dan",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "298"
+  },
+  {
+    "name": "Teslariu Andrei-Ionu",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "300"
+  },
+  {
+    "name": "iplea Dumitru",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "311"
+  },
+  {
+    "name": "Vedina Verginia",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 6,
+    "committee_name": "Public Administration",
+    "chamber": "deputy",
+    "mp_id": "319"
+  },
+  {
+    "name": "Solomon Adrian",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "281"
+  },
+  {
+    "name": "Csp va-Andrea",
+    "position": "Vice-Chairpersons",
+    "party": "UDMR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "85"
+  },
+  {
+    "name": "Nea Eugen",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "225"
+  },
+  {
+    "name": "Rusu Sebastian-Mihai",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "273"
+  },
+  {
+    "name": "Vexler Silviu",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "322"
+  },
+  {
+    "name": "Adomnici Mirela Elena",
+    "position": "Secretaries",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "1"
+  },
+  {
+    "name": "Budi Marius-Constantin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "42"
+  },
+  {
+    "name": "Vulpoiu Dorel",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "325"
+  },
+  {
+    "name": "Berescu Monica-Elena",
+    "position": "Members",
+    "party": "USR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "26"
+  },
+  {
+    "name": "Bucur Ariana-Oana",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "39"
+  },
+  {
+    "name": "Chilat Crina-Fiorela",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "53"
+  },
+  {
+    "name": "Coarn Dumitru",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "70"
+  },
+  {
+    "name": "Gal Clin-Graian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "110"
+  },
+  {
+    "name": "Lzroi Ioan",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "169"
+  },
+  {
+    "name": "Mitrea Dumitrina",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "200"
+  },
+  {
+    "name": "Mo Patricia-Simina-Arina",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "208"
+  },
+  {
+    "name": "Murad Mohammad",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "212"
+  },
+  {
+    "name": "Muat Doru-Lucian",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "215"
+  },
+  {
+    "name": "Popa Dorin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "251"
+  },
+  {
+    "name": "Rinder Ana-Smaranda",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "268"
+  },
+  {
+    "name": "Roman Florin-Claudiu",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "271"
+  },
+  {
+    "name": "Stoenic Irina-Florentina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "284"
+  },
+  {
+    "name": "Stoica Alin-Bogdan",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "285"
+  },
+  {
+    "name": "Turcan Raluca",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "308"
+  },
+  {
+    "name": "oiu Oana-Silvia",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 7,
+    "committee_name": "Labour",
+    "chamber": "deputy",
+    "mp_id": "313"
+  },
+  {
+    "name": "Rafila Alexandru",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "264"
+  },
+  {
+    "name": "Mihalcea Remus-Gabriel",
+    "position": "Vice-Chairpersons",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "191"
+  },
+  {
+    "name": "Muncaciu Sorin-Titus",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "210"
+  },
+  {
+    "name": "Nassar Rodica",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "219"
+  },
+  {
+    "name": "Vass Levente",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "316"
+  },
+  {
+    "name": "Rinder Ana-Smaranda",
+    "position": "Secretaries",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "268"
+  },
+  {
+    "name": "Ungureanu Emanuel-Dumitru",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "314"
+  },
+  {
+    "name": "Baciu Romic-Andrei",
+    "position": "Members",
+    "party": "PNL",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "14"
+  },
+  {
+    "name": "Bara Nicolae-Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "18"
+  },
+  {
+    "name": "Butur Cristina-Irina",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "47"
+  },
+  {
+    "name": "Cmpean Ovidiu-Vasile",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "66"
+  },
+  {
+    "name": "Cmpianu Andreea-Petronela",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "67"
+  },
+  {
+    "name": "Colea Ilie-Alin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "72"
+  },
+  {
+    "name": "Feodor Silviu",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "105"
+  },
+  {
+    "name": "Gavrilescu Graiela Leocadia",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "115"
+  },
+  {
+    "name": "Gheorghe Mihai-Claudiu",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "120"
+  },
+  {
+    "name": "Holban Georgeta-Carmen",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "141"
+  },
+  {
+    "name": "Iagr Monica",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "144"
+  },
+  {
+    "name": "Irimia Ancua-Florina",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "155"
+  },
+  {
+    "name": "Oprea Octavian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "232"
+  },
+  {
+    "name": "Pistru-Popa Simona-Geanina",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "244"
+  },
+  {
+    "name": "Popa George-Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "252"
+  },
+  {
+    "name": "Rogobete Alexandru-Florin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "270"
+  },
+  {
+    "name": "Stoica Diana",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "287"
+  },
+  {
+    "name": "Szke Ecaterina-Mariana",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "292"
+  },
+  {
+    "name": "Toader Elena-Laura",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "304"
+  },
+  {
+    "name": "Wiener Adrian",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "328"
+  },
+  {
+    "name": "Zakarias Zoltn",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "330"
+  },
+  {
+    "name": "Rogobete Alexandru-Florin",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "270"
+  },
+  {
+    "name": "Wiener Adrian",
+    "position": "Secretaries",
+    "party": "USR",
+    "committee_id": 8,
+    "committee_name": "Health",
+    "chamber": "deputy",
+    "mp_id": "328"
+  },
+  {
+    "name": "Ghigiu Alexandru-Mihai",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "124"
+  },
+  {
+    "name": "Bucur Ariana-Oana",
+    "position": "Vice-Chairpersons",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "39"
+  },
+  {
+    "name": "Dasclu Cristina-Emanuela",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "89"
+  },
+  {
+    "name": "Gliga Dumitria",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "127"
+  },
+  {
+    "name": "Szab dn",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "291"
+  },
+  {
+    "name": "Atanasiu Corina",
+    "position": "Secretaries",
+    "party": "USR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "12"
+  },
+  {
+    "name": "Gurlui Silviu-Octavian",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "136"
+  },
+  {
+    "name": "Tomoescu Ion-Alin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "306"
+  },
+  {
+    "name": "Andrei Cosmin",
+    "position": "Members",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "8"
+  },
+  {
+    "name": "Bara Nicolae-Adrian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "18"
+  },
+  {
+    "name": "Cmpean Ovidiu-Vasile",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "66"
+  },
+  {
+    "name": "Crstici Ognean",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "83"
+  },
+  {
+    "name": "Dobre Ciprian-Minodor",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "92"
+  },
+  {
+    "name": "Drinceanu Vlad-Florentin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "95"
+  },
+  {
+    "name": "Grosu Veronica",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "134"
+  },
+  {
+    "name": "Intotero Natalia-Elena",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "147"
+  },
+  {
+    "name": "Ionescu Tudor",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "152"
+  },
+  {
+    "name": "Kntor Boglrka",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "159"
+  },
+  {
+    "name": "Kroncsi Sebastian-Andrei",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "164"
+  },
+  {
+    "name": "Lzroi Ioan",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "169"
+  },
+  {
+    "name": "Matache Oana",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "334"
+  },
+  {
+    "name": "Miclu Samuel-Virgil",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "188"
+  },
+  {
+    "name": "Pascariu Mihai-Cosmin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "238"
+  },
+  {
+    "name": "Pirtea Marilen - Gabriel",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "243"
+  },
+  {
+    "name": "Rigman Ciprian-Doru",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "267"
+  },
+  {
+    "name": "endroiu Vlad-Ioan",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "293"
+  },
+  {
+    "name": "Turcan Raluca",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "308"
+  },
+  {
+    "name": "Zisopol Drago Gabriel",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "331"
+  },
+  {
+    "name": "Intotero Natalia-Elena",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "147"
+  },
+  {
+    "name": "Dobo Elena",
+    "position": "Secretaries",
+    "party": "AUR",
+    "committee_id": 9,
+    "committee_name": "Education",
+    "chamber": "deputy",
+    "mp_id": "91"
+  },
+  {
+    "name": "Neamu George-Mihail",
+    "position": "Chairperson",
+    "party": "AUR",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "224"
+  },
+  {
+    "name": "Gima George",
+    "position": "Vice-Chairpersons",
+    "party": "USR",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "125"
+  },
+  {
+    "name": "Petrechi Nicolae-Miroslav",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "241"
+  },
+  {
+    "name": "Vadim-Tudor Lidia",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "315"
+  },
+  {
+    "name": "Vulpescu Ioan",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "324"
+  },
+  {
+    "name": "Bogdnel Lucian-Gabriel",
+    "position": "Secretaries",
+    "party": "PSD",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "32"
+  },
+  {
+    "name": "Bianu tefan-Alexandru",
+    "position": "Members",
+    "party": "PSD",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "22"
+  },
+  {
+    "name": "Ciocan Doinia",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "58"
+  },
+  {
+    "name": "Corche Codrua-Maria",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "77"
+  },
+  {
+    "name": "Gheorghe Andrei Daniel",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "118"
+  },
+  {
+    "name": "Gu Andrei-Cosmin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "137"
+  },
+  {
+    "name": "Ionescu Tudor",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "152"
+  },
+  {
+    "name": "Kelemen Hunor",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "160"
+  },
+  {
+    "name": "Rigman Ciprian-Doru",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "267"
+  },
+  {
+    "name": "tirbu Gigel-Sorinel",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "297"
+  },
+  {
+    "name": "Turcan Raluca",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "308"
+  },
+  {
+    "name": "Tua Adriana Diana",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "309"
+  },
+  {
+    "name": "Zahoranszki Brigitta-Eva",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 10,
+    "committee_name": "Culture",
+    "chamber": "deputy",
+    "mp_id": "329"
+  },
+  {
+    "name": "Ciuc Liviu-Bogdan",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "63"
+  },
+  {
+    "name": "Dobre Ciprian-Minodor",
+    "position": "Vice-Chairpersons",
+    "party": "PNL",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "92"
+  },
+  {
+    "name": "Ion Stelian-Cristian",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "149"
+  },
+  {
+    "name": "Munteanu Valeriu",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "211"
+  },
+  {
+    "name": "Pea-tefnescu Eliza-Mdlina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "242"
+  },
+  {
+    "name": "Cozma Adrian-Felician",
+    "position": "Secretaries",
+    "party": "PNL",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "81"
+  },
+  {
+    "name": "Ladnyi Lszl-Zsolt",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "166"
+  },
+  {
+    "name": "Neagu Petre-Emanoil",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "223"
+  },
+  {
+    "name": "Andronache Gabriel",
+    "position": "Members",
+    "party": "PNL",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "9"
+  },
+  {
+    "name": "Badiu Georgel",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "16"
+  },
+  {
+    "name": "Ba Ana-Marcela",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "21"
+  },
+  {
+    "name": "Becali George",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "23"
+  },
+  {
+    "name": "Crligeanu Ariadna-Elena",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "69"
+  },
+  {
+    "name": "Dimitriu Alexandru-Paul",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "90"
+  },
+  {
+    "name": "Ene Gabriela-Corina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "102"
+  },
+  {
+    "name": "Gliga Dumitria",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "127"
+  },
+  {
+    "name": "Gorghiu Alina-tefania",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "129"
+  },
+  {
+    "name": "Hajdu Gbor",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "139"
+  },
+  {
+    "name": "Ion Nicolae-Mirel",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "148"
+  },
+  {
+    "name": "Lovin Ramona",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "173"
+  },
+  {
+    "name": "Marinescu Radu",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "179"
+  },
+  {
+    "name": "Mihalcea Silvia-Claudia",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "192"
+  },
+  {
+    "name": "Molnar Andrei",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "206"
+  },
+  {
+    "name": "Murariu Oana",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "213"
+  },
+  {
+    "name": "Popa tefan-Ovidiu",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "254"
+  },
+  {
+    "name": "Porumboiu Gabriela",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "257"
+  },
+  {
+    "name": "Simu Aurora-Tasica",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "280"
+  },
+  {
+    "name": "Stancu Ionel",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "282"
+  },
+  {
+    "name": "erban George Ctlin",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "295"
+  },
+  {
+    "name": "Tanas Dan",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "298"
+  },
+  {
+    "name": "Toader Bogdan-Andrei",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "303"
+  },
+  {
+    "name": "Vduva Dumitru",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "317"
+  },
+  {
+    "name": "Vrg Mariana",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 11,
+    "committee_name": "Legal",
+    "chamber": "deputy",
+    "mp_id": "318"
+  },
+  {
+    "name": "Weber Mihai",
+    "position": "Chairperson",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "327"
+  },
+  {
+    "name": "Baciu Romic-Andrei",
+    "position": "Vice-Chairpersons",
+    "party": "PNL",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "14"
+  },
+  {
+    "name": "Fifor Mihai-Viorel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "106"
+  },
+  {
+    "name": "Rducanu Sebastian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "265"
+  },
+  {
+    "name": "Rodeanu Bogdan-Ionel",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "269"
+  },
+  {
+    "name": "Bruynseels Ramona-Ioana",
+    "position": "Secretaries",
+    "party": "AUR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "38"
+  },
+  {
+    "name": "Matichescu Mirela-Florena",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "184"
+  },
+  {
+    "name": "Mndroc Ctlin-Viorel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "202"
+  },
+  {
+    "name": "Andrei Alexandru-Ioan",
+    "position": "Members",
+    "party": "PNL",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "7"
+  },
+  {
+    "name": "Badiu Georgel",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "16"
+  },
+  {
+    "name": "Bouda tefan",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "37"
+  },
+  {
+    "name": "Bulearc Marius-Felix",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "45"
+  },
+  {
+    "name": "Chiril Virgil Alin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "54"
+  },
+  {
+    "name": "Ciornei Daniel-Ctlin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "60"
+  },
+  {
+    "name": "Ciortea Rzvan-Iulian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "61"
+  },
+  {
+    "name": "Cotinescu Ilie-Aurelian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "79"
+  },
+  {
+    "name": "Cozma Adrian-Felician",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "81"
+  },
+  {
+    "name": "Fget Mdlin-Laureniu",
+    "position": "&nbsp;",
+    "party": "Unknown",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "103"
+  },
+  {
+    "name": "Grofu Daniel",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "132"
+  },
+  {
+    "name": "Iagr Monica",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "144"
+  },
+  {
+    "name": "Ion Nicolae-Mirel",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "148"
+  },
+  {
+    "name": "Kelemen Hunor",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "160"
+  },
+  {
+    "name": "Koler Eduard-Virgil",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "162"
+  },
+  {
+    "name": "Lazr Teodor",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "167"
+  },
+  {
+    "name": "Manole Petre-Florin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "177"
+  },
+  {
+    "name": "Matie Clin-Gheorghe",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "185"
+  },
+  {
+    "name": "Mrgrit Mitic-Marius",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "186"
+  },
+  {
+    "name": "Moteanu Liviu-Ionu",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "209"
+  },
+  {
+    "name": "Muraru Iulian-Alexandru",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "214"
+  },
+  {
+    "name": "Ncu Sorin",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "332"
+  },
+  {
+    "name": "Priceputu Vasilic",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "333"
+  },
+  {
+    "name": "Tanas tefan",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "299"
+  },
+  {
+    "name": "Vidra Vlad-Andrei",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "323"
+  },
+  {
+    "name": "Manole Petre-Florin",
+    "position": "Vice-Chairpersons",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "177"
+  },
+  {
+    "name": "Mircea Florin",
+    "position": "Secretaries",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "197"
+  },
+  {
+    "name": "Rducanu Sebastian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 12,
+    "committee_name": "Defense",
+    "chamber": "deputy",
+    "mp_id": "265"
+  },
+  {
+    "name": "Hajdu Gbor",
+    "position": "Chairperson",
+    "party": "UDMR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "139"
+  },
+  {
+    "name": "Corendea Cosmin-Ioan",
+    "position": "Vice-Chairpersons",
+    "party": "AUR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "78"
+  },
+  {
+    "name": "Gorghiu Alina-tefania",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "129"
+  },
+  {
+    "name": "Mihalcea Ioan",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "190"
+  },
+  {
+    "name": "int tefan",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "310"
+  },
+  {
+    "name": "Cotrle Paul-Claudiu",
+    "position": "Secretaries",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "80"
+  },
+  {
+    "name": "Dobo Elena",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "91"
+  },
+  {
+    "name": "Lrincz tefan-Iulian",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "172"
+  },
+  {
+    "name": "Balan Ioan",
+    "position": "Members",
+    "party": "PNL",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "17"
+  },
+  {
+    "name": "Bulai Iulian",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "44"
+  },
+  {
+    "name": "Ciortea Rzvan-Iulian",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "61"
+  },
+  {
+    "name": "Dasclu Cristina-Emanuela",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "89"
+  },
+  {
+    "name": "Furtun Mirela",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "109"
+  },
+  {
+    "name": "Gan Ovidiu Victor",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "112"
+  },
+  {
+    "name": "Gavril Bianca-Eugenia",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "114"
+  },
+  {
+    "name": "Gima George",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "125"
+  },
+  {
+    "name": "Manole Petre-Florin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "177"
+  },
+  {
+    "name": "Miclu Samuel-Virgil",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "188"
+  },
+  {
+    "name": "Neamu George-Mihail",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "224"
+  },
+  {
+    "name": "Oltenau Sorin-George",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "231"
+  },
+  {
+    "name": "Pirtea Marilen - Gabriel",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "243"
+  },
+  {
+    "name": "Sighiartu Robert-Ionatan",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "278"
+  },
+  {
+    "name": "Stroe Ionu-Marian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "289"
+  },
+  {
+    "name": "Suciu Vasile-Daniel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "290"
+  },
+  {
+    "name": "Tlvr Angel",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 13,
+    "committee_name": "Foreign Policy",
+    "chamber": "deputy",
+    "mp_id": "302"
+  },
+  {
+    "name": "Gherasim Laura",
+    "position": "Chairperson",
+    "party": "AUR",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "123"
+  },
+  {
+    "name": "Andruc Lucian-Nicolae",
+    "position": "Vice-Chairpersons",
+    "party": "PSD",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "10"
+  },
+  {
+    "name": "Ciornei Daniel-Ctlin",
+    "position": "&nbsp;",
+    "party": "AUR",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "60"
+  },
+  {
+    "name": "Macovei Ilie Simona-Elena",
+    "position": "&nbsp;",
+    "party": "SOS",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "175"
+  },
+  {
+    "name": "Popa Dorin",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "251"
+  },
+  {
+    "name": "Balan Ioan",
+    "position": "Secretaries",
+    "party": "PNL",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "17"
+  },
+  {
+    "name": "Ciobanu Adrian-Virgil",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "56"
+  },
+  {
+    "name": "Rigman Ciprian-Doru",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "267"
+  },
+  {
+    "name": "Becali George",
+    "position": "Members",
+    "party": "Unknown",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "23"
+  },
+  {
+    "name": "Cruoveanu Marian",
+    "position": "&nbsp;",
+    "party": "PNL",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "84"
+  },
+  {
+    "name": "Ene Gabriela-Corina",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "102"
+  },
+  {
+    "name": "Gavrilescu Graiela Leocadia",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "115"
+  },
+  {
+    "name": "Knczei Csaba",
+    "position": "&nbsp;",
+    "party": "UDMR",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "163"
+  },
+  {
+    "name": "Longher Ghervazen",
+    "position": "&nbsp;",
+    "party": "MIN",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "171"
+  },
+  {
+    "name": "Marinescu Radu",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "179"
+  },
+  {
+    "name": "Matichescu Mirela-Florena",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "184"
+  },
+  {
+    "name": "Popa Cristian-Alexandru",
+    "position": "&nbsp;",
+    "party": "POT",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "250"
+  },
+  {
+    "name": "Toma Ilie",
+    "position": "&nbsp;",
+    "party": "PSD",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "305"
+  },
+  {
+    "name": "Vduva Dumitru",
+    "position": "&nbsp;",
+    "party": "USR",
+    "committee_id": 14,
+    "committee_name": "Abuse, Corruption",
+    "chamber": "deputy",
+    "mp_id": "317"
+  }
+]

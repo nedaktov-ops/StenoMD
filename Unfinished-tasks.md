@@ -59,13 +59,53 @@ committees:
 
 ## IN PROGRESS
 
-*No tasks currently in progress.*
+### Task 002: Phase 4.1 - Bill Tracking + MP Linking
+**ID:** TASK-002  
+**Status:** IN PROGRESS
+**Priority:** HIGH  
+**Created:** 2026-04-26  
+**Last Checked:** 2026-04-26
+
+**Phase Reference:** STRATEGY.md Phase 4.1: Bill Tracking
+
+**Instructions:**
+Link bill sponsors to MP profiles:
+1. Load Open Parliament proposals data
+2. Extract law registration numbers
+3. Match to vault law files
+4. Extract initiator IDs → stable_ids mapping
+5. Add sponsors field to law frontmatter
+6. Add process_stage based on status
+
+**Notes:**
+- Limited matching: Only 5/124 laws have Open Parliament IDs (2023-2025 only)
+- Requires web scraping for additional bills (deferred)
+- Current legislature coverage: 2024 proposals available
 
 ---
 
 ## READY TO START
 
-*No tasks ready to start.*
+### Task 003: Phase 4.2 - Voting Records
+**ID:** TASK-003  
+**Status:** READY_TO_START
+**Priority:** MEDIUM  
+**Created:** 2026-04-26  
+**Last Checked:** 2026-04-26
+
+**Phase Reference:** STRATEGY.md Phase 4.2: Voting Records
+
+**Instructions:**
+Scrape voting records from cdep.ro:
+1. Find vote pages per session
+2. Extract individual votes per MP
+3. Link to bill via vote_id
+4. Build individual voting records per MP
+5. Calculate party cohesion metrics
+
+**Notes:**
+- BLOCKED until cdep.ro scraping verified
+- Consider parlament.openpolitics.ro data if available
 
 ---
 

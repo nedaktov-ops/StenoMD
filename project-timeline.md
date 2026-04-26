@@ -3,7 +3,7 @@
 
 **Created**: 2026-04-24  
 **Last Updated**: 2026-04-26  
-**Status**: ALL PHASES COMPLETE (OBSIDIAN INTEGRATION PENDING)
+**Status**: PHASE 4.1 IN PROGRESS (BILL TRACKING)
 
 ---
 
@@ -46,11 +46,28 @@
 - **Implemented**: Unfinished-tasks.md + Completed-tasks.md
 - **Automation**: scripts/task_manager.py
 - **Integration**: Planner agent checks tasks on startup
-- **Deferred**: Phase 5 - Committee Assignments
+- **Deferred**: Phase 5 - Committee Assignments (COMPLETED 2026-04-26)
+- **Deferred**: Phase 4.1 - Bill Tracking (IN PROGRESS 2026-04-26)
 
 ---
 
 ## ALL COMPLETED PHASES (2026-04-26)
+
+### Phase 4.1: Bill Tracking + MP Linking (2026-04-26)
+- **Status**: IN PROGRESS
+- **Current Task**: Link existing law files to MP sponsors using Open Parliament data
+- **Progress**: 5/124 laws matched (2023-2025 laws with Open Parliament IDs)
+- **Method**: 
+  1. Parse Open Parliament proposals (data/parlamint/open-parliament-ro/data/2024/proposals/)
+  2. Extract numeric initiator IDs
+  3. Match to deputy stable_ids via idm mapping
+  4. Add sponsors field to law frontmatter
+  5. Add process_stage field
+
+### Phase 5: Committee Assignments (2026-04-26)
+- **Status**: ✅ COMPLETE
+- **Scraper**: scripts/scrape_committees.py
+- **Results**: 393 committee assignments for 277 MPs from cdep.ro
 
 ---
 
