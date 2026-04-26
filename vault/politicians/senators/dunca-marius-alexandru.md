@@ -21,7 +21,7 @@ ai_friendly_name: DUNCA Marius-Alexandru
 search_aliases: ['DUNCA MARIUS-ALEXANDRU', 'dunca marius-alexandru']
 activity_score: 0
 idm: 786
-speeches_count: 0
+speeches_count: 1
 laws_proposed: 0
 committees: []
 # DUNCA Marius-Alexandru

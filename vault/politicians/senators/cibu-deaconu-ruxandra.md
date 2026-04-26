@@ -21,7 +21,7 @@ ai_friendly_name: CIBU DEACONU Ruxandra
 search_aliases: ['CIBU DEACONU RUXANDRA', 'cibu deaconu ruxandra']
 activity_score: 0
 idm: 466
-speeches_count: 0
+speeches_count: 34
 laws_proposed: 0
 committees: []
 # CIBU DEACONU Ruxandra

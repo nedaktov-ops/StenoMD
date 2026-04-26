@@ -21,7 +21,7 @@ ai_friendly_name: ANTAL István-Loránt
 search_aliases: ['ANTAL ISTVÁN-LORÁNT', 'antal istván-loránt']
 activity_score: 0
 idm: 6083
-speeches_count: 0
+speeches_count: 31
 laws_proposed: 0
 committees: []
 # ANTAL István-Loránt

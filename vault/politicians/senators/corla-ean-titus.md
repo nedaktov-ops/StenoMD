@@ -21,7 +21,7 @@ ai_friendly_name: CORLĂŢEAN Titus
 search_aliases: ['CORLĂŢEAN TITUS', 'corlăţean titus']
 activity_score: 0
 idm: 6381
-speeches_count: 0
+speeches_count: 46
 laws_proposed: 0
 committees: []
 # CORLĂŢEAN Titus

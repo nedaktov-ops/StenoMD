@@ -21,7 +21,7 @@ ai_friendly_name: TÁNCZOS Barna
 search_aliases: ['TÁNCZOS BARNA', 'tánczos barna']
 activity_score: 0
 idm: 5226
-speeches_count: 0
+speeches_count: 5
 laws_proposed: 0
 committees: []
 # TÁNCZOS Barna

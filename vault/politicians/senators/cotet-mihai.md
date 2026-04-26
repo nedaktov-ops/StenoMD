@@ -18,7 +18,7 @@ ai_friendly_name: COTEȚ Mihai
 search_aliases: ['COTEȚ MIHAI', 'coteț mihai']
 activity_score: 0
 idm: 6744
-speeches_count: 0
+speeches_count: 8
 laws_proposed: 0
 committees: []
 # COTEȚ Mihai

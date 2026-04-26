@@ -21,7 +21,7 @@ ai_friendly_name: ROBE Liviu Sorin
 search_aliases: ['ROBE LIVIU SORIN', 'robe liviu sorin']
 activity_score: 0
 idm: 5413
-speeches_count: 0
+speeches_count: 12
 laws_proposed: 0
 committees: []
 # ROBE Liviu Sorin

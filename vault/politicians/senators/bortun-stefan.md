@@ -21,7 +21,7 @@ ai_friendly_name: BORȚUN Ștefan
 search_aliases: ['BORȚUN ȘTEFAN', 'borțun ștefan']
 activity_score: 0
 idm: 1592
-speeches_count: 0
+speeches_count: 32
 laws_proposed: 0
 committees: []
 # BORȚUN Ștefan

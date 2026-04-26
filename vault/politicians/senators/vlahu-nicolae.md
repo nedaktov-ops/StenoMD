@@ -21,7 +21,7 @@ ai_friendly_name: VLAHU Nicolae
 search_aliases: ['VLAHU NICOLAE', 'vlahu nicolae']
 activity_score: 0
 idm: 2618
-speeches_count: 0
+speeches_count: 89
 laws_proposed: 0
 committees: []
 # VLAHU Nicolae

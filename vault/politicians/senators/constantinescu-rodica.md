@@ -21,7 +21,7 @@ ai_friendly_name: CONSTANTINESCU Rodica
 search_aliases: ['CONSTANTINESCU RODICA', 'constantinescu rodica']
 activity_score: 0
 idm: 3529
-speeches_count: 0
+speeches_count: 9
 laws_proposed: 0
 committees: []
 # CONSTANTINESCU Rodica

@@ -18,7 +18,7 @@ ai_friendly_name: ȘTEFĂNESCU Daniela
 search_aliases: ['ȘTEFĂNESCU DANIELA', 'ștefănescu daniela']
 activity_score: 0
 idm: 4666
-speeches_count: 0
+speeches_count: 41
 laws_proposed: 0
 committees: []
 # ȘTEFĂNESCU Daniela

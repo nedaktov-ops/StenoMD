@@ -21,7 +21,7 @@ ai_friendly_name: DOGARIU Eugen
 search_aliases: ['DOGARIU EUGEN', 'dogariu eugen']
 activity_score: 0
 idm: 3719
-speeches_count: 0
+speeches_count: 19
 laws_proposed: 0
 committees: []
 # DOGARIU Eugen

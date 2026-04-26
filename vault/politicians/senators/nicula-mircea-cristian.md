@@ -18,7 +18,7 @@ ai_friendly_name: NICULA Mircea-Cristian
 search_aliases: ['NICULA MIRCEA-CRISTIAN', 'nicula mircea-cristian']
 activity_score: 0
 idm: 4383
-speeches_count: 0
+speeches_count: 47
 laws_proposed: 0
 committees: []
 # NICULA Mircea-Cristian

@@ -18,7 +18,7 @@ ai_friendly_name: MÎNDRU Cătălin-Emil
 search_aliases: ['MÎNDRU CĂTĂLIN-EMIL', 'mîndru cătălin-emil']
 activity_score: 0
 idm: 1926
-speeches_count: 0
+speeches_count: 43
 laws_proposed: 0
 committees: []
 # MÎNDRU Cătălin-Emil

@@ -18,7 +18,7 @@ ai_friendly_name: PEIU Grigore-Adrian
 search_aliases: ['PEIU GRIGORE-ADRIAN', 'peiu grigore-adrian']
 activity_score: 0
 idm: 7901
-speeches_count: 0
+speeches_count: 29
 laws_proposed: 0
 committees: []
 # PEIU Grigore-Adrian

@@ -21,7 +21,7 @@ ai_friendly_name: FLUTUR Gheorghe
 search_aliases: ['FLUTUR GHEORGHE', 'flutur gheorghe']
 activity_score: 0
 idm: 6769
-speeches_count: 0
+speeches_count: 6
 laws_proposed: 0
 committees: []
 # FLUTUR Gheorghe

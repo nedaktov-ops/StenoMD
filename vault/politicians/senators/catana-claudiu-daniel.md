@@ -21,7 +21,7 @@ ai_friendly_name: CATANA Claudiu-Daniel
 search_aliases: ['CATANA CLAUDIU-DANIEL', 'catana claudiu-daniel']
 activity_score: 0
 idm: 2165
-speeches_count: 0
+speeches_count: 55
 laws_proposed: 0
 committees: []
 # CATANA Claudiu-Daniel

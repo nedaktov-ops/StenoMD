@@ -21,7 +21,7 @@ ai_friendly_name: RESMERIŢĂ Cornel-Cristian
 search_aliases: ['RESMERIŢĂ CORNEL-CRISTIAN', 'resmeriţă cornel-cristian']
 activity_score: 0
 idm: 6781
-speeches_count: 0
+speeches_count: 5
 laws_proposed: 0
 committees: []
 # RESMERIŢĂ Cornel-Cristian

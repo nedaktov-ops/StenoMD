@@ -21,7 +21,7 @@ ai_friendly_name: JITARU Ovidiu
 search_aliases: ['JITARU OVIDIU', 'jitaru ovidiu']
 activity_score: 0
 idm: 8584
-speeches_count: 0
+speeches_count: 4
 laws_proposed: 0
 committees: []
 # JITARU Ovidiu

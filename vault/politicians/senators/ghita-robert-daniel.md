@@ -18,7 +18,7 @@ ai_friendly_name: GHIȚĂ Robert-Daniel
 search_aliases: ['GHIȚĂ ROBERT-DANIEL', 'ghiță robert-daniel']
 activity_score: 0
 idm: 171
-speeches_count: 0
+speeches_count: 20
 laws_proposed: 0
 committees: []
 # GHIȚĂ Robert-Daniel

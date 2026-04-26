@@ -21,7 +21,7 @@ ai_friendly_name: DÎRLĂU Andrei-Emil
 search_aliases: ['DÎRLĂU ANDREI-EMIL', 'dîrlău andrei-emil']
 activity_score: 0
 idm: 8794
-speeches_count: 0
+speeches_count: 86
 laws_proposed: 0
 committees: []
 # DÎRLĂU Andrei-Emil

@@ -21,7 +21,7 @@ ai_friendly_name: STOICIU Victoria
 search_aliases: ['STOICIU VICTORIA', 'stoiciu victoria']
 activity_score: 0
 idm: 1593
-speeches_count: 0
+speeches_count: 41
 laws_proposed: 0
 committees: []
 # STOICIU Victoria

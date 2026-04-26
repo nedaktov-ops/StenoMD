@@ -21,7 +21,7 @@ ai_friendly_name: PETREA Dorin-Silviu
 search_aliases: ['PETREA DORIN-SILVIU', 'petrea dorin-silviu']
 activity_score: 0
 idm: 4558
-speeches_count: 0
+speeches_count: 74
 laws_proposed: 0
 committees: []
 # PETREA Dorin-Silviu

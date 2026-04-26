@@ -21,7 +21,7 @@ ai_friendly_name: RUJAN Ion-Cristinel
 search_aliases: ['RUJAN ION-CRISTINEL', 'rujan ion-cristinel']
 activity_score: 0
 idm: 8784
-speeches_count: 0
+speeches_count: 36
 laws_proposed: 0
 committees: []
 # RUJAN Ion-Cristinel

@@ -21,7 +21,7 @@ ai_friendly_name: STREINU CERCEL Adrian
 search_aliases: ['STREINU CERCEL ADRIAN', 'streinu cercel adrian']
 activity_score: 0
 idm: 5764
-speeches_count: 0
+speeches_count: 47
 laws_proposed: 0
 committees: []
 # STREINU CERCEL Adrian

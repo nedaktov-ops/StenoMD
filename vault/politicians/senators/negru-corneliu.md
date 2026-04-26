@@ -21,7 +21,7 @@ ai_friendly_name: NEGRU Corneliu
 search_aliases: ['NEGRU CORNELIU', 'negru corneliu']
 activity_score: 0
 idm: 8057
-speeches_count: 0
+speeches_count: 20
 laws_proposed: 0
 committees: []
 # NEGRU Corneliu

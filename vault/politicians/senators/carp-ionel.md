@@ -21,7 +21,7 @@ ai_friendly_name: CARP Ionel
 search_aliases: ['CARP IONEL', 'carp ionel']
 activity_score: 0
 idm: 8175
-speeches_count: 0
+speeches_count: 13
 laws_proposed: 0
 committees: []
 # CARP Ionel

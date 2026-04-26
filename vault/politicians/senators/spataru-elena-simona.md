@@ -21,7 +21,7 @@ ai_friendly_name: SPĂTARU Elena-Simona
 search_aliases: ['SPĂTARU ELENA-SIMONA', 'spătaru elena-simona']
 activity_score: 0
 idm: 1301
-speeches_count: 0
+speeches_count: 31
 laws_proposed: 0
 committees: []
 # SPĂTARU Elena-Simona

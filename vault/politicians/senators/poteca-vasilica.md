@@ -21,7 +21,7 @@ ai_friendly_name: POTECĂ Vasilică
 search_aliases: ['POTECĂ VASILICĂ', 'potecă vasilică']
 activity_score: 0
 idm: 3431
-speeches_count: 0
+speeches_count: 5
 laws_proposed: 0
 committees: []
 # POTECĂ Vasilică

@@ -21,7 +21,7 @@ ai_friendly_name: PEIA Ninel
 search_aliases: ['PEIA NINEL', 'peia ninel']
 activity_score: 0
 idm: 715
-speeches_count: 0
+speeches_count: 96
 laws_proposed: 0
 committees: []
 # PEIA Ninel

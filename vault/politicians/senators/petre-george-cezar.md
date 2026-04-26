@@ -21,7 +21,7 @@ ai_friendly_name: PETRE George-Cezar
 search_aliases: ['PETRE GEORGE-CEZAR', 'petre george-cezar']
 activity_score: 0
 idm: 5940
-speeches_count: 0
+speeches_count: 40
 laws_proposed: 0
 committees: []
 # PETRE George-Cezar

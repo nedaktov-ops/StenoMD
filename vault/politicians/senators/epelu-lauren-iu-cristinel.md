@@ -18,7 +18,7 @@ ai_friendly_name: ŢEPELUŞ Laurenţiu-Cristinel
 search_aliases: ['ŢEPELUŞ LAURENŢIU-CRISTINEL', 'ţepeluş laurenţiu-cristinel']
 activity_score: 0
 idm: 1032
-speeches_count: 0
+speeches_count: 8
 laws_proposed: 0
 committees: []
 # ŢEPELUŞ Laurenţiu-Cristinel

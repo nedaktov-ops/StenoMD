@@ -21,7 +21,7 @@ ai_friendly_name: VELA Gheorghe
 search_aliases: ['VELA GHEORGHE', 'vela gheorghe']
 activity_score: 0
 idm: 3245
-speeches_count: 0
+speeches_count: 623
 laws_proposed: 0
 committees: []
 # VELA Gheorghe

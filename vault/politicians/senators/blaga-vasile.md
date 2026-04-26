@@ -21,7 +21,7 @@ ai_friendly_name: BLAGA Vasile
 search_aliases: ['BLAGA VASILE', 'blaga vasile']
 activity_score: 0
 idm: 7928
-speeches_count: 0
+speeches_count: 2
 laws_proposed: 0
 committees: []
 # BLAGA Vasile

@@ -21,7 +21,7 @@ ai_friendly_name: STAN Ioan
 search_aliases: ['STAN IOAN', 'stan ioan']
 activity_score: 0
 idm: 8601
-speeches_count: 0
+speeches_count: 5
 laws_proposed: 0
 committees: []
 # STAN Ioan

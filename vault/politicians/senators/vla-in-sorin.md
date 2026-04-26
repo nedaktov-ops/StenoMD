@@ -18,7 +18,7 @@ ai_friendly_name: VLAŞIN Sorin
 search_aliases: ['VLAŞIN SORIN', 'vlaşin sorin']
 activity_score: 0
 idm: 2064
-speeches_count: 0
+speeches_count: 16
 laws_proposed: 0
 committees: []
 # VLAŞIN Sorin

@@ -21,7 +21,7 @@ ai_friendly_name: KOVÁCS Maté
 search_aliases: ['KOVÁCS MATÉ', 'kovács maté']
 activity_score: 0
 idm: 5862
-speeches_count: 0
+speeches_count: 4
 laws_proposed: 0
 committees: []
 # KOVÁCS Maté

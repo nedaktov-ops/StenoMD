@@ -21,7 +21,7 @@ ai_friendly_name: LAVRIC Sorin
 search_aliases: ['LAVRIC SORIN', 'lavric sorin']
 activity_score: 0
 idm: 3040
-speeches_count: 0
+speeches_count: 12
 laws_proposed: 0
 committees: []
 # LAVRIC Sorin

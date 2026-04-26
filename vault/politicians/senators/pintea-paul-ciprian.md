@@ -21,7 +21,7 @@ ai_friendly_name: PINTEA Paul-Ciprian
 search_aliases: ['PINTEA PAUL-CIPRIAN', 'pintea paul-ciprian']
 activity_score: 0
 idm: 4053
-speeches_count: 0
+speeches_count: 1
 laws_proposed: 0
 committees: []
 # PINTEA Paul-Ciprian

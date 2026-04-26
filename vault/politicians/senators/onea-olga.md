@@ -21,7 +21,7 @@ ai_friendly_name: ONEA Olga
 search_aliases: ['ONEA OLGA', 'onea olga']
 activity_score: 0
 idm: 2576
-speeches_count: 0
+speeches_count: 36
 laws_proposed: 0
 committees: []
 # ONEA Olga

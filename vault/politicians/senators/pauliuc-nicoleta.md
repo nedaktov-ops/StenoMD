@@ -21,7 +21,7 @@ ai_friendly_name: PAULIUC Nicoleta
 search_aliases: ['PAULIUC NICOLETA', 'pauliuc nicoleta']
 activity_score: 0
 idm: 369
-speeches_count: 0
+speeches_count: 64
 laws_proposed: 0
 committees: []
 # PAULIUC Nicoleta

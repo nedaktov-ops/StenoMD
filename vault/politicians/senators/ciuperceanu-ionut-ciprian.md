@@ -18,7 +18,7 @@ ai_friendly_name: CIUPERCEANU Ionuț-Ciprian
 search_aliases: ['CIUPERCEANU IONUȚ-CIPRIAN', 'ciuperceanu ionuț-ciprian']
 activity_score: 0
 idm: 4453
-speeches_count: 0
+speeches_count: 18
 laws_proposed: 0
 committees: []
 # CIUPERCEANU Ionuț-Ciprian

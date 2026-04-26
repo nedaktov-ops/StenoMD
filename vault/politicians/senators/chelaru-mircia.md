@@ -21,7 +21,7 @@ ai_friendly_name: CHELARU Mircia
 search_aliases: ['CHELARU MIRCIA', 'chelaru mircia']
 activity_score: 0
 idm: 2074
-speeches_count: 0
+speeches_count: 75
 laws_proposed: 0
 committees: []
 # CHELARU Mircia

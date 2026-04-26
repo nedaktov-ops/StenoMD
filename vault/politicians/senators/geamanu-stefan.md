@@ -21,7 +21,7 @@ ai_friendly_name: GEAMĂNU Ștefan
 search_aliases: ['GEAMĂNU ȘTEFAN', 'geamănu ștefan']
 activity_score: 0
 idm: 6724
-speeches_count: 0
+speeches_count: 52
 laws_proposed: 0
 committees: []
 # GEAMĂNU Ștefan

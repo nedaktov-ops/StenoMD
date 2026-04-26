@@ -21,7 +21,7 @@ ai_friendly_name: STOICA Ciprian-Titi
 search_aliases: ['STOICA CIPRIAN-TITI', 'stoica ciprian-titi']
 activity_score: 0
 idm: 6985
-speeches_count: 0
+speeches_count: 134
 laws_proposed: 0
 committees: []
 # STOICA Ciprian-Titi

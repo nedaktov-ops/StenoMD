@@ -21,7 +21,7 @@ ai_friendly_name: NOVAK Levente
 search_aliases: ['NOVAK LEVENTE', 'novak levente']
 activity_score: 0
 idm: 1537
-speeches_count: 0
+speeches_count: 5
 laws_proposed: 0
 committees: []
 # NOVAK Levente

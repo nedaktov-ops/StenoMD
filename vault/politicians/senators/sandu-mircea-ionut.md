@@ -21,7 +21,7 @@ ai_friendly_name: SANDU Mircea-Ionuț
 search_aliases: ['SANDU MIRCEA-IONUȚ', 'sandu mircea-ionuț']
 activity_score: 0
 idm: 4393
-speeches_count: 0
+speeches_count: 38
 laws_proposed: 0
 committees: []
 # SANDU Mircea-Ionuț

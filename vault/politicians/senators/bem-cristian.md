@@ -18,7 +18,7 @@ ai_friendly_name: BEM Cristian
 search_aliases: ['BEM CRISTIAN', 'bem cristian']
 activity_score: 0
 idm: 1576
-speeches_count: 0
+speeches_count: 1
 laws_proposed: 0
 committees: []
 # BEM Cristian

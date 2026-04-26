@@ -21,7 +21,7 @@ ai_friendly_name: SILEGEANU Cătălin
 search_aliases: ['SILEGEANU CĂTĂLIN', 'silegeanu cătălin']
 activity_score: 0
 idm: 6513
-speeches_count: 0
+speeches_count: 73
 laws_proposed: 0
 committees: []
 # SILEGEANU Cătălin

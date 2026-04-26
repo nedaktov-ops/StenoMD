@@ -21,7 +21,7 @@ ai_friendly_name: PĂUCEAN-FERNANDES Luminița
 search_aliases: ['PĂUCEAN-FERNANDES LUMINIȚA', 'păucean-fernandes luminița']
 activity_score: 0
 idm: 6121
-speeches_count: 0
+speeches_count: 62
 laws_proposed: 0
 committees: []
 # PĂUCEAN-FERNANDES Luminița

@@ -18,7 +18,7 @@ ai_friendly_name: STĂNESCU Paul
 search_aliases: ['STĂNESCU PAUL', 'stănescu paul']
 activity_score: 0
 idm: 3665
-speeches_count: 0
+speeches_count: 1
 laws_proposed: 0
 committees: []
 # STĂNESCU Paul

@@ -21,7 +21,7 @@ ai_friendly_name: IACOB Constantin-Ciprian
 search_aliases: ['IACOB CONSTANTIN-CIPRIAN', 'iacob constantin-ciprian']
 activity_score: 0
 idm: 8380
-speeches_count: 0
+speeches_count: 47
 laws_proposed: 0
 committees: []
 # IACOB Constantin-Ciprian

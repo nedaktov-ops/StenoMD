@@ -21,7 +21,7 @@ ai_friendly_name: VARGA Glad-Aurel
 search_aliases: ['VARGA GLAD-AUREL', 'varga glad-aurel']
 activity_score: 0
 idm: 2781
-speeches_count: 0
+speeches_count: 28
 laws_proposed: 0
 committees: []
 # VARGA Glad-Aurel

@@ -21,7 +21,7 @@ ai_friendly_name: GRAUR Cătălin
 search_aliases: ['GRAUR CĂTĂLIN', 'graur cătălin']
 activity_score: 0
 idm: 4904
-speeches_count: 0
+speeches_count: 10
 laws_proposed: 0
 committees: []
 # GRAUR Cătălin

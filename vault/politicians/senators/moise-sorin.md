@@ -21,7 +21,7 @@ ai_friendly_name: MOISE Sorin
 search_aliases: ['MOISE SORIN', 'moise sorin']
 activity_score: 0
 idm: 2966
-speeches_count: 0
+speeches_count: 8
 laws_proposed: 0
 committees: []
 # MOISE Sorin

@@ -18,7 +18,7 @@ ai_friendly_name: RĂCUCI Claudiu-Vasile
 search_aliases: ['RĂCUCI CLAUDIU-VASILE', 'răcuci claudiu-vasile']
 activity_score: 0
 idm: 7613
-speeches_count: 0
+speeches_count: 4
 laws_proposed: 0
 committees: []
 # RĂCUCI Claudiu-Vasile

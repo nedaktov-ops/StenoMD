@@ -21,7 +21,7 @@ ai_friendly_name: CHERTIF Costache
 search_aliases: ['CHERTIF COSTACHE', 'chertif costache']
 activity_score: 0
 idm: 2964
-speeches_count: 0
+speeches_count: 23
 laws_proposed: 0
 committees: []
 # CHERTIF Costache

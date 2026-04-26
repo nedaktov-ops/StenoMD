@@ -21,7 +21,7 @@ ai_friendly_name: VEŞTEA Mihail
 search_aliases: ['VEŞTEA MIHAIL', 'veştea mihail']
 activity_score: 0
 idm: 3972
-speeches_count: 0
+speeches_count: 2
 laws_proposed: 0
 committees: []
 # VEŞTEA Mihail

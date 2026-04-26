@@ -21,7 +21,7 @@ ai_friendly_name: BARCARI Dorina
 search_aliases: ['BARCARI DORINA', 'barcari dorina']
 activity_score: 0
 idm: 2449
-speeches_count: 0
+speeches_count: 28
 laws_proposed: 0
 committees: []
 # BARCARI Dorina

@@ -18,7 +18,7 @@ ai_friendly_name: ALDEA Valentina-Mariana
 search_aliases: ['ALDEA VALENTINA-MARIANA', 'aldea valentina-mariana']
 activity_score: 0
 idm: 1798
-speeches_count: 0
+speeches_count: 20
 laws_proposed: 0
 committees: []
 # ALDEA Valentina-Mariana

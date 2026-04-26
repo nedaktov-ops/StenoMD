@@ -18,7 +18,7 @@ ai_friendly_name: MIRCESCU Ion-Narcis
 search_aliases: ['MIRCESCU ION-NARCIS', 'mircescu ion-narcis']
 activity_score: 0
 idm: 559
-speeches_count: 0
+speeches_count: 44
 laws_proposed: 0
 committees: []
 # MIRCESCU Ion-Narcis

@@ -21,7 +21,7 @@ ai_friendly_name: MAZILU Liviu-Lucian
 search_aliases: ['MAZILU LIVIU-LUCIAN', 'mazilu liviu-lucian']
 activity_score: 0
 idm: 3509
-speeches_count: 0
+speeches_count: 34
 laws_proposed: 0
 committees: []
 # MAZILU Liviu-Lucian

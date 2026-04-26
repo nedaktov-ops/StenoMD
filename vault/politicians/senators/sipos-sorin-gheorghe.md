@@ -18,7 +18,7 @@ ai_friendly_name: ȘIPOȘ Sorin-Gheorghe
 search_aliases: ['ȘIPOȘ SORIN-GHEORGHE', 'șipoș sorin-gheorghe']
 activity_score: 0
 idm: 8979
-speeches_count: 0
+speeches_count: 61
 laws_proposed: 0
 committees: []
 # ȘIPOȘ Sorin-Gheorghe

@@ -21,7 +21,7 @@ ai_friendly_name: PARASCA Teofil
 search_aliases: ['PARASCA TEOFIL', 'parasca teofil']
 activity_score: 0
 idm: 8464
-speeches_count: 0
+speeches_count: 11
 laws_proposed: 0
 committees: []
 # PARASCA Teofil

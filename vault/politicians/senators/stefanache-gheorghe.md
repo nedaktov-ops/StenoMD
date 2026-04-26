@@ -18,7 +18,7 @@ ai_friendly_name: ȘTEFĂNACHE Gheorghe
 search_aliases: ['ȘTEFĂNACHE GHEORGHE', 'ștefănache gheorghe']
 activity_score: 0
 idm: 8377
-speeches_count: 0
+speeches_count: 53
 laws_proposed: 0
 committees: []
 # ȘTEFĂNACHE Gheorghe

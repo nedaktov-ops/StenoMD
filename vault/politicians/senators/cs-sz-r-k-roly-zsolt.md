@@ -21,7 +21,7 @@ ai_friendly_name: CSÁSZÁR Károly Zsolt
 search_aliases: ['CSÁSZÁR KÁROLY ZSOLT', 'császár károly zsolt']
 activity_score: 0
 idm: 8588
-speeches_count: 0
+speeches_count: 33
 laws_proposed: 0
 committees: []
 # CSÁSZÁR Károly Zsolt

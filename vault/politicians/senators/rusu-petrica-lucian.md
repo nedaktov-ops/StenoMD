@@ -21,7 +21,7 @@ ai_friendly_name: RUSU Petrică Lucian
 search_aliases: ['RUSU PETRICĂ LUCIAN', 'rusu petrică lucian']
 activity_score: 0
 idm: 3074
-speeches_count: 0
+speeches_count: 18
 laws_proposed: 0
 committees: []
 # RUSU Petrică Lucian

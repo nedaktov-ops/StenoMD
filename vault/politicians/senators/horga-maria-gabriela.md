@@ -21,7 +21,7 @@ ai_friendly_name: HORGA Maria-Gabriela
 search_aliases: ['HORGA MARIA-GABRIELA', 'horga maria-gabriela']
 activity_score: 0
 idm: 8765
-speeches_count: 0
+speeches_count: 60
 laws_proposed: 0
 committees: []
 # HORGA Maria-Gabriela

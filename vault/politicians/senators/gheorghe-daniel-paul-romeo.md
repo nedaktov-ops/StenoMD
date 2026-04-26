@@ -18,7 +18,7 @@ ai_friendly_name: GHEORGHE Daniel-Paul-Romeo
 search_aliases: ['GHEORGHE DANIEL-PAUL-ROMEO', 'gheorghe daniel-paul-romeo']
 activity_score: 0
 idm: 3748
-speeches_count: 0
+speeches_count: 103
 laws_proposed: 0
 committees: []
 # GHEORGHE Daniel-Paul-Romeo

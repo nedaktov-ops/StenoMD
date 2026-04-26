@@ -21,7 +21,7 @@ ai_friendly_name: TASNADI Istvan-Szilard
 search_aliases: ['TASNADI ISTVAN-SZILARD', 'tasnadi istvan-szilard']
 activity_score: 0
 idm: 3015
-speeches_count: 0
+speeches_count: 2
 laws_proposed: 0
 committees: []
 # TASNADI Istvan-Szilard

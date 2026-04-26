@@ -18,7 +18,7 @@ ai_friendly_name: FEDEROVICI Doina-Elena
 search_aliases: ['FEDEROVICI DOINA-ELENA', 'federovici doina-elena']
 activity_score: 0
 idm: 2330
-speeches_count: 0
+speeches_count: 102
 laws_proposed: 0
 committees: []
 # FEDEROVICI Doina-Elena

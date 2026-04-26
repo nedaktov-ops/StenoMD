@@ -18,7 +18,7 @@ ai_friendly_name: ȘIPOȘ Eugen-Cristian
 search_aliases: ['ȘIPOȘ EUGEN-CRISTIAN', 'șipoș eugen-cristian']
 activity_score: 0
 idm: 5472
-speeches_count: 0
+speeches_count: 32
 laws_proposed: 0
 committees: []
 # ȘIPOȘ Eugen-Cristian

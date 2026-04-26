@@ -21,7 +21,7 @@ ai_friendly_name: KONDOR Ágota
 search_aliases: ['KONDOR ÁGOTA', 'kondor ágota']
 activity_score: 0
 idm: 8568
-speeches_count: 0
+speeches_count: 8
 laws_proposed: 0
 committees: []
 # KONDOR Ágota

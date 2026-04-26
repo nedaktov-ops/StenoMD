@@ -129,6 +129,9 @@ def parse_senator_page(html, senator_name):
         "name": senator_name,
         "speeches_count": 0,
         "laws_proposed": 0,
+        "interpellations": 0,
+        "questions": 0,
+        "motions": 0,
         "committees": [],
         "sessions_attended": 0,
     }
@@ -136,21 +139,30 @@ def parse_senator_page(html, senator_name):
     if not html:
         return data
     
-    # Parse speeches count (this is a guess - actual parsing depends on page structure)
-    # Looking for patterns like "XX de luări de cuvânt" in Romanian
-    speeches_match = re.search(r'(\d+)\s+de\s+luări\s+de\s+cuvânt', html, re.IGNORECASE)
-    if speeches_match:
-        data["speeches_count"] = int(speeches_match.group(1))
+    # Speeches (luări de cuvânt)
+    speeches = re.findall(r'Lu[\w]*\s*de\s*cuv[â]nt.*?(\d+)', html, re.IGNORECASE)
+    if speeches:
+        data["speeches_count"] = int(speeches[0])
     
-    # Laws proposed - looking for "proiecte de lege"  
-    laws_match = re.search(r'(\d+)\s+proiecte\s+de\s+lege', html, re.IGNORECASE)
-    if laws_match:
-        data["laws_proposed"] = int(laws_match.group(1))
+    # Laws (proiecte de lege)
+    laws = re.findall(r'proiect[\w]*\s*de\s*lege.*?(\d+)', html, re.IGNORECASE)
+    if laws:
+        data["laws_proposed"] = int(laws[0])
     
-    # Sessions - looking for "sedinte"
-    sessions_match = re.search(r'(\d+)\s+ședin', html, re.IGNORECASE)
-    if sessions_match:
-        data["sessions_attended"] = int(sessions_match.group(1))
+    # Interpellations
+    interp = re.findall(r'interpel[\w]*.*?(\d+)', html, re.IGNORECASE)
+    if interp:
+        data["interpellations"] = int(interp[0])
+    
+    # Questions (întrebări)
+    questions = re.findall(r'Întreb[\w]*.*?(\d+)', html, re.IGNORECASE)
+    if questions:
+        data["questions"] = int(questions[0])
+    
+    # Sessions attended
+    sessions = re.findall(r'(\d+)\s*ședin', html, re.IGNORECASE)
+    if sessions:
+        data["sessions_attended"] = int(sessions[0])
     
     # Parse committees - looking for "Comisia" sections
     committees = re.findall(r'Comisia.*?<\/a>', html)

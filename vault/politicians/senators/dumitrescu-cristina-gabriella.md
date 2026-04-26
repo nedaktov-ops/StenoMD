@@ -21,7 +21,7 @@ ai_friendly_name: DUMITRESCU Cristina-Gabriella
 search_aliases: ['DUMITRESCU CRISTINA-GABRIELLA', 'dumitrescu cristina-gabriella']
 activity_score: 0
 idm: 277
-speeches_count: 0
+speeches_count: 35
 laws_proposed: 0
 committees: []
 # DUMITRESCU Cristina-Gabriella

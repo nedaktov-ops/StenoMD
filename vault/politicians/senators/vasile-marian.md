@@ -18,7 +18,7 @@ ai_friendly_name: VASILE Marian
 search_aliases: ['VASILE MARIAN', 'vasile marian']
 activity_score: 0
 idm: 3026
-speeches_count: 0
+speeches_count: 3
 laws_proposed: 0
 committees: []
 # VASILE Marian

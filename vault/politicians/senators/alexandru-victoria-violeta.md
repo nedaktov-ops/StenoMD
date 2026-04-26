@@ -21,7 +21,7 @@ ai_friendly_name: ALEXANDRU Victoria-Violeta
 search_aliases: ['ALEXANDRU VICTORIA-VIOLETA', 'alexandru victoria-violeta']
 activity_score: 0
 idm: 6272
-speeches_count: 0
+speeches_count: 94
 laws_proposed: 0
 committees: []
 # ALEXANDRU Victoria-Violeta

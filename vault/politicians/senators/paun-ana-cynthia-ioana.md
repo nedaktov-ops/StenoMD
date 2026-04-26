@@ -21,7 +21,7 @@ ai_friendly_name: PĂUN Ana-Cynthia-Ioana
 search_aliases: ['PĂUN ANA-CYNTHIA-IOANA', 'păun ana-cynthia-ioana']
 activity_score: 0
 idm: 5528
-speeches_count: 0
+speeches_count: 54
 laws_proposed: 0
 committees: []
 # PĂUN Ana-Cynthia-Ioana

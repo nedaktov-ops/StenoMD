@@ -21,7 +21,7 @@ ai_friendly_name: MANEA Dumitru
 search_aliases: ['MANEA DUMITRU', 'manea dumitru']
 activity_score: 0
 idm: 1318
-speeches_count: 0
+speeches_count: 59
 laws_proposed: 0
 committees: []
 # MANEA Dumitru

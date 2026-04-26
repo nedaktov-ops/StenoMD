@@ -21,7 +21,7 @@ ai_friendly_name: DARĂU Ambrozie-Irineu
 search_aliases: ['DARĂU AMBROZIE-IRINEU', 'darău ambrozie-irineu']
 activity_score: 0
 idm: 7992
-speeches_count: 0
+speeches_count: 77
 laws_proposed: 0
 committees: []
 # DARĂU Ambrozie-Irineu

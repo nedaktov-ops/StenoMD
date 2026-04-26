@@ -18,7 +18,7 @@ ai_friendly_name: BOCHILEANU George-Cătălin
 search_aliases: ['BOCHILEANU GEORGE-CĂTĂLIN', 'bochileanu george-cătălin']
 activity_score: 0
 idm: 4410
-speeches_count: 0
+speeches_count: 61
 laws_proposed: 0
 committees: []
 # BOCHILEANU George-Cătălin

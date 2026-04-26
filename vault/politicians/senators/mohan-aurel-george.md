@@ -21,7 +21,7 @@ ai_friendly_name: MOHAN Aurel-George
 search_aliases: ['MOHAN AUREL-GEORGE', 'mohan aurel-george']
 activity_score: 0
 idm: 5258
-speeches_count: 0
+speeches_count: 2
 laws_proposed: 0
 committees: []
 # MOHAN Aurel-George

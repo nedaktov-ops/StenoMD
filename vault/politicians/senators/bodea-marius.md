@@ -21,7 +21,7 @@ ai_friendly_name: BODEA Marius
 search_aliases: ['BODEA MARIUS', 'bodea marius']
 activity_score: 0
 idm: 951
-speeches_count: 0
+speeches_count: 10
 laws_proposed: 0
 committees: []
 # BODEA Marius

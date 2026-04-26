@@ -21,7 +21,7 @@ ai_friendly_name: SPAU Dumitru
 search_aliases: ['SPAU DUMITRU', 'spau dumitru']
 activity_score: 0
 idm: 3378
-speeches_count: 0
+speeches_count: 2
 laws_proposed: 0
 committees: []
 # SPAU Dumitru

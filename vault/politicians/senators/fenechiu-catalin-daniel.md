@@ -18,7 +18,7 @@ ai_friendly_name: FENECHIU Cătălin-Daniel
 search_aliases: ['FENECHIU CĂTĂLIN-DANIEL', 'fenechiu cătălin-daniel']
 activity_score: 0
 idm: 2465
-speeches_count: 0
+speeches_count: 121
 laws_proposed: 0
 committees: []
 # FENECHIU Cătălin-Daniel

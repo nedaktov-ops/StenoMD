@@ -21,7 +21,7 @@ ai_friendly_name: ROMAN Marius-Valentin
 search_aliases: ['ROMAN MARIUS-VALENTIN', 'roman marius-valentin']
 activity_score: 0
 idm: 7940
-speeches_count: 0
+speeches_count: 14
 laws_proposed: 0
 committees: []
 # ROMAN Marius-Valentin

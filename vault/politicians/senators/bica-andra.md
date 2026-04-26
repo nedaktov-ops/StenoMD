@@ -21,7 +21,7 @@ ai_friendly_name: BICĂ Andra
 search_aliases: ['BICĂ ANDRA', 'bică andra']
 activity_score: 0
 idm: 8760
-speeches_count: 0
+speeches_count: 21
 laws_proposed: 0
 committees: []
 # BICĂ Andra

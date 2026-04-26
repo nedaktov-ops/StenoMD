@@ -18,7 +18,7 @@ ai_friendly_name: ZAMFIR Daniel-Cătălin
 search_aliases: ['ZAMFIR DANIEL-CĂTĂLIN', 'zamfir daniel-cătălin']
 activity_score: 0
 idm: 2019
-speeches_count: 0
+speeches_count: 50
 laws_proposed: 0
 committees: []
 # ZAMFIR Daniel-Cătălin

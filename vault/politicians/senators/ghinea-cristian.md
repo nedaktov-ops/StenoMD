@@ -21,7 +21,7 @@ ai_friendly_name: GHINEA Cristian
 search_aliases: ['GHINEA CRISTIAN', 'ghinea cristian']
 activity_score: 0
 idm: 4647
-speeches_count: 0
+speeches_count: 15
 laws_proposed: 0
 committees: []
 # GHINEA Cristian

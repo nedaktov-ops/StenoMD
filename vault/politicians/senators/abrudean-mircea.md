@@ -21,7 +21,7 @@ ai_friendly_name: ABRUDEAN Mircea
 search_aliases: ['ABRUDEAN MIRCEA', 'abrudean mircea']
 activity_score: 0
 idm: 8696
-speeches_count: 0
+speeches_count: 10
 laws_proposed: 0
 committees: []
 # ABRUDEAN Mircea

@@ -21,7 +21,7 @@ ai_friendly_name: STROE Felix
 search_aliases: ['STROE FELIX', 'stroe felix']
 activity_score: 0
 idm: 1866
-speeches_count: 0
+speeches_count: 10
 laws_proposed: 0
 committees: []
 # STROE Felix

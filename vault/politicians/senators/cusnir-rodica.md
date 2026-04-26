@@ -21,7 +21,7 @@ ai_friendly_name: CUȘNIR Rodica
 search_aliases: ['CUȘNIR RODICA', 'cușnir rodica']
 activity_score: 0
 idm: 461
-speeches_count: 0
+speeches_count: 101
 laws_proposed: 0
 committees: []
 # CUȘNIR Rodica
