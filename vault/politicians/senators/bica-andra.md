@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b9c904e7-969f-4126-b0e1-0ebd3a003cc5
 ---
-
 # BICĂ Andra
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=b9c904e7-969f-4126-b0e1-0ebd3a003cc5
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PSD|Party: PSD]]
-- [[politicians/constituencies/Vâlcea|Constituency: Vâlcea]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b9c904e7-969f-4126-b0e1-0eb
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b9c904e7-969f-4126-b0e1-0eb
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=b9c904e7-969f-4126-b0e1-0ebd3a003cc5
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

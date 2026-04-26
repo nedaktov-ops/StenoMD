@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=094ef6d8-2e32-4cbd-81ff-46b54ec604f1
 ---
-
 # DOGARIU Eugen
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=094ef6d8-2e32-4cbd-81ff-46b54ec604f1
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PSD|Party: PSD]]
-- [[politicians/constituencies/Timiș|Constituency: Timiș]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=094ef6d8-2e32-4cbd-81ff-46b
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=094ef6d8-2e32-4cbd-81ff-46b
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=094ef6d8-2e32-4cbd-81ff-46b54ec604f1
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

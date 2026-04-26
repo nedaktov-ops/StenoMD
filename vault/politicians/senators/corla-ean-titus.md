@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7aebffad-47e6-4c7e-bdfb-34360e888703
 ---
-
 # CORLĂŢEAN Titus
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=7aebffad-47e6-4c7e-bdfb-34360e888703
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PSD|Party: PSD]]
-- [[politicians/constituencies/Dâmbovița|Constituency: Dâmbovița]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7aebffad-47e6-4c7e-bdfb-343
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7aebffad-47e6-4c7e-bdfb-343
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=7aebffad-47e6-4c7e-bdfb-34360e888703
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

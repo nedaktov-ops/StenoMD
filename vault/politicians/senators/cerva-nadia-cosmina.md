@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=31c2cf8c-ba75-4086-9359-6cfed5bb857d
 ---
-
 # CERVA Nadia-Cosmina
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=31c2cf8c-ba75-4086-9359-6cfed5bb857d
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/AUR|Party: AUR]]
-- [[politicians/constituencies/Municipiul București|Constituency: Municipiul București]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=31c2cf8c-ba75-4086-9359-6cf
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=31c2cf8c-ba75-4086-9359-6cf
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=31c2cf8c-ba75-4086-9359-6cfed5bb857d
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

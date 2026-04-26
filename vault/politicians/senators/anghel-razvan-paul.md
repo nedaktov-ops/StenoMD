@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e4673fd9-34fd-4b0d-8019-092771f2537e
 ---
-
 # ANGHEL Razvan-Paul
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=e4673fd9-34fd-4b0d-8019-092771f2537e
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/USR|Party: USR]]
-- [[politicians/constituencies/Arad|Constituency: Arad]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e4673fd9-34fd-4b0d-8019-092
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e4673fd9-34fd-4b0d-8019-092
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=e4673fd9-34fd-4b0d-8019-092771f2537e
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

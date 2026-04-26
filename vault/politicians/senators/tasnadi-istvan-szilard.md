@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e6ffb390d1
 ---
-
 # TASNADI Istvan-Szilard
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e6ffb390d1
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/UDMR|Party: UDMR]]
-- [[politicians/constituencies/Cluj|Constituency: Cluj]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e6ffb390d1
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

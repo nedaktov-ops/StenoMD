@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-acef5eed2a63
 ---
-
 # ROBE Liviu Sorin
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-acef5eed2a63
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/POT|Party: POT]]
-- [[politicians/constituencies/Bistrița-Năsăud|Constituency: Bistrița-Năsăud]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-ace
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-ace
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-acef5eed2a63
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

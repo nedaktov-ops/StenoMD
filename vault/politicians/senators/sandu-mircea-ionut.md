@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8df00bf7766
 ---
-
 # SANDU Mircea-Ionuț
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8df00bf7766
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/AUR|Party: AUR]]
-- [[politicians/constituencies/Gorj|Constituency: Gorj]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8d
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8d
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8df00bf7766
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

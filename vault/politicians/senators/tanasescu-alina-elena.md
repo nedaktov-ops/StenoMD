@@ -14,34 +14,7 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
-
-
 # TĂNĂSESCU Alina-Elena
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=be0ed528-f7e8-43f5-a47e-e2f52e95a17c
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PSD|Party: PSD]]
-- [[politicians/constituencies/Dolj|Constituency: Dolj]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -49,6 +22,7 @@ party_affiliations:
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -61,7 +35,7 @@ party_affiliations:
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=be0ed528-f7e8-43f5-a47e-e2f52e95a17c
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

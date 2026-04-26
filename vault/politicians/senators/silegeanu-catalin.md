@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a9a821ad71
 ---
-
 # SILEGEANU Cătălin
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a9a821ad71
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/AUR|Party: AUR]]
-- [[politicians/constituencies/Botoșani|Constituency: Botoșani]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a9a821ad71
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

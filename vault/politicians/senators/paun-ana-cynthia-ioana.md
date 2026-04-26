@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b78349041f6
 ---
-
 # PĂUN Ana-Cynthia-Ioana
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b78349041f6
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/USR|Party: USR]]
-- [[politicians/constituencies/Ilfov|Constituency: Ilfov]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b7
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b7
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b78349041f6
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

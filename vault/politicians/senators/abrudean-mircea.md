@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7ff0cd22-7bbb-4ca8-ada1-0473697459bd
 ---
-
 # ABRUDEAN Mircea
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=7ff0cd22-7bbb-4ca8-ada1-0473697459bd
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PNL|Party: PNL]]
-- [[politicians/constituencies/Cluj|Constituency: Cluj]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7ff0cd22-7bbb-4ca8-ada1-047
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7ff0cd22-7bbb-4ca8-ada1-047
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=7ff0cd22-7bbb-4ca8-ada1-0473697459bd
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

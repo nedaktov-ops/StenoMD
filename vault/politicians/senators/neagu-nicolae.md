@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bdd75da8-fc58-45c3-8765-87d17ea22c8d
 ---
-
 # NEAGU Nicolae
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=bdd75da8-fc58-45c3-8765-87d17ea22c8d
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PNL|Party: PNL]]
-- [[politicians/constituencies/Sibiu|Constituency: Sibiu]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bdd75da8-fc58-45c3-8765-87d
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bdd75da8-fc58-45c3-8765-87d
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=bdd75da8-fc58-45c3-8765-87d17ea22c8d
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

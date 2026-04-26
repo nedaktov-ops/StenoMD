@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3f7d19d2-b8d0-4309-894c-b71561f01985
 ---
-
 # RUSU Petrică Lucian
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=3f7d19d2-b8d0-4309-894c-b71561f01985
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PNL|Party: PNL]]
-- [[politicians/constituencies/Iași|Constituency: Iași]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3f7d19d2-b8d0-4309-894c-b71
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3f7d19d2-b8d0-4309-894c-b71
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=3f7d19d2-b8d0-4309-894c-b71561f01985
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

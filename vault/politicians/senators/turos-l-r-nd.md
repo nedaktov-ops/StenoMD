@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3bd730d7b7f
 ---
-
 # TUROS Lóránd
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3bd730d7b7f
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/UDMR|Party: UDMR]]
-- [[politicians/constituencies/Satu Mare|Constituency: Satu Mare]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3b
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3b
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3bd730d7b7f
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

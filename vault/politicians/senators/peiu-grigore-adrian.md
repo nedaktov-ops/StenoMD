@@ -14,34 +14,7 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
-
-
 # PEIU Grigore-Adrian
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=8c196354-6157-46a5-8b04-9d394c7b294d
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/AUR|Party: AUR]]
-- [[politicians/constituencies/Municipiul București|Constituency: Municipiul București]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -49,6 +22,7 @@ party_affiliations:
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -61,7 +35,7 @@ party_affiliations:
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=8c196354-6157-46a5-8b04-9d394c7b294d
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

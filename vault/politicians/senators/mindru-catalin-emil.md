@@ -14,34 +14,7 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
-
-
 # MÎNDRU Cătălin-Emil
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=b70cfd7f-7726-4531-99d0-83ff6f6f05b3
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/USR|Party: USR]]
-- [[politicians/constituencies/Vaslui|Constituency: Vaslui]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -49,6 +22,7 @@ party_affiliations:
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -61,7 +35,7 @@ party_affiliations:
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=b70cfd7f-7726-4531-99d0-83ff6f6f05b3
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

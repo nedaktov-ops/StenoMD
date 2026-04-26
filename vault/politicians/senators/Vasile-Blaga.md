@@ -1,50 +1,21 @@
 ---
+stable_id: vasile-blaga
 original_elected_party: PNL
+type: senator
+chamber: senate
 party: PNL
 party_full: Partidul Național Liberal
 constituency: Timiș
+legislature: 2024-2028
+status: active
+url: 
 party_affiliations:
   - party: PNL
     start_date: "2024-12"
     is_original: true
 ---
 
-party: PNL
-party_full: Partidul Național Liberal
-constituency: Timiș
-
----
-
-name: Vasile Blaga
-chamber: Senate
-legislature: 2024-2028
----
-
-
 # Vasile Blaga
-
-**Chamber:** Senate  
-**Legislature:** 2024-2028
-
-## Appearances
-
-- [[senate_20260330_2024]]
-
-## Notes
-
-*Senator in the Romanian Senate*
-
-*Last updated: 2026-04-24 06:33:13*
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PNL|Party: PNL]]
-- [[politicians/constituencies/Timiș|Constituency: Timiș]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -52,6 +23,7 @@ legislature: 2024-2028
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -64,7 +36,7 @@ legislature: 2024-2028
 
 - **Source URL:** 
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

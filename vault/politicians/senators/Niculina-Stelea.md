@@ -1,50 +1,21 @@
 ---
+stable_id: niculina-stelea
 original_elected_party: AUR
+type: senator
+chamber: senate
 party: AUR
 party_full: Alianța pentru Unirea Românilor
 constituency: Municipiul București
+legislature: 2024-2028
+status: active
+url: 
 party_affiliations:
   - party: AUR
     start_date: "2024-12"
     is_original: true
 ---
 
-party: AUR
-party_full: Alianța pentru Unirea Românilor
-constituency: Municipiul București
-
----
-
-name: Niculina Stelea
-chamber: Senate
-legislature: 2024-2028
----
-
-
 # Niculina Stelea
-
-**Chamber:** Senate  
-**Legislature:** 2024-2028
-
-## Appearances
-
-- [[senate_20260319_2026]]
-
-## Notes
-
-*Senator in the Romanian Senate*
-
-*Last updated: 2026-04-23 03:32:57*
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/AUR|Party: AUR]]
-- [[politicians/constituencies/Municipiul București|Constituency: Municipiul București]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -52,6 +23,7 @@ legislature: 2024-2028
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -64,7 +36,7 @@ legislature: 2024-2028
 
 - **Source URL:** 
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

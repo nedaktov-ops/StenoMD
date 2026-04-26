@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=008fd8cb-c069-4f74-b02b-612d1db6a19d
 ---
-
 # GHINEA Cristian
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=008fd8cb-c069-4f74-b02b-612d1db6a19d
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/USR|Party: USR]]
-- [[politicians/constituencies/Municipiul București|Constituency: Municipiul București]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=008fd8cb-c069-4f74-b02b-612
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=008fd8cb-c069-4f74-b02b-612
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=008fd8cb-c069-4f74-b02b-612d1db6a19d
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

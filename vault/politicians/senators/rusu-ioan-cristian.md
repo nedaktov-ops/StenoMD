@@ -14,34 +14,7 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
-
-
 # RUSU Ioan-Cristian
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=d9cf2a62-6109-4d68-9452-b54d6b4e786f
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PNL|Party: PNL]]
-- [[politicians/constituencies/Iași|Constituency: Iași]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -49,6 +22,7 @@ party_affiliations:
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -61,7 +35,7 @@ party_affiliations:
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=d9cf2a62-6109-4d68-9452-b54d6b4e786f
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

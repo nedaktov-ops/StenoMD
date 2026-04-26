@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b443bd5d-6ba0-4192-832c-4b502d6ec1a8
 ---
-
 # FEJÉR László-Ődőn
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=b443bd5d-6ba0-4192-832c-4b502d6ec1a8
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/UDMR|Party: UDMR]]
-- [[politicians/constituencies/Covasna|Constituency: Covasna]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b443bd5d-6ba0-4192-832c-4b5
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b443bd5d-6ba0-4192-832c-4b5
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=b443bd5d-6ba0-4192-832c-4b502d6ec1a8
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

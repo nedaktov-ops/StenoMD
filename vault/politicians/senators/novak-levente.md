@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8cebeba4f0d4
 ---
-
 # NOVAK Levente
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8cebeba4f0d4
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/UDMR|Party: UDMR]]
-- [[politicians/constituencies/Mureș|Constituency: Mureș]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8ce
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8ce
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8cebeba4f0d4
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

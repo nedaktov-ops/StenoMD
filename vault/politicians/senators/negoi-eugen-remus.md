@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8750fc5bf8
 ---
-
 # NEGOI Eugen-Remus
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8750fc5bf8
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/USR|Party: USR]]
-- [[politicians/constituencies/Constanța|Constituency: Constanța]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8750fc5bf8
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

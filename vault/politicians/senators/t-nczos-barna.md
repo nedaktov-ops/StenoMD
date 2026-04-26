@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1df3fa38144
 ---
-
 # TÁNCZOS Barna
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1df3fa38144
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/UDMR|Party: UDMR]]
-- [[politicians/constituencies/Harghita|Constituency: Harghita]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1d
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1d
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1df3fa38144
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

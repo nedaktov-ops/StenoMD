@@ -17,33 +17,7 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed3840e012a
 ---
-
 # PETREA Dorin-Silviu
-
-## Details
-
-- **Party**: Unknown (UNKN)
-- **Constituency**: 
-- **Legislature**: 2024-2028
-- **Source**: senat.ro
-
-## Activity
-
-- Source: https://senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed3840e012a
-
-## Tags
-
-#politician #senator
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/SOS|Party: SOS]]
-- [[politicians/constituencies/Brăila|Constituency: Brăila]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -51,6 +25,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -63,7 +38,7 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed
 
 - **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed3840e012a
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing

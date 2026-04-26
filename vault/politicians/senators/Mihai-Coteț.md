@@ -1,51 +1,21 @@
 ---
+stable_id: mihai-coteț
 original_elected_party: PSD
+type: senator
+chamber: senate
 party: PSD
 party_full: Partidul Social Democrat
 constituency: Călărași
+legislature: 2024-2028
+status: active
+url: 
 party_affiliations:
   - party: PSD
     start_date: "2024-12"
     is_original: true
 ---
 
-
-party: PNL
-party_full: Partidul Național Liberal
-constituency: Argeș
-
----
-
-name: Mihai Coteț
-chamber: Senate
-legislature: 2024-2028
----
-
-
 # Mihai Coteț
-
-**Chamber:** Senate  
-**Legislature:** 2024-2028
-
-## Appearances
-
-- [[senate_20260311_2026]]
-
-## Notes
-
-*Senator in the Romanian Senate*
-
-*Last updated: 2026-04-25 19:07:44*
-
-
-## Categories
-
-- [[politicians/senators|Senator]]
-- [[politicians/parties/PSD|Party: PSD]]
-- [[politicians/constituencies/Călărași|Constituency: Călărași]]
-
-
-## Sensors
 
 ## Related Sections
 
@@ -53,6 +23,7 @@ legislature: 2024-2028
 - [[politicians/senators|Senators]] - Browse all senators
 - [[laws|Laws]] - Browse all laws
 - [[committees|Committees]] - Browse all committees
+
 
 ## Categories
 
@@ -65,7 +36,7 @@ legislature: 2024-2028
 
 - **Source URL:** 
 - **Last Synced:** 2026-04-26
-- **Data Sources:** senat.ro, parlamint
+- **Data Sources:** senat.ro
 
 
 ## Processing
