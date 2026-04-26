@@ -17,6 +17,8 @@ last_synced:
 data_sources: []
 activity_score: 0
 collaboration_network: []
+speeches_count: 0
+voting_records: []
 related_templates: [politician, law, session, committee]
 ---
 
@@ -53,19 +55,19 @@ related_templates: [politician, law, session, committee]
 
 ### Proposals Sponsored
 
-- 
+- [[proposals/|Browse Proposals]]
 
 ### Co-Sponsors
 
-- 
+- (Track from proposals)
 
 ### Speeches
 
-- 
+- [[sessions/deputies/|View Speeches]] · Total: {{speeches_count}}
 
 ### Voting Record
 
-- 
+- [[sessions/|View Voting Records]] · {{voting_records.length || 0}} votes recorded 
 
 ## Action/Output
 

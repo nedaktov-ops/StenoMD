@@ -1,166 +1,79 @@
----
-title: Brain Dashboard
-type: dashboard
-description: StenoMD Vault Analytics - Brain-Analogous Architecture
-last_updated: 2026-04-26
----
+# Dashboard Analytics
 
-# 🧠 StenoMD Brain Dashboard
+> Quick overview queries for vault health
 
-> Brain-analogous vault architecture with sensory input, processing, memory, and action/output
+## Vault Statistics
 
----
+| Metric | Count |
+|--------|-------|
+| Deputies | `= length(filter(folder("politicians/deputies"), (f) => true))` |
+| Senators | `= length(filter(folder("politicians/senators"), (f) => true))` |
+| Laws | `= length(filter(folder("laws"), (f) => true))` |
+| Sessions | `= length(filter(folder("sessions"), (f) => true))` |
+| Proposals | `= length(filter(folder("proposals"), (f) => true))` |
+| Committees | `= length(filter(folder("committees"), (f) => true))` |
 
-## Overview
-
-| Category | Count | Links | Brain Section |
-|----------|-------|------|--------------|
-| [[politicians/deputies\|Deputies]] | 332 | 7,473 | Prefrontal Cortex |
-| [[politicians/senators\|Senators]] | 138 | 419 | Limbic System |
-| [[laws\|Laws]] | 124 | 387 | Hippocampus |
-| [[sessions\|Sessions]] | 111 | 2,542 | Cortex |
-| [[committees\|Committees]] | 14 | ~300 | Cerebellum |
-| **Total** | **715** | **~11,000** | |
-
----
-
-## Brain Model Reference
-
-### 1. Sensory Input (Thalamus)
-**Function:** Receives and routes information
-- Source URLs tracked
-- Last sync timestamps
-- Data source attribution
-
-### 2. Processing (Prefrontal Cortex)
-**Function:** Analyzes, decides, computes
-- Activity scores calculated
-- Collaboration networks mapped
-- Party alignment tracked
-
-### 3. Memory (Hippocampus)
-**Function:** Stores and retrieves information
-- Proposals linked
-- Speeches indexed
-- Voting records accessible
-
-### 4. Action/Output (Motor Cortex)
-**Function:** Executes and responds
-- Query-ready fields
-- Alerts for activity
-- Recommendations generated
-
----
-
-## Activity Metrics
-
-### Top Politicians by Activity
+## Top 10 Most Active Deputies
 
 ```dataview
 TABLE WITHOUT ID
   file.link as "Deputy",
   party as "Party",
-  activity_score as "Score",
-  committees as "Committees"
+  laws_proposed as "Proposals",
+  speeches_count as "Speeches"
 FROM "politicians/deputies"
-WHERE activity_score > 0
-SORT activity_score DESC
+SORT laws_proposed DESC
 LIMIT 10
 ```
 
-### Party Distribution
+## Top 10 Most Active Speakers
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Deputy",
+  party as "Party",
+  speeches_count as "Speeches"
+FROM "politicians/deputies"
+SORT speeches_count DESC
+LIMIT 10
+```
+
+## Party Distribution
 
 ```dataview
 TABLE WITHOUT ID
   party as "Party",
-  length(file) as "Members",
-  sum(atividade_score) as "Total Activity"
-FROM "politicians"
+  length(file) as "Members"
+FROM "politicians/deputies"
 GROUP BY party
+FLATTEN
 SORT length(file) DESC
 ```
 
-### Law Pipeline
+## Recent Sessions
 
-```dataview
-TABLE WITHOUT ID
-  law_number as "Law",
-  status as "Status",
-  processing_time_days as "Days",
-  bottleneck_stage as "Bottleneck"
-FROM "laws"
-SORT date_proposed DESC
-LIMIT 20
-```
-
----
-
-## Memory Recall Functions
-
-### Deputy Recall
 ```dataview
 LIST
-FROM "politicians"
-WHERE contains(file.inlinks, [[ THIS FILE ]])
-```
-
-### Law Recall
-```dataview
-LIST
-FROM "laws"
-WHERE contains(file.inlinks, [[ THIS FILE ]])
-```
-
-### Session Recall
-```dataview
-LIST
-FROM "sessions"
-WHERE date = "2025-03-26"
-```
-
----
-
-## Connection Network
-
-### Cross-Reference Query
-```dataview
-TABLE
-  "Incoming Links" as "Referenced By",
-  "Outgoing Links" as "Links To"
-FROM ""
-WHERE file = "politicians/deputies/name"
-```
-
----
-
-## Alerts
-
-### Inactive Politicians
-```dataview
-LIST
-FROM "politicians"
-WHERE activity_score = 0
+FROM "sessions/deputies"
+WHERE date >= "2025-01-01"
+SORT date DESC
 LIMIT 10
 ```
 
-### Stalled Laws
+## Recent L.aws
+
 ```dataview
 LIST
 FROM "laws"
-WHERE !contains(date_adopted, "202") OR !date_adopted
+WHERE year >= "2025"
 LIMIT 10
 ```
 
----
+## Brain Coverage
 
-## Quick Links
-
-- [[_brain/queries/deputy-recall|Deputy Recall Query]]
-- [[_brain/queries/law-recall|Law Recall Query]]
-- [[_brain/queries/session-recall|Session Recall Query]]
-- [[_brain/queries/cross-reference|Cross-Reference Query]]
-
----
-
-*Dashboard last updated: 2026-04-26*
-*Vault version: Brain Architecture v1.0*
+| Section | Files |
+|---------|-------|
+| Sensory Input | `= length(filter(folder(""), (f) => contains(f.tags, "sensory")))` |
+| Processing | `= length(filter(folder(""), (f) => contains(f.tags, "processing")))` |
+| Memory | `= length(filter(folder(""), (f) => contains(f.tags, "memory")))` |
+| Action/Output | `= length(filter(folder(""), (f) => contains(f.tags, "action")))` |

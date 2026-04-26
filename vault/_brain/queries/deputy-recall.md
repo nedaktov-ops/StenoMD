@@ -50,14 +50,38 @@ WHERE idm = DEPUTY_IDM
 LIST
 FROM "proposals"
 WHERE contains(sponsors, DEPUTY_IDM)
+LIMIT 20
 ```
 
 ## Memory - Sessions Attended
 
 ```dataview
 LIST
-FROM "sessions"
+FROM "sessions/deputies"
 WHERE contains(participants, "NAME_FROM_SESSIONS")
+LIMIT 20
+```
+
+## Memory - Speeches
+
+```dataview
+LIST
+FROM "sessions/deputies"
+WHERE contains(speakers, "DEPUTY_NAME")
+SORT date DESC
+LIMIT 10
+```
+
+## Memory - Voting Record
+
+```dataview
+TABLE
+  file.link as "Session",
+  vote as "Vote",
+  law as "Law"
+FROM "sessions/deputies"
+WHERE contains(voters, DEPUTY_IDM)
+LIMIT 20
 ```
 
 ## Memory - Committees

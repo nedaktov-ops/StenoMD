@@ -153,6 +153,30 @@ LIST FROM "politicians"
 WHERE contains(committees, "COMMITTEE_NAME")
 ```
 
+### Most Active Speakers
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Deputy",
+  speeches_count as "Speeches"
+FROM "politicians/deputies"
+WHERE speeches_count > 0
+SORT speeches_count DESC
+LIMIT 20
+```
+
+### Voting Activity
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Deputy",
+  voting_records.length as "Votes"
+FROM "politicians/deputies"
+WHERE voting_records
+SORT length(voting_records) DESC
+LIMIT 20
+```
+
 ---
 
 *Use this query to understand the full connection web in your vault.*
