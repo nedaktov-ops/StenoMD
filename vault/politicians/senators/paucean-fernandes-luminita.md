@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2b2ea3f2-756e-46d5-acfe-9a41350b7f34
 ---
+idm: 6121
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PĂUCEAN-FERNANDES Luminița
 
 ## Related Sections

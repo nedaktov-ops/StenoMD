@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=58dd0f59-a7e9-44f4-9860-5316735921e1
 ---
+idm: 6769
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # FLUTUR Gheorghe
 
 ## Related Sections

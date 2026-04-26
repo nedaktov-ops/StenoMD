@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=33d88102-6e65-4934-9ecf-10102445c2c4
 ---
+idm: 7928
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BLAGA Vasile
 
 ## Related Sections

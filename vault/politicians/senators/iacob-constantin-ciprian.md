@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e4de63cf-394d-49da-844a-6b060a232b35
 ---
+idm: 8380
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # IACOB Constantin-Ciprian
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=4d812c2c-fa19-4834-b1f1-08fedc72161d
 ---
+idm: 6272
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ALEXANDRU Victoria-Violeta
 
 ## Related Sections

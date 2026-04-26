@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5954ccc9-0af9-409f-9b30-91c8b292d60d
 ---
+idm: 1663
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # OPRINOIU Aurel
 
 ## Related Sections

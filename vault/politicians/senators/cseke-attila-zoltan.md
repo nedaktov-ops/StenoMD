@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2af30f2a-5ad3-45db-a322-4073884fed8f
 ---
+idm: 5410
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CSEKE Attila-Zoltan
 
 ## Related Sections

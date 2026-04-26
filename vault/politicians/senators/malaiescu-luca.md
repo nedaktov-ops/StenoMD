@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b9350519-299b-4572-8d08-7aea22489f39
 ---
+idm: 2000
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # MĂLĂIESCU Luca
 
 ## Related Sections

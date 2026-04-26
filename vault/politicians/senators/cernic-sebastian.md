@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ce14b3e6-9e25-4840-a0b0-23f33c6db73c
 ---
+idm: 2124
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CERNIC Sebastian
 
 ## Related Sections

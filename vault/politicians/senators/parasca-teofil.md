@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3953018d-3e06-4028-bc4b-953fb20f88e9
 ---
+idm: 8464
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PARASCA Teofil
 
 ## Related Sections

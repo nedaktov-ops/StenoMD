@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e23f34ee-f4f8-4e72-8302-7453373e0cec
 ---
+idm: 1318
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # MANEA Dumitru
 
 ## Related Sections

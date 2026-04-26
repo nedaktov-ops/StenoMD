@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=fcdbfb0c-93ca-4aa5-85ba-4f53b21865bd
 ---
+idm: 1272
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # FLOROIU Ionel
 
 ## Related Sections

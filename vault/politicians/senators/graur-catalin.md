@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a8ff8991-97dd-4a5b-92a9-63c61a612f75
 ---
+idm: 4904
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # GRAUR Cătălin
 
 ## Related Sections

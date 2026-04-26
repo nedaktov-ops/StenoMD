@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=007fdd23-b531-407e-a067-9c3796420c8c
 ---
+idm: 715
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PEIA Ninel
 
 ## Related Sections

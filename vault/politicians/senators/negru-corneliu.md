@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c6be0951-8179-4ab1-8166-8cac4c1bf4d4
 ---
+idm: 8057
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # NEGRU Corneliu
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=55c19f8c-80f4-4bd1-b112-e363c2b283f1
 ---
+idm: 277
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # DUMITRESCU Cristina-Gabriella
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0a82391d-2ecd-4b88-ac27-57b69d159720
 ---
+idm: 6724
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # GEAMĂNU Ștefan
 
 ## Related Sections

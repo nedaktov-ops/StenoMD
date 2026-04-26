@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=988c7a7c-2a4e-476d-bcc0-bcc1d6e5b97b
 ---
+idm: 5980
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # SAVA Clement
 
 ## Related Sections

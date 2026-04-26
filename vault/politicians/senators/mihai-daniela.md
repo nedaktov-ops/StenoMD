@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f640457c-0362-4c02-96d1-7c38b9957bdd
 ---
+idm: 5325
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # MIHAI Daniela
 
 ## Related Sections

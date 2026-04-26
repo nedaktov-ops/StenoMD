@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=fee99943-2379-4151-8e9a-7b15d1f04a4f
 ---
+idm: 4448
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # MĂRGINEAN Lucian
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f34848d5-327a-4e34-80dd-c28eb44c8d98
 ---
+idm: 3378
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # SPAU Dumitru
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e6ffb390d1
 ---
+idm: 3015
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # TASNADI Istvan-Szilard
 
 ## Related Sections

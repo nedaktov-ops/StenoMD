@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3b1c3e18-cc5d-46d4-8be7-70ca0566d41f
 ---
+idm: 5862
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # KOVÁCS Maté
 
 ## Related Sections

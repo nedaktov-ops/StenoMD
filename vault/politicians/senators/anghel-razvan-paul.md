@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e4673fd9-34fd-4b0d-8019-092771f2537e
 ---
+idm: 4071
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ANGHEL Razvan-Paul
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=94afc16b-0d0b-45be-a844-2110c5c3bc0a
 ---
+idm: 2165
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CATANA Claudiu-Daniel
 
 ## Related Sections

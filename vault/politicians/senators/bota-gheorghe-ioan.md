@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=86228ca2-986a-40ba-9ed8-1a975ed32f9c
 ---
+idm: 3287
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BOTA Gheorghe-Ioan
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1df3fa38144
 ---
+idm: 5226
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # TÁNCZOS Barna
 
 ## Related Sections

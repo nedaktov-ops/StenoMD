@@ -5,11 +5,10 @@
 
 ### AI-Optimized Brain Vault (2026-04-26)
 - Phase 1: Pre-flight checks complete
-- Backup created: backups/vault-before-ai-optimization-20260426/
-- Baseline connectivity saved
-- Placeholder count baseline: 613 files
+- Phase 2: Standardize senator frontmatter - COMPLETE
+  - Added idm, speeches_count, laws_proposed, committees to 137 senators
 - Next phases:
-  - Phase 2: Standardize senator frontmatter
+  - Phase 3: Scrape/enrich senator data
   - Phase 3: Scrape/enrich senator data
   - Phase 4: Remove placeholders
   - Phase 5: Add AI-optimized fields

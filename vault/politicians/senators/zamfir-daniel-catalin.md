@@ -14,6 +14,10 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
+idm: 2019
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ZAMFIR Daniel-Cătălin
 
 ## Related Sections

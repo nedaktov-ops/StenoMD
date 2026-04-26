@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-acef5eed2a63
 ---
+idm: 5413
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ROBE Liviu Sorin
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=dcb76afd-06d2-4795-9ce4-705231994268
 ---
+idm: 8568
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # KONDOR Ágota
 
 ## Related Sections

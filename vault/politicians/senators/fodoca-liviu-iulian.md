@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=4ecef3dd-1f70-4433-82ba-54975207c4a1
 ---
+idm: 4857
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # FODOCA Liviu-Iulian
 
 ## Related Sections

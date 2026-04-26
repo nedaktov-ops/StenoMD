@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8cebeba4f0d4
 ---
+idm: 1537
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # NOVAK Levente
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3abf38c7-fffe-4f34-b90a-77b5c3219da5
 ---
+idm: 3509
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # MAZILU Liviu-Lucian
 
 ## Related Sections

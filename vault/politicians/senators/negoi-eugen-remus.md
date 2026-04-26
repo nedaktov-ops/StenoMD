@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8750fc5bf8
 ---
+idm: 5194
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # NEGOI Eugen-Remus
 
 ## Related Sections

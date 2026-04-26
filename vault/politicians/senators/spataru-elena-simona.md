@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=60bce7c1-fb2b-4f29-9c74-0b37c64a7611
 ---
+idm: 1301
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # SPĂTARU Elena-Simona
 
 ## Related Sections

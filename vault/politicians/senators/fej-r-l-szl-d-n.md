@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b443bd5d-6ba0-4192-832c-4b502d6ec1a8
 ---
+idm: 6133
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # FEJÉR László-Ődőn
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=31c2cf8c-ba75-4086-9359-6cfed5bb857d
 ---
+idm: 1859
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CERVA Nadia-Cosmina
 
 ## Related Sections

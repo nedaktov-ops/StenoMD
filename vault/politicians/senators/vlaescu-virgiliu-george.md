@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=aec2401e-7bfd-4c9f-9f67-f418bcdc5be5
 ---
+idm: 2305
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # VLĂESCU Virgiliu-George
 
 ## Related Sections

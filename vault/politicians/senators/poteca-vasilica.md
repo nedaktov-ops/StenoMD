@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5a25b95-3452-4d9d-983b-a1c7a033cfcd
 ---
+idm: 3431
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # POTECĂ Vasilică
 
 ## Related Sections

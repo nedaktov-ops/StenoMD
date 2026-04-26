@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0317f068-49ad-4541-87d4-cc589aef437f
 ---
+idm: 1593
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # STOICIU Victoria
 
 ## Related Sections

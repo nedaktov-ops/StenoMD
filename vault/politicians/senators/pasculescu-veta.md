@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b236fa71-a4fe-4ee8-b18e-bed743df11d5
 ---
+idm: 8644
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PĂSCULESCU Veta
 
 ## Related Sections

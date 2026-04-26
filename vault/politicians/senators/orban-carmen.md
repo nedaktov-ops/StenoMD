@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=86155ce0-9997-464a-ad63-93236f32f972
 ---
+idm: 4405
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ORBAN Carmen
 
 ## Related Sections

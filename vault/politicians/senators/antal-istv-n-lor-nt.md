@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=de52f6df-260b-4042-9a60-095a0dbfe661
 ---
+idm: 6083
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ANTAL István-Loránt
 
 ## Related Sections

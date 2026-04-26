@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=70753dde-d7a5-47b2-859d-eee551ce150f
 ---
+idm: 3972
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # VEŞTEA Mihail
 
 ## Related Sections

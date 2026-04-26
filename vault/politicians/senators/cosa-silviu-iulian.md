@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c4a7837d-5479-4aad-82bc-34c696b71339
 ---
+idm: 942
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # COȘA Silviu-Iulian
 
 ## Related Sections

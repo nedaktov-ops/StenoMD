@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e7647515-e32c-4e2d-96ff-ab83e8a93512
 ---
+idm: 6781
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # RESMERIŢĂ Cornel-Cristian
 
 ## Related Sections

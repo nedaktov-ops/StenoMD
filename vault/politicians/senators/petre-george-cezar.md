@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=14e542f2-ee04-444e-b539-9e85135da202
 ---
+idm: 5940
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PETRE George-Cezar
 
 ## Related Sections

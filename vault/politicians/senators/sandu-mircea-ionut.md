@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8df00bf7766
 ---
+idm: 4393
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # SANDU Mircea-Ionuț
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a9a821ad71
 ---
+idm: 6513
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # SILEGEANU Cătălin
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=075d383a-42a1-44d5-989f-cc686356d066
 ---
+idm: 5764
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # STREINU CERCEL Adrian
 
 ## Related Sections

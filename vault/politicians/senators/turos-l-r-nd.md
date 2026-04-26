@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3bd730d7b7f
 ---
+idm: 7456
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # TUROS Lóránd
 
 ## Related Sections

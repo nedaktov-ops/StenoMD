@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=65699efd-f7e5-4128-b80f-1ef173563d66
 ---
+idm: 8175
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CARP Ionel
 
 ## Related Sections

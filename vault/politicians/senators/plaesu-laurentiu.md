@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=4ea5e2f9-cd07-4eb4-912e-a1181cc460b1
 ---
+idm: 7325
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PLĂEȘU Laurențiu
 
 ## Related Sections

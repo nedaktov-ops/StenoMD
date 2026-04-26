@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=813d6a81-cea1-4ac6-9717-143a859d4bde
 ---
+idm: 7382
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BOLOJAN Ilie
 
 ## Related Sections

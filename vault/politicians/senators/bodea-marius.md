@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=dc8f43fb-e036-477b-b895-12f56a2464c1
 ---
+idm: 951
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BODEA Marius
 
 ## Related Sections

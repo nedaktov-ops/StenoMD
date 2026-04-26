@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=1969fbc4-5c74-4b09-afd6-cb64347549de
 ---
+idm: 6985
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # STOICA Ciprian-Titi
 
 ## Related Sections

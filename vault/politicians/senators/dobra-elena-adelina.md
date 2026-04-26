@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5cb3f164-6f0c-449b-bc2e-457c5e9bf73c
 ---
+idm: 6232
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # DOBRA Elena-Adelina
 
 ## Related Sections

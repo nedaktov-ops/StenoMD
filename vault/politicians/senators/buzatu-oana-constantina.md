@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6a194230-e597-4335-8ce2-1da0b0aae9c4
 ---
+idm: 2709
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BUZATU Oana-Constantina
 
 ## Related Sections

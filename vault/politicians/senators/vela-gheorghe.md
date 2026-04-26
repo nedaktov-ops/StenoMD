@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f1658cfa-9aea-415d-8ef2-ec0e6e4046fc
 ---
+idm: 3245
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # VELA Gheorghe
 
 ## Related Sections

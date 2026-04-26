@@ -14,6 +14,10 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
+idm: 4666
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ȘTEFĂNESCU Daniela
 
 ## Related Sections

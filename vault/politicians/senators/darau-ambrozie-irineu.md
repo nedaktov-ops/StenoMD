@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=37b6de1d-2d61-4475-bb9b-443d4ad9d181
 ---
+idm: 7992
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # DARĂU Ambrozie-Irineu
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=dad3c5ee-3157-410a-85ff-094a63524104
 ---
+idm: 5720
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ANISIE Monica-Cristina
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=33c6752d-c2b6-42af-a6b4-233b9f6e9994
 ---
+idm: 7840
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CAZANCIUC Robert-Marius
 
 ## Related Sections

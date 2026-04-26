@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f6b7345b-82ca-43bf-9b7e-efe5c038b2a0
 ---
+idm: 2618
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # VLAHU Nicolae
 
 ## Related Sections

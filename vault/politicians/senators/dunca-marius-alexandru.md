@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5582ee24-5017-4462-ad12-49d4bde5d5bb
 ---
+idm: 786
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # DUNCA Marius-Alexandru
 
 ## Related Sections

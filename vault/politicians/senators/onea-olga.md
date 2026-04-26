@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7f782376-a244-4258-b5a5-911192e5566d
 ---
+idm: 2576
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # ONEA Olga
 
 ## Related Sections

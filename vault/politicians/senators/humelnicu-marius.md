@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d172fe4e-c155-4f46-8859-6665840065a9
 ---
+idm: 1423
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # HUMELNICU Marius
 
 ## Related Sections

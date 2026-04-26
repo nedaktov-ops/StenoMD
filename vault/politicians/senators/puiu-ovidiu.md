@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=c4af4b08-ccb8-4323-8fb2-a7272aff2123
 ---
+idm: 4922
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PUIU Ovidiu
 
 ## Related Sections

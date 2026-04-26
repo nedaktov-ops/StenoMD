@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b78349041f6
 ---
+idm: 5528
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PĂUN Ana-Cynthia-Ioana
 
 ## Related Sections

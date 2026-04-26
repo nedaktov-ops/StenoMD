@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=b9c904e7-969f-4126-b0e1-0ebd3a003cc5
 ---
+idm: 8760
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BICĂ Andra
 
 ## Related Sections

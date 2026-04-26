@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=dd953b01-e89c-481c-88b9-40cbd8e43fec
 ---
+idm: 461
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CUȘNIR Rodica
 
 ## Related Sections

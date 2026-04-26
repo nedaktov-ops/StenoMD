@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=edf20da3-a851-4622-b534-0b3d833a51b9
 ---
+idm: 2449
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BARCARI Dorina
 
 ## Related Sections

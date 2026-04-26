@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6491a652-0d83-455c-b9a9-a04c0f5194c0
 ---
+idm: 4053
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PINTEA Paul-Ciprian
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=827844f4-ed1e-4293-bbe5-3dd527a0d65b
 ---
+idm: 8588
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CSÁSZÁR Károly Zsolt
 
 ## Related Sections

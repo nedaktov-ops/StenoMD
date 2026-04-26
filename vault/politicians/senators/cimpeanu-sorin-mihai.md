@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e358037e-262e-4bc0-b1d8-30016595005f
 ---
+idm: 7570
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CÎMPEANU Sorin-Mihai
 
 ## Related Sections

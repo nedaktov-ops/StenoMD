@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bdd75da8-fc58-45c3-8765-87d17ea22c8d
 ---
+idm: 1386
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # NEAGU Nicolae
 
 ## Related Sections

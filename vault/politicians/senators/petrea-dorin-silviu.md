@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed3840e012a
 ---
+idm: 4558
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PETREA Dorin-Silviu
 
 ## Related Sections

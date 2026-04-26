@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0a8b45a7-e661-4c59-9169-281f79ff12eb
 ---
+idm: 466
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CIBU DEACONU Ruxandra
 
 ## Related Sections

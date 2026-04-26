@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=9cd64c47-2be4-43ed-8b32-249577fe8c97
 ---
+idm: 2074
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CHELARU Mircia
 
 ## Related Sections

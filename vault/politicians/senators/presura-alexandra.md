@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=95133353-e40c-4398-bbac-a6d14fcdad54
 ---
+idm: 7832
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PRESURĂ Alexandra
 
 ## Related Sections

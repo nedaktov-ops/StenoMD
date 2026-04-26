@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=29201640-de4e-47ff-89b2-18126d2790ae
 ---
+idm: 1592
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # BORȚUN Ștefan
 
 ## Related Sections

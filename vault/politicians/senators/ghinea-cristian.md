@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=008fd8cb-c069-4f74-b02b-612d1db6a19d
 ---
+idm: 4647
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # GHINEA Cristian
 
 ## Related Sections

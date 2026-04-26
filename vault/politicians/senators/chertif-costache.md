@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=9d98d226-76aa-4dec-9d8d-24a83d344dfb
 ---
+idm: 2964
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CHERTIF Costache
 
 ## Related Sections

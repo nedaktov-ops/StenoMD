@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a98c83aa-d99d-464b-a5a1-44566f751a51
 ---
+idm: 8794
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # DÎRLĂU Andrei-Emil
 
 ## Related Sections

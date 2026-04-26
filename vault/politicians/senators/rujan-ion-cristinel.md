@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=400f5737-4844-4c7d-98da-aee69c2428d0
 ---
+idm: 8784
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # RUJAN Ion-Cristinel
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=737c18e7-c031-4d78-8808-9588b964e893
 ---
+idm: 369
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PAULIUC Nicoleta
 
 ## Related Sections

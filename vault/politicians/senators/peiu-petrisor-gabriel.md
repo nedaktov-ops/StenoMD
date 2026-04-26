@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=05495ace-0730-44d7-b735-9d97285dccf0
 ---
+idm: 3983
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PEIU Petrișor-Gabriel
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5aa76a32-f2f8-42c0-a868-c5afa29fc744
 ---
+idm: 6309
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # STELEA Niculina
 
 ## Related Sections

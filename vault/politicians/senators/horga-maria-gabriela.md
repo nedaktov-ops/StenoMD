@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=91a4d099-7162-417b-8f93-645dc31accf0
 ---
+idm: 8765
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # HORGA Maria-Gabriela
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2a3a96e0-f5d4-4a21-8c10-9606276f5311
 ---
+idm: 7506
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # PĂLĂRIE Ștefan
 
 ## Related Sections

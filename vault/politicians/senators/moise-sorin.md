@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad29025b-adcf-4c9d-8f02-851ab171ff91
 ---
+idm: 2966
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # MOISE Sorin
 
 ## Related Sections

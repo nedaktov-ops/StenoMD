@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=094ef6d8-2e32-4cbd-81ff-46b54ec604f1
 ---
+idm: 3719
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # DOGARIU Eugen
 
 ## Related Sections

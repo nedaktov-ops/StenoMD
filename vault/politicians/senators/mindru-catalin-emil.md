@@ -14,6 +14,10 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
+idm: 1926
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # MÎNDRU Cătălin-Emil
 
 ## Related Sections

@@ -17,6 +17,10 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7aebffad-47e6-4c7e-bdfb-34360e888703
 ---
+idm: 6381
+speeches_count: 0
+laws_proposed: 0
+committees: []
 # CORLĂŢEAN Titus
 
 ## Related Sections
