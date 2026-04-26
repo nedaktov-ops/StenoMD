@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-04-26  
 **Status:** ACTIVE  
-**Total Pending:** 1
+**Total Pending:** 2
 
 ---
 
@@ -10,10 +10,52 @@
 
 ### Task 001: Phase 5 - Committee Assignments
 **ID:** TASK-001  
-**Status:** DEFERRED
+**Status:** COMPLETED
 **Priority:** HIGH  
 **Created:** 2026-04-24  
 **Last Checked:** 2026-04-26
+
+**Completion Notes:**
+- Scraped 393 committee assignments for 277 MPs from cdep.ro
+- 324/446 deputy profiles updated with committees field
+- Scripts: scrape_committees.py, add_committee_data.py
+
+### Task 002: Phase 4.1 - Bill Tracking
+**ID:** TASK-002  
+**Status:** IN PROGRESS
+**Priority:** HIGH  
+**Created:** 2026-04-26  
+**Last Checked:** 2026-04-26
+
+**Completion Notes:**
+- 5/124 laws matched with Open Parliament proposals (2023-2025)
+- Sponsor fields added to 5 law files
+- Limited by data format - most laws don't have Open Parliament IDs
+
+### Task 003: Phase 4.2 - Voting Records
+**ID:** TASK-003  
+**Status:** READY_TO_START
+**Priority:** MEDIUM  
+**Created:** 2026-04-26  
+**Last Checked:** 2026-04-26
+
+**Instructions:**
+Requires cdep.ro scraping (currently returns limited data)
+
+---
+
+### Task 004: Historical Bill Backfill (2020-2023)
+**ID:** TASK-004  
+**Status:** DEFERRED
+**Priority:** LOW  
+**Created:** 2026-04-26  
+**Last Checked:** 2026-04-26
+
+**Instructions:**
+Backfill bill data for 2020-2023 legislature
+- Requires web scraping from cdep.ro
+- Open Parliament data available for this period
+- Large effort - deferred until resources available
 
 **Phase Reference:** STRATEGY.md Phase 5: Complete 2024 Data  
 
