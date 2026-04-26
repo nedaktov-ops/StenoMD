@@ -1,10 +1,24 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-23T14:55:22.322850",
-  "patterns": [],
+  "last_updated": "2026-04-27T02:08:11.905486",
+  "patterns": [
+    {
+      "id": "c72946a8-79a0-4fc0-9724-d554d00c4587",
+      "issue_pattern": "",
+      "fix_pattern": "python3 scripts/fix_deputy_data_from_op.py",
+      "success_count": 5,
+      "failure_count": 0,
+      "total_uses": 5,
+      "avg_duration_ms": 0,
+      "first_seen": "2026-04-27T02:06:24.167781",
+      "last_seen": "2026-04-27T02:08:11.841541",
+      "confidence": 1.0,
+      "metadata": "{\"issue_type\": \"data_repair\", \"severity\": \"\"}"
+    }
+  ],
   "metadata": {
-    "total_patterns": 0,
-    "avg_success_rate": 0.0,
+    "total_patterns": 1,
+    "avg_success_rate": 1.0,
     "learning_enabled": true
   }
 }

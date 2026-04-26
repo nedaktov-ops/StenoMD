@@ -1,10 +1,23 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-23T14:55:22.221932",
-  "entities": [],
+  "last_updated": "2026-04-27T02:08:11.961582",
+  "entities": [
+    {
+      "id": "0a0df66d-85e5-4051-9600-a0347bc3d623",
+      "entity_type": "tool",
+      "entity_name": "Multiple",
+      "predicate": null,
+      "value": "{\"command\": \"Multiple scripts (fix_deputy_data, add_committees, merge_duplicates, normalize_sessions)\"}",
+      "confidence": 1.0,
+      "source_action": null,
+      "created_at": "2026-04-26 23:08:11",
+      "valid_from": null,
+      "valid_to": null
+    }
+  ],
   "relationships": [],
   "metadata": {
-    "total_entities": 0,
+    "total_entities": 1,
     "total_relationships": 0
   }
 }
