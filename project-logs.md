@@ -3,6 +3,22 @@
 
 ## LATEST UPDATE: 2026-04-26
 
+### Vault Link Fix Plan (2026-04-26)
+- Planner agent analysis: Full vault unlinked entities identified
+- Issues found:
+  - 41 deputies with party: Unknown (not linked to real party)
+  - ~47 deputies with constituency: photo_url (import error)
+  - 2 corrupt constituency files (photo_url-.md, photo_url:.md)
+- Fix plan:
+  - Phase 1: Delete corrupt files, fix constituency import errors
+  - Phase 2: Fix Unknown parties (map to real parties or create handling)
+  - Phase 3: Validate all links
+  - Phase 4: Commit to GitHub
+- Outstanding tasks from Unfinished-tasks.md:
+  - TASK-007: Deputy Deduplication (IN_PROGRESS)
+  - TASK-008: Duplicate Names Cleanup (READY)
+  - TASK-009: Senator Missing Party (READY)
+
 ### Brain-Analogous Architecture (2026-04-26)
 - Phase 1: Backup snapshot created at backups/
 - Templates updated with 4-section brain model (politician, law, session, committee)
