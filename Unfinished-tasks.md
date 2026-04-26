@@ -2,7 +2,46 @@
 
 **Last Updated:** 2026-04-26  
 **Status:** ACTIVE  
-**Total Pending:** 2
+**Total Pending:** 3
+
+---
+
+## MAINTENANCE REQUIRED
+
+### Task 007: Deputy Deduplication  
+**ID:** TASK-007  
+**Status:** IN_PROGRESS  
+**Priority:** HIGH
+
+**Issues Found:**
+- 115 extra deputy profiles (447 vs 332 expected in 2024 legislature)
+- 7 files have same IDM but different names (ID conflicts)
+- 146 profiles without idm field (likely obsolete)
+
+**Run:** `python3 scripts/dedupe_analysis.py`
+
+### Task 008: Duplicate Names Cleanup
+**ID:** TASK-008  
+**Status:** READY_TO_START
+
+**Issues:**
+- "index" duplicate name exists (politicians/deputies/Index.md)
+
+### Task 009: Senator Missing Party
+**ID:** TASK-009  
+**Status:** READY_TO_START
+
+**Details:**
+- 1 senator profile missing party field
+
+---
+
+## COMPLETED (2026-04-26 Session)
+
+### TASK-FIX: Field Enrichment
+- Fix deputies.py: 300 files updated with idm/party
+- add_committees.py: 251 profiles with committees
+- analyze_vault.py: Full diagnostic created
 
 ---
 
