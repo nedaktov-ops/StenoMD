@@ -45,6 +45,19 @@ WHERE committees[0].position = "Chairperson"
 SORT party
 ```
 
+## Committee Members by Party
+
+```dataview
+TABLE WITHOUT ID
+  file.link as Deputy,
+  party,
+  committees[0].name as Committee,
+  committees[0].position as Position
+FROM "politicians/deputies"
+WHERE committees
+SORT party
+```
+
 ## Find Co-Sponsors (Same Party)
 
 > Note: Requires sponsors data in bills
