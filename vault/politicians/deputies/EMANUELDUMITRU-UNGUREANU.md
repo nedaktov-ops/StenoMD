@@ -18,6 +18,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Emanuel-Dumitru UNGUREANU
+search_aliases: ['EMANUEL-DUMITRU UNGUREANU', 'emanuel-dumitru ungureanu']
+activity_score: 58
 # Emanuel-Dumitru UNGUREANU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -15,6 +15,9 @@ stable_id: pol_8b64371cccb0
 original_elected_party: USR
 type: deputy
 ---
+ai_friendly_name: Diana-Anda BUZOIANU
+search_aliases: ['DIANA-ANDA BUZOIANU', 'diana-anda buzoianu']
+activity_score: 60
 # Diana-Anda BUZOIANU
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -21,6 +21,9 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
+ai_friendly_name: Dan-Mihai NICOLAE
+search_aliases: ['DAN-MIHAI NICOLAE', 'dan-mihai nicolae']
+activity_score: 20
 # Dan-Mihai NICOLAE
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

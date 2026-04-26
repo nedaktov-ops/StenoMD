@@ -18,6 +18,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Silviu VEXLER
+search_aliases: ['SILVIU VEXLER', 'silviu vexler']
+activity_score: 42
 # Silviu VEXLER
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

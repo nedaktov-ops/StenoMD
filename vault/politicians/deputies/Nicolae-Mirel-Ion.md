@@ -19,6 +19,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Nicolae Mirel Ion
+search_aliases: ['NICOLAE MIREL ION', 'nicolae mirel ion']
+activity_score: 31
 
 # Nicolae Mirel Ion
 
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -13,6 +13,9 @@ speeches_count: 0
 laws_proposed: 0
 type: deputy
 ---
+ai_friendly_name: Atanasiu Corina
+search_aliases: ['ATANASIU CORINA', 'atanasiu corina']
+activity_score: 0
 # Atanasiu Corina
 
 **Chamber:** Chamber of Deputies  
@@ -76,7 +79,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -84,7 +87,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

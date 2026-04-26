@@ -22,6 +22,9 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
+ai_friendly_name: Petre-Florin MANOLE
+search_aliases: ['PETRE-FLORIN MANOLE', 'petre-florin manole']
+activity_score: 22
 # Petre-Florin MANOLE
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

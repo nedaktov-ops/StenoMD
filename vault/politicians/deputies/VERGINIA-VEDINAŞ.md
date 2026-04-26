@@ -19,6 +19,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Verginia VEDINAŞ
+search_aliases: ['VERGINIA VEDINAŞ', 'verginia vedinaş']
+activity_score: 125
 # Verginia VEDINAŞ
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

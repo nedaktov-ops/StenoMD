@@ -19,6 +19,9 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
+ai_friendly_name: George-Nicolae SIMION
+search_aliases: ['GEORGE-NICOLAE SIMION', 'george-nicolae simion']
+activity_score: 52
 # George-Nicolae SIMION
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

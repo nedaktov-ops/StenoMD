@@ -21,6 +21,9 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
+ai_friendly_name: Elena DOBOŞ
+search_aliases: ['ELENA DOBOŞ', 'elena doboş']
+activity_score: 46
 # Elena DOBOŞ
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

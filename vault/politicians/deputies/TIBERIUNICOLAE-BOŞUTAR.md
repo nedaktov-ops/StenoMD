@@ -19,6 +19,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Tiberiu-Nicolae BOŞUTAR
+search_aliases: ['TIBERIU-NICOLAE BOŞUTAR', 'tiberiu-nicolae boşutar']
+activity_score: 33
 # Tiberiu-Nicolae BOŞUTAR
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

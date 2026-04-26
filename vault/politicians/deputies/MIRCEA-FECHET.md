@@ -15,6 +15,9 @@ stable_id: pol_f9c1959c508c
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Mircea FECHET
+search_aliases: ['MIRCEA FECHET', 'mircea fechet']
+activity_score: 16
 # Mircea FECHET
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

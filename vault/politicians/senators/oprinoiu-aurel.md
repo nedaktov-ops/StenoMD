@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5954ccc9-0af9-409f-9b30-91c8b292d60d
 ---
+ai_friendly_name: OPRINOIU Aurel
+search_aliases: ['OPRINOIU AUREL', 'oprinoiu aurel']
+activity_score: 0
 idm: 1663
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

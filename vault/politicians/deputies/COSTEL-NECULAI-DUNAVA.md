@@ -20,6 +20,9 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
+ai_friendly_name: Costel Neculai DUNAVA
+search_aliases: ['COSTEL NECULAI DUNAVA', 'costel neculai dunava']
+activity_score: 32
 # Costel Neculai DUNAVA
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

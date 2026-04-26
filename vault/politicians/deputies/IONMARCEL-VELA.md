@@ -15,6 +15,9 @@ stable_id: pol_03f090fe4158
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Ion-Marcel VELA
+search_aliases: ['ION-MARCEL VELA', 'ion-marcel vela']
+activity_score: 23
 # Ion-Marcel VELA
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

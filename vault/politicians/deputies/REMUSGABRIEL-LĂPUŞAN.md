@@ -18,6 +18,9 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
+ai_friendly_name: Remus-Gabriel LĂPUŞAN
+search_aliases: ['REMUS-GABRIEL LĂPUŞAN', 'remus-gabriel lăpuşan']
+activity_score: 47
 # Remus-Gabriel LĂPUŞAN
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

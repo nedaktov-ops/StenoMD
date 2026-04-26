@@ -19,6 +19,9 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
+ai_friendly_name: Răzvan-Mirel CHIRIŢĂ
+search_aliases: ['RĂZVAN-MIREL CHIRIŢĂ', 'răzvan-mirel chiriţă']
+activity_score: 35
 # Răzvan-Mirel CHIRIŢĂ
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -21,6 +21,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Eduard-Virgil KOLER
+search_aliases: ['EDUARD-VIRGIL KOLER', 'eduard-virgil koler']
+activity_score: 20
 # Eduard-Virgil KOLER
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

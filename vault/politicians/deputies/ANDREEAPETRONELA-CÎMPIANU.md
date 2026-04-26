@@ -19,6 +19,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Andreea-Petronela CÎMPIANU
+search_aliases: ['ANDREEA-PETRONELA CÎMPIANU', 'andreea-petronela cîmpianu']
+activity_score: 55
 # Andreea-Petronela CÎMPIANU
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

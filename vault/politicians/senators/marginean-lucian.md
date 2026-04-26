@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=fee99943-2379-4151-8e9a-7b15d1f04a4f
 ---
+ai_friendly_name: MĂRGINEAN Lucian
+search_aliases: ['MĂRGINEAN LUCIAN', 'mărginean lucian']
+activity_score: 0
 idm: 4448
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

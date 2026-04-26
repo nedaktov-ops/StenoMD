@@ -18,6 +18,9 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
+ai_friendly_name: Adrian-Virgil CIOBANU
+search_aliases: ['ADRIAN-VIRGIL CIOBANU', 'adrian-virgil ciobanu']
+activity_score: 101
 # Adrian-Virgil CIOBANU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

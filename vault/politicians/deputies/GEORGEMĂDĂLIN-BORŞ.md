@@ -18,6 +18,9 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
+ai_friendly_name: George-Mădălin BORŞ
+search_aliases: ['GEORGE-MĂDĂLIN BORŞ', 'george-mădălin borş']
+activity_score: 60
 # George-Mădălin BORŞ
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

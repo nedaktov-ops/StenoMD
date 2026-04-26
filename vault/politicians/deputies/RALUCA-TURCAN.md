@@ -22,6 +22,9 @@ committees:
   - name: "Culture"
     role: "member"
 ---
+ai_friendly_name: Raluca TURCAN
+search_aliases: ['RALUCA TURCAN', 'raluca turcan']
+activity_score: 326
 # Raluca TURCAN
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

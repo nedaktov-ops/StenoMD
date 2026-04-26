@@ -20,6 +20,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Ciprian-Minodor DOBRE
+search_aliases: ['CIPRIAN-MINODOR DOBRE', 'ciprian-minodor dobre']
+activity_score: 40
 # Ciprian-Minodor DOBRE
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

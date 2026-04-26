@@ -18,6 +18,9 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
+ai_friendly_name: KULCSÁR-TERZA József-György
+search_aliases: ['KULCSÁR-TERZA JÓZSEF-GYÖRGY', 'kulcsár-terza józsef-györgy']
+activity_score: 38
 # KULCSÁR-TERZA József-György
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

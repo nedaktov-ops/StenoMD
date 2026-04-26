@@ -19,6 +19,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor
+search_aliases: ['FLORIN-BOGDAN VELCESCUCHESTOR AL CAMEREI DEPUTAŢILOR', 'florin-bogdan velcescuchestor al camerei deputaţilor']
+activity_score: 41
 # Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

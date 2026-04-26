@@ -16,6 +16,9 @@ original_elected_party: POT
 type: deputy
 motions: 1
 ---
+ai_friendly_name: Radu-Mihail IONESCU
+search_aliases: ['RADU-MIHAIL IONESCU', 'radu-mihail ionescu']
+activity_score: 18
 # Radu-Mihail IONESCU
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 1
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 1
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

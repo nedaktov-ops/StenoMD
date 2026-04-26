@@ -18,6 +18,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Teodor LAZĂR
+search_aliases: ['TEODOR LAZĂR', 'teodor lazăr']
+activity_score: 33
 # Teodor LAZĂR
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

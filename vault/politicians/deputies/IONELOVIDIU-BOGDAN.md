@@ -18,6 +18,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: Ionel-Ovidiu BOGDAN
+search_aliases: ['IONEL-OVIDIU BOGDAN', 'ionel-ovidiu bogdan']
+activity_score: 50
 # Ionel-Ovidiu BOGDAN
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

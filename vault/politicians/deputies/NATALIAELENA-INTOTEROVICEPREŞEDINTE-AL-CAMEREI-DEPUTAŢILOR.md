@@ -20,6 +20,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor
+search_aliases: ['NATALIA-ELENA INTOTEROVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'natalia-elena intoterovicepreşedinte al camerei deputaţilor']
+activity_score: 149
 # Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

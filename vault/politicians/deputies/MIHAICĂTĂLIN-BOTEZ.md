@@ -20,6 +20,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: Mihai-Cătălin BOTEZ
+search_aliases: ['MIHAI-CĂTĂLIN BOTEZ', 'mihai-cătălin botez']
+activity_score: 62
 # Mihai-Cătălin BOTEZ
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

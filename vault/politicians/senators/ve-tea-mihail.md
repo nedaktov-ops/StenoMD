@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=70753dde-d7a5-47b2-859d-eee551ce150f
 ---
+ai_friendly_name: VEŞTEA Mihail
+search_aliases: ['VEŞTEA MIHAIL', 'veştea mihail']
+activity_score: 0
 idm: 3972
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -16,6 +16,9 @@ original_elected_party: POT
 type: deputy
 motions: 6
 ---
+ai_friendly_name: Sergiu-Lucian MATEI
+search_aliases: ['SERGIU-LUCIAN MATEI', 'sergiu-lucian matei']
+activity_score: 25
 # Sergiu-Lucian MATEI
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 6
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 6
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

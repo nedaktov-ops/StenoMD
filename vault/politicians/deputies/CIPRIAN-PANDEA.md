@@ -20,6 +20,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Ciprian PANDEA
+search_aliases: ['CIPRIAN PANDEA', 'ciprian pandea']
+activity_score: 20
 # Ciprian PANDEA
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

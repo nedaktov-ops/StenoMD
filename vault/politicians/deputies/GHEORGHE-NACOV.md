@@ -22,6 +22,9 @@ start_date: "2024-12"
 is_original: true
 type: deputy
 ---
+ai_friendly_name: Gheorghe NACOV
+search_aliases: ['GHEORGHE NACOV', 'gheorghe nacov']
+activity_score: 13
 # Gheorghe NACOV
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

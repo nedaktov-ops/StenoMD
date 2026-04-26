@@ -19,6 +19,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Sebastian-Andrei KRONCSIŞ
+search_aliases: ['SEBASTIAN-ANDREI KRONCSIŞ', 'sebastian-andrei kroncsiş']
+activity_score: 28
 # Sebastian-Andrei KRONCSIŞ
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

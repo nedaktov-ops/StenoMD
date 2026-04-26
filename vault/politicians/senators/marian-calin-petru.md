@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=509068b6-ecf9-4365-a022-74b77483ce14
 ---
+ai_friendly_name: MARIAN Călin-Petru
+search_aliases: ['MARIAN CĂLIN-PETRU', 'marian călin-petru']
+activity_score: 0
 idm: 3172
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

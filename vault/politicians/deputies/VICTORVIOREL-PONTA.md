@@ -22,6 +22,9 @@ start_date: "2024-12"
 is_original: true
 type: deputy
 ---
+ai_friendly_name: Victor-Viorel PONTA
+search_aliases: ['VICTOR-VIOREL PONTA', 'victor-viorel ponta']
+activity_score: 2
 # Victor-Viorel PONTA
 
 **Chamber:** Chamber of Deputies  
@@ -67,7 +70,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -75,7 +78,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

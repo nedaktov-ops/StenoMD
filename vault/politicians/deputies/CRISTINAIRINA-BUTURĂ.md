@@ -19,6 +19,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Cristina-Irina BUTURĂ
+search_aliases: ['CRISTINA-IRINA BUTURĂ', 'cristina-irina butură']
+activity_score: 70
 # Cristina-Irina BUTURĂ
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

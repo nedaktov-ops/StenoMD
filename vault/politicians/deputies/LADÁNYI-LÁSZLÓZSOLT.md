@@ -18,6 +18,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: LADÁNYI László-Zsolt
+search_aliases: ['LADÁNYI LÁSZLÓ-ZSOLT', 'ladányi lászló-zsolt']
+activity_score: 34
 # LADÁNYI László-Zsolt
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

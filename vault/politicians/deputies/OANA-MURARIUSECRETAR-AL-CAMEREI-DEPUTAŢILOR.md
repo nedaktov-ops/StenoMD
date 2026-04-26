@@ -20,6 +20,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Oana MURARIUsecretar al Camerei Deputaţilor
+search_aliases: ['OANA MURARIUSECRETAR AL CAMEREI DEPUTAŢILOR', 'oana murariusecretar al camerei deputaţilor']
+activity_score: 35
 # Oana MURARIUsecretar al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

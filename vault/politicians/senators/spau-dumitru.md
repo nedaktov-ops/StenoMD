@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f34848d5-327a-4e34-80dd-c28eb44c8d98
 ---
+ai_friendly_name: SPAU Dumitru
+search_aliases: ['SPAU DUMITRU', 'spau dumitru']
+activity_score: 0
 idm: 3378
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

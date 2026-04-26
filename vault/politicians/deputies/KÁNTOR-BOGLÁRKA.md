@@ -18,6 +18,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: KÁNTOR Boglárka
+search_aliases: ['KÁNTOR BOGLÁRKA', 'kántor boglárka']
+activity_score: 44
 # KÁNTOR Boglárka
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

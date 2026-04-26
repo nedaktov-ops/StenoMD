@@ -22,6 +22,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Eliza-Mădălina PEŢA-ŞTEFĂNESCU
+search_aliases: ['ELIZA-MĂDĂLINA PEŢA-ŞTEFĂNESCU', 'eliza-mădălina peţa-ştefănescu']
+activity_score: 9
 # Eliza-Mădălina PEŢA-ŞTEFĂNESCU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

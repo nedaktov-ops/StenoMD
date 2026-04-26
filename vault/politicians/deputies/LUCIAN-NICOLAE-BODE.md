@@ -15,6 +15,9 @@ stable_id: pol_41a728db96a1
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Lucian Nicolae BODE
+search_aliases: ['LUCIAN NICOLAE BODE', 'lucian nicolae bode']
+activity_score: 75
 # Lucian Nicolae BODE
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

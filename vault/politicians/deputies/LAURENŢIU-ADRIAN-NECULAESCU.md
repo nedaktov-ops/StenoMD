@@ -18,6 +18,9 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
+ai_friendly_name: Laurenţiu Adrian NECULAESCU
+search_aliases: ['LAURENŢIU ADRIAN NECULAESCU', 'laurenţiu adrian neculaescu']
+activity_score: 15
 # Laurenţiu Adrian NECULAESCU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

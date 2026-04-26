@@ -23,6 +23,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Veronica GROSU
+search_aliases: ['VERONICA GROSU', 'veronica grosu']
+activity_score: 42
 # Veronica GROSU
 
 **Chamber:** Chamber of Deputies  
@@ -86,7 +89,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -94,7 +97,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

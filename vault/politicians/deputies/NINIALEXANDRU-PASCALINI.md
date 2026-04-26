@@ -21,6 +21,9 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
+ai_friendly_name: Nini-Alexandru PASCALINI
+search_aliases: ['NINI-ALEXANDRU PASCALINI', 'nini-alexandru pascalini']
+activity_score: 43
 # Nini-Alexandru PASCALINI
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

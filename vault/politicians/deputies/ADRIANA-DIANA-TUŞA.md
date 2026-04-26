@@ -18,6 +18,9 @@ committees:
   - name: "Culture"
     role: "member"
 ---
+ai_friendly_name: Adriana Diana TUŞA
+search_aliases: ['ADRIANA DIANA TUŞA', 'adriana diana tuşa']
+activity_score: 10
 # Adriana Diana TUŞA
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

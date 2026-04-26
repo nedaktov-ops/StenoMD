@@ -20,6 +20,9 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
+ai_friendly_name: Radu MARINESCU
+search_aliases: ['RADU MARINESCU', 'radu marinescu']
+activity_score: 16
 # Radu MARINESCU
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -18,6 +18,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Daniel-Codruţ BLAGA
+search_aliases: ['DANIEL-CODRUŢ BLAGA', 'daniel-codruţ blaga']
+activity_score: 38
 # Daniel-Codruţ BLAGA
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

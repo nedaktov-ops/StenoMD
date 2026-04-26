@@ -59,7 +59,7 @@ related_templates: [politician, law, session, committee]
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 

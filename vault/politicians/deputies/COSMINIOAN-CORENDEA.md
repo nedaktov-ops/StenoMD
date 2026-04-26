@@ -19,6 +19,9 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
+ai_friendly_name: Cosmin-Ioan CORENDEA
+search_aliases: ['COSMIN-IOAN CORENDEA', 'cosmin-ioan corendea']
+activity_score: 57
 # Cosmin-Ioan CORENDEA
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

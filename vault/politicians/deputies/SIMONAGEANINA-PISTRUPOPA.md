@@ -20,6 +20,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Simona-Geanina PISTRU-POPA
+search_aliases: ['SIMONA-GEANINA PISTRU-POPA', 'simona-geanina pistru-popa']
+activity_score: 32
 # Simona-Geanina PISTRU-POPA
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

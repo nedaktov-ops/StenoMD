@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b78349041f6
 ---
+ai_friendly_name: PĂUN Ana-Cynthia-Ioana
+search_aliases: ['PĂUN ANA-CYNTHIA-IOANA', 'păun ana-cynthia-ioana']
+activity_score: 0
 idm: 5528
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

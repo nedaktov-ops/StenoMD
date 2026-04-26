@@ -19,6 +19,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Silviu-Octavian GURLUI
+search_aliases: ['SILVIU-OCTAVIAN GURLUI', 'silviu-octavian gurlui']
+activity_score: 57
 # Silviu-Octavian GURLUI
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

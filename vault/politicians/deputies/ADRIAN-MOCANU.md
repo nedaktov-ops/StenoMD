@@ -15,6 +15,9 @@ stable_id: pol_186d2244aeaa
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Adrian MOCANU
+search_aliases: ['ADRIAN MOCANU', 'adrian mocanu']
+activity_score: 10
 # Adrian MOCANU
 
 **Chamber:** Chamber of Deputies  
@@ -76,7 +79,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -84,7 +87,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

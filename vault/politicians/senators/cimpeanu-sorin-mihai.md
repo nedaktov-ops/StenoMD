@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e358037e-262e-4bc0-b1d8-30016595005f
 ---
+ai_friendly_name: CÎMPEANU Sorin-Mihai
+search_aliases: ['CÎMPEANU SORIN-MIHAI', 'cîmpeanu sorin-mihai']
+activity_score: 0
 idm: 7570
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

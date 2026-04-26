@@ -19,6 +19,9 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
+ai_friendly_name: Mihai-Bogdan NEGOESCU
+search_aliases: ['MIHAI-BOGDAN NEGOESCU', 'mihai-bogdan negoescu']
+activity_score: 12
 # Mihai-Bogdan NEGOESCU
 
 **Chamber:** Chamber of Deputies  
@@ -80,7 +83,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -88,7 +91,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -18,6 +18,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: Claudiu-Iulius-Gavril NĂSUI
+search_aliases: ['CLAUDIU-IULIUS-GAVRIL NĂSUI', 'claudiu-iulius-gavril năsui']
+activity_score: 17
 # Claudiu-Iulius-Gavril NĂSUI
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

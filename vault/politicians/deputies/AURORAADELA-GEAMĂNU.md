@@ -18,6 +18,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Aurora-Adela GEAMĂNU
+search_aliases: ['AURORA-ADELA GEAMĂNU', 'aurora-adela geamănu']
+activity_score: 39
 # Aurora-Adela GEAMĂNU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

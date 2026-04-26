@@ -18,6 +18,9 @@ committees:
   - name: "Culture"
     role: "member"
 ---
+ai_friendly_name: Gigel-Sorinel ŞTIRBU
+search_aliases: ['GIGEL-SORINEL ŞTIRBU', 'gigel-sorinel ştirbu']
+activity_score: 22
 # Gigel-Sorinel ŞTIRBU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

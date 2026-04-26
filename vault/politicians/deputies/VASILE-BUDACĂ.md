@@ -15,6 +15,9 @@ stable_id: pol_5921398595f4
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Vasile BUDACĂ
+search_aliases: ['VASILE BUDACĂ', 'vasile budacă']
+activity_score: 46
 # Vasile BUDACĂ
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

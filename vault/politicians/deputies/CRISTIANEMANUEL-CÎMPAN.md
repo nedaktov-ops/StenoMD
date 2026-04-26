@@ -21,6 +21,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Cristian-Emanuel CÎMPAN
+search_aliases: ['CRISTIAN-EMANUEL CÎMPAN', 'cristian-emanuel cîmpan']
+activity_score: 50
 # Cristian-Emanuel CÎMPAN
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -18,6 +18,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: MIKLÓS Zoltán
+search_aliases: ['MIKLÓS ZOLTÁN', 'miklós zoltán']
+activity_score: 60
 # MIKLÓS Zoltán
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

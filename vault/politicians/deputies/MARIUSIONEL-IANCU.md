@@ -18,6 +18,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: Marius-Ionel IANCU
+search_aliases: ['MARIUS-IONEL IANCU', 'marius-ionel iancu']
+activity_score: 7
 # Marius-Ionel IANCU
 
 **Chamber:** Chamber of Deputies  
@@ -73,7 +76,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -81,7 +84,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -20,6 +20,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Dumitru ŢIPLEA
+search_aliases: ['DUMITRU ŢIPLEA', 'dumitru ţiplea']
+activity_score: 49
 # Dumitru ŢIPLEA
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -15,6 +15,9 @@ stable_id: pol_4f2aa56fb670
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Răzvan Sorin PRIŞCĂ
+search_aliases: ['RĂZVAN SORIN PRIŞCĂ', 'răzvan sorin prişcă']
+activity_score: 10
 # Răzvan Sorin PRIŞCĂ
 
 **Chamber:** Chamber of Deputies  
@@ -74,7 +77,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -82,7 +85,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

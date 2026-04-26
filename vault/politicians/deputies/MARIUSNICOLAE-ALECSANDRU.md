@@ -18,6 +18,9 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
+ai_friendly_name: Marius-Nicolae ALECSANDRU
+search_aliases: ['MARIUS-NICOLAE ALECSANDRU', 'marius-nicolae alecsandru']
+activity_score: 80
 # Marius-Nicolae ALECSANDRU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -19,6 +19,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Andrei-Ionuţ TESLARIU
+search_aliases: ['ANDREI-IONUŢ TESLARIU', 'andrei-ionuţ teslariu']
+activity_score: 27
 # Andrei-Ionuţ TESLARIU
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

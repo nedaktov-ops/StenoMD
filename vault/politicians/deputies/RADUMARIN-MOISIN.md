@@ -15,6 +15,9 @@ stable_id: pol_72e6966e8ec7
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Radu-Marin MOISIN
+search_aliases: ['RADU-MARIN MOISIN', 'radu-marin moisin']
+activity_score: 38
 # Radu-Marin MOISIN
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

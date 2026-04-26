@@ -18,6 +18,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Voicu VUŞCAN
+search_aliases: ['VOICU VUŞCAN', 'voicu vuşcan']
+activity_score: 25
 # Voicu VUŞCAN
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

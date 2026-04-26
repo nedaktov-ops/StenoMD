@@ -18,6 +18,9 @@ committees:
   - name: "Culture"
     role: "member"
 ---
+ai_friendly_name: Nicolae-Miroslav PETREŢCHI
+search_aliases: ['NICOLAE-MIROSLAV PETREŢCHI', 'nicolae-miroslav petreţchi']
+activity_score: 37
 # Nicolae-Miroslav PETREŢCHI
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

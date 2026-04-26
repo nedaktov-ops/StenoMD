@@ -21,6 +21,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Ana-Marcela BAŞ
+search_aliases: ['ANA-MARCELA BAŞ', 'ana-marcela baş']
+activity_score: 52
 # Ana-Marcela BAŞ
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

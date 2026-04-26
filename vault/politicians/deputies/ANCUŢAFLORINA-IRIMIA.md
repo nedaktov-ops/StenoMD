@@ -21,6 +21,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Ancuţa-Florina IRIMIA
+search_aliases: ['ANCUŢA-FLORINA IRIMIA', 'ancuţa-florina irimia']
+activity_score: 11
 # Ancuţa-Florina IRIMIA
 
 **Chamber:** Chamber of Deputies  
@@ -80,7 +83,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -88,7 +91,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

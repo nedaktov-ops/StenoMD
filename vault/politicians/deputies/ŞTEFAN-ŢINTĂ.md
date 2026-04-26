@@ -18,6 +18,9 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
+ai_friendly_name: Ştefan ŢINTĂ
+search_aliases: ['ŞTEFAN ŢINTĂ', 'ştefan ţintă']
+activity_score: 27
 # Ştefan ŢINTĂ
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

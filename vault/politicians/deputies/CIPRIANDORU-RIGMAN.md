@@ -22,6 +22,9 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
+ai_friendly_name: Ciprian-Doru RIGMAN
+search_aliases: ['CIPRIAN-DORU RIGMAN', 'ciprian-doru rigman']
+activity_score: 27
 # Ciprian-Doru RIGMAN
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

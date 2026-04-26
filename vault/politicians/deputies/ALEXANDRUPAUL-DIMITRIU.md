@@ -18,6 +18,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Alexandru-Paul DIMITRIU
+search_aliases: ['ALEXANDRU-PAUL DIMITRIU', 'alexandru-paul dimitriu']
+activity_score: 109
 # Alexandru-Paul DIMITRIU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

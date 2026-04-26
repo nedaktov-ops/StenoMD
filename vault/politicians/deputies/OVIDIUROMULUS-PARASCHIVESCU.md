@@ -15,6 +15,9 @@ stable_id: pol_cceeff94244f
 original_elected_party: USR
 type: deputy
 ---
+ai_friendly_name: Ovidiu-Romulus PARASCHIVESCU
+search_aliases: ['OVIDIU-ROMULUS PARASCHIVESCU', 'ovidiu-romulus paraschivescu']
+activity_score: 31
 # Ovidiu-Romulus PARASCHIVESCU
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

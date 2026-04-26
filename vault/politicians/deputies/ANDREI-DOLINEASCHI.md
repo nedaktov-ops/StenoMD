@@ -18,6 +18,9 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
+ai_friendly_name: Andrei DOLINEASCHI
+search_aliases: ['ANDREI DOLINEASCHI', 'andrei dolineaschi']
+activity_score: 52
 # Andrei DOLINEASCHI
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

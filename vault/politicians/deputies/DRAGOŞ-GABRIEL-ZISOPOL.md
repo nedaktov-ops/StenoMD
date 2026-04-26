@@ -18,6 +18,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Dragoş Gabriel ZISOPOL
+search_aliases: ['DRAGOŞ GABRIEL ZISOPOL', 'dragoş gabriel zisopol']
+activity_score: 28
 # Dragoş Gabriel ZISOPOL
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

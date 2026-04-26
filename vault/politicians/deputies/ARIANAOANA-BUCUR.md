@@ -22,6 +22,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Ariana-Oana BUCUR
+search_aliases: ['ARIANA-OANA BUCUR', 'ariana-oana bucur']
+activity_score: 53
 # Ariana-Oana BUCUR
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

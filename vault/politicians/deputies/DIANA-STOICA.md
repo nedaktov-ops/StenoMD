@@ -18,6 +18,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Diana STOICA
+search_aliases: ['DIANA STOICA', 'diana stoica']
+activity_score: 58
 # Diana STOICA
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

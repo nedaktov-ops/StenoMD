@@ -18,6 +18,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: SZABÓ Ödön
+search_aliases: ['SZABÓ ÖDÖN', 'szabó ödön']
+activity_score: 48
 # SZABÓ Ödön
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

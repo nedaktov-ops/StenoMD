@@ -12,6 +12,9 @@ speeches_count: 3
 laws_proposed: 24
 type: deputy
 ---
+ai_friendly_name: Amet Varol
+search_aliases: ['AMET VAROL', 'amet varol']
+activity_score: 27
 
 # Amet Varol
 
@@ -52,11 +55,11 @@ type: deputy
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -64,7 +67,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

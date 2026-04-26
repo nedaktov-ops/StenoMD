@@ -20,6 +20,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Sebastian-Mihai RUSU
+search_aliases: ['SEBASTIAN-MIHAI RUSU', 'sebastian-mihai rusu']
+activity_score: 46
 # Sebastian-Mihai RUSU
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

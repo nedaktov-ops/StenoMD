@@ -18,6 +18,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor
+search_aliases: ['SILVIA-CLAUDIA MIHALCEASECRETAR AL CAMEREI DEPUTAŢILOR', 'silvia-claudia mihalceasecretar al camerei deputaţilor']
+activity_score: 66
 # Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -19,6 +19,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: Andreea-Firuţa NEACŞU
+search_aliases: ['ANDREEA-FIRUŢA NEACŞU', 'andreea-firuţa neacşu']
+activity_score: 7
 # Andreea-Firuţa NEACŞU
 
 **Chamber:** Chamber of Deputies  
@@ -74,7 +77,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -82,7 +85,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

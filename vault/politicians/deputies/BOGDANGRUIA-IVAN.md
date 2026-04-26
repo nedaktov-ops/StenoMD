@@ -15,6 +15,9 @@ stable_id: pol_8d2f9447a1c9
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Bogdan-Gruia IVAN
+search_aliases: ['BOGDAN-GRUIA IVAN', 'bogdan-gruia ivan']
+activity_score: 23
 # Bogdan-Gruia IVAN
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

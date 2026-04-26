@@ -15,6 +15,9 @@ stable_id: pol_2ea3e694cd95
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Petru-Bogdan COJOCARU
+search_aliases: ['PETRU-BOGDAN COJOCARU', 'petru-bogdan cojocaru']
+activity_score: 95
 # Petru-Bogdan COJOCARU
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

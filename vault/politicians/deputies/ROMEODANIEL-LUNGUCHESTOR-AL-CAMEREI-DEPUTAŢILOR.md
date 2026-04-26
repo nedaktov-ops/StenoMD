@@ -15,6 +15,9 @@ stable_id: pol_0d116ed21bd9
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Romeo-Daniel LUNGUchestor al Camerei Deputaţilor
+search_aliases: ['ROMEO-DANIEL LUNGUCHESTOR AL CAMEREI DEPUTAŢILOR', 'romeo-daniel lunguchestor al camerei deputaţilor']
+activity_score: 32
 # Romeo-Daniel LUNGUchestor al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

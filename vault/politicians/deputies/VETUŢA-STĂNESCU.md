@@ -18,6 +18,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Vetuţa STĂNESCU
+search_aliases: ['VETUŢA STĂNESCU', 'vetuţa stănescu']
+activity_score: 30
 # Vetuţa STĂNESCU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

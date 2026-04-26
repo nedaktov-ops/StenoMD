@@ -16,6 +16,9 @@ original_elected_party: SOS
 type: deputy
 motions: 1
 ---
+ai_friendly_name: Iosif-Florin JIANU
+search_aliases: ['IOSIF-FLORIN JIANU', 'iosif-florin jianu']
+activity_score: 33
 # Iosif-Florin JIANU
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 1
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 1
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

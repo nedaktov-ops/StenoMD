@@ -15,6 +15,9 @@ stable_id: pol_8cfbf1a6a29a
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Ştefan-Bucur STOICA
+search_aliases: ['ŞTEFAN-BUCUR STOICA', 'ştefan-bucur stoica']
+activity_score: 7
 # Ştefan-Bucur STOICA
 
 **Chamber:** Chamber of Deputies  
@@ -70,7 +73,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -78,7 +81,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

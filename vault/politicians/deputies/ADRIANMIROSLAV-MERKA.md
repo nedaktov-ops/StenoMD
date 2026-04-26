@@ -18,6 +18,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: Adrian-Miroslav MERKA
+search_aliases: ['ADRIAN-MIROSLAV MERKA', 'adrian-miroslav merka']
+activity_score: 46
 # Adrian-Miroslav MERKA
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

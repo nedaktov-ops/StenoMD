@@ -20,6 +20,9 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
+ai_friendly_name: Mirela-Florenţa MATICHESCU
+search_aliases: ['MIRELA-FLORENŢA MATICHESCU', 'mirela-florenţa matichescu']
+activity_score: 28
 # Mirela-Florenţa MATICHESCU
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

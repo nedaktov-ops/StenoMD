@@ -18,6 +18,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Rodica NASSAR
+search_aliases: ['RODICA NASSAR', 'rodica nassar']
+activity_score: 21
 # Rodica NASSAR
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

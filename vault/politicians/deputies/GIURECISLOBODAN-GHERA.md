@@ -15,6 +15,9 @@ stable_id: pol_ec59abd5087f
 original_elected_party: party_full
 type: deputy
 ---
+ai_friendly_name: Giureci-Slobodan GHERA
+search_aliases: ['GIURECI-SLOBODAN GHERA', 'giureci-slobodan ghera']
+activity_score: 29
 # Giureci-Slobodan GHERA
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

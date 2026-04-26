@@ -14,6 +14,9 @@ party_affiliations:
     start_date: "2024-12"
     is_original: true
 ---
+ai_friendly_name: Niculina Stelea
+search_aliases: ['NICULINA STELEA', 'niculina stelea']
+activity_score: 0
 idm: 8163
 speeches_count: 0
 laws_proposed: 0
@@ -53,11 +56,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -65,7 +68,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

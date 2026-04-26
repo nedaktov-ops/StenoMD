@@ -16,6 +16,9 @@ original_elected_party: POT
 type: deputy
 motions: 2
 ---
+ai_friendly_name: Andrei CSILLAG
+search_aliases: ['ANDREI CSILLAG', 'andrei csillag']
+activity_score: 65
 # Andrei CSILLAG
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 2
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 2
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

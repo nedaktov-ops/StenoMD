@@ -18,6 +18,9 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
+ai_friendly_name: Bogdan-Alin STOICA
+search_aliases: ['BOGDAN-ALIN STOICA', 'bogdan-alin stoica']
+activity_score: 5
 # Bogdan-Alin STOICA
 
 **Chamber:** Chamber of Deputies  
@@ -67,7 +70,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -75,7 +78,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

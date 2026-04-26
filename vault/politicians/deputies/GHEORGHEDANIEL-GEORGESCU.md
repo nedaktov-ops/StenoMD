@@ -18,6 +18,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Gheorghe-Daniel GEORGESCU
+search_aliases: ['GHEORGHE-DANIEL GEORGESCU', 'gheorghe-daniel georgescu']
+activity_score: 47
 # Gheorghe-Daniel GEORGESCU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

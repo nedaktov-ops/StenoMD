@@ -20,6 +20,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Ionel STANCU
+search_aliases: ['IONEL STANCU', 'ionel stancu']
+activity_score: 26
 # Ionel STANCU
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

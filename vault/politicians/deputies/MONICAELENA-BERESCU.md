@@ -18,6 +18,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Monica-Elena BERESCU
+search_aliases: ['MONICA-ELENA BERESCU', 'monica-elena berescu']
+activity_score: 29
 # Monica-Elena BERESCU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

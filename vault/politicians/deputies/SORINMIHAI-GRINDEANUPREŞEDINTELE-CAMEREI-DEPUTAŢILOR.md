@@ -15,6 +15,9 @@ stable_id: pol_294aadb63966
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Sorin-Mihai GRINDEANUPreşedintele Camerei Deputaţilor
+search_aliases: ['SORIN-MIHAI GRINDEANUPREŞEDINTELE CAMEREI DEPUTAŢILOR', 'sorin-mihai grindeanupreşedintele camerei deputaţilor']
+activity_score: 108
 # Sorin-Mihai GRINDEANUPreşedintele Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

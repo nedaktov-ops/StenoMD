@@ -19,6 +19,9 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
+ai_friendly_name: Tiberiu-Claudiu BARSTAN
+search_aliases: ['TIBERIU-CLAUDIU BARSTAN', 'tiberiu-claudiu barstan']
+activity_score: 38
 # Tiberiu-Claudiu BARSTAN
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

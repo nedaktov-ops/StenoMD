@@ -19,6 +19,9 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
+ai_friendly_name: Monica IONESCU
+search_aliases: ['MONICA IONESCU', 'monica ionescu']
+activity_score: 29
 # Monica IONESCU
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

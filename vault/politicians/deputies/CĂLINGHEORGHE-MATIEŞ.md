@@ -21,6 +21,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Călin-Gheorghe MATIEŞ
+search_aliases: ['CĂLIN-GHEORGHE MATIEŞ', 'călin-gheorghe matieş']
+activity_score: 41
 # Călin-Gheorghe MATIEŞ
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

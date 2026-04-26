@@ -22,6 +22,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Adrian-Felician COZMAvicepreşedinte al Camerei Deputaţilor
+search_aliases: ['ADRIAN-FELICIAN COZMAVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'adrian-felician cozmavicepreşedinte al camerei deputaţilor']
+activity_score: 122
 # Adrian-Felician COZMAvicepreşedinte al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -19,6 +19,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Dumitrina MITREA
+search_aliases: ['DUMITRINA MITREA', 'dumitrina mitrea']
+activity_score: 35
 # Dumitrina MITREA
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

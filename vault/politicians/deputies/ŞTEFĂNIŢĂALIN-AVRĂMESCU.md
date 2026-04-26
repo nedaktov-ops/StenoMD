@@ -16,6 +16,9 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+ai_friendly_name: Ştefăniţă-Alin AVRĂMESCU
+search_aliases: ['ŞTEFĂNIŢĂ-ALIN AVRĂMESCU', 'ştefăniţă-alin avrămescu']
+activity_score: 69
 # Ştefăniţă-Alin AVRĂMESCU
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 9
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 9
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

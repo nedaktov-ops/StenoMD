@@ -20,6 +20,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Mirela Elena ADOMNICĂI
+search_aliases: ['MIRELA ELENA ADOMNICĂI', 'mirela elena adomnicăi']
+activity_score: 53
 # Mirela Elena ADOMNICĂI
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

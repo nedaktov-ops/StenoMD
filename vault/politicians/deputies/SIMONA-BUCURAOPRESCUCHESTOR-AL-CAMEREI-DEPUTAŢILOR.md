@@ -20,6 +20,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Simona BUCURA-OPRESCUchestor al Camerei Deputaţilor
+search_aliases: ['SIMONA BUCURA-OPRESCUCHESTOR AL CAMEREI DEPUTAŢILOR', 'simona bucura-oprescuchestor al camerei deputaţilor']
+activity_score: 67
 # Simona BUCURA-OPRESCUchestor al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

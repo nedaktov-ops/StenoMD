@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=33c6752d-c2b6-42af-a6b4-233b9f6e9994
 ---
+ai_friendly_name: CAZANCIUC Robert-Marius
+search_aliases: ['CAZANCIUC ROBERT-MARIUS', 'cazanciuc robert-marius']
+activity_score: 0
 idm: 7840
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

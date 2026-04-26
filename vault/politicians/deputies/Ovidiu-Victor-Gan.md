@@ -12,6 +12,9 @@ speeches_count: 5
 laws_proposed: 52
 type: deputy
 ---
+ai_friendly_name: Ovidiu Victor Gan
+search_aliases: ['OVIDIU VICTOR GAN', 'ovidiu victor gan']
+activity_score: 57
 
 # Ovidiu Victor Gan
 
@@ -52,11 +55,11 @@ type: deputy
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -64,7 +67,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

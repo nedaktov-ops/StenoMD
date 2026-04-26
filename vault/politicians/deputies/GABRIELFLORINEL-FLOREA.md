@@ -19,6 +19,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Gabriel-Florinel FLOREA
+search_aliases: ['GABRIEL-FLORINEL FLOREA', 'gabriel-florinel florea']
+activity_score: 24
 # Gabriel-Florinel FLOREA
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

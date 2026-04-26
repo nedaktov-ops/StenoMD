@@ -22,6 +22,9 @@ start_date: "2024-12"
 is_original: true
 type: deputy
 ---
+ai_friendly_name: Cristina-Mădălina PRUNĂ
+search_aliases: ['CRISTINA-MĂDĂLINA PRUNĂ', 'cristina-mădălina prună']
+activity_score: 47
 # Cristina-Mădălina PRUNĂ
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

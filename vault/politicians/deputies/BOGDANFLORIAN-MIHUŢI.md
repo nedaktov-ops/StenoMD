@@ -15,6 +15,9 @@ stable_id: pol_41c578b09308
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Bogdan-Florian MIHUŢI
+search_aliases: ['BOGDAN-FLORIAN MIHUŢI', 'bogdan-florian mihuţi']
+activity_score: 9
 # Bogdan-Florian MIHUŢI
 
 **Chamber:** Chamber of Deputies  
@@ -74,7 +77,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -82,7 +85,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

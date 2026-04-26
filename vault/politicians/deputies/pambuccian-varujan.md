@@ -13,6 +13,9 @@ speeches_count: 0
 laws_proposed: 0
 type: deputy
 ---
+ai_friendly_name: Pambuccian Varujan
+search_aliases: ['PAMBUCCIAN VARUJAN', 'pambuccian varujan']
+activity_score: 0
 # Pambuccian Varujan
 
 **Chamber:** Chamber of Deputies  
@@ -76,7 +79,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -84,7 +87,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

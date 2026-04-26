@@ -19,6 +19,9 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
+ai_friendly_name: Cristian-Alexandru POPA
+search_aliases: ['CRISTIAN-ALEXANDRU POPA', 'cristian-alexandru popa']
+activity_score: 25
 # Cristian-Alexandru POPA
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

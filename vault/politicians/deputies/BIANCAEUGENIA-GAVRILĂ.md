@@ -19,6 +19,9 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
+ai_friendly_name: Bianca-Eugenia GAVRILĂ
+search_aliases: ['BIANCA-EUGENIA GAVRILĂ', 'bianca-eugenia gavrilă']
+activity_score: 32
 # Bianca-Eugenia GAVRILĂ
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

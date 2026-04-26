@@ -18,6 +18,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Patricia-Simina-Arina MOŞsecretar al Camerei Deputaţilor
+search_aliases: ['PATRICIA-SIMINA-ARINA MOŞSECRETAR AL CAMEREI DEPUTAŢILOR', 'patricia-simina-arina moşsecretar al camerei deputaţilor']
+activity_score: 54
 # Patricia-Simina-Arina MOŞsecretar al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

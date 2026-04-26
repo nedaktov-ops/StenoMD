@@ -20,6 +20,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Călin-Graţian GAL
+search_aliases: ['CĂLIN-GRAŢIAN GAL', 'călin-graţian gal']
+activity_score: 60
 # Călin-Graţian GAL
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

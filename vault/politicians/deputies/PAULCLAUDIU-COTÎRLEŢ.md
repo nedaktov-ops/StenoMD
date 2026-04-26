@@ -20,6 +20,9 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
+ai_friendly_name: Paul-Claudiu COTÎRLEŢ
+search_aliases: ['PAUL-CLAUDIU COTÎRLEŢ', 'paul-claudiu cotîrleţ']
+activity_score: 56
 # Paul-Claudiu COTÎRLEŢ
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=aec2401e-7bfd-4c9f-9f67-f418bcdc5be5
 ---
+ai_friendly_name: VLĂESCU Virgiliu-George
+search_aliases: ['VLĂESCU VIRGILIU-GEORGE', 'vlăescu virgiliu-george']
+activity_score: 0
 idm: 2305
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

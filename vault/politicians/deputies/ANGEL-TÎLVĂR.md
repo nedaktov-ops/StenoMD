@@ -24,6 +24,9 @@ party_affiliations:
 stable_id: pol_da6de05a4b4e
 type: deputy
 ---
+ai_friendly_name: Angel TÎLVĂR
+search_aliases: ['ANGEL TÎLVĂR', 'angel tîlvăr']
+activity_score: 6
 # Angel TÎLVĂR
 
 **Chamber:** Chamber of Deputies  
@@ -68,7 +71,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -76,7 +79,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

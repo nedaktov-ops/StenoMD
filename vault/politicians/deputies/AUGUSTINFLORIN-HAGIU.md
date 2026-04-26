@@ -15,6 +15,9 @@ stable_id: pol_9b871e3e5df0
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Augustin-Florin HAGIU
+search_aliases: ['AUGUSTIN-FLORIN HAGIU', 'augustin-florin hagiu']
+activity_score: 86
 # Augustin-Florin HAGIU
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

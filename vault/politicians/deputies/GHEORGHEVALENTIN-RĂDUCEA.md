@@ -16,6 +16,9 @@ original_elected_party: POT
 type: deputy
 motions: 5
 ---
+ai_friendly_name: Gheorghe-Valentin RĂDUCEA
+search_aliases: ['GHEORGHE-VALENTIN RĂDUCEA', 'gheorghe-valentin răducea']
+activity_score: 14
 # Gheorghe-Valentin RĂDUCEA
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 5
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 5
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

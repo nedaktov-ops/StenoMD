@@ -20,6 +20,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Cătălin-Viorel MÎNDROC
+search_aliases: ['CĂTĂLIN-VIOREL MÎNDROC', 'cătălin-viorel mîndroc']
+activity_score: 16
 # Cătălin-Viorel MÎNDROC
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

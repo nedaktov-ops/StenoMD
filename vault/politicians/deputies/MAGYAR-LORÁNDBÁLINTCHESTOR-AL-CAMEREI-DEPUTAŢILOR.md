@@ -18,6 +18,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: MAGYAR Loránd-Bálintchestor al Camerei Deputaţilor
+search_aliases: ['MAGYAR LORÁND-BÁLINTCHESTOR AL CAMEREI DEPUTAŢILOR', 'magyar loránd-bálintchestor al camerei deputaţilor']
+activity_score: 42
 # MAGYAR Loránd-Bálintchestor al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

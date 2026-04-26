@@ -18,6 +18,9 @@ committees:
   - name: "Economic Policies"
     role: "member"
 ---
+ai_friendly_name: Răzvan-Olimpiu CADAR
+search_aliases: ['RĂZVAN-OLIMPIU CADAR', 'răzvan-olimpiu cadar']
+activity_score: 76
 # Răzvan-Olimpiu CADAR
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

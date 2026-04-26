@@ -20,6 +20,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Nicolae-Adrian BARA
+search_aliases: ['NICOLAE-ADRIAN BARA', 'nicolae-adrian bara']
+activity_score: 24
 # Nicolae-Adrian BARA
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

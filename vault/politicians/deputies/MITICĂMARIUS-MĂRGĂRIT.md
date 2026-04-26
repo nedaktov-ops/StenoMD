@@ -18,6 +18,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Mitică-Marius MĂRGĂRIT
+search_aliases: ['MITICĂ-MARIUS MĂRGĂRIT', 'mitică-marius mărgărit']
+activity_score: 32
 # Mitică-Marius MĂRGĂRIT
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

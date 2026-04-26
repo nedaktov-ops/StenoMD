@@ -18,6 +18,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Florin-Ionuţ BARBU
+search_aliases: ['FLORIN-IONUŢ BARBU', 'florin-ionuţ barbu']
+activity_score: 63
 # Florin-Ionuţ BARBU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

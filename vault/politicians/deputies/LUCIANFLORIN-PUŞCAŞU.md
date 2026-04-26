@@ -21,6 +21,9 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
+ai_friendly_name: Lucian-Florin PUŞCAŞU
+search_aliases: ['LUCIAN-FLORIN PUŞCAŞU', 'lucian-florin puşcaşu']
+activity_score: 44
 # Lucian-Florin PUŞCAŞU
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

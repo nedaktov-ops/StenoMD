@@ -16,6 +16,9 @@ original_elected_party: party_full
 type: deputy
 motions: 1
 ---
+ai_friendly_name: Ioana GROSARU
+search_aliases: ['IOANA GROSARU', 'ioana grosaru']
+activity_score: 21
 # Ioana GROSARU
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 1
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 1
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

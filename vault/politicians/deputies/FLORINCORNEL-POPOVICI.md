@@ -19,6 +19,9 @@ committees:
   - name: "Budget, Finance"
     role: "member"
 ---
+ai_friendly_name: Florin-Cornel POPOVICI
+search_aliases: ['FLORIN-CORNEL POPOVICI', 'florin-cornel popovici']
+activity_score: 18
 # Florin-Cornel POPOVICI
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

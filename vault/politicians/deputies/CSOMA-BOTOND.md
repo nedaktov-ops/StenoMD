@@ -15,6 +15,9 @@ stable_id: pol_586af922b2ba
 original_elected_party: UDMR
 type: deputy
 ---
+ai_friendly_name: CSOMA Botond
+search_aliases: ['CSOMA BOTOND', 'csoma botond']
+activity_score: 59
 # CSOMA Botond
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

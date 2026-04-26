@@ -18,6 +18,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: NAGY Szabolcs
+search_aliases: ['NAGY SZABOLCS', 'nagy szabolcs']
+activity_score: 22
 # NAGY Szabolcs
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

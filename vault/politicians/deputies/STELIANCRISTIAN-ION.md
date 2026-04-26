@@ -18,6 +18,9 @@ committees:
   - name: "Legal"
     role: "member"
 ---
+ai_friendly_name: Stelian-Cristian ION
+search_aliases: ['STELIAN-CRISTIAN ION', 'stelian-cristian ion']
+activity_score: 31
 # Stelian-Cristian ION
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

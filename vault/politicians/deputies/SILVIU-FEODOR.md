@@ -22,6 +22,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Silviu FEODOR
+search_aliases: ['SILVIU FEODOR', 'silviu feodor']
+activity_score: 38
 # Silviu FEODOR
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

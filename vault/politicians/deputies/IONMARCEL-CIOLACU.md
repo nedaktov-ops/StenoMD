@@ -15,6 +15,9 @@ stable_id: pol_96cb9f98e388
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Ion-Marcel CIOLACU
+search_aliases: ['ION-MARCEL CIOLACU', 'ion-marcel ciolacu']
+activity_score: 37
 # Ion-Marcel CIOLACU
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

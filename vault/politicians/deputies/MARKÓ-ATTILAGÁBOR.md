@@ -18,6 +18,9 @@ committees:
   - name: "Human Rights"
     role: "member"
 ---
+ai_friendly_name: MARKÓ Attila-Gábor
+search_aliases: ['MARKÓ ATTILA-GÁBOR', 'markó attila-gábor']
+activity_score: 79
 # MARKÓ Attila-Gábor
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -18,6 +18,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Marius-Adrian ISAC
+search_aliases: ['MARIUS-ADRIAN ISAC', 'marius-adrian isac']
+activity_score: 49
 # Marius-Adrian ISAC
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

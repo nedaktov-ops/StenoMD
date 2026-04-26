@@ -20,6 +20,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: KOLCSÁR Anquetil-Károly
+search_aliases: ['KOLCSÁR ANQUETIL-KÁROLY', 'kolcsár anquetil-károly']
+activity_score: 33
 # KOLCSÁR Anquetil-Károly
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

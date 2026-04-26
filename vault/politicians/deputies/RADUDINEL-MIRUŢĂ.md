@@ -18,6 +18,9 @@ committees:
   - name: "Industries and Services"
     role: "member"
 ---
+ai_friendly_name: Radu-Dinel MIRUŢĂ
+search_aliases: ['RADU-DINEL MIRUŢĂ', 'radu-dinel miruţă']
+activity_score: 28
 # Radu-Dinel MIRUŢĂ
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

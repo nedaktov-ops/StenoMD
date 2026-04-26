@@ -18,6 +18,9 @@ committees:
   - name: "Culture"
     role: "member"
 ---
+ai_friendly_name: Ştefan-Alexandru BĂIŞANU
+search_aliases: ['ŞTEFAN-ALEXANDRU BĂIŞANU', 'ştefan-alexandru băişanu']
+activity_score: 53
 # Ştefan-Alexandru BĂIŞANU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

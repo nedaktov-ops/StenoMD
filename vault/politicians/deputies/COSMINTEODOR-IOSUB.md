@@ -16,6 +16,9 @@ original_elected_party: AUR
 type: deputy
 motions: 9
 ---
+ai_friendly_name: Cosmin-Teodor IOSUB
+search_aliases: ['COSMIN-TEODOR IOSUB', 'cosmin-teodor iosub']
+activity_score: 27
 # Cosmin-Teodor IOSUB
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 9
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 9
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

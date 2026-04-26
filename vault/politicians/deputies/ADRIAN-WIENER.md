@@ -20,6 +20,9 @@ committees:
   - name: "Health"
     role: "member"
 ---
+ai_friendly_name: Adrian WIENER
+search_aliases: ['ADRIAN WIENER', 'adrian wiener']
+activity_score: 34
 # Adrian WIENER
 
 **Chamber:** Chamber of Deputies  
@@ -83,7 +86,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -91,7 +94,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

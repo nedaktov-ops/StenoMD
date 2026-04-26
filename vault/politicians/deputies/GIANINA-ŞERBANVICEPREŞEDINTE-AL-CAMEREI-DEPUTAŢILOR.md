@@ -19,6 +19,9 @@ committees:
   - name: "Public Administration"
     role: "member"
 ---
+ai_friendly_name: Gianina ŞERBANvicepreşedinte al Camerei Deputaţilor
+search_aliases: ['GIANINA ŞERBANVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'gianina şerbanvicepreşedinte al camerei deputaţilor']
+activity_score: 211
 # Gianina ŞERBANvicepreşedinte al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

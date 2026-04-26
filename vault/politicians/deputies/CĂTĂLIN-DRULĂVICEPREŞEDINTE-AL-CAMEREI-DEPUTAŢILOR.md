@@ -15,6 +15,9 @@ stable_id: pol_2a77b6cbd41a
 original_elected_party: USR
 type: deputy
 ---
+ai_friendly_name: Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor
+search_aliases: ['CĂTĂLIN DRULĂVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'cătălin drulăvicepreşedinte al camerei deputaţilor']
+activity_score: 235
 # Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8df00bf7766
 ---
+ai_friendly_name: SANDU Mircea-Ionuț
+search_aliases: ['SANDU MIRCEA-IONUȚ', 'sandu mircea-ionuț']
+activity_score: 0
 idm: 4393
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

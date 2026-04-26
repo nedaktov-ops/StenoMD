@@ -15,6 +15,9 @@ stable_id: pol_placeholder
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Bogdan Gheorghe Trif
+search_aliases: ['BOGDAN GHEORGHE TRIF', 'bogdan gheorghe trif']
+activity_score: 36
 
 # Bogdan Gheorghe Trif
 
@@ -55,11 +58,11 @@ type: deputy
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

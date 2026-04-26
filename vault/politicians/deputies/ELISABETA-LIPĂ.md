@@ -15,6 +15,9 @@ stable_id: pol_2db51d13cfef
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Elisabeta LIPĂ
+search_aliases: ['ELISABETA LIPĂ', 'elisabeta lipă']
+activity_score: 22
 # Elisabeta LIPĂ
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -16,6 +16,9 @@ original_elected_party: POT
 type: deputy
 motions: 7
 ---
+ai_friendly_name: Anamaria GAVRILĂ
+search_aliases: ['ANAMARIA GAVRILĂ', 'anamaria gavrilă']
+activity_score: 67
 # Anamaria GAVRILĂ
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 7
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 7
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -21,6 +21,9 @@ committees:
   - name: "Abuse, Corruption"
     role: "member"
 ---
+ai_friendly_name: Daniel-Cătălin CIORNEI
+search_aliases: ['DANIEL-CĂTĂLIN CIORNEI', 'daniel-cătălin ciornei']
+activity_score: 59
 # Daniel-Cătălin CIORNEI
 
 **Chamber:** Chamber of Deputies  
@@ -84,7 +87,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -92,7 +95,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

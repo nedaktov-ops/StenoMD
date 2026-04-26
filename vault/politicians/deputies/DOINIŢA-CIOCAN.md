@@ -22,6 +22,9 @@ committees:
   - name: "Culture"
     role: "member"
 ---
+ai_friendly_name: Doiniţa CIOCAN
+search_aliases: ['DOINIŢA CIOCAN', 'doiniţa ciocan']
+activity_score: 50
 # Doiniţa CIOCAN
 
 **Chamber:** Chamber of Deputies  
@@ -85,7 +88,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -93,7 +96,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

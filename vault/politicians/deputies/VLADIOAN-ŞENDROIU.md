@@ -18,6 +18,9 @@ committees:
   - name: "Education"
     role: "member"
 ---
+ai_friendly_name: Vlad-Ioan ŞENDROIU
+search_aliases: ['VLAD-IOAN ŞENDROIU', 'vlad-ioan şendroiu']
+activity_score: 39
 # Vlad-Ioan ŞENDROIU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

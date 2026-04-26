@@ -16,6 +16,9 @@ original_elected_party: SOS
 type: deputy
 motions: 6
 ---
+ai_friendly_name: Andra-Claudia CONSTANTINESCU
+search_aliases: ['ANDRA-CLAUDIA CONSTANTINESCU', 'andra-claudia constantinescu']
+activity_score: 88
 # Andra-Claudia CONSTANTINESCU
 
 **Chamber:** Chamber of Deputies  
@@ -79,7 +82,7 @@ motions: 6
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -87,7 +90,7 @@ motions: 6
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

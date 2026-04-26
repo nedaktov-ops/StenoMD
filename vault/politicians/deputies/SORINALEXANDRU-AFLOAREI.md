@@ -15,6 +15,9 @@ stable_id: pol_7407f6fc91c2
 original_elected_party: PNL
 type: deputy
 ---
+ai_friendly_name: Sorin-Alexandru AFLOAREI
+search_aliases: ['SORIN-ALEXANDRU AFLOAREI', 'sorin-alexandru afloarei']
+activity_score: 49
 # Sorin-Alexandru AFLOAREI
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

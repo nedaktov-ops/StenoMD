@@ -18,6 +18,9 @@ committees:
   - name: "Labour"
     role: "member"
 ---
+ai_friendly_name: Alin-Bogdan STOICA
+search_aliases: ['ALIN-BOGDAN STOICA', 'alin-bogdan stoica']
+activity_score: 63
 # Alin-Bogdan STOICA
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

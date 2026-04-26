@@ -20,6 +20,9 @@ committees:
   - name: "Foreign Policy"
     role: "member"
 ---
+ai_friendly_name: Robert-Ionatan SIGHIARTĂU
+search_aliases: ['ROBERT-IONATAN SIGHIARTĂU', 'robert-ionatan sighiartău']
+activity_score: 11
 # Robert-Ionatan SIGHIARTĂU
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

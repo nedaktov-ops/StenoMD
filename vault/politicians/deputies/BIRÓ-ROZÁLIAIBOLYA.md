@@ -15,6 +15,9 @@ stable_id: pol_b2dff577a160
 original_elected_party: UDMR
 type: deputy
 ---
+ai_friendly_name: BIRÓ Rozália-Ibolya
+search_aliases: ['BIRÓ ROZÁLIA-IBOLYA', 'biró rozália-ibolya']
+activity_score: 40
 # BIRÓ Rozália-Ibolya
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -15,6 +15,9 @@ stable_id: pol_placeholder
 original_elected_party: SOS
 type: deputy
 ---
+ai_friendly_name: Ecaterina Mariana Sz
+search_aliases: ['ECATERINA MARIANA SZ', 'ecaterina mariana sz']
+activity_score: 19
 
 # Ecaterina Mariana Sz
 
@@ -55,11 +58,11 @@ type: deputy
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

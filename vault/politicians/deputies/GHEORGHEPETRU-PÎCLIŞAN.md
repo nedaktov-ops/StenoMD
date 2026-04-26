@@ -19,6 +19,9 @@ committees:
   - name: "Agriculture"
     role: "member"
 ---
+ai_friendly_name: Gheorghe-Petru PÎCLIŞAN
+search_aliases: ['GHEORGHE-PETRU PÎCLIŞAN', 'gheorghe-petru pîclişan']
+activity_score: 31
 # Gheorghe-Petru PÎCLIŞAN
 
 **Chamber:** Chamber of Deputies  
@@ -82,7 +85,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -90,7 +93,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

@@ -18,6 +18,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Alexandru-Ioan ANDREI
+search_aliases: ['ALEXANDRU-IOAN ANDREI', 'alexandru-ioan andrei']
+activity_score: 37
 # Alexandru-Ioan ANDREI
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

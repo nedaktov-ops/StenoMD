@@ -18,6 +18,9 @@ committees:
   - name: "Defense"
     role: "member"
 ---
+ai_friendly_name: Mihai-Viorel FIFOR
+search_aliases: ['MIHAI-VIOREL FIFOR', 'mihai-viorel fifor']
+activity_score: 17
 # Mihai-Viorel FIFOR
 
 **Chamber:** Chamber of Deputies  
@@ -81,7 +84,7 @@ committees:
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -89,7 +92,7 @@ committees:
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

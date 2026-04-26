@@ -17,6 +17,9 @@ legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=4d812c2c-fa19-4834-b1f1-08fedc72161d
 ---
+ai_friendly_name: ALEXANDRU Victoria-Violeta
+search_aliases: ['ALEXANDRU VICTORIA-VIOLETA', 'alexandru victoria-violeta']
+activity_score: 0
 idm: 6272
 speeches_count: 0
 laws_proposed: 0
@@ -55,11 +58,11 @@ committees: []
 
 ### Proposals Sponsored
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -67,7 +70,7 @@ committees: []
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output

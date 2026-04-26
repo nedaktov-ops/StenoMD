@@ -15,6 +15,9 @@ stable_id: pol_375cbb32611e
 original_elected_party: PSD
 type: deputy
 ---
+ai_friendly_name: Ciprian-Constantin ŞERBAN
+search_aliases: ['CIPRIAN-CONSTANTIN ŞERBAN', 'ciprian-constantin şerban']
+activity_score: 194
 # Ciprian-Constantin ŞERBAN
 
 **Chamber:** Chamber of Deputies  
@@ -78,7 +81,7 @@ type: deputy
 
 ### Co-Sponsors
 
-- (Track from proposals)
+- (No co-sponsors data available)
 
 ### Speeches
 
@@ -86,7 +89,7 @@ type: deputy
 
 ### Voting Record
 
-- (Track from voting data)
+- (No voting records available)
 
 
 ## Action/Output
