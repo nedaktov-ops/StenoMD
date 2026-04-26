@@ -3,7 +3,7 @@
 
 **Created**: 2026-04-24  
 **Last Updated**: 2026-04-26  
-**Status**: PHASE 5 - BRAIN ARCHITECTURE COMPLETED
+**Status**: PHASE 6 - AI-OPTIMIZED BRAIN VAULT IN PROGRESS
 
 ---
 
@@ -18,6 +18,25 @@
 | Entity Resolution | Auto-resolve (highest confidence) |
 | Position Classification | Specific tasks only (Ollama disabled by default) |
 | Ollama Tasks | Entity resolution, QA only |
+| Current Legislature | 2024-2028 only |
+
+---
+
+## AI-OPTIMIZED BRAIN VAULT IMPLEMENTATION (2026-04-26)
+
+| Phase | Status | Details |
+|-------|--------|---------|
+| Phase 1: Pre-flight checks | ✅ COMPLETE | Backup, baseline saved |
+| Phase 2: Standardize senator frontmatter | ⏳ PENDING | Add idm, speeches, laws fields |
+| Phase 3: Scrape senator data | ⏳ PENDING | Enrich + fallback scraping |
+| Phase 4: Remove placeholders | ⏳ PENDING | Replace (Track from proposals) |
+| Phase 5: AI-optimized fields | ⏳ PENDING | Add ai_friendly_name, aliases |
+| Phase 6: Consolidated index | ⏳ PENDING | Single index with filters |
+| Phase 7: Final validation | ⏳ PENDING | Commit to GitHub |
+
+### Baseline Metrics (Pre-optimization)
+- Connectivity: 1535 deputy refs, 1531 senator refs
+- Placeholders: 613 files with "(Track from proposals)"
 | KG Population | Incremental (progress visible) |
 | Dashboard Refresh | Real-time (every new session) |
 | Storage Organization | By Year (`vault/sessions/YYYY/`) |
