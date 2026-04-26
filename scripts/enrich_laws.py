@@ -1,152 +1,157 @@
 #!/usr/bin/env python3
 """
-Enrich law profiles from session data.
-Creates law profiles with metadata from sessions.
+Enrich law files with proposal data from Open Parliament RO.
+
+Usage: python3 scripts/enrich_laws.py [--dry-run]
 """
-
-import re
-import sys
+import os
 import json
-import argparse
+import re
 from pathlib import Path
-from typing import Dict, List
+from datetime import datetime
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-VAULT_LAWS_DIR = PROJECT_DIR / "vault/laws"
-SESSIONS_DIR = PROJECT_DIR / "vault/sessions"
+VAULT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/vault/laws")
+PROPOSALS_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/data/parlamint/open-parliament-ro/data/2024/proposals")
 
+def extract_year(number):
+    """Extract year from law number like 127/2026."""
+    match = re.search(r'/(\d{4})', number)
+    if match:
+        return match.group(1)
+    return None
 
-def collect_law_numbers() -> Dict[str, Dict]:
-    """Collect all law numbers from sessions"""
-    laws = {}
+def normalize_number(number):
+    """Normalize law number to find matching proposal."""
+    number = number.strip()
+    match = re.search(r'(\d+)', number)
+    if match:
+        return match.group(1)
+    return None
+
+def load_proposals():
+    """Load all proposals from Open Parliament RO data."""
+    proposals = {}
     
-    # Scan both chambers
-    for chamber_dir in [SESSIONS_DIR / "deputies", SESSIONS_DIR / "senate"]:
-        if not chamber_dir.exists():
-            continue
-        
-        for session_file in chamber_dir.glob("*.md"):
-            if session_file.name == "Index.md":
+    if not PROPOSALS_DIR.exists():
+        print(f"Proposals directory not found: {PROPOSALS_DIR}")
+        return proposals
+    
+    files = list(PROPOSALS_DIR.glob("*.json"))
+    print(f"Loading {len(files)} proposal files...")
+    
+    for f in files:
+        try:
+            with open(f, "r", encoding="utf-8") as fp:
+                data = json.load(fp)
+            
+            prop = data.get("data", {})
+            if not prop:
                 continue
             
-            try:
-                content = session_file.read_text(encoding='utf-8')
-                
-                # Find laws_discussed in frontmatter
-                match = re.search(r'laws_discussed:\s*\[?([^\]\n]+)', content)
-                if match:
-                    law_str = match.group(1)
-                    # Parse law numbers (format: "59/2026, 607/2025, ...")
-                    law_nums = re.findall(r'(\d+/\d{4})', law_str)
-                    
-                    for law_num in law_nums:
-                        if law_num not in laws:
-                            laws[law_num] = {
-                                'law_number': law_num,
-                                'sessions': []
-                            }
-                        laws[law_num]['sessions'].append(session_file.stem)
-                
-            except Exception:
-                continue
+            idp = prop.get("idp", "")
+            title = prop.get("title", "")
+            status = prop.get("status", {})
+            status_short = status.get("short", "") if status else ""
+            prop_type = prop.get("type", "")
+            initiators = prop.get("initiators", [])
+            reg_numbers = prop.get("registrationNumber", {})
+            
+            proposals[idp] = {
+                "title": title,
+                "type": prop_type,
+                "status": status_short,
+                "initiators": initiators,
+                "senateChamber": reg_numbers.get("senateChamber", ""),
+            }
+        except Exception as e:
+            pass
     
-    return laws
+    print(f"Loaded {len(proposals)} proposals")
+    return proposals
 
-
-def create_law_profile(law_data: Dict) -> str:
-    """Create law markdown profile"""
-    law_num = law_data.get('law_number', 'Unknown')
-    year = law_num.split('/')[-1] if '/' in law_num else ''
-    num = law_num.split('/')[0] if '/' in law_num else law_num
-    sessions = law_data.get('sessions', [])
+def enrich_law_file(filepath, proposals, dry_run=True):
+    """Enrich a law file with proposal data."""
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
     
-    content = f"""---
-tags:
-- law
-law_number: "{law_num}"
-title: "Law {law_num}"
-title_short: "Law {num}"
-chamber: senate
-status: discussed
-year: {year}
-date_proposed: ""
-date_adopted: ""
-sessions_count: {len(sessions)}
----
-
-# {law_num}: Law {law_num}
-
-## Details
-
-- **Number**: {law_num}
-- **Year**: {year}
-- **Status**: Discussed in parliament
-- **Sessions**: {len(sessions)}
-
-## Tags
-
-#law #{year}
-"""
+    number_match = re.search(r'law_number:\s*["\']?(\d+/\d{4})', content)
+    if not number_match:
+        return None
     
-    return content
-
+    law_number = number_match.group(1)
+    year = extract_year(law_number)
+    
+    if year != "2024" and year != "2025" and year != "2026":
+        return None
+    
+    num = normalize_number(law_number)
+    
+    best_match = None
+    best_prop = None
+    
+    for idp, prop in proposals.items():
+        reg_num = prop.get("senateChamber", "")
+        if num and num in reg_num:
+            best_match = idp
+            best_prop = prop
+            break
+    
+    if not best_match:
+        for idp, prop in proposals.items():
+            title = prop.get("title", "")
+            if num and num in title[:50]:
+                best_match = idp
+                best_prop = prop
+                break
+    
+    if best_match and best_prop:
+        if not dry_run:
+            new_title = best_prop.get("title", "")[:200]
+            new_status = best_prop.get("status", "")[:100]
+            
+            lines = content.split("\n")
+            new_lines = []
+            for line in lines:
+                if line.startswith("title:"):
+                    new_lines.append(f'title: "{new_title}"')
+                elif line.startswith("status:"):
+                    new_lines.append(f"status: {new_status}")
+                else:
+                    new_lines.append(line)
+            
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write("\n".join(new_lines))
+        
+        return best_match
+    
+    return None
 
 def main():
-    """Main entry point"""
-    print("=" * 60)
-    print("Law Profile Enrichment")
-    print("=" * 60)
+    import argparse
+    parser = argparse.ArgumentParser(description="Enrich law files")
+    parser.add_argument("--dry-run", action="store_true", default=True)
+    parser.add_argument("--apply", action="store_true")
+    args = parser.parse_args()
     
-    # Collect law numbers from sessions
-    laws = collect_law_numbers()
-    print(f"Found {len(laws)} unique law numbers in sessions")
+    dry_run = not args.apply
     
-    if not laws:
-        print("No laws found - nothing to update")
-        return 0
+    print("=== Enriching Law Files ===")
+    print(f"Mode: {'DRY RUN' if dry_run else 'APPLY'}")
     
-    # Show sample
-    for ln in list(laws.keys())[:10]:
-        print(f"  {ln}")
+    proposals = load_proposals()
     
-    # Create/update law profiles
-    VAULT_LAWS_DIR.mkdir(parents=True, exist_ok=True)
+    law_files = list(VAULT_DIR.glob("*.md"))
+    law_files = [f for f in law_files if f.name not in ["Index.md", "Unknown.md"]]
+    print(f"\nFound {len(law_files)} law files")
     
-    updated = 0
-    for law_num, law_data in laws.items():
-        # Clean filename
-        filename = law_num.replace('/', '-')
-        
-        # Skip if filename has invalid chars
-        if not re.match(r'^\d+-\d+$', filename):
-            continue
-        
-        filepath = VAULT_LAWS_DIR / f"{filename}.md"
-        
-        # Check if needs update
-        needs_update = False
-        
-        if filepath.exists():
-            # Check if minimal content
-            content = filepath.read_text(encoding='utf-8')
-            if 'Source: N/A' in content or len(content) < 150:
-                needs_update = True
-        else:
-            needs_update = True
-        
-        if needs_update:
-            content = create_law_profile(law_data)
-            filepath.write_text(content, encoding='utf-8')
-            updated += 1
+    matched = 0
+    for filepath in sorted(law_files):
+        result = enrich_law_file(filepath, proposals, dry_run)
+        if result:
+            matched += 1
+            print(f"  Matched: {filepath.name} -> proposal {result}")
     
-    print(f"\nUpdated: {updated} law profiles")
-    
-    print("\n" + "=" * 60)
-    print("Complete")
-    print("=" * 60)
-    
-    return 0
-
+    print(f"\nMatched: {matched}/{len(law_files)} law files")
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
