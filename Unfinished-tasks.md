@@ -64,12 +64,18 @@
 **Created:** 2026-04-26  
 **Last Checked:** 2026-04-26
 
-**Research Notes:**
-- cdep.ro provides HTML pages, not structured XML/JSON
-- Voting pages require Selenium/Playwright for scraping
-- Open Parliament RO plans voting data but not yet available
-- parlament.openpolitics.ro export unreachable
-- Recommendation: Wait for Open Parliament to add voting data
+**Research Notes (Final):**
+- cdep.ro: Voting endpoints return 404 or complex JavaScript-rendered HTML
+- senat.ro: Has working vote pages but requires browser automation (ASP.NET)
+- parlament.openpolitics.ro: Data exports for 2017 only (database was offline)
+- Open Parliament RO: Voting data on roadmap but not yet implemented
+- GitHub issue filed: ClaudiuCeia/open-parliament-ro
+
+**Solution:**
+1. **Wait** - Open Parliament RO adding votes in future releases
+2. **Historical** - Use parlament.openpolitics.ro 2017 data (limited)
+3. **Manual** - Track key votes when needed
+4. **Placeholder** - Created scrape_senate_votes.ts for future implementation
 **Priority:** MEDIUM  
 **Created:** 2026-04-26  
 **Last Checked:** 2026-04-26
