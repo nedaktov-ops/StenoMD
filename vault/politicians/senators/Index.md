@@ -43,3 +43,7 @@
 - [[deputies/Index|Deputy Index]]
 - [[/_parliament//committees/all|Committee Reference]]
 - [[laws/Index|Law Index]]
+
+## Categories
+
+- [[politicians/senators|Senator]]

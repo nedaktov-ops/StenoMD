@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3abf38c7-fffe-4f34-b90a-77b
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/Mehedinți|Constituency: Mehedinți]]

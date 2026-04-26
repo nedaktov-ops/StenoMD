@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=9d98d226-76aa-4dec-9d8d-24a
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/Maramureș|Constituency: Maramureș]]

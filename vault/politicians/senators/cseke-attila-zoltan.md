@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=2af30f2a-5ad3-45db-a322-407
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/UDMR|Party: UDMR]]
+- [[politicians/constituencies/Bihor|Constituency: Bihor]]

@@ -39,3 +39,98 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22518]]
+- [[proposals/21318]]
+- [[proposals/21474]]
+- [[proposals/22189]]
+- [[proposals/21631]]
+- [[proposals/22132]]
+- [[proposals/22312]]
+- [[proposals/21329]]
+- [[proposals/22389]]
+- [[proposals/22313]]
+- [[proposals/21746]]
+- [[proposals/22358]]
+- [[proposals/22459]]
+- [[proposals/21989]]
+- [[proposals/22513]]
+- [[proposals/21834]]
+- [[proposals/21686]]
+- [[proposals/21619]]
+- [[proposals/22395]]
+- [[proposals/21639]]
+- ... and 20 more
+
+
+## Committees
+
+- [[committees/Education|Education]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/TULCEA|Constituency: TULCEA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=8&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 40
+- **Party Alignment:** SOS
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22518]]
+- [[proposals/21318]]
+- [[proposals/21474]]
+- [[proposals/22189]]
+- [[proposals/21631]]
+- [[proposals/22132]]
+- [[proposals/22312]]
+- [[proposals/21329]]
+- [[proposals/22389]]
+- [[proposals/22313]]
+- [[proposals/21746]]
+- [[proposals/22358]]
+- [[proposals/22459]]
+- [[proposals/21989]]
+- [[proposals/22513]]
+- [[proposals/21834]]
+- [[proposals/21686]]
+- [[proposals/21619]]
+- [[proposals/22395]]
+- [[proposals/21639]]
+- ... and 20 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "8"
+```
+
+### Alerts
+- No speeches recorded

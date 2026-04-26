@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=edf20da3-a851-4622-b534-0b3
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/Brașov|Constituency: Brașov]]

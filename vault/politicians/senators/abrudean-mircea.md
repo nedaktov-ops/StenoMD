@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7ff0cd22-7bbb-4ca8-ada1-047
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/Cluj|Constituency: Cluj]]

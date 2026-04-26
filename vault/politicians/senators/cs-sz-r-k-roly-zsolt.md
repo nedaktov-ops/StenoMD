@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=827844f4-ed1e-4293-bbe5-3dd
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/UDMR|Party: UDMR]]
+- [[politicians/constituencies/Mureș|Constituency: Mureș]]

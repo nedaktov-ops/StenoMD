@@ -39,3 +39,84 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22458]]
+- [[proposals/21855]]
+- [[proposals/21579]]
+- [[proposals/21618]]
+- [[proposals/22383]]
+- [[proposals/21502]]
+- [[proposals/22385]]
+- [[proposals/22367]]
+- [[proposals/22013]]
+- [[proposals/21743]]
+- [[proposals/22421]]
+- [[proposals/22387]]
+- [[proposals/22012]]
+- [[proposals/21342]]
+
+
+## Committees
+
+- [[committees/Industries and Services|Industries and Services]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/USR|Party: USR]]
+- [[politicians/constituencies/GORJ|Constituency: GORJ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 14
+- **Party Alignment:** USR
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22458]]
+- [[proposals/21855]]
+- [[proposals/21579]]
+- [[proposals/21618]]
+- [[proposals/22383]]
+- [[proposals/21502]]
+- [[proposals/22385]]
+- [[proposals/22367]]
+- [[proposals/22013]]
+- [[proposals/21743]]
+- [[proposals/22421]]
+- [[proposals/22387]]
+- [[proposals/22012]]
+- [[proposals/21342]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "198"
+```
+
+### Alerts
+- No speeches recorded

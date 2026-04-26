@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=0317f068-49ad-4541-87d4-cc5
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/Vaslui|Constituency: Vaslui]]

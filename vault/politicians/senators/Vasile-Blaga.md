@@ -35,3 +35,10 @@ legislature: 2024-2028
 *Senator in the Romanian Senate*
 
 *Last updated: 2026-04-24 06:33:13*
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/Timiș|Constituency: Timiș]]

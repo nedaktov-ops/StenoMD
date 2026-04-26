@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8d
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/Gorj|Constituency: Gorj]]

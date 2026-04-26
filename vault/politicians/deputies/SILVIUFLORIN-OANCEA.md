@@ -38,3 +38,75 @@ motions: 9
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22069]]
+- [[proposals/22309]]
+- [[proposals/21631]]
+- [[proposals/21842]]
+- [[proposals/21670]]
+- [[proposals/21509]]
+- [[proposals/22478]]
+- [[proposals/22031]]
+- [[proposals/22262]]
+- [[proposals/21479]]
+- [[proposals/22278]]
+- [[proposals/22450]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/IALOMIŢA|Constituency: IALOMIŢA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=230&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 21
+- **Party Alignment:** AUR
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22069]]
+- [[proposals/22309]]
+- [[proposals/21631]]
+- [[proposals/21842]]
+- [[proposals/21670]]
+- [[proposals/21509]]
+- [[proposals/22478]]
+- [[proposals/22031]]
+- [[proposals/22262]]
+- [[proposals/21479]]
+- [[proposals/22278]]
+- [[proposals/22450]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "230"
+```
+
+### Alerts
+- No speeches recorded

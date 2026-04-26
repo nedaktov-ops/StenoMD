@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=05495ace-0730-44d7-b735-9d9
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/Municipiul București|Constituency: Municipiul București]]

@@ -41,3 +41,98 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21877]]
+- [[proposals/21800]]
+- [[proposals/22430]]
+- [[proposals/21776]]
+- [[proposals/22401]]
+- [[proposals/21875]]
+- [[proposals/22389]]
+- [[proposals/21209]]
+- [[proposals/22193]]
+- [[proposals/21341]]
+- [[proposals/21805]]
+- [[proposals/22262]]
+- [[proposals/22324]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21503]]
+- [[proposals/22397]]
+- [[proposals/21583]]
+- [[proposals/21912]]
+- [[proposals/21573]]
+- ... and 6 more
+
+
+## Committees
+
+- [[committees/Agriculture|Agriculture]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/GORJ|Constituency: GORJ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=258&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 35
+- **Party Alignment:** AUR
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21877]]
+- [[proposals/21800]]
+- [[proposals/22430]]
+- [[proposals/21776]]
+- [[proposals/22401]]
+- [[proposals/21875]]
+- [[proposals/22389]]
+- [[proposals/21209]]
+- [[proposals/22193]]
+- [[proposals/21341]]
+- [[proposals/21805]]
+- [[proposals/22262]]
+- [[proposals/22324]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21503]]
+- [[proposals/22397]]
+- [[proposals/21583]]
+- [[proposals/21912]]
+- [[proposals/21573]]
+- ... and 6 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "258"
+```
+
+### Alerts
+- No speeches recorded

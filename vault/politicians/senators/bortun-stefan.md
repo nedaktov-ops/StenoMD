@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=29201640-de4e-47ff-89b2-181
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/Tulcea|Constituency: Tulcea]]

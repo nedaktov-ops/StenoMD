@@ -41,3 +41,83 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21877]]
+- [[proposals/22550]]
+- [[proposals/21504]]
+- [[proposals/21875]]
+- [[proposals/21341]]
+- [[proposals/22515]]
+- [[proposals/21805]]
+- [[proposals/22264]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21583]]
+- [[proposals/22406]]
+- [[proposals/21573]]
+
+
+## Committees
+
+- [[committees/Education|Education]]
+- [[committees/Foreign Policy|Foreign Policy]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/TIMIŞ|Constituency: TIMIŞ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=243&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 13
+- **Party Alignment:** PNL
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21877]]
+- [[proposals/22550]]
+- [[proposals/21504]]
+- [[proposals/21875]]
+- [[proposals/21341]]
+- [[proposals/22515]]
+- [[proposals/21805]]
+- [[proposals/22264]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21583]]
+- [[proposals/22406]]
+- [[proposals/21573]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "243"
+```
+
+### Alerts
+- No speeches recorded

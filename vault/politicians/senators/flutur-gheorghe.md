@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=58dd0f59-a7e9-44f4-9860-531
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/Suceava|Constituency: Suceava]]

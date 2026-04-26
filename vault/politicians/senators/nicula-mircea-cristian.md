@@ -32,3 +32,10 @@ party_affiliations:
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/Gorj|Constituency: Gorj]]

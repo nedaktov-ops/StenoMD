@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=33d88102-6e65-4934-9ecf-101
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/Timiș|Constituency: Timiș]]

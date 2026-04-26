@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=3b1c3e18-cc5d-46d4-8be7-70c
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/UDMR|Party: UDMR]]
+- [[politicians/constituencies/Satu Mare|Constituency: Satu Mare]]

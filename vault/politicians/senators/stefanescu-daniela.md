@@ -32,3 +32,10 @@ party_affiliations:
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/Călărași|Constituency: Călărași]]

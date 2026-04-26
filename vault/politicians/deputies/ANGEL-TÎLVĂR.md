@@ -43,3 +43,53 @@ type: deputy
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Committees
+
+- [[committees/Foreign Policy|Foreign Policy]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/VRANCEA|Constituency: VRANCEA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=302&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 0
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "302"
+```
+
+### Alerts
+- No legislative activity recorded
+- No speeches recorded

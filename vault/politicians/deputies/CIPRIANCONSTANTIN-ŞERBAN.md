@@ -36,3 +36,93 @@ type: deputy
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21761]]
+- [[proposals/22295]]
+- [[proposals/22265]]
+- [[proposals/21641]]
+- [[proposals/21354]]
+- [[proposals/22277]]
+- [[proposals/21760]]
+- [[proposals/21598]]
+- [[proposals/21762]]
+- [[proposals/22420]]
+- [[proposals/21645]]
+- [[proposals/21599]]
+- [[proposals/22249]]
+- [[proposals/21536]]
+- [[proposals/21606]]
+- [[proposals/22133]]
+- [[proposals/22139]]
+- [[proposals/22317]]
+- [[proposals/21605]]
+- [[proposals/22551]]
+- ... and 25 more
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/NEAMŢ|Constituency: NEAMŢ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=294&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 45
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21761]]
+- [[proposals/22295]]
+- [[proposals/22265]]
+- [[proposals/21641]]
+- [[proposals/21354]]
+- [[proposals/22277]]
+- [[proposals/21760]]
+- [[proposals/21598]]
+- [[proposals/21762]]
+- [[proposals/22420]]
+- [[proposals/21645]]
+- [[proposals/21599]]
+- [[proposals/22249]]
+- [[proposals/21536]]
+- [[proposals/21606]]
+- [[proposals/22133]]
+- [[proposals/22139]]
+- [[proposals/22317]]
+- [[proposals/21605]]
+- [[proposals/22551]]
+- ... and 25 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "294"
+```
+
+### Alerts
+- No speeches recorded

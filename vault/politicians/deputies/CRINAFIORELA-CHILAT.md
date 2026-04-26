@@ -41,3 +41,99 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21943]]
+- [[proposals/22403]]
+- [[proposals/22394]]
+- [[proposals/22277]]
+- [[proposals/22377]]
+- [[proposals/22444]]
+- [[proposals/21504]]
+- [[proposals/22192]]
+- [[proposals/22329]]
+- [[proposals/22410]]
+- [[proposals/22457]]
+- [[proposals/22196]]
+- [[proposals/21209]]
+- [[proposals/22193]]
+- [[proposals/22538]]
+- [[proposals/22292]]
+- [[proposals/22422]]
+- [[proposals/22136]]
+- [[proposals/22560]]
+- [[proposals/22245]]
+- ... and 25 more
+
+
+## Committees
+
+- [[committees/Budget, Finance|Budget, Finance]]
+- [[committees/Labour|Labour]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/MARAMUREŞ|Constituency: MARAMUREŞ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=53&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 45
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21943]]
+- [[proposals/22403]]
+- [[proposals/22394]]
+- [[proposals/22277]]
+- [[proposals/22377]]
+- [[proposals/22444]]
+- [[proposals/21504]]
+- [[proposals/22192]]
+- [[proposals/22329]]
+- [[proposals/22410]]
+- [[proposals/22457]]
+- [[proposals/22196]]
+- [[proposals/21209]]
+- [[proposals/22193]]
+- [[proposals/22538]]
+- [[proposals/22292]]
+- [[proposals/22422]]
+- [[proposals/22136]]
+- [[proposals/22560]]
+- [[proposals/22245]]
+- ... and 25 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "53"
+```
+
+### Alerts
+- No speeches recorded

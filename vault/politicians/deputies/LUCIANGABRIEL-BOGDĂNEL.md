@@ -41,3 +41,99 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21822]]
+- [[proposals/21945]]
+- [[proposals/21761]]
+- [[proposals/21641]]
+- [[proposals/21741]]
+- [[proposals/21760]]
+- [[proposals/21598]]
+- [[proposals/21762]]
+- [[proposals/22058]]
+- [[proposals/21329]]
+- [[proposals/21366]]
+- [[proposals/22428]]
+- [[proposals/21836]]
+- [[proposals/22238]]
+- [[proposals/21645]]
+- [[proposals/21353]]
+- [[proposals/22002]]
+- [[proposals/22511]]
+- [[proposals/22193]]
+- [[proposals/21599]]
+- ... and 38 more
+
+
+## Committees
+
+- [[committees/Public Administration|Public Administration]]
+- [[committees/Culture|Culture]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/BACĂU|Constituency: BACĂU]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=32&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 58
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21822]]
+- [[proposals/21945]]
+- [[proposals/21761]]
+- [[proposals/21641]]
+- [[proposals/21741]]
+- [[proposals/21760]]
+- [[proposals/21598]]
+- [[proposals/21762]]
+- [[proposals/22058]]
+- [[proposals/21329]]
+- [[proposals/21366]]
+- [[proposals/22428]]
+- [[proposals/21836]]
+- [[proposals/22238]]
+- [[proposals/21645]]
+- [[proposals/21353]]
+- [[proposals/22002]]
+- [[proposals/22511]]
+- [[proposals/22193]]
+- [[proposals/21599]]
+- ... and 38 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "32"
+```
+
+### Alerts
+- No speeches recorded

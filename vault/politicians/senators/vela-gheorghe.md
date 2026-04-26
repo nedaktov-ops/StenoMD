@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=f1658cfa-9aea-415d-8ef2-ec0
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/Caraș-Severin|Constituency: Caraș-Severin]]

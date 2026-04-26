@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-ace
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/Bistrița-Năsăud|Constituency: Bistrița-Năsăud]]

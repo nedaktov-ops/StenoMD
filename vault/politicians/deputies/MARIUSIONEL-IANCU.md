@@ -39,3 +39,68 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22137]]
+- [[proposals/21516]]
+- [[proposals/22136]]
+- [[proposals/22264]]
+- [[proposals/21319]]
+- [[proposals/21568]]
+
+
+## Committees
+
+- [[committees/Budget, Finance|Budget, Finance]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/OLT|Constituency: OLT]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=145&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 6
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22137]]
+- [[proposals/21516]]
+- [[proposals/22136]]
+- [[proposals/22264]]
+- [[proposals/21319]]
+- [[proposals/21568]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "145"
+```
+
+### Alerts
+- No speeches recorded

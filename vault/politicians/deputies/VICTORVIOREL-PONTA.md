@@ -42,3 +42,59 @@ type: deputy
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22264]]
+
+
+## Committees
+
+- [[committees/Economic Policies|Economic Policies]]
+- [[committees/Industries and Services|Industries and Services]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/DÂMBOVIŢA|Constituency: DÂMBOVIŢA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=248&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 1
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22264]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "248"
+```
+
+### Alerts
+- No speeches recorded

@@ -32,3 +32,10 @@ party_affiliations:
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/Timiș|Constituency: Timiș]]

@@ -32,3 +32,10 @@ party_affiliations:
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/USR|Party: USR]]
+- [[politicians/constituencies/Vaslui|Constituency: Vaslui]]

@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=7f782376-a244-4258-b5a5-911
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/Galați|Constituency: Galați]]

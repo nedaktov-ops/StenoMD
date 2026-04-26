@@ -38,3 +38,93 @@ motions: 6
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22518]]
+- [[proposals/21675]]
+- [[proposals/22033]]
+- [[proposals/21641]]
+- [[proposals/22430]]
+- [[proposals/22447]]
+- [[proposals/21354]]
+- [[proposals/21760]]
+- [[proposals/21631]]
+- [[proposals/22442]]
+- [[proposals/21598]]
+- [[proposals/22076]]
+- [[proposals/21636]]
+- [[proposals/21504]]
+- [[proposals/22192]]
+- [[proposals/21762]]
+- [[proposals/22401]]
+- [[proposals/22058]]
+- [[proposals/22389]]
+- [[proposals/22313]]
+- ... and 64 more
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/BRĂILA|Constituency: BRĂILA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=75&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 90
+- **Party Alignment:** SOS
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22518]]
+- [[proposals/21675]]
+- [[proposals/22033]]
+- [[proposals/21641]]
+- [[proposals/22430]]
+- [[proposals/22447]]
+- [[proposals/21354]]
+- [[proposals/21760]]
+- [[proposals/21631]]
+- [[proposals/22442]]
+- [[proposals/21598]]
+- [[proposals/22076]]
+- [[proposals/21636]]
+- [[proposals/21504]]
+- [[proposals/22192]]
+- [[proposals/21762]]
+- [[proposals/22401]]
+- [[proposals/22058]]
+- [[proposals/22389]]
+- [[proposals/22313]]
+- ... and 64 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "75"
+```
+
+### Alerts
+- No speeches recorded

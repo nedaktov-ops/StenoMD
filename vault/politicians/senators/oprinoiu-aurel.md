@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5954ccc9-0af9-409f-9b30-91c
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/USR|Party: USR]]
+- [[politicians/constituencies/Prahova|Constituency: Prahova]]

@@ -43,3 +43,81 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22430]]
+- [[proposals/21994]]
+- [[proposals/21536]]
+- [[proposals/21341]]
+- [[proposals/21886]]
+- [[proposals/22129]]
+- [[proposals/22324]]
+- [[proposals/22397]]
+- [[proposals/21481]]
+- [[proposals/21538]]
+- [[proposals/22278]]
+- [[proposals/21242]]
+
+
+## Committees
+
+- [[committees/Budget, Finance|Budget, Finance]]
+- [[committees/Defense|Defense]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/MEHEDINŢI|Constituency: MEHEDINŢI]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=162&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 21
+- **Party Alignment:** AUR
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22430]]
+- [[proposals/21994]]
+- [[proposals/21536]]
+- [[proposals/21341]]
+- [[proposals/21886]]
+- [[proposals/22129]]
+- [[proposals/22324]]
+- [[proposals/22397]]
+- [[proposals/21481]]
+- [[proposals/21538]]
+- [[proposals/22278]]
+- [[proposals/21242]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "162"
+```
+
+### Alerts
+- No speeches recorded

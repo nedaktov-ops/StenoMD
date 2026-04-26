@@ -39,3 +39,98 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22345]]
+- [[proposals/22458]]
+- [[proposals/22273]]
+- [[proposals/21842]]
+- [[proposals/22529]]
+- [[proposals/21746]]
+- [[proposals/22284]]
+- [[proposals/21353]]
+- [[proposals/21812]]
+- [[proposals/21618]]
+- [[proposals/22411]]
+- [[proposals/22385]]
+- [[proposals/22433]]
+- [[proposals/22319]]
+- [[proposals/22367]]
+- [[proposals/22407]]
+- [[proposals/22432]]
+- [[proposals/22366]]
+- [[proposals/21743]]
+- [[proposals/22412]]
+- ... and 12 more
+
+
+## Committees
+
+- [[committees/Health|Health]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/USR|Party: USR]]
+- [[politicians/constituencies/SUCEAVA|Constituency: SUCEAVA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=314&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 32
+- **Party Alignment:** USR
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22345]]
+- [[proposals/22458]]
+- [[proposals/22273]]
+- [[proposals/21842]]
+- [[proposals/22529]]
+- [[proposals/21746]]
+- [[proposals/22284]]
+- [[proposals/21353]]
+- [[proposals/21812]]
+- [[proposals/21618]]
+- [[proposals/22411]]
+- [[proposals/22385]]
+- [[proposals/22433]]
+- [[proposals/22319]]
+- [[proposals/22367]]
+- [[proposals/22407]]
+- [[proposals/22432]]
+- [[proposals/22366]]
+- [[proposals/21743]]
+- [[proposals/22412]]
+- ... and 12 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "314"
+```
+
+### Alerts
+- No speeches recorded

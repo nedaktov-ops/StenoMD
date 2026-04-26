@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=4ecef3dd-1f70-4433-82ba-549
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/Sălaj|Constituency: Sălaj]]

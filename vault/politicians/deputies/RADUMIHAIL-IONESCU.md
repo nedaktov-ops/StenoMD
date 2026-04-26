@@ -38,3 +38,83 @@ motions: 1
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22437]]
+- [[proposals/21354]]
+- [[proposals/21895]]
+- [[proposals/22439]]
+- [[proposals/21896]]
+- [[proposals/22389]]
+- [[proposals/22465]]
+- [[proposals/22466]]
+- [[proposals/22464]]
+- [[proposals/21639]]
+- [[proposals/22438]]
+- [[proposals/22440]]
+- [[proposals/21582]]
+- [[proposals/21715]]
+- [[proposals/22436]]
+- [[proposals/22390]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/BACĂU|Constituency: BACĂU]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=151&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 17
+- **Party Alignment:** POT
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22437]]
+- [[proposals/21354]]
+- [[proposals/21895]]
+- [[proposals/22439]]
+- [[proposals/21896]]
+- [[proposals/22389]]
+- [[proposals/22465]]
+- [[proposals/22466]]
+- [[proposals/22464]]
+- [[proposals/21639]]
+- [[proposals/22438]]
+- [[proposals/22440]]
+- [[proposals/21582]]
+- [[proposals/21715]]
+- [[proposals/22436]]
+- [[proposals/22390]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "151"
+```
+
+### Alerts
+- No speeches recorded

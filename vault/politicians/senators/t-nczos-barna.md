@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1d
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/UDMR|Party: UDMR]]
+- [[politicians/constituencies/Harghita|Constituency: Harghita]]

@@ -36,3 +36,63 @@ type: deputy
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21800]]
+- [[proposals/21341]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21503]]
+- [[proposals/21576]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/DOLJ|Constituency: DOLJ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=288&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 6
+- **Party Alignment:** PNL
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21800]]
+- [[proposals/21341]]
+- [[proposals/21488]]
+- [[proposals/21668]]
+- [[proposals/21503]]
+- [[proposals/21576]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "288"
+```
+
+### Alerts
+- No speeches recorded

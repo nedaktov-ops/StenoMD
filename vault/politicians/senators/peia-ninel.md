@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=007fdd23-b531-407e-a067-9c3
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/Prahova|Constituency: Prahova]]

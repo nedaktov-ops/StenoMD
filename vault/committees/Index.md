@@ -34,3 +34,45 @@
 ---
 
 Last updated: {{date:YYYY-MM-DD}}
+
+## Sensory Input
+
+- **Source URL:** cdep.ro/senat.ro (committees)
+- **Last Synced:** 2026-04-26 15:59:43
+- **Meeting Schedule:** (from parliament calendar)
+
+## Processing
+
+- **Activity Score:** 0
+- **Meeting Frequency:** monthly
+- **Bills Reviewed:** (track from session data)
+
+## Memory
+
+### Members
+
+### Meetings
+- (Track meeting dates)
+
+### Reports
+- (Link published reports)
+
+### Legislation Reviewed
+- (Link laws)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "committees"
+WHERE contains(name, "Committees Index")
+```
+
+### Member Attendance
+- (Track from meetings)
+
+### Bills Passed Through
+- (Track laws)
+
+### Activity Report
+- Auto-generate

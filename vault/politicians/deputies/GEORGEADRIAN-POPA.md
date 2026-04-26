@@ -41,3 +41,99 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21742]]
+- [[proposals/21486]]
+- [[proposals/21855]]
+- [[proposals/21340]]
+- [[proposals/22072]]
+- [[proposals/21329]]
+- [[proposals/21366]]
+- [[proposals/22064]]
+- [[proposals/21712]]
+- [[proposals/21809]]
+- [[proposals/21353]]
+- [[proposals/22071]]
+- [[proposals/21208]]
+- [[proposals/21401]]
+- [[proposals/22317]]
+- [[proposals/21365]]
+- [[proposals/21241]]
+- [[proposals/21763]]
+- [[proposals/21339]]
+- [[proposals/21710]]
+- ... and 15 more
+
+
+## Committees
+
+- [[committees/Human Rights|Human Rights]]
+- [[committees/Health|Health]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/BACĂU|Constituency: BACĂU]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=252&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 35
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21742]]
+- [[proposals/21486]]
+- [[proposals/21855]]
+- [[proposals/21340]]
+- [[proposals/22072]]
+- [[proposals/21329]]
+- [[proposals/21366]]
+- [[proposals/22064]]
+- [[proposals/21712]]
+- [[proposals/21809]]
+- [[proposals/21353]]
+- [[proposals/22071]]
+- [[proposals/21208]]
+- [[proposals/21401]]
+- [[proposals/22317]]
+- [[proposals/21365]]
+- [[proposals/21241]]
+- [[proposals/21763]]
+- [[proposals/21339]]
+- [[proposals/21710]]
+- ... and 15 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "252"
+```
+
+### Alerts
+- No speeches recorded

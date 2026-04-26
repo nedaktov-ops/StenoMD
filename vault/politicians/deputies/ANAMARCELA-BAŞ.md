@@ -43,3 +43,99 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21806]]
+- [[proposals/21731]]
+- [[proposals/21675]]
+- [[proposals/21657]]
+- [[proposals/21318]]
+- [[proposals/21631]]
+- [[proposals/22442]]
+- [[proposals/21504]]
+- [[proposals/21363]]
+- [[proposals/21842]]
+- [[proposals/22312]]
+- [[proposals/21733]]
+- [[proposals/22389]]
+- [[proposals/22313]]
+- [[proposals/22358]]
+- [[proposals/21635]]
+- [[proposals/21630]]
+- [[proposals/22459]]
+- [[proposals/22143]]
+- [[proposals/21830]]
+- ... and 26 more
+
+
+## Committees
+
+- [[committees/Human Rights|Human Rights]]
+- [[committees/Legal|Legal]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/TIMIŞ|Constituency: TIMIŞ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=21&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 52
+- **Party Alignment:** SOS
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21806]]
+- [[proposals/21731]]
+- [[proposals/21675]]
+- [[proposals/21657]]
+- [[proposals/21318]]
+- [[proposals/21631]]
+- [[proposals/22442]]
+- [[proposals/21504]]
+- [[proposals/21363]]
+- [[proposals/21842]]
+- [[proposals/22312]]
+- [[proposals/21733]]
+- [[proposals/22389]]
+- [[proposals/22313]]
+- [[proposals/22358]]
+- [[proposals/21635]]
+- [[proposals/21630]]
+- [[proposals/22459]]
+- [[proposals/22143]]
+- [[proposals/21830]]
+- ... and 26 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "21"
+```
+
+### Alerts
+- No speeches recorded

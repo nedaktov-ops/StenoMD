@@ -39,3 +39,68 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21353]]
+- [[proposals/21618]]
+- [[proposals/21725]]
+- [[proposals/22321]]
+- [[proposals/21567]]
+- [[proposals/21566]]
+
+
+## Committees
+
+- [[committees/Industries and Services|Industries and Services]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/PRAHOVA|Constituency: PRAHOVA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=272&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 6
+- **Party Alignment:** PNL
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21353]]
+- [[proposals/21618]]
+- [[proposals/21725]]
+- [[proposals/22321]]
+- [[proposals/21567]]
+- [[proposals/21566]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "272"
+```
+
+### Alerts
+- No speeches recorded

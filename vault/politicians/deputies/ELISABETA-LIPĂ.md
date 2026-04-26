@@ -36,3 +36,89 @@ type: deputy
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22069]]
+- [[proposals/21580]]
+- [[proposals/22277]]
+- [[proposals/22410]]
+- [[proposals/21509]]
+- [[proposals/22245]]
+- [[proposals/22317]]
+- [[proposals/22031]]
+- [[proposals/21771]]
+- [[proposals/22013]]
+- [[proposals/22264]]
+- [[proposals/22012]]
+- [[proposals/21693]]
+- [[proposals/21810]]
+- [[proposals/22357]]
+- [[proposals/22434]]
+- [[proposals/21576]]
+- [[proposals/21799]]
+- [[proposals/21591]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/BOTOŞANI|Constituency: BOTOŞANI]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=170&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 19
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22069]]
+- [[proposals/21580]]
+- [[proposals/22277]]
+- [[proposals/22410]]
+- [[proposals/21509]]
+- [[proposals/22245]]
+- [[proposals/22317]]
+- [[proposals/22031]]
+- [[proposals/21771]]
+- [[proposals/22013]]
+- [[proposals/22264]]
+- [[proposals/22012]]
+- [[proposals/21693]]
+- [[proposals/21810]]
+- [[proposals/22357]]
+- [[proposals/22434]]
+- [[proposals/21576]]
+- [[proposals/21799]]
+- [[proposals/21591]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "170"
+```
+
+### Alerts
+- No speeches recorded

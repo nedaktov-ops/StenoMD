@@ -39,3 +39,98 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22458]]
+- [[proposals/21657]]
+- [[proposals/22415]]
+- [[proposals/21631]]
+- [[proposals/21636]]
+- [[proposals/22273]]
+- [[proposals/21504]]
+- [[proposals/21363]]
+- [[proposals/22529]]
+- [[proposals/22371]]
+- [[proposals/21329]]
+- [[proposals/21366]]
+- [[proposals/21712]]
+- [[proposals/22284]]
+- [[proposals/21353]]
+- [[proposals/21618]]
+- [[proposals/22411]]
+- [[proposals/21401]]
+- [[proposals/22416]]
+- [[proposals/21714]]
+- ... and 30 more
+
+
+## Committees
+
+- [[committees/Industries and Services|Industries and Services]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/BUCUREŞTI|Constituency: BUCUREŞTI]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=46&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 50
+- **Party Alignment:** PNL
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22458]]
+- [[proposals/21657]]
+- [[proposals/22415]]
+- [[proposals/21631]]
+- [[proposals/21636]]
+- [[proposals/22273]]
+- [[proposals/21504]]
+- [[proposals/21363]]
+- [[proposals/22529]]
+- [[proposals/22371]]
+- [[proposals/21329]]
+- [[proposals/21366]]
+- [[proposals/21712]]
+- [[proposals/22284]]
+- [[proposals/21353]]
+- [[proposals/21618]]
+- [[proposals/22411]]
+- [[proposals/21401]]
+- [[proposals/22416]]
+- [[proposals/21714]]
+- ... and 30 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "46"
+```
+
+### Alerts
+- No speeches recorded

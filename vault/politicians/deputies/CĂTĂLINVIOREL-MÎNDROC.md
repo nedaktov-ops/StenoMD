@@ -41,3 +41,85 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22345]]
+- [[proposals/21354]]
+- [[proposals/21508]]
+- [[proposals/22379]]
+- [[proposals/21639]]
+- [[proposals/22286]]
+- [[proposals/22264]]
+- [[proposals/21582]]
+- [[proposals/21715]]
+- [[proposals/21538]]
+- [[proposals/22373]]
+- [[proposals/22357]]
+- [[proposals/21651]]
+- [[proposals/21823]]
+
+
+## Committees
+
+- [[committees/Industries and Services|Industries and Services]]
+- [[committees/Defense|Defense]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/ARGEŞ|Constituency: ARGEŞ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=202&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 14
+- **Party Alignment:** PSD
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22345]]
+- [[proposals/21354]]
+- [[proposals/21508]]
+- [[proposals/22379]]
+- [[proposals/21639]]
+- [[proposals/22286]]
+- [[proposals/22264]]
+- [[proposals/21582]]
+- [[proposals/21715]]
+- [[proposals/21538]]
+- [[proposals/22373]]
+- [[proposals/22357]]
+- [[proposals/21651]]
+- [[proposals/21823]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "202"
+```
+
+### Alerts
+- No speeches recorded

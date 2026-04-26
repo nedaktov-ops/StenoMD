@@ -41,3 +41,99 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22392]]
+- [[proposals/21945]]
+- [[proposals/22345]]
+- [[proposals/21675]]
+- [[proposals/21474]]
+- [[proposals/22309]]
+- [[proposals/22415]]
+- [[proposals/22430]]
+- [[proposals/22300]]
+- [[proposals/22226]]
+- [[proposals/21895]]
+- [[proposals/22279]]
+- [[proposals/21329]]
+- [[proposals/21746]]
+- [[proposals/21209]]
+- [[proposals/22071]]
+- [[proposals/22383]]
+- [[proposals/22422]]
+- [[proposals/21716]]
+- [[proposals/22380]]
+- ... and 39 more
+
+
+## Committees
+
+- [[committees/Industries and Services|Industries and Services]]
+- [[committees/Defense|Defense]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/PNL|Party: PNL]]
+- [[politicians/constituencies/DÂMBOVIŢA|Constituency: DÂMBOVIŢA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=79&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 59
+- **Party Alignment:** PNL
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22392]]
+- [[proposals/21945]]
+- [[proposals/22345]]
+- [[proposals/21675]]
+- [[proposals/21474]]
+- [[proposals/22309]]
+- [[proposals/22415]]
+- [[proposals/22430]]
+- [[proposals/22300]]
+- [[proposals/22226]]
+- [[proposals/21895]]
+- [[proposals/22279]]
+- [[proposals/21329]]
+- [[proposals/21746]]
+- [[proposals/21209]]
+- [[proposals/22071]]
+- [[proposals/22383]]
+- [[proposals/22422]]
+- [[proposals/21716]]
+- [[proposals/22380]]
+- ... and 39 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "79"
+```
+
+### Alerts
+- No speeches recorded

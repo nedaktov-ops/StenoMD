@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=65699efd-f7e5-4128-b80f-1ef
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/Tulcea|Constituency: Tulcea]]

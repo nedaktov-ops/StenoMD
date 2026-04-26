@@ -34,3 +34,10 @@ url: https://senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/Brăila|Constituency: Brăila]]

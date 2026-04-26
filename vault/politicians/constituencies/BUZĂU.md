@@ -1,0 +1,15 @@
+---
+title: BUZĂU
+type: constituency
+---
+
+# BUZĂU
+
+## Deputies (6)
+
+- [[politicians/deputies/ADRIAN-MOCANU|ADRIAN-MOCANU]]
+- [[politicians/deputies/IONMARCEL-CIOLACU|IONMARCEL-CIOLACU]]
+- [[politicians/deputies/MARIUSNICOLAE-ALECSANDRU|MARIUSNICOLAE-ALECSANDRU]]
+- [[politicians/deputies/PETREEMANOIL-NEAGU|PETREEMANOIL-NEAGU]]
+- [[politicians/deputies/ROMEODANIEL-LUNGUCHESTOR-AL-CAMEREI-DEPUTAŢILOR|ROMEODANIEL-LUNGUCHESTOR-AL-CAMEREI-DEPUTAŢILOR]]
+- [[politicians/deputies/SORINTITUS-MUNCACIU|SORINTITUS-MUNCACIU]]

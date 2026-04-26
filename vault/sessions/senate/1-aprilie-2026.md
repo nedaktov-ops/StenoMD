@@ -48,3 +48,54 @@ S T E N O G R A M A ședinței Senatului din 1 aprilie 2026 Ședința a început
 ---
 
 *Synced from StenoMD Senate Agent on 2026-04-24 06:33:11*
+
+
+## Categories
+
+- [[sessions|Parliamentary Session]]
+- [[sessions/senate|Senate Session]]
+
+
+## Sensory Input
+
+- **Source URL:** 
+- **Last Synced:** 2026-04-26 12:39:41
+- **Duration (Minutes):** ~7
+- **Attendance:** 1
+
+## Processing
+
+- **Topics Discussed:** 14/2026, 95/2026, 96/2026, 30/2026, 167/2026, 89/2026, 152/2026, 657/2023,
+- **Sentiment:** neutral
+- **Speakers Identified:** 1
+
+## Memory
+
+### Participants
+- Mihai Coteț
+
+### Agenda
+- (Extract from stenogram)
+
+### Laws Discussed
+- [[laws/14/2026, 95/2026, 96/2026, 30/2026, 167/2026, 89/2026, 152/2026, 657/2023,|14/2026, 95/2026, 96/2026, 30/2026, 167/2026, 89/2026, 152/2026, 657/2023,]]
+
+### Key Votes
+- (Track votes)
+
+### Statements
+- (Extract statements)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "sessions"
+WHERE date = "'2026-04-01'"
+```
+
+### Daily Summary
+- Auto-generate summary
+
+### Searchable Transcript
+- Full text available

@@ -39,3 +39,98 @@ committees:
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/22275]]
+- [[proposals/21732]]
+- [[proposals/21800]]
+- [[proposals/22336]]
+- [[proposals/22558]]
+- [[proposals/22189]]
+- [[proposals/22444]]
+- [[proposals/22192]]
+- [[proposals/22132]]
+- [[proposals/22072]]
+- [[proposals/22072]]
+- [[proposals/21329]]
+- [[proposals/22238]]
+- [[proposals/21746]]
+- [[proposals/21746]]
+- [[proposals/22087]]
+- [[proposals/22511]]
+- [[proposals/21618]]
+- [[proposals/22462]]
+- [[proposals/22071]]
+- ... and 32 more
+
+
+## Committees
+
+- [[committees/Industries and Services|Industries and Services]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/UDMR|Party: UDMR]]
+- [[politicians/constituencies/HARGHITA|Constituency: HARGHITA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=25&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 52
+- **Party Alignment:** UDMR
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22275]]
+- [[proposals/21732]]
+- [[proposals/21800]]
+- [[proposals/22336]]
+- [[proposals/22558]]
+- [[proposals/22189]]
+- [[proposals/22444]]
+- [[proposals/22192]]
+- [[proposals/22132]]
+- [[proposals/22072]]
+- [[proposals/22072]]
+- [[proposals/21329]]
+- [[proposals/22238]]
+- [[proposals/21746]]
+- [[proposals/21746]]
+- [[proposals/22087]]
+- [[proposals/22511]]
+- [[proposals/21618]]
+- [[proposals/22462]]
+- [[proposals/22071]]
+- ... and 32 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "25"
+```
+
+### Alerts
+- No speeches recorded

@@ -38,3 +38,93 @@ motions: 2
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21800]]
+- [[proposals/21474]]
+- [[proposals/22377]]
+- [[proposals/22273]]
+- [[proposals/22401]]
+- [[proposals/22529]]
+- [[proposals/22132]]
+- [[proposals/21329]]
+- [[proposals/22389]]
+- [[proposals/21746]]
+- [[proposals/22284]]
+- [[proposals/22459]]
+- [[proposals/21476]]
+- [[proposals/22383]]
+- [[proposals/22424]]
+- [[proposals/22411]]
+- [[proposals/22382]]
+- [[proposals/22513]]
+- [[proposals/22364]]
+- [[proposals/21341]]
+- ... and 15 more
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării|Constituency: Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=3&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 37
+- **Party Alignment:** POT
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21800]]
+- [[proposals/21474]]
+- [[proposals/22377]]
+- [[proposals/22273]]
+- [[proposals/22401]]
+- [[proposals/22529]]
+- [[proposals/22132]]
+- [[proposals/21329]]
+- [[proposals/22389]]
+- [[proposals/21746]]
+- [[proposals/22284]]
+- [[proposals/22459]]
+- [[proposals/21476]]
+- [[proposals/22383]]
+- [[proposals/22424]]
+- [[proposals/22411]]
+- [[proposals/22382]]
+- [[proposals/22513]]
+- [[proposals/22364]]
+- [[proposals/21341]]
+- ... and 15 more
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "3"
+```
+
+### Alerts
+- No speeches recorded

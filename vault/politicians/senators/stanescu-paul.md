@@ -32,3 +32,10 @@ party_affiliations:
 ## Tags
 
 #politician #senator
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/POT|Party: POT]]
+- [[politicians/constituencies/Sălaj|Constituency: Sălaj]]

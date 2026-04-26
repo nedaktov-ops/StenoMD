@@ -42,3 +42,72 @@ type: deputy
 *Deputy in the Romanian Parliament*
 
 *Last updated: 2026-04-25 20:11:47*
+
+
+## Proposals
+
+- [[proposals/21746]]
+- [[proposals/22462]]
+- [[proposals/21208]]
+- [[proposals/22366]]
+- [[proposals/22453]]
+- [[proposals/22335]]
+- [[proposals/22373]]
+- [[proposals/21703]]
+
+
+## Committees
+
+- [[committees/Public Administration|Public Administration]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/party_full: Unknown|Party: party_full: Unknown]]
+- [[politicians/constituencies/photo_url: https://www.cdep.ro/parlamentari/l2024/NacovGheorghe.JPG|Constituency: photo_url: https://www.cdep.ro/parlamentari/l2024/NacovGheorghe.JPG]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=216&cam=2
+- **Last Synced:** 2026-04-26 12:38:40
+- **Data Sources:** parlamint, cdep.ro
+
+## Processing
+
+- **Activity Score:** 8
+- **Party Alignment:** party_full: Unknown
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21746]]
+- [[proposals/22462]]
+- [[proposals/21208]]
+- [[proposals/22366]]
+- [[proposals/22453]]
+- [[proposals/22335]]
+- [[proposals/22373]]
+- [[proposals/21703]]
+
+### Co-Sponsors
+- (Track from proposals)
+
+### Speeches
+- Total: 0
+
+### Voting Record
+- (Link to voting data)
+
+## Action/Output
+
+### Query Ready
+```dataview
+FROM "politicians"
+WHERE idm = "216"
+```
+
+### Alerts
+- No speeches recorded
