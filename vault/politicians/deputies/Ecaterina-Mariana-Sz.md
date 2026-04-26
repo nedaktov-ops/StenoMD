@@ -1,56 +1,34 @@
 ---
-tags: 
-stable_id: pol_8c5c8906a56e
-committees: 
-- name: Health
-position: &nbsp;
-chamber: deputies
-original_elected_party: SOS
-party_affiliations: 
-- party: SOS
-start_date: "2024-12"
-is_original: true
-type: person
+name: Ecaterina Mariana Sz
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
 party: Grupul
 party_full: Partidul S.O.S. România
 constituency: GALAŢI
 photo_url: https://www.cdep.ro/parlamentari/l2024/SzokeEcaterinaMariana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=292&cam=2
+idm: 292
 speeches_count: 11
 laws_proposed: 8
-legislature: 2024-2028
-idm: 292
+stable_id: pol_placeholder
+original_elected_party: SOS
+type: deputy
 ---
 
+# Ecaterina Mariana Sz
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=292&cam=2)
 
 
-# Ecaterina-Mariana Sz
+## Related Sections
 
-## Activity
-
-- Source: N/A
-
-## Tags
-
-#politician
-
-
-## Proposals
-
-- [[proposals/22399]]
-- [[proposals/21895]]
-- [[proposals/21896]]
-- [[proposals/21508]]
-- [[proposals/22513]]
-- [[proposals/21582]]
-- [[proposals/21715]]
-- [[proposals/21538]]
-
-
-## Committees
-
-- [[committees/Budget, Finance|Budget, Finance]]
-- [[committees/Health|Health]]
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
 ## Categories
@@ -63,43 +41,44 @@ idm: 292
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=292&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 8
+- **Activity Score:** 19
 - **Party Alignment:** Grupul
+
 
 ## Memory
 
 ### Proposals Sponsored
 
-- [[proposals/22399]]
-- [[proposals/21895]]
-- [[proposals/21896]]
-- [[proposals/21508]]
-- [[proposals/22513]]
-- [[proposals/21582]]
-- [[proposals/21715]]
-- [[proposals/21538]]
+- (Track from proposals)
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 11
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "292"
 ```
 
-### Alerts
-- No speeches recorded
+
+## Alerts
+

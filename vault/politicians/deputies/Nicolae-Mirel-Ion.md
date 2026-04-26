@@ -1,22 +1,18 @@
 ---
-party: Grupul
+name: Nicolae Mirel Ion
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: SOS
 party_full: Partidul S.O.S. România
 constituency: SUCEAVA
-photo_url: https://www.cdep.ro/parlamentari/l2024/IonNicolaeMirel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=148&cam=2
+idm: 148
 speeches_count: 8
 laws_proposed: 23
 stable_id: pol_a1a4e808e7d5
 original_elected_party: SOS
-party_affiliations: 
-- party: SOS
-start_date: "2024-12"
-is_original: true
 type: deputy
-chamber: deputies
-legislature: 2024-2028
-idm: 148
-motions: 6
 committees:
   - name: "Legal"
     role: "member"
@@ -24,54 +20,40 @@ committees:
     role: "member"
 ---
 
+# Nicolae Mirel Ion
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=148&cam=2)
 
 
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
 
 
-## Proposals
+## Categories
 
-- [[proposals/21584]]
-- [[proposals/22447]]
-- [[proposals/22442]]
-- [[proposals/21504]]
-- [[proposals/22137]]
-- [[proposals/22312]]
-- [[proposals/22389]]
-- [[proposals/22313]]
-- [[proposals/21796]]
-- [[proposals/22404]]
-- [[proposals/22358]]
-- [[proposals/22388]]
-- [[proposals/22133]]
-- [[proposals/22139]]
-- [[proposals/22382]]
-- [[proposals/22513]]
-- [[proposals/22364]]
-- [[proposals/22400]]
-- [[proposals/22395]]
-- [[proposals/22287]]
-- ... and 3 more
-## Appearances
-
-- [[session_2024_57]] (2025-06-11)
-
-
-## Committees
-
-- [[committees/Legal|Legal]]
-- [[committees/Defense|Defense]]
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/SOS|Party: SOS]]
+- [[politicians/constituencies/SUCEAVA|Constituency: SUCEAVA]]
 
 
 ## Sensory Input
 
 - **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=148&cam=2
-- **Last Synced:** 2026-04-26 12:38:40
-- **Data Sources:** parlamint, cdep.ro
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
 
 ## Processing
 
-- **Activity Score:** 29
-- **Party Alignment:** Grupul
+- **Activity Score:** 31
+- **Party Alignment:** SOS
+
 
 ## Memory
 
@@ -97,24 +79,30 @@ committees:
 - [[proposals/22400]]
 - [[proposals/22395]]
 - [[proposals/22287]]
-- ... and 3 more
+- ... and more
 
 ### Co-Sponsors
+
 - (Track from proposals)
 
 ### Speeches
-- Total: 0
+
+- Total: 8
 
 ### Voting Record
-- (Link to voting data)
+
+- (Track from voting data)
+
 
 ## Action/Output
 
 ### Query Ready
+
 ```dataview
-FROM "politicians"
+FROM "politicians/deputies"
 WHERE idm = "148"
 ```
 
-### Alerts
-- No speeches recorded
+
+## Alerts
+
