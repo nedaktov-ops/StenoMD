@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CiobotaruDragosFanica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=57&cam=2
 idm: 57
 speeches_count: 6
-laws_proposed: 28
-stable_id: pol_22c3992cf76f
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 55
 stable_id: pol_4703fe082874
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Dragoş-Fănică CIOBOTARU
 

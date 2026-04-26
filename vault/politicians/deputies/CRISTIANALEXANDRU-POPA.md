@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PopaCristianAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=250&cam=2
 idm: 250
 speeches_count: 9
-laws_proposed: 28
-stable_id: pol_93ce02d4d68b
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 16
 stable_id: pol_cf434198bbaf
+original_elected_party: POT
 type: deputy
+motions: 7
 ---
+
+
 
 # Cristian-Alexandru POPA
 

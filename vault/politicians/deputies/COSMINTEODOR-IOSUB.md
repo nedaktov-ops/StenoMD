@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IosubCosminTeodor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=154&cam=2
 idm: 154
 speeches_count: 3
-laws_proposed: 37
-stable_id: pol_9b33bc714e01
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 24
 stable_id: pol_dc6e64f93333
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Cosmin-Teodor IOSUB
 

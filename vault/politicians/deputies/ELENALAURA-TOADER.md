@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ToaderElenaLaura.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=304&cam=2
 idm: 304
 speeches_count: 3
-laws_proposed: 35
-stable_id: pol_5e95bf45a54c
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 36
 stable_id: pol_9ca713741360
+original_elected_party: SOS
 type: deputy
+motions: 6
 ---
+
+
 
 # Elena-Laura TOADER
 

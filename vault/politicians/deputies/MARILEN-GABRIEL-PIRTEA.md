@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PirteaMarilenGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=243&cam=2
 idm: 243
 speeches_count: 1
-laws_proposed: 6
-stable_id: pol_2ef2e301e7ea
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 13
 stable_id: pol_391333f657fb
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Marilen - Gabriel PIRTEA
 

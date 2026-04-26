@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ZisopolDragosGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=331&cam=2
 idm: 331
 speeches_count: 4
-laws_proposed: 20
-stable_id: pol_3f99240ae419
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 24
 stable_id: pol_124e3c28b7ea
+original_elected_party: party_full
 type: deputy
 ---
+
 
 # Dragoş Gabriel ZISOPOL
 

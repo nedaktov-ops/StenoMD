@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IonescuTudor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2
 idm: 152
 speeches_count: 34
-laws_proposed: 44
+laws_proposed: 25
 stable_id: pol_4166fbea8bac
 original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_4166fbea8bac
 type: deputy
+motions: 6
 ---
+
+
 
 # Tudor IONESCU
 

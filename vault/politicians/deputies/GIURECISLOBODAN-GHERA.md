@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GheraGiureciSlobodan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=122&cam=2
 idm: 122
 speeches_count: 8
-laws_proposed: 8
-stable_id: pol_83836167d190
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 21
 stable_id: pol_ec59abd5087f
+original_elected_party: party_full
 type: deputy
 ---
+
 
 # Giureci-Slobodan GHERA
 

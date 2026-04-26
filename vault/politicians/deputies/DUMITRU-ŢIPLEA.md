@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/TipleaDumitru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=311&cam=2
 idm: 311
 speeches_count: 19
-laws_proposed: 38
+laws_proposed: 30
 stable_id: pol_a0cfa67017fc
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_a0cfa67017fc
 type: deputy
 ---
+
 
 # Dumitru ŢIPLEA
 

@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GrosuVeronica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=134&cam=2
 idm: 134
 speeches_count: 5
-laws_proposed: 28
+laws_proposed: 37
 stable_id: pol_dc6085a1d504
 original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_dc6085a1d504
 type: deputy
+motions: 9
 ---
+
+
 
 # Veronica GROSU
 

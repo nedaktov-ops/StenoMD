@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_711919b2ae08
+committees:
+  - name: Economic Policies
+    position: Members
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

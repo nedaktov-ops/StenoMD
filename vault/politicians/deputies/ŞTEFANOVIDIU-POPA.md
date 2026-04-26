@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PopaStefanOvidiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=254&cam=2
 idm: 254
 speeches_count: 28
-laws_proposed: 22
-stable_id: pol_25951ac4d4b5
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 38
 stable_id: pol_87951df9d110
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Ştefan-Ovidiu POPA
 

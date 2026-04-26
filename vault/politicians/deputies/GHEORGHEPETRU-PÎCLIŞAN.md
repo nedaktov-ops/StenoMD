@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PiclisanGheorghePetru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=245&cam=2
 idm: 245
 speeches_count: 4
-laws_proposed: 26
-stable_id: pol_fef12230fb45
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 27
 stable_id: pol_1da1b76c29d5
+original_elected_party: POT
 type: deputy
+motions: 3
 ---
+
+
 
 # Gheorghe-Petru PÎCLIŞAN
 

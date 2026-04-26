@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SolomonAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=281&cam=2
 idm: 281
 speeches_count: 12
-laws_proposed: 12
+laws_proposed: 11
 stable_id: pol_2918e8c88b61
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_2918e8c88b61
 type: deputy
 ---
+
 
 # Adrian SOLOMON
 

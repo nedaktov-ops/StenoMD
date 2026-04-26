@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IonescuRaduMihail.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=151&cam=2
 idm: 151
 speeches_count: 2
-laws_proposed: 28
-stable_id: pol_d29866e15bb6
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 16
 stable_id: pol_dd4211d538ff
+original_elected_party: POT
 type: deputy
+motions: 1
 ---
+
+
 
 # Radu-Mihail IONESCU
 

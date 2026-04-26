@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/AlecsandruMariusNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=4&cam=2
 idm: 4
 speeches_count: 9
-laws_proposed: 43
-stable_id: pol_45b35fe37927
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 71
 stable_id: pol_3649aba54cd2
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Marius-Nicolae ALECSANDRU
 

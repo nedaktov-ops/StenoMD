@@ -2,6 +2,16 @@
 tags:
 - politician
 stable_id: pol_2d5ea0c33177
+committees:
+  - name: Budget, Finance
+    position: &nbsp;
+    chamber: deputy
+  - name: Public Administration
+    position: &nbsp;
+    chamber: deputy
+  - name: Defense
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

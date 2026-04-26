@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GusaAndreiCosmin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=137&cam=2
 idm: 137
 speeches_count: 4
-laws_proposed: 24
-stable_id: pol_7b9f5ce437a9
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 75
 stable_id: pol_086482850492
+original_elected_party: SOS
 type: deputy
+motions: 6
 ---
+
+
 
 # Andrei-Cosmin GUŞĂ
 

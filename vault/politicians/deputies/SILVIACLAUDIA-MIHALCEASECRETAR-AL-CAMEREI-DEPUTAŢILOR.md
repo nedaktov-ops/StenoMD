@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MihalceaSilviaClaudia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=192&cam=2
 idm: 192
 speeches_count: 17
-laws_proposed: 28
-stable_id: pol_bd4363b601a1
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 49
 stable_id: pol_34c7ee624eba
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor
 

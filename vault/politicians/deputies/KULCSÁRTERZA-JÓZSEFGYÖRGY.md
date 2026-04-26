@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/KulcsarTerzaJozsefGyorgy.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=165&cam=2
 idm: 165
 speeches_count: 1
-laws_proposed: 21
-stable_id: pol_759f7d1887f6
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 37
 stable_id: pol_373b7e36dac1
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # KULCSÁR-TERZA József-György
 

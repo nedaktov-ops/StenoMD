@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_739cf952c9f3
+committees:
+  - name: Culture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

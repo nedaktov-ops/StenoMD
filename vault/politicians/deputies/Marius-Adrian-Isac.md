@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_29bd5bf1f29f
+committees:
+  - name: Public Administration
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

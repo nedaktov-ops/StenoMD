@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GalCalinGratian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2
 idm: 110
 speeches_count: 8
-laws_proposed: 34
-stable_id: pol_952b15562ccf
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 52
 stable_id: pol_4cc52ecfcc15
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Călin-Graţian GAL
 

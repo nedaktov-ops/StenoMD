@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ToaderBogdanAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=303&cam=2
 idm: 303
 speeches_count: 2
-laws_proposed: 11
-stable_id: pol_9f12cc8a67d4
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 16
 stable_id: pol_2fb9d4035773
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Bogdan-Andrei TOADER
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CsomaBotond.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=87&cam=2
 idm: 87
 speeches_count: 18
-laws_proposed: 39
+laws_proposed: 41
 stable_id: pol_586af922b2ba
 original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_586af922b2ba
 type: deputy
 ---
+
 
 # CSOMA Botond
 

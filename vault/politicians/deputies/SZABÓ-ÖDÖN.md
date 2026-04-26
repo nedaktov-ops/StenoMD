@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SzaboOdon.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=291&cam=2
 idm: 291
 speeches_count: 13
-laws_proposed: 38
+laws_proposed: 35
 stable_id: pol_950ee736abc0
 original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_950ee736abc0
 type: deputy
 ---
+
 
 # SZABÓ Ödön
 

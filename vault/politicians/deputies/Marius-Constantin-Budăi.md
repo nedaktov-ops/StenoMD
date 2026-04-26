@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_f1ecaa966666
+committees:
+  - name: Budget, Finance
+    position: &nbsp;
+    chamber: deputy
+  - name: Labour
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

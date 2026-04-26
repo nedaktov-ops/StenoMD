@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/KolcsarAnquetilKaroly.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=161&cam=2
 idm: 161
 speeches_count: 4
-laws_proposed: 25
-stable_id: pol_31af7ce39a6c
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 29
 stable_id: pol_5a69099b0dbe
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # KOLCSÁR Anquetil-Károly
 

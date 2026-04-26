@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/AndronacheGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=9&cam=2
 idm: 9
 speeches_count: 65
-laws_proposed: 40
+laws_proposed: 108
 stable_id: pol_dc2c5ae8f676
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_dc2c5ae8f676
 type: deputy
 ---
+
 
 # Gabriel ANDRONACHE
 

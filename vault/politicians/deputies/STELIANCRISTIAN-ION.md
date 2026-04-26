@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IonStelianCristian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=149&cam=2
 idm: 149
 speeches_count: 2
-laws_proposed: 20
-stable_id: pol_5bb50c6017bc
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 29
 stable_id: pol_ffc2e9c5e6f9
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Stelian-Cristian ION
 

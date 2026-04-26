@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MihalceaRemusGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=191&cam=2
 idm: 191
 speeches_count: 3
-laws_proposed: 12
-stable_id: pol_473ea510db8c
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 21
 stable_id: pol_cdc7d47bcec9
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Remus-Gabriel MIHALCEA
 

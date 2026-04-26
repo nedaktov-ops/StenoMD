@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BecaliGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=23&cam=2
 idm: 23
 speeches_count: 1
-laws_proposed: 4
+laws_proposed: 62
 stable_id: pol_3f64f77be59b
 original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_3f64f77be59b
 type: deputy
+motions: 1
 ---
+
+
 
 # George BECALI
 

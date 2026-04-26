@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_f59af267740c
+committees:
+  - name: Labour
+    position: &nbsp;
+    chamber: deputy
 stable_id: pol_f59af267740c
 type: person
 photo_url: https://www.cdep.ro/parlamentari/l2024/VexlerSilviu.JPG

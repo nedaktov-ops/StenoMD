@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/FirczakIuliusMarian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=107&cam=2
 idm: 107
 speeches_count: 2
-laws_proposed: 3
-stable_id: pol_d574bc18c816
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 12
 stable_id: pol_8b028041192c
+original_elected_party: party_full
 type: deputy
 ---
+
 
 # Iulius Marian FIRCZAK
 

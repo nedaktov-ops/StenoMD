@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_d573953bec40
+committees:
+  - name: Defense
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BiroDanielRazvan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=27&cam=2
 idm: 27
 speeches_count: 7
-laws_proposed: 28
-stable_id: pol_e96bfdeb90c7
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 66
 stable_id: pol_60685584ecd9
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Daniel-Răzvan BIRO
 

@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_7a87c8b1f841
+committees:
+  - name: Health
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: SOS
 party_affiliations:
 - party: SOS

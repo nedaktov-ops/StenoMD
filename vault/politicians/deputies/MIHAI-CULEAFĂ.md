@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CuleafaMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=88&cam=2
 idm: 88
 speeches_count: 1
-laws_proposed: 10
+laws_proposed: 14
 stable_id: pol_fa89cd6aa2d2
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_fa89cd6aa2d2
 type: deputy
 ---
+
 
 # Mihai CULEAFĂ
 

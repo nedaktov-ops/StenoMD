@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PandeaCiprian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=234&cam=2
 idm: 234
 speeches_count: 1
-laws_proposed: 24
+laws_proposed: 19
 stable_id: pol_f651bb344e49
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_f651bb344e49
 type: deputy
 ---
+
 
 # Ciprian PANDEA
 

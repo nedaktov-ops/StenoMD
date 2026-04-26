@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/StoicaStefanBucur.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=288&cam=2
 idm: 288
 speeches_count: 1
-laws_proposed: 0
-stable_id: pol_c3acef1a7777
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 6
 stable_id: pol_8cfbf1a6a29a
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Ştefan-Bucur STOICA
 

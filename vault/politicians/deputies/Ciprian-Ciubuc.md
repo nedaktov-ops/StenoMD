@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_cba97307e94f
+committees:
+  - name: Agriculture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: SOS
 party_affiliations:
 - party: SOS

@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CorchesCodrutaMaria.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=77&cam=2
 idm: 77
 speeches_count: 7
-laws_proposed: 27
-stable_id: pol_ef7745f0775e
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 39
 stable_id: pol_b009b26cdb03
+original_elected_party: POT
 type: deputy
+motions: 6
 ---
+
+
 
 # Codruţa-Maria CORCHEŞ
 

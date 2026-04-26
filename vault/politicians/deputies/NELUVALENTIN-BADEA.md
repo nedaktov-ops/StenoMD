@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BadeaNeluValentin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=15&cam=2
 idm: 15
 speeches_count: 2
-laws_proposed: 30
-stable_id: pol_4a052b0f7f6e
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 106
 stable_id: pol_df6965684436
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Nelu-Valentin BADEA
 

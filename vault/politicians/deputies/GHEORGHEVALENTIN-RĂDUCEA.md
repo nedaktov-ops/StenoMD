@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/RaduceaGheorgheValentin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=266&cam=2
 idm: 266
 speeches_count: 1
-laws_proposed: 27
-stable_id: pol_839e90565da3
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 13
 stable_id: pol_12c11b29cfe4
+original_elected_party: POT
 type: deputy
+motions: 5
 ---
+
+
 
 # Gheorghe-Valentin RĂDUCEA
 

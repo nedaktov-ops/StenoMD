@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MihaiuRaduNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=189&cam=2
 idm: 189
 speeches_count: 7
-laws_proposed: 17
-stable_id: pol_8511e2f97b99
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 19
 stable_id: pol_f0e338df1e5b
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Radu-Nicolae MIHAIU
 

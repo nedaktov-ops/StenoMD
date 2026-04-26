@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/HutucaBogdanIulian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=143&cam=2
 idm: 143
 speeches_count: 13
-laws_proposed: 20
-stable_id: pol_a86488513b11
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 37
 stable_id: pol_159518fc70e4
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Bogdan-Iulian HUŢUCĂ
 

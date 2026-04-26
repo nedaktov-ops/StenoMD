@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_83a815ea129e
+committees:
+  - name: Foreign Policy
+    position: Vice-Chairpersons
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

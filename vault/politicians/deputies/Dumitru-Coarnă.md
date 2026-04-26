@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_1ae5a17d3768
+committees:
+  - name: Labour
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: SOS
 party_affiliations:
 - party: SOS

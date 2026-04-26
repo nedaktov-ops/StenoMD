@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CozmaAdrianFelician.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=81&cam=2
 idm: 81
 speeches_count: 58
-laws_proposed: 28
-stable_id: pol_a1ec1880a3c5
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 64
 stable_id: pol_c3fbbdfbf77f
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Adrian-Felician COZMAvicepreşedinte al Camerei Deputaţilor
 

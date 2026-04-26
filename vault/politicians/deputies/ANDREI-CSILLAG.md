@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CsillagAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=86&cam=2
 idm: 86
 speeches_count: 1
-laws_proposed: 27
-stable_id: pol_6ee3e45e4895
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 64
 stable_id: pol_72852b73627a
+original_elected_party: POT
 type: deputy
+motions: 2
 ---
+
+
 
 # Andrei CSILLAG
 

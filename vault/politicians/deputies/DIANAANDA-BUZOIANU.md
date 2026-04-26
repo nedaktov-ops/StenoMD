@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BuzoianuDianaAnda.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=48&cam=2
 idm: 48
 speeches_count: 19
-laws_proposed: 28
-stable_id: pol_f8a0638d19d0
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 41
 stable_id: pol_8b64371cccb0
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Diana-Anda BUZOIANU
 

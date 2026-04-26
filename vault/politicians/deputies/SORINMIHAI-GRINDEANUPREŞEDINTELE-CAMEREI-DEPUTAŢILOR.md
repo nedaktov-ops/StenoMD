@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GrindeanuSorinMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=131&cam=2
 idm: 131
 speeches_count: 33
-laws_proposed: 7
-stable_id: pol_0752bf73d2f7
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 75
 stable_id: pol_294aadb63966
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Sorin-Mihai GRINDEANUPreşedintele Camerei Deputaţilor
 

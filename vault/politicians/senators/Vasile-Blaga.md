@@ -1,3 +1,14 @@
+---
+original_elected_party: PNL
+party: PNL
+party_full: Partidul Național Liberal
+constituency: Timiș
+party_affiliations:
+  - party: PNL
+    start_date: "2024-12"
+    is_original: true
+---
+
 party: PNL
 party_full: Partidul Național Liberal
 constituency: Timiș

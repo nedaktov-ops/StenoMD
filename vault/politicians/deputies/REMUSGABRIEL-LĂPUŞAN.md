@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/LapusanRemusGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=168&cam=2
 idm: 168
 speeches_count: 18
-laws_proposed: 41
-stable_id: pol_8ea2c46f5281
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 29
 stable_id: pol_474d2e27af5f
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Remus-Gabriel LĂPUŞAN
 

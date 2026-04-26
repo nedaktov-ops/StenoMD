@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GantOvidiuVictor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=112&cam=2
 idm: 112
 speeches_count: 5
-laws_proposed: 7
-stable_id: pol_9b7107595d00
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 52
 stable_id: pol_f59054dfe9ef
+original_elected_party: party_full
 type: deputy
 ---
+
 
 # Ovidiu Victor GANŢsecretar al Camerei Deputaţilor
 

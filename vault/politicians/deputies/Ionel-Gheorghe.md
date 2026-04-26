@@ -11,6 +11,10 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=119&cam=2
 speeches_count: 9
 laws_proposed: 29
 stable_id: pol_8981b9af8a4b
+committees:
+  - name: Economic Policies
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

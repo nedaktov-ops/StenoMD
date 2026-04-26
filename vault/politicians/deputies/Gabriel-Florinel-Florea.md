@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_09bd76bab34a
+committees:
+  - name: Agriculture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

@@ -11,6 +11,10 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=204&cam=2
 speeches_count: 17
 laws_proposed: 9
 stable_id: pol_bf96bfe9b04a
+committees:
+  - name: Human Rights
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: SOS
 party_affiliations:
 - party: SOS

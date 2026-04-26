@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MuncaciuSorinTitus.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=210&cam=2
 idm: 210
 speeches_count: 31
-laws_proposed: 24
-stable_id: pol_cfa775f30e96
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 29
 stable_id: pol_60e739e95670
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Sorin-Titus MUNCACIU
 

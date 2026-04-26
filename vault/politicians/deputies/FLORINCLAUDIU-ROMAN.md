@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/RomanFlorinClaudiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=271&cam=2
 idm: 271
 speeches_count: 26
-laws_proposed: 41
-stable_id: pol_1f67b57c200c
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 43
 stable_id: pol_438a3b8d121f
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Florin-Claudiu ROMAN
 

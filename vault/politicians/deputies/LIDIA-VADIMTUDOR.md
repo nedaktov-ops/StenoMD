@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/VadimTudorLidia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=315&cam=2
 idm: 315
 speeches_count: 5
-laws_proposed: 30
-stable_id: pol_bee76a74f8c6
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 24
 stable_id: pol_ec891239c7e9
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Lidia VADIM-TUDOR
 

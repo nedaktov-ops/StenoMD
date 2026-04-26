@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GovorMirceaVasile.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=130&cam=2
 idm: 130
 speeches_count: 9
-laws_proposed: 48
-stable_id: pol_bd59b8a0136b
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 36
 stable_id: pol_96ce9115ffff
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Mircea-Vasile GOVOR
 

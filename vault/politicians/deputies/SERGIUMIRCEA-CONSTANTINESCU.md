@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ConstantinescuSergiuMircea.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=76&cam=2
 idm: 76
 speeches_count: 2
-laws_proposed: 27
-stable_id: pol_33a550e0e2f6
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 64
 stable_id: pol_581d2c468a57
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Sergiu-Mircea CONSTANTINESCU
 

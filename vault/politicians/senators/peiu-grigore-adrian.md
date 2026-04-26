@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_71bc243e8409
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_71bc243e8409
+original_elected_party: AUR
 type: senator
 chamber: senate
-party: SOS
-party_full: S.O.S. România
-constituency: Ialomița
+party: AUR
+party_full: Alianța pentru Unirea Românilor
+constituency: Municipiul București
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=8c196354-6157-46a5-8b04-9d394c7b294d
+party_affiliations:
+  - party: AUR
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # PEIU Grigore-Adrian
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/EneGabrielaCorina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=102&cam=2
 idm: 102
 speeches_count: 14
-laws_proposed: 27
-stable_id: pol_20ad0ff2da3b
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 43
 stable_id: pol_889150324d27
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Gabriela-Corina ENE
 

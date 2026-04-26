@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BaisanuStefanAlexandru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=22&cam=2
 idm: 22
 speeches_count: 2
-laws_proposed: 16
-stable_id: pol_b8bd9d7cdd7c
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 51
 stable_id: pol_d2370eccf0e6
+original_elected_party: SOS
 type: deputy
 ---
+
 
 # Ştefan-Alexandru BĂIŞANU
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BucurArianaOana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=39&cam=2
 idm: 39
 speeches_count: 4
-laws_proposed: 25
-stable_id: pol_d78f5b4e65fc
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 49
 stable_id: pol_80c305073f7e
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Ariana-Oana BUCUR
 

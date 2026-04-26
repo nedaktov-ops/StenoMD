@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ArtimonDanCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=11&cam=2
 idm: 11
 speeches_count: 2
-laws_proposed: 26
-stable_id: pol_5201756ad882
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 37
 stable_id: pol_3646789ae3ee
+original_elected_party: AUR
 type: deputy
+motions: 8
 ---
+
+
 
 # Dan-Cătălin ARTIMON
 

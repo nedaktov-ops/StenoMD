@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_0b19c9d53a9f
+committees:
+  - name: Industries and Services
+    position: &nbsp;
+    chamber: deputy
+  - name: Education
+    position: Chairperson
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

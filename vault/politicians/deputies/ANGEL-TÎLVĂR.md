@@ -12,6 +12,10 @@ idm: 302
 speeches_count: 2
 laws_proposed: 4
 stable_id: pol_da6de05a4b4e
+committees:
+  - name: Foreign Policy
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

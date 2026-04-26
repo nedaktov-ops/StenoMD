@@ -12,6 +12,13 @@ idm: 248
 speeches_count: 1
 laws_proposed: 1
 stable_id: pol_ddf2b4f53af2
+committees:
+  - name: Economic Policies
+    position: &nbsp;
+    chamber: deputy
+  - name: Industries and Services
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

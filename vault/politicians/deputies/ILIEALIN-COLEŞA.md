@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ColesaIlieAlin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=72&cam=2
 idm: 72
 speeches_count: 45
-laws_proposed: 29
-stable_id: pol_3115b23f34b2
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 41
 stable_id: pol_1387f8db57ee
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Ilie-Alin COLEŞA
 

@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_787fda5a2c07
+committees:
+  - name: Legal
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: USR
 party_affiliations:
 - party: USR

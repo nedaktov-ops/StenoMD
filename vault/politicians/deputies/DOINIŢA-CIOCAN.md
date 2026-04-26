@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CiocanDoinita.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=58&cam=2
 idm: 58
 speeches_count: 1
-laws_proposed: 25
+laws_proposed: 49
 stable_id: pol_abed72ad1ac0
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_abed72ad1ac0
 type: deputy
 ---
+
 
 # Doiniţa CIOCAN
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BudacaVasile.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=41&cam=2
 idm: 41
 speeches_count: 1
-laws_proposed: 8
+laws_proposed: 45
 stable_id: pol_5921398595f4
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_5921398595f4
 type: deputy
 ---
+
 
 # Vasile BUDACĂ
 

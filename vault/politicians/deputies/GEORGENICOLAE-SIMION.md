@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SimionGeorgeNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=279&cam=2
 idm: 279
 speeches_count: 42
-laws_proposed: 30
-stable_id: pol_8dcdb1127fb7
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 10
 stable_id: pol_2c1b8d5c6015
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # George-Nicolae SIMION
 

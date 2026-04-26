@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/HagiuAugustinFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=138&cam=2
 idm: 138
 speeches_count: 3
-laws_proposed: 25
-stable_id: pol_a2fcbcf71d6d
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 83
 stable_id: pol_9b871e3e5df0
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Augustin-Florin HAGIU
 

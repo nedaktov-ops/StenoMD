@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GiurgiuAdrian1.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=126&cam=2
 idm: 126
 speeches_count: 4
-laws_proposed: 37
+laws_proposed: 52
 stable_id: pol_48b18aa691f8
 original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_48b18aa691f8
 type: deputy
 ---
+
 
 # Adrian GIURGIU
 

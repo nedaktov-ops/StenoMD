@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MoisinRaduMarin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=205&cam=2
 idm: 205
 speeches_count: 7
-laws_proposed: 16
-stable_id: pol_02d46c24a120
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 31
 stable_id: pol_72e6966e8ec7
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Radu-Marin MOISIN
 

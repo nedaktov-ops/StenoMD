@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GhigiuAlexandruMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=124&cam=2
 idm: 124
 speeches_count: 13
-laws_proposed: 28
-stable_id: pol_900ba34b92f0
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 54
 stable_id: pol_2ad07e7abf87
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Alexandru-Mihai GHIGIU
 

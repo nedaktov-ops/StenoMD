@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MatichescuMirelaFlorenta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=184&cam=2
 idm: 184
 speeches_count: 8
-laws_proposed: 25
-stable_id: pol_5120b8f20359
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 20
 stable_id: pol_e40c615f6c87
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Mirela-Florenţa MATICHESCU
 

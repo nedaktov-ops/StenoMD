@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/FagetMadalinLaurentiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=103&cam=2
 idm: 103
 speeches_count: 17
-laws_proposed: 28
-stable_id: pol_8938a9f8eeba
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 51
 stable_id: pol_8530c13e3207
+original_elected_party: SOS
 type: deputy
+motions: 1
 ---
+
+
 
 # Mădălin-Laurenţiu FĂGET
 

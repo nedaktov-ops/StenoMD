@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/NasuiClaudiuIuliusGavril.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=220&cam=2
 idm: 220
 speeches_count: 2
-laws_proposed: 10
-stable_id: pol_bca0007253f1
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 15
 stable_id: pol_321b316b4857
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Claudiu-Iulius-Gavril NĂSUI
 

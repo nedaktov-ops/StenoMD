@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CiolacuIonMarcel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=59&cam=2
 idm: 59
 speeches_count: 4
-laws_proposed: 5
-stable_id: pol_e6d57be811ac
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 33
 stable_id: pol_96cb9f98e388
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Ion-Marcel CIOLACU
 

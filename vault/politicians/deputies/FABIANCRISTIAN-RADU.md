@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/RaduFabianCristian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=263&cam=2
 idm: 263
 speeches_count: 5
-laws_proposed: 30
-stable_id: pol_9d44d942dc38
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 26
 stable_id: pol_d2c77c2829f8
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Fabian-Cristian RADU
 

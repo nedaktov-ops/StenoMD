@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BogdanelLucianGabriel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=32&cam=2
 idm: 32
 speeches_count: 4
-laws_proposed: 9
-stable_id: pol_3f2033bf1c88
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 58
 stable_id: pol_87b1116d446f
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Lucian-Gabriel BOGDĂNEL
 

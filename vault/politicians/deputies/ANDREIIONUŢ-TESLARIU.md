@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/TeslariuAndreiIonut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=300&cam=2
 idm: 300
 speeches_count: 1
-laws_proposed: 14
-stable_id: pol_e7d8caa348d9
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 26
 stable_id: pol_71a3c6d914b0
+original_elected_party: POT
 type: deputy
+motions: 1
 ---
+
+
 
 # Andrei-Ionuţ TESLARIU
 

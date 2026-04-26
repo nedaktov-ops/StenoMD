@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MateiSergiuLucian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=183&cam=2
 idm: 183
 speeches_count: 2
-laws_proposed: 34
-stable_id: pol_61bdef29b00e
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 23
 stable_id: pol_e855685364d4
+original_elected_party: POT
 type: deputy
+motions: 6
 ---
+
+
 
 # Sergiu-Lucian MATEI
 

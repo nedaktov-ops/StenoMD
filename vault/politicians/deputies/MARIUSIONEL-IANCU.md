@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IancuMariusIonel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=145&cam=2
 idm: 145
 speeches_count: 1
-laws_proposed: 1
-stable_id: pol_889b3a2ee2a5
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 6
 stable_id: pol_2231e4ce0fac
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Marius-Ionel IANCU
 

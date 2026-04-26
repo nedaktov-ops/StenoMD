@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/NeacsuMarian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=222&cam=2
 idm: 222
 speeches_count: 1
-laws_proposed: 5
+laws_proposed: 42
 stable_id: pol_238dd0113cf0
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_238dd0113cf0
 type: deputy
 ---
+
 
 # Marian NEACŞU
 

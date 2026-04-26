@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BorsGeorgeMadalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=34&cam=2
 idm: 34
 speeches_count: 4
-laws_proposed: 28
-stable_id: pol_c9ea3be39ff2
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 56
 stable_id: pol_49084bec016a
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # George-Mădălin BORŞ
 

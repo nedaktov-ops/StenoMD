@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PetretchiNicolaeMiroslav.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=241&cam=2
 idm: 241
 speeches_count: 20
-laws_proposed: 12
-stable_id: pol_ab227108d18a
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 17
 stable_id: pol_2eca9bd033af
+original_elected_party: party_full
 type: deputy
 ---
+
 
 # Nicolae-Miroslav PETREŢCHI
 

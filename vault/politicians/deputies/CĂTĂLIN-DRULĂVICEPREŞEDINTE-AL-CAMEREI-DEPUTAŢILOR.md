@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/DrulaCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=96&cam=2
 idm: 96
 speeches_count: 182
-laws_proposed: 0
+laws_proposed: 53
 stable_id: pol_2a77b6cbd41a
 original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_2a77b6cbd41a
 type: deputy
 ---
+
 
 # Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor
 

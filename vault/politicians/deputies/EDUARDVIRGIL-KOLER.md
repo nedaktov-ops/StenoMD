@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/KolerEduardVirgil.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=162&cam=2
 idm: 162
 speeches_count: 8
-laws_proposed: 15
-stable_id: pol_3f7e668f00d0
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 12
 stable_id: pol_6063b560db85
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Eduard-Virgil KOLER
 

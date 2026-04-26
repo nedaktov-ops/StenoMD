@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_9c3ab15665a3
+committees:
+  - name: Agriculture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: USR
 party_affiliations:
 - party: USR

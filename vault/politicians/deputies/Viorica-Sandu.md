@@ -2,6 +2,16 @@
 tags:
 - politician
 stable_id: pol_c016e3d03a2f
+committees:
+  - name: Budget, Finance
+    position: &nbsp;
+    chamber: deputy
+  - name: Budget, Finance
+    position: Vice-Chairpersons
+    chamber: deputy
+  - name: Agriculture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

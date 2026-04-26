@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ScarlatGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=276&cam=2
 idm: 276
 speeches_count: 3
-laws_proposed: 12
+laws_proposed: 73
 stable_id: pol_db15439a9c4d
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_db15439a9c4d
 type: deputy
 ---
+
 
 # George SCARLAT
 

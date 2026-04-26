@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IbramIusein.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=146&cam=2
 idm: 146
 speeches_count: 1
-laws_proposed: 0
-stable_id: pol_dc20a895c26c
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 12
 stable_id: pol_8b7e8c5d6f5d
+original_elected_party: party_full
 type: deputy
 ---
+
 
 # Iusein IBRAM
 

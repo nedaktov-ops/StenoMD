@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/TurcanRaluca.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=308&cam=2
 idm: 308
 speeches_count: 304
-laws_proposed: 25
+laws_proposed: 22
 stable_id: pol_225573509dfe
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_225573509dfe
 type: deputy
 ---
+
 
 # Raluca TURCAN
 

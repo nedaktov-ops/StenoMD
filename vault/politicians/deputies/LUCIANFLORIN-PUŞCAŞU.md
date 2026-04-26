@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PuscasuLucianFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=261&cam=2
 idm: 261
 speeches_count: 2
-laws_proposed: 13
-stable_id: pol_cc3055e01a26
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 42
 stable_id: pol_18761d3e667f
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Lucian-Florin PUŞCAŞU
 

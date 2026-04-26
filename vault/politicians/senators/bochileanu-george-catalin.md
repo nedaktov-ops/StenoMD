@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_402544416676
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_402544416676
+original_elected_party: USR
 type: senator
 chamber: senate
-party: AUR
-party_full: Alianța pentru Unirea Românilor
-constituency: Botoșani
+party: USR
+party_full: Uniunea Salvați România
+constituency: Diaspora
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bff3c30a-425f-4b6d-8d4f-1285c1bde059
+party_affiliations:
+  - party: USR
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # BOCHILEANU George-Cătălin
 

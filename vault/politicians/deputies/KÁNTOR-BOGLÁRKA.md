@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/KantorBoglarka.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=159&cam=2
 idm: 159
 speeches_count: 2
-laws_proposed: 40
+laws_proposed: 42
 stable_id: pol_49978618b62c
 original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_49978618b62c
 type: deputy
 ---
+
 
 # KÁNTOR Boglárka
 

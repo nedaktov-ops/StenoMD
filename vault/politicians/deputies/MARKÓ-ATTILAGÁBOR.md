@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MarkoAttilaGabor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=180&cam=2
 idm: 180
 speeches_count: 2
-laws_proposed: 22
-stable_id: pol_0a06b8297a08
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 77
 stable_id: pol_740e44bc6512
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # MARKÓ Attila-Gábor
 

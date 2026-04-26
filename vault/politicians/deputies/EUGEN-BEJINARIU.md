@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BejinariuEugen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=24&cam=2
 idm: 24
 speeches_count: 5
-laws_proposed: 18
+laws_proposed: 57
 stable_id: pol_84d6824969aa
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_84d6824969aa
 type: deputy
 ---
+
 
 # Eugen BEJINARIU
 

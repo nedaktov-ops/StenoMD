@@ -2,6 +2,16 @@
 tags:
 - politician
 stable_id: pol_2d06667b164d
+committees:
+  - name: Education
+    position: &nbsp;
+    chamber: deputy
+  - name: Culture
+    position: &nbsp;
+    chamber: deputy
+  - name: Abuse, Corruption
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: USR
 party_affiliations:
 - party: USR

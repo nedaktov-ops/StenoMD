@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GeorgescuGheorgheDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=117&cam=2
 idm: 117
 speeches_count: 3
-laws_proposed: 20
-stable_id: pol_41d6393f89e8
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 44
 stable_id: pol_35bea3877993
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Gheorghe-Daniel GEORGESCU
 

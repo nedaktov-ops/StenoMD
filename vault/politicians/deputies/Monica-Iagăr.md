@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_e76325b10e5b
+committees:
+  - name: Health
+    position: &nbsp;
+    chamber: deputy
+  - name: Defense
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

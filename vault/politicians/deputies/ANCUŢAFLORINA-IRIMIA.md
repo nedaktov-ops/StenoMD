@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IrimiaAncutaFlorina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=155&cam=2
 idm: 155
 speeches_count: 3
-laws_proposed: 18
-stable_id: pol_3a3f1a13d64a
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 8
 stable_id: pol_aca6a8bf9e51
+original_elected_party: POT
 type: deputy
+motions: 2
 ---
+
+
 
 # Ancuţa-Florina IRIMIA
 

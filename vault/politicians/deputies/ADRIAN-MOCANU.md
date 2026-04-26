@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MocanuAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=203&cam=2
 idm: 203
 speeches_count: 1
-laws_proposed: 5
+laws_proposed: 9
 stable_id: pol_186d2244aeaa
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_186d2244aeaa
 type: deputy
 ---
+
 
 # Adrian MOCANU
 

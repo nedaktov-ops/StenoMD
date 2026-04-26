@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MolnarAndrei.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=206&cam=2
 idm: 206
 speeches_count: 1
-laws_proposed: 39
+laws_proposed: 38
 stable_id: pol_ba9b66216bcd
 original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_ba9b66216bcd
 type: deputy
 ---
+
 
 # MOLNAR Andrei
 

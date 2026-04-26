@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SerbanGeorgeCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=295&cam=2
 idm: 295
 speeches_count: 1
-laws_proposed: 8
+laws_proposed: 15
 stable_id: pol_7ec5b0b1b158
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_7ec5b0b1b158
 type: deputy
 ---
+
 
 # George Cătălin ŞERBAN
 

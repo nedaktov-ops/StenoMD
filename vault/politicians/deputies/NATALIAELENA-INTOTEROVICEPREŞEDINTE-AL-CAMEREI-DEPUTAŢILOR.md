@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IntoteroNataliaElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=147&cam=2
 idm: 147
 speeches_count: 108
-laws_proposed: 16
-stable_id: pol_0b0e7e73ab0d
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 41
 stable_id: pol_c226230088bd
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor
 

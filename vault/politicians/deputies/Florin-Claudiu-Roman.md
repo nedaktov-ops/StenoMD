@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_f4fdacc9d3df
+committees:
+  - name: Public Administration
+    position: Chairperson
+    chamber: deputy
+  - name: Labour
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

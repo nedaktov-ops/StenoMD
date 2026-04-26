@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/NeacsuAndreeaFiruta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=221&cam=2
 idm: 221
 speeches_count: 1
-laws_proposed: 18
-stable_id: pol_89e2aa55a8e4
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 6
 stable_id: pol_c3b8e648f4d8
+original_elected_party: AUR
 type: deputy
+motions: 3
 ---
+
+
 
 # Andreea-Firuţa NEACŞU
 

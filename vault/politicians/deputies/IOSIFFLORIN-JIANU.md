@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/JianuIosifFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=158&cam=2
 idm: 158
 speeches_count: 1
-laws_proposed: 24
-stable_id: pol_bab96f8ea2dd
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 32
 stable_id: pol_3a898dac6922
+original_elected_party: SOS
 type: deputy
+motions: 1
 ---
+
+
 
 # Iosif-Florin JIANU
 

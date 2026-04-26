@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CsepEvaAndrea.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=85&cam=2
 idm: 85
 speeches_count: 11
-laws_proposed: 41
-stable_id: pol_eeb694202909
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 83
 stable_id: pol_8db02b133c34
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # CSÉP Éva-Andrea
 

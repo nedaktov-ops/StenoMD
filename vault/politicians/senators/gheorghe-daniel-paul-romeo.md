@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_7e68e30205cc
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_7e68e30205cc
+original_elected_party: USR
 type: senator
 chamber: senate
-party: SOS
-party_full: S.O.S. România
-constituency: Neamț
+party: USR
+party_full: Uniunea Salvați România
+constituency: Timiș
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=d2f51e91-d18a-431c-bc9d-6061101ce1d4
+party_affiliations:
+  - party: USR
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # GHEORGHE Daniel-Paul-Romeo
 

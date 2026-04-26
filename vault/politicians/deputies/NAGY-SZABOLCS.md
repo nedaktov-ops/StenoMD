@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/NagySzabolcs.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=217&cam=2
 idm: 217
 speeches_count: 1
-laws_proposed: 27
-stable_id: pol_dc7838ff7cfb
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 21
 stable_id: pol_d25057ddea85
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # NAGY Szabolcs
 

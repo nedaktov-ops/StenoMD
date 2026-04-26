@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CiorneiDanielCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=60&cam=2
 idm: 60
 speeches_count: 12
-laws_proposed: 36
-stable_id: pol_2a37254fc714
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 47
 stable_id: pol_f0349ccdc3f2
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Daniel-Cătălin CIORNEI
 

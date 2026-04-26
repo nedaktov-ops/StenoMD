@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_0878c1b90f71
+committees:
+  - name: Foreign Policy
+    position: Members
+    chamber: deputy
+  - name: Abuse, Corruption
+    position: Secretaries
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

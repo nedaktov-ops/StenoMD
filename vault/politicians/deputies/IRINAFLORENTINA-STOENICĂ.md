@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/StoenicaIrinaFlorentina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=284&cam=2
 idm: 284
 speeches_count: 1
-laws_proposed: 18
-stable_id: pol_07f7f669c487
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 21
 stable_id: pol_64e6451fc385
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Irina-Florentina STOENICĂ
 

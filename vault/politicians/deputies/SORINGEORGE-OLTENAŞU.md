@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/OltenasuSorinGeorge.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=231&cam=2
 idm: 231
 speeches_count: 11
-laws_proposed: 34
-stable_id: pol_d22422167664
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 49
 stable_id: pol_9be75b61f6c1
+original_elected_party: SOS
 type: deputy
+motions: 6
 ---
+
+
 
 # Sorin-George OLTENAŞU
 

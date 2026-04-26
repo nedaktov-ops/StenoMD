@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BiroRozaliaIbolya.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=28&cam=2
 idm: 28
 speeches_count: 1
-laws_proposed: 34
-stable_id: pol_123460df5c21
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 39
 stable_id: pol_b2dff577a160
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # BIRÓ Rozália-Ibolya
 

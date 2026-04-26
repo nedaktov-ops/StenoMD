@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MiklosZoltan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=195&cam=2
 idm: 195
 speeches_count: 3
-laws_proposed: 34
+laws_proposed: 57
 stable_id: pol_3eeaf9dbecb6
 original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_3eeaf9dbecb6
 type: deputy
 ---
+
 
 # MIKLÓS Zoltán
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MurariuOana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=213&cam=2
 idm: 213
 speeches_count: 16
-laws_proposed: 33
+laws_proposed: 19
 stable_id: pol_24e33c25c4ba
 original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_24e33c25c4ba
 type: deputy
 ---
+
 
 # Oana MURARIUsecretar al Camerei Deputaţilor
 

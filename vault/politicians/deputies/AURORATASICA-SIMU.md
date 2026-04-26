@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SimuAuroraTasica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=280&cam=2
 idm: 280
 speeches_count: 20
-laws_proposed: 24
-stable_id: pol_62b804b9afe9
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 43
 stable_id: pol_c73a2f8b7198
+original_elected_party: POT
 type: deputy
+motions: 3
 ---
+
+
 
 # Aurora-Tasica SIMU
 

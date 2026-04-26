@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PorumboiuGabriela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=257&cam=2
 idm: 257
 speeches_count: 15
-laws_proposed: 36
+laws_proposed: 27
 stable_id: pol_7beb73a9a168
 original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_7beb73a9a168
 type: deputy
+motions: 7
 ---
+
+
 
 # Gabriela PORUMBOIU
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/FiforMihaiViorel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=106&cam=2
 idm: 106
 speeches_count: 2
-laws_proposed: 9
-stable_id: pol_62aa646ba415
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 15
 stable_id: pol_d84eb9770e30
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Mihai-Viorel FIFOR
 

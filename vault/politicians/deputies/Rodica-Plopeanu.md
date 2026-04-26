@@ -2,6 +2,16 @@
 tags:
 - politician
 stable_id: pol_67cce3406bae
+committees:
+  - name: Economic Policies
+    position: &nbsp;
+    chamber: deputy
+  - name: Industries and Services
+    position: &nbsp;
+    chamber: deputy
+  - name: Industries and Services
+    position: Secretaries
+    chamber: deputy
 original_elected_party: SOS
 party_affiliations:
 - party: SOS

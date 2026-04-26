@@ -7,6 +7,10 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=118&cam=2
 speeches_count: 33
 laws_proposed: 11
 stable_id: pol_dfc2ceefa5dc
+committees:
+  - name: Culture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

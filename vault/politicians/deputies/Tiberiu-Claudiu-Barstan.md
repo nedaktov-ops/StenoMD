@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_e75c0d4f65ad
+committees:
+  - name: Industries and Services
+    position: Secretaries
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

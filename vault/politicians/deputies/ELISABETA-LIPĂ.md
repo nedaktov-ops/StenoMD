@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/LipaElisabeta.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=170&cam=2
 idm: 170
 speeches_count: 3
-laws_proposed: 15
+laws_proposed: 19
 stable_id: pol_2db51d13cfef
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_2db51d13cfef
 type: deputy
 ---
+
 
 # Elisabeta LIPĂ
 

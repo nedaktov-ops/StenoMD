@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BaraNicolaeAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=18&cam=2
 idm: 18
 speeches_count: 3
-laws_proposed: 15
-stable_id: pol_ab3aa81232e1
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 21
 stable_id: pol_51f2cd0a37b5
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Nicolae-Adrian BARA
 

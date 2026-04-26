@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/FloreaGabrielFlorinel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=108&cam=2
 idm: 108
 speeches_count: 5
-laws_proposed: 24
-stable_id: pol_5cbabd42f5f1
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 19
 stable_id: pol_269205638cbd
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Gabriel-Florinel FLOREA
 

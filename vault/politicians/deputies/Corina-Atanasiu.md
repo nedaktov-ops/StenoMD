@@ -11,6 +11,10 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=12&cam=2
 speeches_count: 8
 laws_proposed: 43
 stable_id: pol_1529c86de26b
+committees:
+  - name: Education
+    position: Secretaries
+    chamber: deputy
 original_elected_party: USR
 party_affiliations:
 - party: USR

@@ -11,6 +11,13 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=132&cam=2
 speeches_count: 6
 laws_proposed: 32
 stable_id: pol_b7e998665e71
+committees:
+  - name: Public Administration
+    position: &nbsp;
+    chamber: deputy
+  - name: Defense
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: POT
 party_affiliations:
 - party: POT

@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_c2fbc401d137
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_c2fbc401d137
+original_elected_party: PSD
 type: senator
 chamber: senate
-party: PNL
-party_full: Partidul Național Liberal
-constituency: Argeș
+party: PSD
+party_full: Partidul Social Democrat
+constituency: Călărași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=5dfb5f9b-9d25-40a4-9145-366ae2b2c04d
+party_affiliations:
+  - party: PSD
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # COTEȚ Mihai
 

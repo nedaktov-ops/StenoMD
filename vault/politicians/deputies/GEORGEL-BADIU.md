@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BadiuGeorgel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=16&cam=2
 idm: 16
 speeches_count: 2
-laws_proposed: 21
+laws_proposed: 16
 stable_id: pol_5af4370729d7
 original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_5af4370729d7
 type: deputy
+motions: 7
 ---
+
+
 
 # Georgel BADIU
 

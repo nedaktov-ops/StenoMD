@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BendeSandor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=25&cam=2
 idm: 25
 speeches_count: 7
-laws_proposed: 33
+laws_proposed: 52
 stable_id: pol_e0286eccb3b3
 original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_e0286eccb3b3
 type: deputy
 ---
+
 
 # BENDE Sándor
 

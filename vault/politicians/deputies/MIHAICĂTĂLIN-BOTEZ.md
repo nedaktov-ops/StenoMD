@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BotezMihaiCatalin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=36&cam=2
 idm: 36
 speeches_count: 9
-laws_proposed: 32
-stable_id: pol_7552b0d1b23f
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 53
 stable_id: pol_87e56755d7bf
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Mihai-Cătălin BOTEZ
 

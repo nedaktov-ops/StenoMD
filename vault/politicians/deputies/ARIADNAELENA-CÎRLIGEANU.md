@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CirligeanuAriadnaElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=69&cam=2
 idm: 69
 speeches_count: 7
-laws_proposed: 25
-stable_id: pol_e52fb1e55768
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 70
 stable_id: pol_db00d7120b36
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Ariadna-Elena CÎRLIGEANU
 

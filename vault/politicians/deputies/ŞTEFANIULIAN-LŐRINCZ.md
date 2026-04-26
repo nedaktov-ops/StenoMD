@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/LorinczStefanIulian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=172&cam=2
 idm: 172
 speeches_count: 12
-laws_proposed: 20
-stable_id: pol_5561356ecf40
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 25
 stable_id: pol_c4283a5b34df
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Ştefan-Iulian LŐRINCZ
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/AndreiCosmin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=8&cam=2
 idm: 8
 speeches_count: 3
-laws_proposed: 10
+laws_proposed: 40
 stable_id: pol_4aaeb9efd08f
 original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_4aaeb9efd08f
 type: deputy
 ---
+
 
 # Cosmin ANDREI
 

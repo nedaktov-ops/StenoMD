@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IsacMariusAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=156&cam=2
 idm: 156
 speeches_count: 9
-laws_proposed: 22
-stable_id: pol_875d63610e1a
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 40
 stable_id: pol_7487efabdbd5
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Marius-Adrian ISAC
 

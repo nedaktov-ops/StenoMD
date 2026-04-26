@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CadarRazvanOlimpiu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=49&cam=2
 idm: 49
 speeches_count: 4
-laws_proposed: 30
-stable_id: pol_1351f970a0e2
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 72
 stable_id: pol_3110aeca0412
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Răzvan-Olimpiu CADAR
 

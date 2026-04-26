@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_4438e1c5311d
+committees:
+  - name: Agriculture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

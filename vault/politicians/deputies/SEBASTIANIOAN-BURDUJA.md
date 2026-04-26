@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BurdujaSebastianIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=46&cam=2
 idm: 46
 speeches_count: 3
-laws_proposed: 14
-stable_id: pol_f1c1d55f4a4b
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 50
 stable_id: pol_138c4e27d1ac
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Sebastian-Ioan BURDUJA
 

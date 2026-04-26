@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_df0cfb357007
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_df0cfb357007
+original_elected_party: PSD
 type: senator
 chamber: senate
-party: AUR
-party_full: Alianța pentru Unirea Românilor
-constituency: Bacău
+party: PSD
+party_full: Partidul Social Democrat
+constituency: Călărași
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=bd44b5a4-e8ab-43c1-8b0e-dc539f57f668
+party_affiliations:
+  - party: PSD
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # ȘTEFĂNESCU Daniela
 

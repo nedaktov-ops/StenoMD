@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GurluiSilviuOctavian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=136&cam=2
 idm: 136
 speeches_count: 17
-laws_proposed: 30
-stable_id: pol_845b9f0e9c0e
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 40
 stable_id: pol_bca430c5f190
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Silviu-Octavian GURLUI
 

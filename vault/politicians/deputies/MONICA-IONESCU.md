@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IonescuMonica.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=150&cam=2
 idm: 150
 speeches_count: 4
-laws_proposed: 28
+laws_proposed: 25
 stable_id: pol_73aee29465f8
 original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_73aee29465f8
 type: deputy
+motions: 1
 ---
+
+
 
 # Monica IONESCU
 

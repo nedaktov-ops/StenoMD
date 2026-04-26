@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/TomoescuIonAlin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=306&cam=2
 idm: 306
 speeches_count: 2
-laws_proposed: 27
-stable_id: pol_b8be0b24b1d1
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 26
 stable_id: pol_137aacef4c2b
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Ion-Alin TOMOESCU
 

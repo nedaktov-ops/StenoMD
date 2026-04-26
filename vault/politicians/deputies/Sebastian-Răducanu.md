@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_2baafbbb8b6a
+committees:
+  - name: Defense
+    position: &nbsp;
+    chamber: deputy
+  - name: Defense
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

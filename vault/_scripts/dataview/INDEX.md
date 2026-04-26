@@ -7,6 +7,11 @@
 | Category | Query File | Purpose |
 |----------|-----------|---------|
 | MP Activity | `mp-activity-overview.md` | Speeches, laws, committees |
+| MP Ranking | `mp-activity-ranking.md` | Top 25 by total activity |
+| MP Search | `mp-search.md` | Find MPs by name, party, constituency |
+| Party Analysis | `party-analysis.md` | Party totals and breakdowns |
+| Committee Analysis | `committee-analysis.md` | Committee membership |
+| Constituency Analysis | `constituency-analysis.md` | Geographic distribution |
 | Political Network | `political-network-analysis.md` | Party cohesion, cross-party |
 | Legislation | `legislation-tracking.md` | Bills through process |
 | Network Graph | `graph-network.md` | Visual relationships |

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/AndreiAlexandruIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=7&cam=2
 idm: 7
 speeches_count: 1
-laws_proposed: 18
-stable_id: pol_6eae6ce431ab
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 36
 stable_id: pol_8f4f9ea0a1ba
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Alexandru-Ioan ANDREI
 

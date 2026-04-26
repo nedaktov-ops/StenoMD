@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GrosaruIoana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=133&cam=2
 idm: 133
 speeches_count: 3
-laws_proposed: 1
-stable_id: pol_e5f6019f0afa
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 18
 stable_id: pol_4245eb1bfd34
+original_elected_party: party_full
 type: deputy
+motions: 1
 ---
+
+
 
 # Ioana GROSARU
 

@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_b20310b3a765
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_b20310b3a765
+original_elected_party: POT
 type: senator
 chamber: senate
-party: AUR
-party_full: Alianța pentru Unirea Românilor
-constituency: Buzău
+party: POT
+party_full: Partidul Oamenilor Tineri
+constituency: Municipiul București
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=aaa971e5-5110-4c5f-98f5-07c6ee365a1e
+party_affiliations:
+  - party: POT
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # ALDEA Valentina-Mariana
 

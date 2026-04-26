@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/StoicaBogdanAlin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=286&cam=2
 idm: 286
 speeches_count: 2
-laws_proposed: 0
-stable_id: pol_63db4b5152c5
-original_elected_party: party_full
-party_affiliations:
-- party: party_full
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 3
 stable_id: pol_5acdb5226b56
+original_elected_party: party_full
 type: deputy
 ---
+
 
 # Bogdan-Alin STOICA
 

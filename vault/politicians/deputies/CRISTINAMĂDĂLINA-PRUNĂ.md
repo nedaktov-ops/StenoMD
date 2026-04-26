@@ -12,6 +12,10 @@ idm: 260
 speeches_count: 23
 laws_proposed: 24
 stable_id: pol_de3149f7df0b
+committees:
+  - name: Industries and Services
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: USR
 party_affiliations:
 - party: USR

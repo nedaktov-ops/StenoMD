@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MitreaDumitrina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=200&cam=2
 idm: 200
 speeches_count: 22
-laws_proposed: 29
+laws_proposed: 13
 stable_id: pol_ac781b893f18
 original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_ac781b893f18
 type: deputy
+motions: 9
 ---
+
+
 
 # Dumitrina MITREA
 

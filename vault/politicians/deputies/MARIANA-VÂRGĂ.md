@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/VargaMariana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=318&cam=2
 idm: 318
 speeches_count: 19
-laws_proposed: 30
+laws_proposed: 31
 stable_id: pol_d768266f898b
 original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_d768266f898b
 type: deputy
+motions: 1
 ---
+
+
 
 # Mariana VÂRGĂ
 

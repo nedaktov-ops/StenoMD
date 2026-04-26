@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_509571a0e0a6
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_509571a0e0a6
+original_elected_party: PSD
 type: senator
 chamber: senate
-party: AUR
-party_full: Alianța pentru Unirea Românilor
-constituency: Municipiul București
+party: PSD
+party_full: Partidul Social Democrat
+constituency: Dolj
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=be0ed528-f7e8-43f5-a47e-e2f52e95a17c
+party_affiliations:
+  - party: PSD
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # TĂNĂSESCU Alina-Elena
 

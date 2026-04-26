@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CirligeaFlorinEugen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=68&cam=2
 idm: 68
 speeches_count: 1
-laws_proposed: 9
-stable_id: pol_64e6d908d01c
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 61
 stable_id: pol_9aeabfd3b6a4
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Florin-Eugen CÎRLIGEA
 

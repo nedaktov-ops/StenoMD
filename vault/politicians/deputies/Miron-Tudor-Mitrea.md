@@ -7,6 +7,13 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2
 speeches_count: 34
 laws_proposed: 44
 stable_id: pol_294dd8fbd46d
+committees:
+  - name: Education
+    position: &nbsp;
+    chamber: deputy
+  - name: Culture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: SOS
 party_affiliations:
 - party: SOS

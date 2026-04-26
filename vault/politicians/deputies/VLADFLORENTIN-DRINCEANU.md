@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/DrinceanuVladFlorentin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=95&cam=2
 idm: 95
 speeches_count: 5
-laws_proposed: 29
-stable_id: pol_f4cd32fc3dfe
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 30
 stable_id: pol_53b6e380958e
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Vlad-Florentin DRINCEANU
 

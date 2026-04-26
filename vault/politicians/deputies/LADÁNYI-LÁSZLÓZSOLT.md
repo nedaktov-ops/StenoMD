@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/LadanyiLaszloZsolt.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=166&cam=2
 idm: 166
 speeches_count: 1
-laws_proposed: 36
-stable_id: pol_07553d4485bc
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 33
 stable_id: pol_b14253876b22
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # LADÁNYI László-Zsolt
 

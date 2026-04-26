@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PuscasuPetre.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=262&cam=2
 idm: 262
 speeches_count: 4
-laws_proposed: 36
+laws_proposed: 38
 stable_id: pol_5e240e173f6c
 original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_5e240e173f6c
 type: deputy
+motions: 9
 ---
+
+
 
 # Petre PUŞCAŞU
 

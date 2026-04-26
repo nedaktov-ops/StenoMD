@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/VedinasVerginia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=319&cam=2
 idm: 319
 speeches_count: 61
-laws_proposed: 33
+laws_proposed: 64
 stable_id: pol_bd57afdc6a3c
 original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_bd57afdc6a3c
 type: deputy
+motions: 6
 ---
+
+
 
 # Verginia VEDINAŞ
 

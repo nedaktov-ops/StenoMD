@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SzokeEcaterinaMariana.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=292&cam=2
 idm: 292
 speeches_count: 11
-laws_proposed: 6
-stable_id: pol_82df92661e9e
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 8
 stable_id: pol_b42f0135db77
+original_elected_party: SOS
 type: deputy
 ---
+
 
 # Ecaterina-Mariana SZŐKE
 

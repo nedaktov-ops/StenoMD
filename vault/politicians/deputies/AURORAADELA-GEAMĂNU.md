@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GeamanuAuroraAdela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=116&cam=2
 idm: 116
 speeches_count: 4
-laws_proposed: 14
-stable_id: pol_e01eaa0cf159
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 35
 stable_id: pol_12e069d87a84
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Aurora-Adela GEAMĂNU
 

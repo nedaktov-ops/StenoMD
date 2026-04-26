@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MosteanuLiviuIonut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=209&cam=2
 idm: 209
 speeches_count: 31
-laws_proposed: 4
-stable_id: pol_664dc52fff6d
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 8
 stable_id: pol_d44736689bb9
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Liviu-Ionuţ MOŞTEANU
 

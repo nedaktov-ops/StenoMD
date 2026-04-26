@@ -1,3 +1,14 @@
+---
+original_elected_party: AUR
+party: AUR
+party_full: Alianța pentru Unirea Românilor
+constituency: Municipiul București
+party_affiliations:
+  - party: AUR
+    start_date: "2024-12"
+    is_original: true
+---
+
 party: AUR
 party_full: Alianța pentru Unirea Românilor
 constituency: Municipiul București

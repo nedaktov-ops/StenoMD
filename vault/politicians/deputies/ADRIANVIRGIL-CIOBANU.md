@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/CiobanuAdrianVirgil.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=56&cam=2
 idm: 56
 speeches_count: 3
-laws_proposed: 27
-stable_id: pol_833548fb03a8
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 98
 stable_id: pol_92611099d30c
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Adrian-Virgil CIOBANU
 

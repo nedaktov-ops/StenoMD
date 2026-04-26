@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/RusuSebastianMihai.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=273&cam=2
 idm: 273
 speeches_count: 5
-laws_proposed: 28
-stable_id: pol_ff002353ac84
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 41
 stable_id: pol_2881d30f0ed7
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Sebastian-Mihai RUSU
 

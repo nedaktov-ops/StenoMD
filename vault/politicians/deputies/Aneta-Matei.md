@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_7d8d3a5a0c21
+committees:
+  - name: Public Administration
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

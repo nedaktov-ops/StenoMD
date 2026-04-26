@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_23ac8651a23c
+committees:
+  - name: Agriculture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

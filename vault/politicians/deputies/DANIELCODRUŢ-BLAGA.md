@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BlagaDanielCodrut.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=29&cam=2
 idm: 29
 speeches_count: 4
-laws_proposed: 42
-stable_id: pol_1aa46b2e380f
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 34
 stable_id: pol_bd650de5d63a
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Daniel-Codruţ BLAGA
 

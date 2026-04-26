@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_5c1202a6e9a5
+committees:
+  - name: Culture
+    position: Vice-Chairpersons
+    chamber: deputy
+  - name: Foreign Policy
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: USR
 party_affiliations:
 - party: USR

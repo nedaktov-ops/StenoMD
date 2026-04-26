@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/DimitriuAlexandruPaul.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=90&cam=2
 idm: 90
 speeches_count: 50
-laws_proposed: 52
-stable_id: pol_6c47a74511c8
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 59
 stable_id: pol_fe3ff01e2459
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Alexandru-Paul DIMITRIU
 

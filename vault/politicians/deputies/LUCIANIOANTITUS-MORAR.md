@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MorarLucianIoanTitus.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=207&cam=2
 idm: 207
 speeches_count: 1
-laws_proposed: 17
-stable_id: pol_5f055f68cc41
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 40
 stable_id: pol_d4578ffd860d
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Lucian-Ioan-Titus MORAR
 

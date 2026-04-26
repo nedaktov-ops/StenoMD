@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/RodeanuBogdanIonel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=269&cam=2
 idm: 269
 speeches_count: 21
-laws_proposed: 33
-stable_id: pol_a9982c94e9c1
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 34
 stable_id: pol_5c336773c51d
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Bogdan-Ionel RODEANU
 

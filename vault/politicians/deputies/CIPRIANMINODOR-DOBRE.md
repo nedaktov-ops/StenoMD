@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/DobreCiprianMinodor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=92&cam=2
 idm: 92
 speeches_count: 3
-laws_proposed: 16
-stable_id: pol_913b8eb0db94
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 37
 stable_id: pol_163fb2260062
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Ciprian-Minodor DOBRE
 

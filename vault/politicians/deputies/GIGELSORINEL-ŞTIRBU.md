@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/StirbuGigelSorinel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=297&cam=2
 idm: 297
 speeches_count: 4
-laws_proposed: 21
-stable_id: pol_7573cf2bb9c7
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 18
 stable_id: pol_90347902b1ae
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Gigel-Sorinel ŞTIRBU
 

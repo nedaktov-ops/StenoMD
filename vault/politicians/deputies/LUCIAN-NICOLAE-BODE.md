@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BodeLucianNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=30&cam=2
 idm: 30
 speeches_count: 23
-laws_proposed: 16
+laws_proposed: 52
 stable_id: pol_41a728db96a1
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_41a728db96a1
 type: deputy
 ---
+
 
 # Lucian Nicolae BODE
 

@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/KelemenHunor.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=160&cam=2
 idm: 160
 speeches_count: 4
-laws_proposed: 28
+laws_proposed: 26
 stable_id: pol_fd5cbbfc2919
 original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_fd5cbbfc2919
 type: deputy
 ---
+
 
 # KELEMEN Hunor
 

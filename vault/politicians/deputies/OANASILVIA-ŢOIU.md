@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/ToiuOanaSilvia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=313&cam=2
 idm: 313
 speeches_count: 14
-laws_proposed: 20
-stable_id: pol_ba985f3a433d
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 10
 stable_id: pol_e297d45f39cb
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Oana-Silvia ŢOIU
 

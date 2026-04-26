@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BosutarTiberiuNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=35&cam=2
 idm: 35
 speeches_count: 1
-laws_proposed: 24
-stable_id: pol_dbf7453679a4
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 32
 stable_id: pol_80af226e53d6
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Tiberiu-Nicolae BOŞUTAR
 

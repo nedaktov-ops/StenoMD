@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SerbanCiprianConstantin2025.JP
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=294&cam=2
 idm: 294
 speeches_count: 149
-laws_proposed: 14
-stable_id: pol_fddb82ab7bf4
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 45
 stable_id: pol_375cbb32611e
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Ciprian-Constantin ŞERBAN
 

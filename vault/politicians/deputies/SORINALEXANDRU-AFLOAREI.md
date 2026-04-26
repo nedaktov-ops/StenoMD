@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/img/judete/judet24.jpg
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=2&cam=2
 idm: 2
 speeches_count: 1
-laws_proposed: 0
-stable_id: pol_10729920388a
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 48
 stable_id: pol_7407f6fc91c2
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Sorin-Alexandru AFLOAREI
 

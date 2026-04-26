@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/DascaluCristinaEmanuela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=89&cam=2
 idm: 89
 speeches_count: 15
-laws_proposed: 38
-stable_id: pol_155cdaa10558
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 72
 stable_id: pol_3382a85d1a5e
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Cristina-Emanuela DASCĂLU
 

@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_4b7be4effdc3
+committees:
+  - name: Industries and Services
+    position: &nbsp;
+    chamber: deputy
+  - name: Abuse, Corruption
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

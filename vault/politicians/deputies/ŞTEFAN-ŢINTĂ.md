@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/TintaStefan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=310&cam=2
 idm: 310
 speeches_count: 1
-laws_proposed: 21
+laws_proposed: 26
 stable_id: pol_c801552901e9
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_c801552901e9
 type: deputy
 ---
+
 
 # Ştefan ŢINTĂ
 

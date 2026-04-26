@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MihalceaIoan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=190&cam=2
 idm: 190
 speeches_count: 1
-laws_proposed: 7
+laws_proposed: 16
 stable_id: pol_10f18b52195a
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_10f18b52195a
 type: deputy
 ---
+
 
 # Ioan MIHALCEA
 

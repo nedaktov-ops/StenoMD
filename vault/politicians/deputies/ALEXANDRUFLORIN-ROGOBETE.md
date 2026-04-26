@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/RogobeteAlexandruFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=270&cam=2
 idm: 270
 speeches_count: 15
-laws_proposed: 10
-stable_id: pol_d40e3046efd5
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 12
 stable_id: pol_504148d7a901
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Alexandru-Florin ROGOBETE
 

@@ -7,6 +7,10 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=324&cam=2
 speeches_count: 1
 laws_proposed: 4
 stable_id: pol_1f1f14d34dd8
+committees:
+  - name: Culture
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

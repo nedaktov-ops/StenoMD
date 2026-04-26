@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_2f55ee50f3c7
+committees:
+  - name: Industries and Services
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

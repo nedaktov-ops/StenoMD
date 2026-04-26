@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_fdeb9845ff93
+committees:
+  - name: Foreign Policy
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

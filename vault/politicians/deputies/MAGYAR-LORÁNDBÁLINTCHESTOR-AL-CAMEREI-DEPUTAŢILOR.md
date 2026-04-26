@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MagyarLorandBalint.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=176&cam=2
 idm: 176
 speeches_count: 4
-laws_proposed: 36
-stable_id: pol_2790b01fe2d4
-original_elected_party: UDMR
-party_affiliations:
-- party: UDMR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 38
 stable_id: pol_6570f7948a97
+original_elected_party: UDMR
 type: deputy
 ---
+
 
 # MAGYAR Loránd-Bálintchestor al Camerei Deputaţilor
 

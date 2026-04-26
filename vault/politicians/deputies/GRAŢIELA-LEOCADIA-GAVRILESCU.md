@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GavrilescuGratielaLeocadia.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=115&cam=2
 idm: 115
 speeches_count: 1
-laws_proposed: 13
+laws_proposed: 27
 stable_id: pol_29de24f4aa6f
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_29de24f4aa6f
 type: deputy
 ---
+
 
 # Graţiela Leocadia GAVRILESCU
 

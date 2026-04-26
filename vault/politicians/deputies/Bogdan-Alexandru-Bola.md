@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_05b673aca283
+committees:
+  - name: Health
+    position: Chairperson
+    chamber: deputy
 original_elected_party: PSD
 party_affiliations:
 - party: PSD

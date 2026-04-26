@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MargaritMiticaMarius.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=186&cam=2
 idm: 186
 speeches_count: 3
-laws_proposed: 10
-stable_id: pol_a13786205e53
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 29
 stable_id: pol_5b7476e05152
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Mitică-Marius MĂRGĂRIT
 

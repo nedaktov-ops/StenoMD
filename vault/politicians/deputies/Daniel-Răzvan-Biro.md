@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_7f7b2c36c279
+committees:
+  - name: Public Administration
+    position: &nbsp;
+    chamber: deputy
+  - name: Legal
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

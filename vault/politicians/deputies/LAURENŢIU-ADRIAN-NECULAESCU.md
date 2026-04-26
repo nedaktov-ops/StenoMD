@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/NeculaescuLaurentiuAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=226&cam=2
 idm: 226
 speeches_count: 1
-laws_proposed: 13
+laws_proposed: 14
 stable_id: pol_4ed24fabde6f
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_4ed24fabde6f
 type: deputy
 ---
+
 
 # Laurenţiu Adrian NECULAESCU
 

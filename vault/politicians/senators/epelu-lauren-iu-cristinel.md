@@ -1,22 +1,20 @@
 ---
-tags:
-- politician
 stable_id: pol_09d02cc83d3c
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_09d02cc83d3c
+original_elected_party: PSD
 type: senator
 chamber: senate
-party: AUR
-party_full: Alianța pentru Unirea Românilor
-constituency: Prahova
+party: PSD
+party_full: Partidul Social Democrat
+constituency: Gorj
 legislature: 2024-2028
 status: active
 url: https://senat.ro/FisaSenator.aspx?ParlamentarID=abde2f69-fbbc-418b-bc27-d979fefd6644
+party_affiliations:
+  - party: PSD
+    start_date: "2024-12"
+    is_original: true
 ---
+
 
 # ŢEPELUŞ Laurenţiu-Cristinel
 

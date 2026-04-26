@@ -2,6 +2,13 @@
 tags:
 - politician
 stable_id: pol_f5198691abd2
+committees:
+  - name: Budget, Finance
+    position: &nbsp;
+    chamber: deputy
+  - name: Defense
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: SOS
 party_affiliations:
 - party: SOS

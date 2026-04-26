@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BerescuMonicaElena.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=26&cam=2
 idm: 26
 speeches_count: 3
-laws_proposed: 27
-stable_id: pol_17d84c44ad5c
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 26
 stable_id: pol_f1d579b6c495
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Monica-Elena BERESCU
 

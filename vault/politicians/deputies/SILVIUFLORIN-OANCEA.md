@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/OanceaSilviuFlorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=230&cam=2
 idm: 230
 speeches_count: 2
-laws_proposed: 21
-stable_id: pol_a4a22ed0c49e
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 12
 stable_id: pol_f0b13e9f8bb4
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Silviu-Florin OANCEA
 

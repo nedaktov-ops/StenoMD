@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/NeaguPetreEmanoil.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=223&cam=2
 idm: 223
 speeches_count: 9
-laws_proposed: 23
-stable_id: pol_3718372f8a1d
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 18
 stable_id: pol_54851e2051e1
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Petre-Emanoil NEAGU
 

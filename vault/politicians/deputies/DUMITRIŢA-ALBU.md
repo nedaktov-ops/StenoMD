@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/AlbuDumitrita.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=3&cam=2
 idm: 3
 speeches_count: 14
-laws_proposed: 31
-stable_id: pol_5a991e6e590c
-original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 35
 stable_id: pol_b41791026c16
+original_elected_party: POT
 type: deputy
+motions: 2
 ---
+
+
 
 # Dumitriţa ALBU
 

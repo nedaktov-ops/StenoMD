@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MirutaRaduDinel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2
 idm: 198
 speeches_count: 14
-laws_proposed: 9
-stable_id: pol_d4a834562d41
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 14
 stable_id: pol_ad3b17541ad0
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Radu-Dinel MIRUŢĂ
 

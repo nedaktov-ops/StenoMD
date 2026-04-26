@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BasAnaMarcela.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=21&cam=2
 idm: 21
 speeches_count: 6
-laws_proposed: 26
-stable_id: pol_090cb00390f9
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 46
 stable_id: pol_7bd659b28de4
+original_elected_party: SOS
 type: deputy
+motions: 6
 ---
+
+
 
 # Ana-Marcela BAŞ
 

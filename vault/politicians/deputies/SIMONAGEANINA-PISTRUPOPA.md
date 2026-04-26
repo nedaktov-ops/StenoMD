@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PistruPopaSimonaGeanina.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=244&cam=2
 idm: 244
 speeches_count: 7
-laws_proposed: 36
-stable_id: pol_2190780dac4b
-original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 25
 stable_id: pol_303959270bb3
+original_elected_party: PNL
 type: deputy
 ---
+
 
 # Simona-Geanina PISTRU-POPA
 

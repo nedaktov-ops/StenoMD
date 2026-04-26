@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_ade7e5201fcc
+committees:
+  - name: Human Rights
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

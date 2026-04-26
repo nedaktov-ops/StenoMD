@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/VelcescuFlorinBogdan.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=321&cam=2
 idm: 321
 speeches_count: 24
-laws_proposed: 35
-stable_id: pol_27780efcd358
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 17
 stable_id: pol_d2c68cf442fb
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor
 

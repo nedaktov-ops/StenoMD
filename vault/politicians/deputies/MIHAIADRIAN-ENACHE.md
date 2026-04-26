@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/EnacheMihaiAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=100&cam=2
 idm: 100
 speeches_count: 36
-laws_proposed: 24
-stable_id: pol_718ba469ba56
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 63
 stable_id: pol_11416f8be512
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Mihai-Adrian ENACHE
 

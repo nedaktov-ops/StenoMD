@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/PopescuAntonioGabi.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=255&cam=2
 idm: 255
 speeches_count: 3
-laws_proposed: 30
-stable_id: pol_0b1fd009d44b
-original_elected_party: AUR
-party_affiliations:
-- party: AUR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 21
 stable_id: pol_10b03dccea13
+original_elected_party: AUR
 type: deputy
+motions: 9
 ---
+
+
 
 # Antonio-Gabi POPESCU
 

@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_e9d2036d16e8
+committees:
+  - name: Abuse, Corruption
+    position: Chairperson
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

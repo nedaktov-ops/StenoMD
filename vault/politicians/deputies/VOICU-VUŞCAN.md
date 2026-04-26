@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/VuscanVoicu.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=326&cam=2
 idm: 326
 speeches_count: 11
-laws_proposed: 25
+laws_proposed: 14
 stable_id: pol_50856a1c187c
 original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_50856a1c187c
 type: deputy
 ---
+
 
 # Voicu VUŞCAN
 

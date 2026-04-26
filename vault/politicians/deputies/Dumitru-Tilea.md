@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_012dc8a6bbb2
+committees:
+  - name: Economic Policies
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: AUR
 party_affiliations:
 - party: AUR

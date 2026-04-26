@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/RigmanCiprianDoru.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=267&cam=2
 idm: 267
 speeches_count: 4
-laws_proposed: 30
-stable_id: pol_be8c6faa638c
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 23
 stable_id: pol_58214c590696
+original_elected_party: USR
 type: deputy
 ---
+
 
 # Ciprian-Doru RIGMAN
 

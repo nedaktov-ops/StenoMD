@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/SuciuVasileDaniel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=290&cam=2
 idm: 290
 speeches_count: 489
-laws_proposed: 11
-stable_id: pol_e054e140629e
-original_elected_party: PSD
-party_affiliations:
-- party: PSD
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 12
 stable_id: pol_49f4ed8b0360
+original_elected_party: PSD
 type: deputy
 ---
+
 
 # Vasile-Daniel SUCIU
 

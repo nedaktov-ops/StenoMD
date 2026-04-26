@@ -7,6 +7,10 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=88&cam=2
 speeches_count: 1
 laws_proposed: 10
 stable_id: pol_cfd6535bf4de
+committees:
+  - name: Industries and Services
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL

@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/TiuMihaiAdrian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2
 idm: 312
 speeches_count: 8
-laws_proposed: 45
-stable_id: pol_1be20bb29435
-original_elected_party: SOS
-party_affiliations:
-- party: SOS
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 25
 stable_id: pol_4c4f2a1d225a
+original_elected_party: SOS
 type: deputy
+motions: 6
 ---
+
+
 
 # Mihai-Adrian ŢIU
 

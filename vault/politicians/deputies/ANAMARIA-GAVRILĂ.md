@@ -10,16 +10,14 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/GavrilaAnamaria.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=113&cam=2
 idm: 113
 speeches_count: 44
-laws_proposed: 18
+laws_proposed: 23
 stable_id: pol_a62023abb79a
 original_elected_party: POT
-party_affiliations:
-- party: POT
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_a62023abb79a
 type: deputy
+motions: 7
 ---
+
+
 
 # Anamaria GAVRILĂ
 

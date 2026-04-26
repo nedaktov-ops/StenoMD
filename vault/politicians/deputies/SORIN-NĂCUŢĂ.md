@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/NacutaSorin.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=332&cam=2
 idm: 332
 speeches_count: 6
-laws_proposed: 20
+laws_proposed: 18
 stable_id: pol_77c2cd5ebb64
 original_elected_party: PNL
-party_affiliations:
-- party: PNL
-  start_date: "2024-12"
-  is_original: true
-stable_id: pol_77c2cd5ebb64
 type: deputy
 ---
+
 
 # Sorin NĂCUŢĂ
 

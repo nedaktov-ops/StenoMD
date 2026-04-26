@@ -10,16 +10,12 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/MarussiGeorgeNicolae.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=181&cam=2
 idm: 181
 speeches_count: 3
-laws_proposed: 36
-stable_id: pol_85046aa45f54
-original_elected_party: USR
-party_affiliations:
-- party: USR
-  start_date: "2024-12"
-  is_original: true
+laws_proposed: 28
 stable_id: pol_f02a257a96a5
+original_elected_party: USR
 type: deputy
 ---
+
 
 # George-Nicolae MARUSSI
 

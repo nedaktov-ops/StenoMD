@@ -2,6 +2,10 @@
 tags:
 - politician
 stable_id: pol_6db01136bd3e
+committees:
+  - name: Abuse, Corruption
+    position: &nbsp;
+    chamber: deputy
 original_elected_party: PNL
 party_affiliations:
 - party: PNL
