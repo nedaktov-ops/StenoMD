@@ -4,8 +4,8 @@ chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
 party: Unknown
-party_full: Unknown
-constituency: 
+party_full: Partidul Naţional Liberal
+constituency: ILFOV
 photo_url: 
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=232&cam=2
 idm: 232

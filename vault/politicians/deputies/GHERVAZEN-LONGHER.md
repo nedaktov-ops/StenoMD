@@ -3,9 +3,9 @@ name: Ghervazen LONGHER
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: 
-party_full: Unknown
-constituency: 
+party: MIN
+party_full: Grupul parlamentar al minorităţilor naţionale
+constituency: Minority
 photo_url: https://www.cdep.ro/parlamentari/l2024/LongherGhervazen.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=171&cam=2
 idm: 171

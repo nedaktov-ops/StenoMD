@@ -3,9 +3,9 @@ name: Gheorghe NACOV
 chamber: deputy
 legislature: 2024-2028
 source: cdep.ro
-party: 
-party_full: Unknown
-constituency: 
+party: MIN
+party_full: Grupul parlamentar al minorităţilor naţionale
+constituency: Minority
 photo_url: https://www.cdep.ro/parlamentari/l2024/NacovGheorghe.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=216&cam=2
 idm: 216

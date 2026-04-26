@@ -3,9 +3,9 @@ name: Mina Marian
 chamber: Chamber of Deputies
 legislature: 2024-2028
 source: cdep.ro
-party: Unknown
-party_full: Unknown
-constituency: 
+party: PSD
+party_full: Partidul Social Democrat
+constituency: GIURGIU
 photo_url: 
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=196&cam=2
 idm: 196
