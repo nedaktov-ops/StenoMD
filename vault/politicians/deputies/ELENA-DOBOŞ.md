@@ -17,6 +17,7 @@ party_affiliations:
 - party: AUR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_c3c5a2f0b10a
 type: deputy
 ---
 

@@ -8,6 +8,7 @@ url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=233&cam=2
 speeches_count: 9
 laws_proposed: 4
 stable_id: pol_31b64ab311ed
+stable_id: pol_31b64ab311ed
 type: deputy
 ---
 

@@ -17,6 +17,7 @@ party_affiliations:
 - party: PNL
   start_date: "2024-12"
   is_original: true
+stable_id: pol_7ec5b0b1b158
 type: deputy
 ---
 

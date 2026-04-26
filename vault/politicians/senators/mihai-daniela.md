@@ -7,6 +7,7 @@ party_affiliations:
 - party: PSD
   start_date: "2024-12"
   is_original: true
+stable_id: pol_329ef85af462
 type: senator
 chamber: senate
 party: PSD

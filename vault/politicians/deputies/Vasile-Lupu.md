@@ -12,6 +12,7 @@ party_affiliations:
 - party: SOS
   start_date: "2024-12"
   is_original: true
+stable_id: pol_da6c6ff2958b
 type: deputy
 chamber: deputies
 legislature: 2024-2028

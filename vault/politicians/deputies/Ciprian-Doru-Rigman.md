@@ -7,6 +7,7 @@ party_affiliations:
 - party: USR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_2d06667b164d
 type: person
 party: USR
 party_full: Uniunea Salvaţi România

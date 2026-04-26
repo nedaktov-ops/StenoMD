@@ -7,6 +7,7 @@ party_affiliations:
 - party: SOS
   start_date: "2024-12"
   is_original: true
+stable_id: pol_ed8173c15359
 type: senator
 chamber: senate
 party: SOS

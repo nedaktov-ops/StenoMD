@@ -7,6 +7,7 @@ party_affiliations:
 - party: PSD
   start_date: "2024-12"
   is_original: true
+stable_id: pol_95e4c1a4c4cc
 type: person
 party: PSD
 party_full: Partidul Social Democrat

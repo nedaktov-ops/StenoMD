@@ -12,6 +12,7 @@ party_affiliations:
 - party: PNL
   start_date: "2024-12"
   is_original: true
+stable_id: pol_5c251b3ad726
 type: deputy
 chamber: deputies
 legislature: 2024-2028

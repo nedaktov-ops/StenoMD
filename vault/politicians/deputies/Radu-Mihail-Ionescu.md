@@ -7,6 +7,7 @@ party_affiliations:
 - party: POT
   start_date: "2024-12"
   is_original: true
+stable_id: pol_1e07ff3364c4
 type: person
 party: POT
 party_full: Partidul Oamenilor Tineri

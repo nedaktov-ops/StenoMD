@@ -17,6 +17,7 @@ party_affiliations:
 - party: UDMR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_373b7e36dac1
 type: deputy
 ---
 

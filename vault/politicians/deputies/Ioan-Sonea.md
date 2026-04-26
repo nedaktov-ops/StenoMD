@@ -12,6 +12,7 @@ party_affiliations:
 - party: PSD
   start_date: "2024-12"
   is_original: true
+stable_id: pol_1f1f14d34dd8
 type: deputy
 chamber: deputies
 legislature: 2024-2028

@@ -7,6 +7,7 @@ party_affiliations:
 - party: PNL
   start_date: "2024-12"
   is_original: true
+stable_id: pol_0878c1b90f71
 type: person
 party: PNL
 party_full: Partidul Naţional Liberal

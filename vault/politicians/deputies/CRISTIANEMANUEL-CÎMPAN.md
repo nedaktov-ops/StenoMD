@@ -17,6 +17,7 @@ party_affiliations:
 - party: POT
   start_date: "2024-12"
   is_original: true
+stable_id: pol_6387ada443bc
 type: deputy
 ---
 

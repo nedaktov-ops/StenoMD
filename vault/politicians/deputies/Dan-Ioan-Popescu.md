@@ -12,6 +12,7 @@ party_affiliations:
 - party: AUR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_be4938144e10
 type: deputy
 chamber: deputies
 legislature: 2024-2028

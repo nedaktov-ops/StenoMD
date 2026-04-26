@@ -1,6 +1,7 @@
 ---
 tags: [politician]
 stable_id: pol_61ddb400f13a
+stable_id: pol_61ddb400f13a
 type: person
 ---
 

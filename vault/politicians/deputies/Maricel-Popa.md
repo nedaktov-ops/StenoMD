@@ -15,6 +15,7 @@ party_affiliations:
 - party: PSD
   start_date: "2024-12"
   is_original: true
+stable_id: pol_1f97453970a5
 type: deputy
 ---
 

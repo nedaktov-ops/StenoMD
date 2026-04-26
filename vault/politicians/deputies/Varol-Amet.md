@@ -2,6 +2,7 @@
 tags:
 - politician
 stable_id: pol_6c60702c81d3
+stable_id: pol_6c60702c81d3
 type: person
 photo_url: https://www.cdep.ro/parlamentari/l2024/AmetVarol.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=6&cam=2

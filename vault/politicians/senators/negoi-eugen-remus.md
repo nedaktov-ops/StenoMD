@@ -7,6 +7,7 @@ party_affiliations:
 - party: USR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_c55b0e3b4f18
 type: senator
 chamber: senate
 party: USR

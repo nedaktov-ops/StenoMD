@@ -7,6 +7,7 @@ party_affiliations:
 - party: AUR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_fe4d62c77aae
 type: person
 party: AUR
 party_full: Alianţa pentru Unirea Românilor

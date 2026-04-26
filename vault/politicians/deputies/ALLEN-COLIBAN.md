@@ -17,6 +17,7 @@ party_affiliations:
 - party: USR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_71105f1b0ff2
 type: deputy
 ---
 

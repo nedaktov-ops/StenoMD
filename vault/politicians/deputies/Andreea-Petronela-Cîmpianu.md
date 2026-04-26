@@ -7,6 +7,7 @@ party_affiliations:
 - party: SOS
   start_date: "2024-12"
   is_original: true
+stable_id: pol_7a87c8b1f841
 type: person
 party: SOS
 party_full: Partidul S.O.S. România

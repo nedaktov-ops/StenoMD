@@ -7,6 +7,7 @@ party_affiliations:
 - party: UDMR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_a7e4b456a07e
 type: senator
 chamber: senate
 party: UDMR

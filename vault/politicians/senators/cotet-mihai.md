@@ -7,6 +7,7 @@ party_affiliations:
 - party: PNL
   start_date: "2024-12"
   is_original: true
+stable_id: pol_c2fbc401d137
 type: senator
 chamber: senate
 party: PNL

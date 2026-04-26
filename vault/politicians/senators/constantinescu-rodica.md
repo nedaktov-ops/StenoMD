@@ -7,6 +7,7 @@ party_affiliations:
 - party: AUR
   start_date: "2024-12"
   is_original: true
+stable_id: pol_437c7cb93f15
 type: senator
 chamber: senate
 party: AUR

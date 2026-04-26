@@ -7,6 +7,7 @@ party_affiliations:
 - party: POT
   start_date: "2024-12"
   is_original: true
+stable_id: pol_7f8827a0cd57
 type: senator
 chamber: senate
 party: POT

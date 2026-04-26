@@ -16,6 +16,7 @@ party_affiliations:
 - party: SOS
   start_date: "2024-12"
   is_original: true
+stable_id: pol_bf96bfe9b04a
 type: deputy
 ---
 
