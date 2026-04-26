@@ -2,56 +2,59 @@
 
 **Last Updated:** 2026-04-26  
 **Status:** ACTIVE  
-**Total Pending:** 4
+**Total Pending:** 5
 
 ---
 
 ## MAINTENANCE REQUIRED
 
-### Task SENATOR-SCRAPE: Senator Data Enrichment (senat.ro)
-**ID:** TASK-SENATOR-SCRAPE  
-**Status:** COMPLETED  
-**Priority:** CRITICAL
+### Task SCRAPING: Senator Data from senat.ro
+**Status:** COMPLETED (2026-04-26)
+- 133/137 senators scraped
+- 94 profiles updated with activity data
 
-**Completed:**
-- Scraped 133/137 senators from senat.ro
-- Extracted: speeches_count, questions, interpellations, committees
-- Updated 94 senator profiles with activity data
-- Remaining 4 senators need manual review or are new additions
-
-**Data Saved:**
-- data/senate/scraped_senators.json (full scraped data)
-- data/senate/scraping_progress.json (progress tracking)
-
----
-
-## MAINTENANCE REQUIRED
-
-### Task 007: Deputy Deduplication  
+### Task 007: Deputy Deduplication
 **ID:** TASK-007  
-**Status:** IN_PROGRESS  
+**Status:** COMPLETED  
 **Priority:** HIGH
 
-**Issues Found:**
-- 115 extra deputy profiles (447 vs 332 expected in 2024 legislature)
-- 7 files have same IDM but different names (ID conflicts)
-- 146 profiles without idm field (likely obsolete)
-
-**Run:** `python3 scripts/dedupe_analysis.py`
+**Resolved:**
+- 332 deputy profiles now (correct count for 2024 legislature)
+- No duplicate IDM conflicts
+- All have idm field
 
 ### Task 008: Duplicate Names Cleanup
 **ID:** TASK-008  
-**Status:** READY_TO_START
+**Status:** COMPLETED
 
-**Issues:**
-- "index" duplicate name exists (politicians/deputies/Index.md)
+**Resolved:**
+- Only 2 Index.md files exist (senators & _index) - correct
 
 ### Task 009: Senator Missing Party
 **ID:** TASK-009  
-**Status:** READY_TO_START
+**Status:** COMPLETED
+
+**Resolved:**
+- All 137 senators have party field
+
+---
+
+## MAINTENANCE REQUIRED
+
+### Task 010: Missing Law Data
+**ID:** TASK-010  
+**Status:** DEFERRED
 
 **Details:**
-- 1 senator profile missing party field
+- All 124 laws lack sponsor data
+- Would require matching to parlamint proposals
+- Deferred for manual entry later
+
+---
+
+## NEXT STAGE
+
+### Data Quality Checks
 
 ---
 
