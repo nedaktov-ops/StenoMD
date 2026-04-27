@@ -1,0 +1,78 @@
+{
+  "contexts": [
+    {
+      "name": "QuickAdd Deputy",
+      "hotkey": "Ctrl+Shift+D",
+      "commands": [
+        {
+          "type": "prompt",
+          "title": "Deputy Name",
+          "variable": "title"
+        },
+        {
+          "type": "script",
+          "scriptPath": "{{vault}}/../scripts/create_note.py",
+          "args": "--type deputy --name \"{{title}}\""
+        }
+      ]
+    },
+    {
+      "name": "QuickAdd Senator",
+      "hotkey": "Ctrl+Shift+S",
+      "commands": [
+        {
+          "type": "prompt",
+          "title": "Senator Name",
+          "variable": "title"
+        },
+        {
+          "type": "script",
+          "scriptPath": "{{vault}}/../scripts/create_note.py",
+          "args": "--type senator --name \"{{title}}\""
+        }
+      ]
+    },
+    {
+      "name": "QuickAdd Law",
+      "hotkey": "Ctrl+Shift+L",
+      "commands": [
+        {
+          "type": "prompt",
+          "title": "Law Number (e.g., 20/2026)",
+          "variable": "number"
+        },
+        {
+          "type": "prompt",
+          "title": "Law Title",
+          "variable": "title"
+        },
+        {
+          "type": "script",
+          "scriptPath": "{{vault}}/../scripts/create_note.py",
+          "args": "--type law --number \"{{number}}\" --title \"{{title}}\""
+        }
+      ]
+    },
+    {
+      "name": "QuickAdd Session",
+      "hotkey": "Ctrl+Shift+E",
+      "commands": [
+        {
+          "type": "prompt",
+          "title": "Session Date (YYYY-MM-DD)",
+          "variable": "date"
+        },
+        {
+          "type": "prompt",
+          "title": "Chamber (deputies/senate)",
+          "variable": "chamber"
+        },
+        {
+          "type": "script",
+          "scriptPath": "{{vault}}/../scripts/create_note.py",
+          "args": "--type session --date \"{{date}}\" --chamber \"{{chamber}}\""
+        }
+      ]
+    }
+  ]
+}

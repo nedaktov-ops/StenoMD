@@ -59,6 +59,12 @@ SORT file.mtime DESC
 LIMIT 20
 ```
 
+### 📆 Session Calendar
+
+```calendar
+folder: sessions
+```
+
 ---
 
 ## 🏢 Committee Membership Overview
@@ -144,6 +150,13 @@ Missing Data: 0 points
 2. **Edit queries**: Click the `</>` icon on any query block
 3. **Export data**: Use "Export as CSV" from Dataview options
 4. **Combine with Properties**: Press `Ctrl/Cmd+M` on any note to edit frontmatter quickly
+
+---
+
+## 🛠️ Tools
+
+- **Interactive Graph**: [Open Graph](../Graphify/graphify-out/graph.html)
+- **QuickAdd Setup**: [[_brain/QuickAdd-Setup]]
 
 ---
 

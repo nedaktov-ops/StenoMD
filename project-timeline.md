@@ -560,6 +560,7 @@ Each item now has:
 | Regenerate Graphify graph | build_vault_graph_fixed.py | Completed | 2,241 nodes, 1,518 edges; 123 laws, 537 deputies, 271 senators |
 
 ### Phase 3: Verification & Docs (COMPLETE 21:25)
+
 | Task | Target | Status |
 |------|--------|--------|
 | Health check | >95/100 | Completed | Planner health = 96/100 (Code_Quality 100 after fix) |
@@ -567,8 +568,16 @@ Each item now has:
 | Update project-logs.md | Done after each phase | Completed |
 | Commit to GitHub | after each phase | Completed |
 
+### Phase 4: Usability Enhancements (IN PROGRESS)
+
+| Task | Script/Component | Status | Notes |
+|------|------------------|--------|-------|
+| QuickAdd workflows | scripts/create_note.py, config/quickadd-config.json | Completed | Hotkeys: Ctrl+Shift+D/S/L/E; see docs/QUICKADD_SETUP.md |
+| Calendar integration | Index.md | Completed | Added calendar block showing sessions |
+| Index page enhancements | Index.md, _brain/QuickAdd-Setup.md | Completed | Added Tools section with Graph link and QuickAdd guide |
+
 ---
 
-*LastUpdated: 2026-04-27 21:25*
-*All phases complete; system operational.*
+*LastUpdated: 2026-04-27 21:30*
+*Phase 4 in progress: QuickAdd, Calendar, Index enhancements.*
 
