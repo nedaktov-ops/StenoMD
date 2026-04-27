@@ -343,8 +343,8 @@ class StrategyPlanner:
         # Build plan
         plan = {
             'total_issues': len(issues),
-            'estimated_total_time': sum(s['effort']['estimated_seconds'] for s in scored_issues),
-            'highest_risk': max(s['risk']['level'] for s in scored_issues),
+            'estimated_total_time': sum(s['effort']['estimated_seconds'] for s in scored_issues) if scored_issues else 0,
+            'highest_risk': max((s['risk']['level'] for s in scored_issues), default=0),
             'recommendations': scored_issues,
             'execution_order': dependencies['execution_order'],
             'phases': dependencies['phases'],

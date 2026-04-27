@@ -41,6 +41,9 @@ def build_graph():
     for md_file in VAULT.rglob("*.md"):
         if md_file.name == "Index.md":
             continue
+        # Skip ai-memory and other non-primary vault directories
+        if any(part in md_file.parts for part in ('.obsidian', 'ai-memory', 'graphify-out')):
+            continue
         rel_path = md_file.relative_to(VAULT).as_posix()
         
         try:

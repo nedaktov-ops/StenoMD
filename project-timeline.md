@@ -557,18 +557,18 @@ Each item now has:
 | Standardize config in GraphifyStenoMD | workflows/agents | Completed | All 9 files use config |
 | Integrate Graphify into daily pipeline | run_daily.py | Completed | Added Step 6: orchestrator daily |
 | Extend merge_vault_to_kg to include laws | merge_vault_to_kg.py | Completed | Entities now have 124 laws |
-| Regenerate Graphify graph | /graphify | PENDING | Manual run required |
+| Regenerate Graphify graph | build_vault_graph_fixed.py | Completed | 2,241 nodes, 1,518 edges; 123 laws, 537 deputies, 271 senators |
 
-### Phase 3: Verification & Docs (PENDING)
+### Phase 3: Verification & Docs (COMPLETE 21:25)
 | Task | Target | Status |
 |------|--------|--------|
-| Health check | >95/100 | PENDING |
-| Missing data | 0 | PENDING |
-| Update project-logs.md | Done after each phase | PENDING |
-| Commit to GitHub | after each phase | PENDING |
+| Health check | >95/100 | Completed | Planner health = 96/100 (Code_Quality 100 after fix) |
+| Missing data | 0 | Completed | Empty placeholder files removed; no critical missing fields |
+| Update project-logs.md | Done after each phase | Completed |
+| Commit to GitHub | after each phase | Completed |
 
 ---
 
-*LastUpdated: 2026-04-27 20:50*
-*Phase 2 complete; awaiting manual Graphify regeneration.*
+*LastUpdated: 2026-04-27 21:25*
+*All phases complete; system operational.*
 

@@ -287,7 +287,7 @@ class DebuggingEngine:
         }
         
         error_type = error.get('type', '')
-        location = error.get('location', {})
+        location = error.get('location') or {}
         
         # Step 1: Understand the error
         guide['steps'].append({
