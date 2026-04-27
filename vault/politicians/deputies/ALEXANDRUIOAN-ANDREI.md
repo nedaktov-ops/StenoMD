@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Alexandru-Ioan ANDREI
 search_aliases: ["ALEXANDRU ANDREI", "ALEXANDRU-IOAN ANDREI", "ANDREI", "ANDREI, ALEXANDRU", "ANDREI, Alexandru", "Alexandru ANDREI", "Alexandru-Ioan ANDREI", "Alexandru-Ioan Andrei", "alexandru andrei", "alexandru-ioan andrei", "andrei"]
 votes_cast: 6

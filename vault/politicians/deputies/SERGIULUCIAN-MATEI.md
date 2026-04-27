@@ -18,6 +18,7 @@ motions: 6
 ---
 
 
+
 ai_friendly_name: Sergiu-Lucian MATEI
 search_aliases: ["MATEI", "MATEI, SERGIU", "MATEI, Sergiu", "SERGIU MATEI", "SERGIU-LUCIAN MATEI", "Sergiu MATEI", "Sergiu-Lucian MATEI", "Sergiu-Lucian Matei", "matei", "sergiu matei", "sergiu-lucian matei"]
 votes_cast: 6

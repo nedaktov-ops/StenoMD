@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Silviu-Titus PĂUNESCU
 search_aliases: ["PĂUNESCU", "PĂUNESCU, SILVIU", "PĂUNESCU, Silviu", "SILVIU PĂUNESCU", "SILVIU-TITUS PĂUNESCU", "Silviu PĂUNESCU", "Silviu-Titus PĂUNESCU", "Silviu-Titus Păunescu", "păunescu", "silviu păunescu", "silviu-titus păunescu"]
 votes_cast: 6

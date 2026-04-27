@@ -18,6 +18,7 @@ motions: 9
 ---
 
 
+
 ai_friendly_name: Diana ENACHE
 search_aliases: ["DIANA ENACHE", "Diana ENACHE", "Diana Enache", "ENACHE", "ENACHE, DIANA", "ENACHE, Diana", "diana enache", "enache"]
 votes_cast: 5

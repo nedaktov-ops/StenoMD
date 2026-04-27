@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: KOLCSÁR Anquetil-Károly
 search_aliases: ["KOLCSÁR ANQUETIL-KÁROLY", "KOLCSÁR Anquetil-Károly", "KOLCSÁR KÁROLY", "KOLCSÁR Károly", "Kolcsár Anquetil-Károly", "KÁROLY", "KÁROLY, KOLCSÁR", "Károly", "Károly, KOLCSÁR", "kolcsár anquetil-károly", "kolcsár károly", "károly"]
 votes_cast: 6

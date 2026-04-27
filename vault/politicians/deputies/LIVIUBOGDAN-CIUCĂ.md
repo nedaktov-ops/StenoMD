@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Liviu-Bogdan CIUCĂ
 search_aliases: ["CIUCĂ", "CIUCĂ, LIVIU", "CIUCĂ, Liviu", "LIVIU CIUCĂ", "LIVIU-BOGDAN CIUCĂ", "Liviu CIUCĂ", "Liviu-Bogdan CIUCĂ", "Liviu-Bogdan Ciucă", "ciucă", "liviu ciucă", "liviu-bogdan ciucă"]
 votes_cast: 6

@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Mihai-Cătălin BOTEZ
 search_aliases: ["BOTEZ", "BOTEZ, MIHAI", "BOTEZ, Mihai", "MIHAI BOTEZ", "MIHAI-CĂTĂLIN BOTEZ", "Mihai BOTEZ", "Mihai-Cătălin BOTEZ", "Mihai-Cătălin Botez", "botez", "mihai botez", "mihai-cătălin botez"]
 votes_cast: 6

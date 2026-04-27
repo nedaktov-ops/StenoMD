@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Alexandru POPA
 search_aliases: ["ALEXANDRU POPA", "Alexandru POPA", "Alexandru Popa", "POPA", "POPA, ALEXANDRU", "POPA, Alexandru", "alexandru popa", "popa"]
 votes_cast: 6

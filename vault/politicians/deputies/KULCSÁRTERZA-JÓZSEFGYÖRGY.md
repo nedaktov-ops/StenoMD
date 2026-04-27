@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: KULCSÁR-TERZA József-György
 search_aliases: ["GYÖRGY", "GYÖRGY, KULCSÁR", "György", "György, KULCSÁR", "KULCSÁR GYÖRGY", "KULCSÁR György", "KULCSÁR-TERZA JÓZSEF-GYÖRGY", "KULCSÁR-TERZA József-György", "Kulcsár-Terza József-György", "györgy", "kulcsár györgy", "kulcsár-terza józsef-györgy"]
 votes_cast: 6

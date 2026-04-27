@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Lăzăroi Ioan
 search_aliases: ["IOAN", "IOAN, LĂZĂROI", "Ioan", "Ioan, Lăzăroi", "LĂZĂROI IOAN", "Lăzăroi Ioan", "ioan", "lăzăroi ioan"]
 votes_cast: 6

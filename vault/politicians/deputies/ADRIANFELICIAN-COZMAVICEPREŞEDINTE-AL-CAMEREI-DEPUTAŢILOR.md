@@ -24,6 +24,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Adrian-Felician COZMAvicepreşedinte al Camerei Deputaţilor
 search_aliases: ["ADRIAN DEPUTAŢILOR", "ADRIAN-FELICIAN COZMAVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR", "Adrian Deputaţilor", "Adrian-Felician COZMAvicepreşedinte al Camerei Deputaţilor", "Adrian-Felician Cozmavicepreşedinte Al Camerei Deputaţilor", "DEPUTAŢILOR", "DEPUTAŢILOR, ADRIAN", "Deputaţilor", "Deputaţilor, Adrian", "adrian deputaţilor", "adrian-felician cozmavicepreşedinte al camerei deputaţilor", "deputaţilor"]
 votes_cast: 6

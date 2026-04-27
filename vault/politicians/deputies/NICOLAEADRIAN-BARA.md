@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Nicolae-Adrian BARA
 search_aliases: ["BARA", "BARA, NICOLAE", "BARA, Nicolae", "NICOLAE BARA", "NICOLAE-ADRIAN BARA", "Nicolae BARA", "Nicolae-Adrian BARA", "Nicolae-Adrian Bara", "bara", "nicolae bara", "nicolae-adrian bara"]
 votes_cast: 6

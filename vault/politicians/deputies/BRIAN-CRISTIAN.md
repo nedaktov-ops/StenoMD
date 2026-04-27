@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Brian CRISTIAN
 search_aliases: ["BRIAN CRISTIAN", "Brian CRISTIAN", "Brian Cristian", "CRISTIAN", "CRISTIAN, BRIAN", "CRISTIAN, Brian", "brian cristian", "cristian"]
 votes_cast: 6

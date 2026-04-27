@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Ionel-Ovidiu BOGDAN
 search_aliases: ["BOGDAN", "BOGDAN, IONEL", "BOGDAN, Ionel", "IONEL BOGDAN", "IONEL-OVIDIU BOGDAN", "Ionel BOGDAN", "Ionel-Ovidiu BOGDAN", "Ionel-Ovidiu Bogdan", "bogdan", "ionel bogdan", "ionel-ovidiu bogdan"]
 votes_cast: 6

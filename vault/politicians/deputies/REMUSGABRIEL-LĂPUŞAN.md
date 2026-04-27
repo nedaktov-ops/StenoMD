@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Remus-Gabriel LĂPUŞAN
 search_aliases: ["LĂPUŞAN", "LĂPUŞAN, REMUS", "LĂPUŞAN, Remus", "REMUS LĂPUŞAN", "REMUS-GABRIEL LĂPUŞAN", "Remus LĂPUŞAN", "Remus-Gabriel LĂPUŞAN", "Remus-Gabriel Lăpuşan", "lăpuşan", "remus lăpuşan", "remus-gabriel lăpuşan"]
 votes_cast: 6

@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 ai_friendly_name: Eugen BEJINARIU
 search_aliases: ["BEJINARIU", "BEJINARIU, EUGEN", "BEJINARIU, Eugen", "EUGEN BEJINARIU", "Eugen BEJINARIU", "Eugen Bejinariu", "bejinariu", "eugen bejinariu"]
 votes_cast: 6

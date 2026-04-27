@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 ai_friendly_name: Adrian GIURGIU
 search_aliases: ["ADRIAN GIURGIU", "Adrian GIURGIU", "Adrian Giurgiu", "GIURGIU", "GIURGIU, ADRIAN", "GIURGIU, Adrian", "adrian giurgiu", "giurgiu"]
 votes_cast: 6

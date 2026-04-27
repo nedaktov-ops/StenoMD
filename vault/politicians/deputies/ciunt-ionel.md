@@ -18,6 +18,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Ciunt Ionel
 search_aliases: ["CIUNT IONEL", "Ciunt Ionel", "IONEL", "IONEL, CIUNT", "Ionel", "Ionel, Ciunt", "ciunt ionel", "ionel"]
 votes_cast: 6

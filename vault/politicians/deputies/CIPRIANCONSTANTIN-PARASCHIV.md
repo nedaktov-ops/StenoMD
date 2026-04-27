@@ -18,6 +18,7 @@ motions: 9
 ---
 
 
+
 ai_friendly_name: Ciprian-Constantin PARASCHIV
 search_aliases: ["CIPRIAN PARASCHIV", "CIPRIAN-CONSTANTIN PARASCHIV", "Ciprian PARASCHIV", "Ciprian-Constantin PARASCHIV", "Ciprian-Constantin Paraschiv", "PARASCHIV", "PARASCHIV, CIPRIAN", "PARASCHIV, Ciprian", "ciprian paraschiv", "ciprian-constantin paraschiv", "paraschiv"]
 votes_cast: 6

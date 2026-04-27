@@ -18,6 +18,7 @@ motions: 6
 ---
 
 
+
 ai_friendly_name: Florin CARAGAŢĂ
 search_aliases: ["CARAGAŢĂ", "CARAGAŢĂ, FLORIN", "CARAGAŢĂ, Florin", "FLORIN CARAGAŢĂ", "Florin CARAGAŢĂ", "Florin Caragaţă", "caragaţă", "florin caragaţă"]
 votes_cast: 6

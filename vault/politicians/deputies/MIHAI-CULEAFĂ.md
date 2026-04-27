@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Mihai CULEAFĂ
 search_aliases: ["CULEAFĂ", "CULEAFĂ, MIHAI", "CULEAFĂ, Mihai", "MIHAI CULEAFĂ", "Mihai CULEAFĂ", "Mihai Culeafă", "culeafă", "mihai culeafă"]
 votes_cast: 6

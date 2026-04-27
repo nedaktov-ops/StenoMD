@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Dragoş-Fănică CIOBOTARU
 search_aliases: ["CIOBOTARU", "CIOBOTARU, DRAGOŞ", "CIOBOTARU, Dragoş", "DRAGOŞ CIOBOTARU", "DRAGOŞ-FĂNICĂ CIOBOTARU", "Dragoş CIOBOTARU", "Dragoş-Fănică CIOBOTARU", "Dragoş-Fănică Ciobotaru", "ciobotaru", "dragoş ciobotaru", "dragoş-fănică ciobotaru"]
 votes_cast: 6

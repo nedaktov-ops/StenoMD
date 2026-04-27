@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 ai_friendly_name: Răzvan Sorin PRIŞCĂ
 search_aliases: ["PRIŞCĂ", "PRIŞCĂ, RĂZVAN", "PRIŞCĂ, Răzvan", "RĂZVAN PRIŞCĂ", "RĂZVAN SORIN PRIŞCĂ", "Răzvan PRIŞCĂ", "Răzvan Sorin PRIŞCĂ", "Răzvan Sorin Prişcă", "prişcă", "răzvan prişcă", "răzvan sorin prişcă"]
 votes_cast: 6

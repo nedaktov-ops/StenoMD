@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Cezar-Mihail DRĂGOESCU
 search_aliases: ["CEZAR DRĂGOESCU", "CEZAR-MIHAIL DRĂGOESCU", "Cezar DRĂGOESCU", "Cezar-Mihail DRĂGOESCU", "Cezar-Mihail Drăgoescu", "DRĂGOESCU", "DRĂGOESCU, CEZAR", "DRĂGOESCU, Cezar", "cezar drăgoescu", "cezar-mihail drăgoescu", "drăgoescu"]
 votes_cast: 6

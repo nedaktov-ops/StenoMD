@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Dumitru VĂDUVA
 search_aliases: ["DUMITRU VĂDUVA", "Dumitru VĂDUVA", "Dumitru Văduva", "VĂDUVA", "VĂDUVA, DUMITRU", "VĂDUVA, Dumitru", "dumitru văduva", "văduva"]
 votes_cast: 6

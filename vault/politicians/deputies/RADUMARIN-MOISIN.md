@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 ai_friendly_name: Radu-Marin MOISIN
 search_aliases: ["MOISIN", "MOISIN, RADU", "MOISIN, Radu", "RADU MOISIN", "RADU-MARIN MOISIN", "Radu MOISIN", "Radu-Marin MOISIN", "Radu-Marin Moisin", "moisin", "radu moisin", "radu-marin moisin"]
 votes_cast: 6

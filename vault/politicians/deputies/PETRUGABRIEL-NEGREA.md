@@ -18,6 +18,7 @@ motions: 9
 ---
 
 
+
 ai_friendly_name: Petru-Gabriel NEGREA
 search_aliases: ["NEGREA", "NEGREA, PETRU", "NEGREA, Petru", "PETRU NEGREA", "PETRU-GABRIEL NEGREA", "Petru NEGREA", "Petru-Gabriel NEGREA", "Petru-Gabriel Negrea", "negrea", "petru negrea", "petru-gabriel negrea"]
 votes_cast: 6

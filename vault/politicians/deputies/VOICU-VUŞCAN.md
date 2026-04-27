@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Voicu VUŞCAN
 search_aliases: ["VOICU VUŞCAN", "VUŞCAN", "VUŞCAN, VOICU", "VUŞCAN, Voicu", "Voicu VUŞCAN", "Voicu Vuşcan", "voicu vuşcan", "vuşcan"]
 votes_cast: 6

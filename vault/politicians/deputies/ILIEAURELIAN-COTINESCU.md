@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Ilie-Aurelian COTINESCU
 search_aliases: ["COTINESCU", "COTINESCU, ILIE", "COTINESCU, Ilie", "ILIE COTINESCU", "ILIE-AURELIAN COTINESCU", "Ilie COTINESCU", "Ilie-Aurelian COTINESCU", "Ilie-Aurelian Cotinescu", "cotinescu", "ilie cotinescu", "ilie-aurelian cotinescu"]
 votes_cast: 6

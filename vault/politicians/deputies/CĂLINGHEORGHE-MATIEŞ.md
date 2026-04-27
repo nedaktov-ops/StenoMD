@@ -23,6 +23,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Călin-Gheorghe MATIEŞ
 search_aliases: ["CĂLIN MATIEŞ", "CĂLIN-GHEORGHE MATIEŞ", "Călin MATIEŞ", "Călin-Gheorghe MATIEŞ", "Călin-Gheorghe Matieş", "MATIEŞ", "MATIEŞ, CĂLIN", "MATIEŞ, Călin", "călin matieş", "călin-gheorghe matieş", "matieş"]
 votes_cast: 6

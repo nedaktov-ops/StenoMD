@@ -18,6 +18,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Bordian Alexandru
 search_aliases: ["ALEXANDRU", "ALEXANDRU, BORDIAN", "Alexandru", "Alexandru, Bordian", "BORDIAN ALEXANDRU", "Bordian Alexandru", "alexandru", "bordian alexandru"]
 votes_cast: 6

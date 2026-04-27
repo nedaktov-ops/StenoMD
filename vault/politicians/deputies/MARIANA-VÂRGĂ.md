@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Mariana VÂRGĂ
 search_aliases: ["MARIANA VÂRGĂ", "Mariana VÂRGĂ", "Mariana Vârgă", "VÂRGĂ", "VÂRGĂ, MARIANA", "VÂRGĂ, Mariana", "mariana vârgă", "vârgă"]
 votes_cast: 6

@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 ai_friendly_name: Lucian Nicolae BODE
 search_aliases: ["BODE", "BODE, LUCIAN", "BODE, Lucian", "LUCIAN BODE", "LUCIAN NICOLAE BODE", "Lucian BODE", "Lucian Nicolae BODE", "Lucian Nicolae Bode", "bode", "lucian bode", "lucian nicolae bode"]
 votes_cast: 6

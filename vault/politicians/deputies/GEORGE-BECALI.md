@@ -23,6 +23,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: George BECALI
 search_aliases: ["BECALI", "BECALI, GEORGE", "BECALI, George", "GEORGE BECALI", "George BECALI", "George Becali", "becali", "george becali"]
 votes_cast: 6

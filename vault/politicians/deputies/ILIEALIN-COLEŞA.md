@@ -23,6 +23,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Ilie-Alin COLEŞA
 search_aliases: ["COLEŞA", "COLEŞA, ILIE", "COLEŞA, Ilie", "ILIE COLEŞA", "ILIE-ALIN COLEŞA", "Ilie COLEŞA", "Ilie-Alin COLEŞA", "Ilie-Alin Coleşa", "coleşa", "ilie coleşa", "ilie-alin coleşa"]
 votes_cast: 5

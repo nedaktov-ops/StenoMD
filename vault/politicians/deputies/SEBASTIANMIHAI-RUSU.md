@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Sebastian-Mihai RUSU
 search_aliases: ["RUSU", "RUSU, SEBASTIAN", "RUSU, Sebastian", "SEBASTIAN RUSU", "SEBASTIAN-MIHAI RUSU", "Sebastian RUSU", "Sebastian-Mihai RUSU", "Sebastian-Mihai Rusu", "rusu", "sebastian rusu", "sebastian-mihai rusu"]
 votes_cast: 5

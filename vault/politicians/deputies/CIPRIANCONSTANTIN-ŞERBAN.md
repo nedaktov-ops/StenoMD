@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 ai_friendly_name: Ciprian-Constantin ŞERBAN
 search_aliases: ["CIPRIAN ŞERBAN", "CIPRIAN-CONSTANTIN ŞERBAN", "Ciprian ŞERBAN", "Ciprian-Constantin ŞERBAN", "Ciprian-Constantin Şerban", "ciprian şerban", "ciprian-constantin şerban", "ŞERBAN", "ŞERBAN, CIPRIAN", "ŞERBAN, Ciprian", "şerban"]
 votes_cast: 6

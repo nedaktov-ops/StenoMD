@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Dumitru ŢIPLEA
 search_aliases: ["DUMITRU ŢIPLEA", "Dumitru ŢIPLEA", "Dumitru Ţiplea", "dumitru ţiplea", "ŢIPLEA", "ŢIPLEA, DUMITRU", "ŢIPLEA, Dumitru", "ţiplea"]
 votes_cast: 6

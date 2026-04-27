@@ -18,6 +18,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Gherasim Laura
 search_aliases: ["GHERASIM LAURA", "Gherasim Laura", "LAURA", "LAURA, GHERASIM", "Laura", "Laura, Gherasim", "gherasim laura", "laura"]
 votes_cast: 3

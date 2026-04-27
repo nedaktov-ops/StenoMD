@@ -18,6 +18,7 @@ motions: 8
 ---
 
 
+
 ai_friendly_name: Dan-Cătălin ARTIMON
 search_aliases: ["ARTIMON", "ARTIMON, DAN", "ARTIMON, Dan", "DAN ARTIMON", "DAN-CĂTĂLIN ARTIMON", "Dan ARTIMON", "Dan-Cătălin ARTIMON", "Dan-Cătălin Artimon", "artimon", "dan artimon", "dan-cătălin artimon"]
 votes_cast: 3

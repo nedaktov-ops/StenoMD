@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Mihai-Adrian ENACHE
 search_aliases: ["ENACHE", "ENACHE, MIHAI", "ENACHE, Mihai", "MIHAI ENACHE", "MIHAI-ADRIAN ENACHE", "Mihai ENACHE", "Mihai-Adrian ENACHE", "Mihai-Adrian Enache", "enache", "mihai enache", "mihai-adrian enache"]
 votes_cast: 6

@@ -18,6 +18,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Plujar Andrei George
 search_aliases: ["GEORGE", "GEORGE, PLUJAR", "George", "George, Plujar", "PLUJAR ANDREI GEORGE", "PLUJAR GEORGE", "Plujar Andrei George", "Plujar George", "george", "plujar andrei george", "plujar george"]
 votes_cast: 6

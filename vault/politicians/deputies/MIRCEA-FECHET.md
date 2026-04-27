@@ -17,6 +17,7 @@ type: deputy
 ---
 
 
+
 ai_friendly_name: Mircea FECHET
 search_aliases: ["FECHET", "FECHET, MIRCEA", "FECHET, Mircea", "MIRCEA FECHET", "Mircea FECHET", "Mircea Fechet", "fechet", "mircea fechet"]
 votes_cast: 6

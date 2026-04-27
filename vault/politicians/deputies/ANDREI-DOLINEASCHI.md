@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Andrei DOLINEASCHI
 search_aliases: ["ANDREI DOLINEASCHI", "Andrei DOLINEASCHI", "Andrei Dolineaschi", "DOLINEASCHI", "DOLINEASCHI, ANDREI", "DOLINEASCHI, Andrei", "andrei dolineaschi", "dolineaschi"]
 votes_cast: 5

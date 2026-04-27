@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: George-Nicolae SIMION
 search_aliases: ["GEORGE SIMION", "GEORGE-NICOLAE SIMION", "George SIMION", "George-Nicolae SIMION", "George-Nicolae Simion", "SIMION", "SIMION, GEORGE", "SIMION, George", "george simion", "george-nicolae simion", "simion"]
 votes_cast: 6

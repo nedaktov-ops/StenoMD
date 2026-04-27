@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Elena-Laura TOADER
 search_aliases: ["ELENA TOADER", "ELENA-LAURA TOADER", "Elena TOADER", "Elena-Laura TOADER", "Elena-Laura Toader", "TOADER", "TOADER, ELENA", "TOADER, Elena", "elena toader", "elena-laura toader", "toader"]
 votes_cast: 6

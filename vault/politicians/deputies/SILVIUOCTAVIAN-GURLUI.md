@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Silviu-Octavian GURLUI
 search_aliases: ["GURLUI", "GURLUI, SILVIU", "GURLUI, Silviu", "SILVIU GURLUI", "SILVIU-OCTAVIAN GURLUI", "Silviu GURLUI", "Silviu-Octavian GURLUI", "Silviu-Octavian Gurlui", "gurlui", "silviu gurlui", "silviu-octavian gurlui"]
 votes_cast: 6

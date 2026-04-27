@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Lidia VADIM-TUDOR
 search_aliases: ["LIDIA TUDOR", "LIDIA VADIM-TUDOR", "Lidia TUDOR", "Lidia VADIM-TUDOR", "Lidia Vadim-Tudor", "TUDOR", "TUDOR, LIDIA", "TUDOR, Lidia", "lidia tudor", "lidia vadim-tudor", "tudor"]
 votes_cast: 6

@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Vetuţa STĂNESCU
 search_aliases: ["STĂNESCU", "STĂNESCU, VETUŢA", "STĂNESCU, Vetuţa", "VETUŢA STĂNESCU", "Vetuţa STĂNESCU", "Vetuţa Stănescu", "stănescu", "vetuţa stănescu"]
 votes_cast: 6

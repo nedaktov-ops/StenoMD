@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Tiberiu-Nicolae BOŞUTAR
 search_aliases: ["BOŞUTAR", "BOŞUTAR, TIBERIU", "BOŞUTAR, Tiberiu", "TIBERIU BOŞUTAR", "TIBERIU-NICOLAE BOŞUTAR", "Tiberiu BOŞUTAR", "Tiberiu-Nicolae BOŞUTAR", "Tiberiu-Nicolae Boşutar", "boşutar", "tiberiu boşutar", "tiberiu-nicolae boşutar"]
 votes_cast: 6

@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Tanasă Dan
 search_aliases: ["DAN", "DAN, TANASĂ", "Dan", "Dan, Tanasă", "TANASĂ DAN", "Tanasă Dan", "dan", "tanasă dan"]
 votes_cast: 6

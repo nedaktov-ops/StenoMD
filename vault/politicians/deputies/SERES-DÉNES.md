@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: SERES Dénes
 search_aliases: ["DÉNES", "DÉNES, SERES", "Dénes", "Dénes, SERES", "SERES DÉNES", "SERES Dénes", "Seres Dénes", "dénes", "seres dénes"]
 votes_cast: 6

@@ -22,6 +22,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Andreea-Petronela CÎMPIANU
 search_aliases: ["ANDREEA CÎMPIANU", "ANDREEA-PETRONELA CÎMPIANU", "Andreea CÎMPIANU", "Andreea-Petronela CÎMPIANU", "Andreea-Petronela Cîmpianu", "CÎMPIANU", "CÎMPIANU, ANDREEA", "CÎMPIANU, Andreea", "andreea cîmpianu", "andreea-petronela cîmpianu", "cîmpianu"]
 votes_cast: 4

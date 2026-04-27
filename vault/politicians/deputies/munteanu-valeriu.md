@@ -18,6 +18,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Munteanu Valeriu
 search_aliases: ["MUNTEANU VALERIU", "Munteanu Valeriu", "VALERIU", "VALERIU, MUNTEANU", "Valeriu", "Valeriu, Munteanu", "munteanu valeriu", "valeriu"]
 votes_cast: 6

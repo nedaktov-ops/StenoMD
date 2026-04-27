@@ -20,6 +20,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Ştefan-Ovidiu POPA
 search_aliases: ["POPA", "POPA, ŞTEFAN", "POPA, Ştefan", "popa", "ŞTEFAN POPA", "ŞTEFAN-OVIDIU POPA", "Ştefan POPA", "Ştefan-Ovidiu POPA", "Ştefan-Ovidiu Popa", "ştefan popa", "ştefan-ovidiu popa"]
 votes_cast: 6

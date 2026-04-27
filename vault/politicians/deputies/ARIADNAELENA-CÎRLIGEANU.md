@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Ariadna-Elena CÎRLIGEANU
 search_aliases: ["ARIADNA CÎRLIGEANU", "ARIADNA-ELENA CÎRLIGEANU", "Ariadna CÎRLIGEANU", "Ariadna-Elena CÎRLIGEANU", "Ariadna-Elena Cîrligeanu", "CÎRLIGEANU", "CÎRLIGEANU, ARIADNA", "CÎRLIGEANU, Ariadna", "ariadna cîrligeanu", "ariadna-elena cîrligeanu", "cîrligeanu"]
 votes_cast: 6

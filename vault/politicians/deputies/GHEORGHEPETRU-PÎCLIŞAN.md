@@ -21,6 +21,7 @@ committees:
 ---
 
 
+
 ai_friendly_name: Gheorghe-Petru PÎCLIŞAN
 search_aliases: ["GHEORGHE PÎCLIŞAN", "GHEORGHE-PETRU PÎCLIŞAN", "Gheorghe PÎCLIŞAN", "Gheorghe-Petru PÎCLIŞAN", "Gheorghe-Petru Pîclişan", "PÎCLIŞAN", "PÎCLIŞAN, GHEORGHE", "PÎCLIŞAN, Gheorghe", "gheorghe pîclişan", "gheorghe-petru pîclişan", "pîclişan"]
 votes_cast: 6
