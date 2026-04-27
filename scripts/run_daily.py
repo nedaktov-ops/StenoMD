@@ -26,14 +26,15 @@ def run_daily_update(dry_run=False):
     print(f"Started: {datetime.now().isoformat()}")
     print(f"Mode: {'DRY RUN' if dry_run else 'LIVE'}")
     
-    if dry_run:
-        print("\n[DRY RUN] Would execute:")
-        print("  [1] cdep_agent.py --years 2024,2025,2026 --max-id 50 --sync-vault")
-        print("  [2] senat_agent.py --year 2026 --max 30 --sync-vault")
-        print("  [3] merge_vault_to_kg.py")
-        print("  [4] validate_knowledge_graph.py")
-        print("  [5] stenomd_master.py --status")
-        return
+     if dry_run:
+         print("\n[DRY RUN] Would execute:")
+         print("  [1] cdep_agent.py --years 2024,2025,2026 --max-id 50 --sync-vault")
+         print("  [2] senat_agent.py --year 2026 --max 30 --sync-vault")
+         print("  [3] merge_vault_to_kg.py")
+         print("  [4] validate_knowledge_graph.py")
+         print("  [5] stenomd_master.py --status")
+         print("  [6] GraphifyStenoMD/orchestrator.py daily")
+         return
     
     # Step 1: Scrape Chamber (Deputies)
     print("\n[1] Scraping Chamber from cdep.ro...")
@@ -97,6 +98,17 @@ def run_daily_update(dry_run=False):
         text=True
     )
     print(result.stdout)
+    
+    # Step 6: Graphify gap analysis
+    print("\n[6] Graphify gap analysis...")
+    result = subprocess.run(
+        [sys.executable, str(PROJECT_DIR / "GraphifyStenoMD/workflows/orchestrator.py"), "daily"],
+        capture_output=True,
+        text=True
+    )
+    print(result.stdout if result.stdout else "Gap analysis complete")
+    if result.returncode != 0:
+        print(f"Gap analysis warning: {result.stderr[:200] if result.stderr else 'N/A'}")
     
     print("\n" + "=" * 60)
     print("Daily update complete!")
