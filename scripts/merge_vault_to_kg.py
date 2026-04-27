@@ -243,41 +243,41 @@ def merge_vault_to_kg():
                         'source': 'vault',
                         'metadata': metadata
                     })
-             except:
-                 pass
-     
-     # Process laws
-     laws_dir = VAULT_DIR / "laws"
-     if laws_dir.exists():
-         for law_file in laws_dir.glob("*.md"):
-             if law_file.name == "Index.md":
-                 continue
-             try:
-                 content = law_file.read_text(encoding='utf-8')
-                 metadata, _ = parse_frontmatter(content)
-                 law_number = metadata.get('law_number') or metadata.get('number')
-                 if not law_number:
-                     stem = law_file.stem
-                     if '-' in stem:
-                         parts = stem.split('-')
-                         if len(parts) == 2:
-                             law_number = f"{parts[0]}/{parts[1]}"
-                 title = metadata.get('title', '')
-                 chamber = metadata.get('chamber', '')
-                 if law_number:
-                     norm_number = law_number.strip()
-                     if norm_number not in existing_entities['laws']:
-                         kg_data['laws'].append({
-                             'number': norm_number,
-                             'title': title,
-                             'chamber': chamber,
-                             'source': 'vault',
-                             'metadata': metadata
-                         })
-             except:
-                 pass
-     
-     # Save updated KG
+            except:
+                pass
+    
+    # Process laws
+    laws_dir = VAULT_DIR / "laws"
+    if laws_dir.exists():
+        for law_file in laws_dir.glob("*.md"):
+            if law_file.name == "Index.md":
+                continue
+            try:
+                content = law_file.read_text(encoding='utf-8')
+                metadata, _ = parse_frontmatter(content)
+                law_number = metadata.get('law_number') or metadata.get('number')
+                if not law_number:
+                    stem = law_file.stem
+                    if '-' in stem:
+                        parts = stem.split('-')
+                        if len(parts) == 2:
+                            law_number = f"{parts[0]}/{parts[1]}"
+                title = metadata.get('title', '')
+                chamber = metadata.get('chamber', '')
+                if law_number:
+                    norm_number = law_number.strip()
+                    if norm_number not in existing_entities['laws']:
+                        kg_data['laws'].append({
+                            'number': norm_number,
+                            'title': title,
+                            'chamber': chamber,
+                            'source': 'vault',
+                            'metadata': metadata
+                        })
+            except:
+                pass
+    
+    # Save updated KG
     with open(KG_FILE, 'w', encoding='utf-8') as f:
         json.dump(kg_data, f, indent=2, ensure_ascii=False)
     
