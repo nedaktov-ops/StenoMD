@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Alexandru-Mihai GHIGIU
-search_aliases: ['ALEXANDRU-MIHAI GHIGIU', 'alexandru-mihai ghigiu']
+search_aliases: ["ALEXANDRU GHIGIU", "ALEXANDRU-MIHAI GHIGIU", "Alexandru GHIGIU", "Alexandru-Mihai GHIGIU", "Alexandru-Mihai Ghigiu", "GHIGIU", "GHIGIU, ALEXANDRU", "GHIGIU, Alexandru", "alexandru ghigiu", "alexandru-mihai ghigiu", "ghigiu"]
 votes_cast: 6
 activity_score: 67
 # Alexandru-Mihai GHIGIU

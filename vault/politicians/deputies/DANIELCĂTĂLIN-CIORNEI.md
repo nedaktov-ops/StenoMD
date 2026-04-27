@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Daniel-Cătălin CIORNEI
-search_aliases: ['DANIEL-CĂTĂLIN CIORNEI', 'daniel-cătălin ciornei']
+search_aliases: ["CIORNEI", "CIORNEI, DANIEL", "CIORNEI, Daniel", "DANIEL CIORNEI", "DANIEL-CĂTĂLIN CIORNEI", "Daniel CIORNEI", "Daniel-Cătălin CIORNEI", "Daniel-Cătălin Ciornei", "ciornei", "daniel ciornei", "daniel-cătălin ciornei"]
 votes_cast: 5
 activity_score: 59
 # Daniel-Cătălin CIORNEI

@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Ognean CRÎSTICI
-search_aliases: ['OGNEAN CRÎSTICI', 'ognean crîstici']
+search_aliases: ["CRÎSTICI", "CRÎSTICI, OGNEAN", "CRÎSTICI, Ognean", "OGNEAN CRÎSTICI", "Ognean CRÎSTICI", "Ognean Crîstici", "crîstici", "ognean crîstici"]
 votes_cast: 6
 activity_score: 44
 # Ognean CRÎSTICI

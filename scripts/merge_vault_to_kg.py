@@ -199,14 +199,23 @@ def merge_vault_to_kg():
             if mp_file.name == "Index.md":
                 continue
             try:
-                name = mp_file.stem.replace("-", " ")
-                if name not in existing_entities['persons']:
+                content = mp_file.read_text(encoding='utf-8')
+                metadata, _ = parse_frontmatter(content)
+                name = metadata.get('name')
+                if not name:
+                    # Fallback to filename
+                    name = mp_file.stem.replace("-", " ")
+                
+                # Normalize name for deduplication
+                norm_name = name.strip().lower()
+                if norm_name not in existing_entities['persons']:
                     kg_data['persons'].append({
                         'id': f"mp_{len(kg_data['persons']) + 1}",
                         'name': name,
                         'chamber': 'deputies',
                         'appearances': [],
-                        'source': 'vault'
+                        'source': 'vault',
+                        'metadata': metadata
                     })
             except:
                 pass
@@ -218,14 +227,21 @@ def merge_vault_to_kg():
             if mp_file.name == "Index.md":
                 continue
             try:
-                name = mp_file.stem.replace("-", " ")
-                if name not in existing_entities['persons']:
+                content = mp_file.read_text(encoding='utf-8')
+                metadata, _ = parse_frontmatter(content)
+                name = metadata.get('name')
+                if not name:
+                    name = mp_file.stem.replace("-", " ")
+                
+                norm_name = name.strip().lower()
+                if norm_name not in existing_entities['persons']:
                     kg_data['persons'].append({
                         'id': f"sen_{len(kg_data['persons']) + 1}",
                         'name': name,
                         'chamber': 'senate',
                         'appearances': [],
-                        'source': 'vault'
+                        'source': 'vault',
+                        'metadata': metadata
                     })
             except:
                 pass

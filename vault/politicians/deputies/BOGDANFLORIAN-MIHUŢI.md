@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Bogdan-Florian MIHUŢI
-search_aliases: ['BOGDAN-FLORIAN MIHUŢI', 'bogdan-florian mihuţi']
+search_aliases: ["BOGDAN MIHUŢI", "BOGDAN-FLORIAN MIHUŢI", "Bogdan MIHUŢI", "Bogdan-Florian MIHUŢI", "Bogdan-Florian Mihuţi", "MIHUŢI", "MIHUŢI, BOGDAN", "MIHUŢI, Bogdan", "bogdan mihuţi", "bogdan-florian mihuţi", "mihuţi"]
 votes_cast: 6
 activity_score: 9
 # Bogdan-Florian MIHUŢI

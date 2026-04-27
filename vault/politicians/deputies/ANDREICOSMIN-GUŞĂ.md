@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Andrei-Cosmin GUŞĂ
-search_aliases: ['ANDREI-COSMIN GUŞĂ', 'andrei-cosmin guşă']
+search_aliases: ["ANDREI GUŞĂ", "ANDREI-COSMIN GUŞĂ", "Andrei GUŞĂ", "Andrei-Cosmin GUŞĂ", "Andrei-Cosmin Guşă", "GUŞĂ", "GUŞĂ, ANDREI", "GUŞĂ, Andrei", "andrei guşă", "andrei-cosmin guşă", "guşă"]
 votes_cast: 5
 activity_score: 79
 # Andrei-Cosmin GUŞĂ

@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Nicolae-Miroslav PETREŢCHI
-search_aliases: ['NICOLAE-MIROSLAV PETREŢCHI', 'nicolae-miroslav petreţchi']
+search_aliases: ["NICOLAE PETREŢCHI", "NICOLAE-MIROSLAV PETREŢCHI", "Nicolae PETREŢCHI", "Nicolae-Miroslav PETREŢCHI", "Nicolae-Miroslav Petreţchi", "PETREŢCHI", "PETREŢCHI, NICOLAE", "PETREŢCHI, Nicolae", "nicolae petreţchi", "nicolae-miroslav petreţchi", "petreţchi"]
 votes_cast: 5
 activity_score: 37
 # Nicolae-Miroslav PETREŢCHI

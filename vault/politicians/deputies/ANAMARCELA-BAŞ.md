@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Ana-Marcela BAŞ
-search_aliases: ['ANA-MARCELA BAŞ', 'ana-marcela baş']
+search_aliases: ["ANA BAŞ", "ANA-MARCELA BAŞ", "Ana BAŞ", "Ana-Marcela BAŞ", "Ana-Marcela Baş", "BAŞ", "BAŞ, ANA", "BAŞ, Ana", "ana baş", "ana-marcela baş", "baş"]
 votes_cast: 6
 activity_score: 52
 # Ana-Marcela BAŞ

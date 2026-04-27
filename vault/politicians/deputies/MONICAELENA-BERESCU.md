@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Monica-Elena BERESCU
-search_aliases: ['MONICA-ELENA BERESCU', 'monica-elena berescu']
+search_aliases: ["BERESCU", "BERESCU, MONICA", "BERESCU, Monica", "MONICA BERESCU", "MONICA-ELENA BERESCU", "Monica BERESCU", "Monica-Elena BERESCU", "Monica-Elena Berescu", "berescu", "monica berescu", "monica-elena berescu"]
 votes_cast: 6
 activity_score: 29
 # Monica-Elena BERESCU

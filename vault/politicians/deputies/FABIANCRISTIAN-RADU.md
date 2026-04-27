@@ -18,7 +18,7 @@ motions: 9
 ---
 
 ai_friendly_name: Fabian-Cristian RADU
-search_aliases: ['FABIAN-CRISTIAN RADU', 'fabian-cristian radu']
+search_aliases: ["FABIAN RADU", "FABIAN-CRISTIAN RADU", "Fabian RADU", "Fabian-Cristian RADU", "Fabian-Cristian Radu", "RADU", "RADU, FABIAN", "RADU, Fabian", "fabian radu", "fabian-cristian radu", "radu"]
 votes_cast: 6
 activity_score: 31
 # Fabian-Cristian RADU

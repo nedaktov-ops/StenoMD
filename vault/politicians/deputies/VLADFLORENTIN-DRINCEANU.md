@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Vlad-Florentin DRINCEANU
-search_aliases: ['VLAD-FLORENTIN DRINCEANU', 'vlad-florentin drinceanu']
+search_aliases: ["DRINCEANU", "DRINCEANU, VLAD", "DRINCEANU, Vlad", "VLAD DRINCEANU", "VLAD-FLORENTIN DRINCEANU", "Vlad DRINCEANU", "Vlad-Florentin DRINCEANU", "Vlad-Florentin Drinceanu", "drinceanu", "vlad drinceanu", "vlad-florentin drinceanu"]
 votes_cast: 5
 activity_score: 35
 # Vlad-Florentin DRINCEANU

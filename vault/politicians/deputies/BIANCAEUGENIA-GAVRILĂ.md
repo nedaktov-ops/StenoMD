@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Bianca-Eugenia GAVRILĂ
-search_aliases: ['BIANCA-EUGENIA GAVRILĂ', 'bianca-eugenia gavrilă']
+search_aliases: ["BIANCA GAVRILĂ", "BIANCA-EUGENIA GAVRILĂ", "Bianca GAVRILĂ", "Bianca-Eugenia GAVRILĂ", "Bianca-Eugenia Gavrilă", "GAVRILĂ", "GAVRILĂ, BIANCA", "GAVRILĂ, Bianca", "bianca gavrilă", "bianca-eugenia gavrilă", "gavrilă"]
 votes_cast: 6
 activity_score: 32
 # Bianca-Eugenia GAVRILĂ

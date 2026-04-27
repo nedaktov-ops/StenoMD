@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Ana-Smaranda RINDER
-search_aliases: ['ANA-SMARANDA RINDER', 'ana-smaranda rinder']
+search_aliases: ["ANA RINDER", "ANA-SMARANDA RINDER", "Ana RINDER", "Ana-Smaranda RINDER", "Ana-Smaranda Rinder", "RINDER", "RINDER, ANA", "RINDER, Ana", "ana rinder", "ana-smaranda rinder", "rinder"]
 votes_cast: 6
 activity_score: 31
 # Ana-Smaranda RINDER

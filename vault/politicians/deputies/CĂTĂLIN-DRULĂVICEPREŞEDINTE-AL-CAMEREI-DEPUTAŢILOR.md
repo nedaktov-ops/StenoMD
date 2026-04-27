@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor
-search_aliases: ['CĂTĂLIN DRULĂVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR', 'cătălin drulăvicepreşedinte al camerei deputaţilor']
+search_aliases: ["CĂTĂLIN DEPUTAŢILOR", "CĂTĂLIN DRULĂVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR", "Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor", "Cătălin Deputaţilor", "Cătălin Drulăvicepreşedinte Al Camerei Deputaţilor", "DEPUTAŢILOR", "DEPUTAŢILOR, CĂTĂLIN", "Deputaţilor", "Deputaţilor, Cătălin", "cătălin deputaţilor", "cătălin drulăvicepreşedinte al camerei deputaţilor", "deputaţilor"]
 votes_cast: 5
 activity_score: 235
 # Cătălin DRULĂvicepreşedinte al Camerei Deputaţilor

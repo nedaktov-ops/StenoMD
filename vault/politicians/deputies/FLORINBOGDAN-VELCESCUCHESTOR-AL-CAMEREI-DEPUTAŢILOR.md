@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor
-search_aliases: ['FLORIN-BOGDAN VELCESCUCHESTOR AL CAMEREI DEPUTAŢILOR', 'florin-bogdan velcescuchestor al camerei deputaţilor']
+search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, FLORIN", "Deputaţilor", "Deputaţilor, Florin", "FLORIN DEPUTAŢILOR", "FLORIN-BOGDAN VELCESCUCHESTOR AL CAMEREI DEPUTAŢILOR", "Florin Deputaţilor", "Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor", "Florin-Bogdan Velcescuchestor Al Camerei Deputaţilor", "deputaţilor", "florin deputaţilor", "florin-bogdan velcescuchestor al camerei deputaţilor"]
 votes_cast: 5
 activity_score: 41
 # Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor

@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Ramona-Ioana BRUYNSEELS
-search_aliases: ['RAMONA-IOANA BRUYNSEELS', 'ramona-ioana bruynseels']
+search_aliases: ["BRUYNSEELS", "BRUYNSEELS, RAMONA", "BRUYNSEELS, Ramona", "RAMONA BRUYNSEELS", "RAMONA-IOANA BRUYNSEELS", "Ramona BRUYNSEELS", "Ramona-Ioana BRUYNSEELS", "Ramona-Ioana Bruynseels", "bruynseels", "ramona bruynseels", "ramona-ioana bruynseels"]
 votes_cast: 6
 activity_score: 50
 # Ramona-Ioana BRUYNSEELS

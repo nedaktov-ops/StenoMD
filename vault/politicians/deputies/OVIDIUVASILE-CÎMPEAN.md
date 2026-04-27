@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Ovidiu-Vasile CÎMPEAN
-search_aliases: ['OVIDIU-VASILE CÎMPEAN', 'ovidiu-vasile cîmpean']
+search_aliases: ["CÎMPEAN", "CÎMPEAN, OVIDIU", "CÎMPEAN, Ovidiu", "OVIDIU CÎMPEAN", "OVIDIU-VASILE CÎMPEAN", "Ovidiu CÎMPEAN", "Ovidiu-Vasile CÎMPEAN", "Ovidiu-Vasile Cîmpean", "cîmpean", "ovidiu cîmpean", "ovidiu-vasile cîmpean"]
 votes_cast: 5
 activity_score: 48
 # Ovidiu-Vasile CÎMPEAN

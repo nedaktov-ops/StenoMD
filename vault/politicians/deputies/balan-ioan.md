@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Balan Ioan
-search_aliases: ['BALAN IOAN', 'balan ioan']
+search_aliases: ["BALAN IOAN", "Balan Ioan", "IOAN", "IOAN, BALAN", "Ioan", "Ioan, Balan", "balan ioan", "ioan"]
 votes_cast: 6
 activity_score: 0
 # Balan Ioan

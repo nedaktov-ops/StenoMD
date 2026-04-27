@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Adrian SOLOMON
-search_aliases: ['ADRIAN SOLOMON', 'adrian solomon']
+search_aliases: ["ADRIAN SOLOMON", "Adrian SOLOMON", "Adrian Solomon", "SOLOMON", "SOLOMON, ADRIAN", "SOLOMON, Adrian", "adrian solomon", "solomon"]
 votes_cast: 4
 activity_score: 23
 # Adrian SOLOMON

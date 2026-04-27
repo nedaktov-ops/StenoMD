@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Sorin-George OLTENAŞU
-search_aliases: ['SORIN-GEORGE OLTENAŞU', 'sorin-george oltenaşu']
+search_aliases: ["OLTENAŞU", "OLTENAŞU, SORIN", "OLTENAŞU, Sorin", "SORIN OLTENAŞU", "SORIN-GEORGE OLTENAŞU", "Sorin OLTENAŞU", "Sorin-George OLTENAŞU", "Sorin-George Oltenaşu", "oltenaşu", "sorin oltenaşu", "sorin-george oltenaşu"]
 votes_cast: 6
 activity_score: 60
 # Sorin-George OLTENAŞU

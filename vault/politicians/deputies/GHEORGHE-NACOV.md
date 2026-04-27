@@ -23,7 +23,7 @@ is_original: true
 type: deputy
 ---
 ai_friendly_name: Gheorghe NACOV
-search_aliases: ['GHEORGHE NACOV', 'gheorghe nacov']
+search_aliases: ["GHEORGHE NACOV", "Gheorghe NACOV", "Gheorghe Nacov", "NACOV", "NACOV, GHEORGHE", "NACOV, Gheorghe", "gheorghe nacov", "nacov"]
 votes_cast: 4
 activity_score: 13
 # Gheorghe NACOV

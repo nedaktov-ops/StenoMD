@@ -15,7 +15,7 @@ type: deputy
 ---
 
 ai_friendly_name: Pambuccian Varujan
-search_aliases: ['PAMBUCCIAN VARUJAN', 'pambuccian varujan']
+search_aliases: ["PAMBUCCIAN VARUJAN", "Pambuccian Varujan", "VARUJAN", "VARUJAN, PAMBUCCIAN", "Varujan", "Varujan, Pambuccian", "pambuccian varujan", "varujan"]
 votes_cast: 5
 activity_score: 0
 # Pambuccian Varujan

@@ -22,7 +22,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/IonNicolaeMirel.JPG
 ---
 
 ai_friendly_name: Nicolae Mirel Ion
-search_aliases: ['NICOLAE MIREL ION', 'nicolae mirel ion']
+search_aliases: ["ION", "ION, NICOLAE", "Ion", "Ion, Nicolae", "NICOLAE ION", "NICOLAE MIREL ION", "Nicolae Ion", "Nicolae Mirel Ion", "ion", "nicolae ion", "nicolae mirel ion"]
 votes_cast: 5
 activity_score: 31
 

@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Marius-Constantin BUDĂI
-search_aliases: ['MARIUS-CONSTANTIN BUDĂI', 'marius-constantin budăi']
+search_aliases: ["BUDĂI", "BUDĂI, MARIUS", "BUDĂI, Marius", "MARIUS BUDĂI", "MARIUS-CONSTANTIN BUDĂI", "Marius BUDĂI", "Marius-Constantin BUDĂI", "Marius-Constantin Budăi", "budăi", "marius budăi", "marius-constantin budăi"]
 votes_cast: 6
 activity_score: 34
 # Marius-Constantin BUDĂI

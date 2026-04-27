@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Popa Dorin
-search_aliases: ['POPA DORIN', 'popa dorin']
+search_aliases: ["DORIN", "DORIN, POPA", "Dorin", "Dorin, Popa", "POPA DORIN", "Popa Dorin", "dorin", "popa dorin"]
 votes_cast: 4
 activity_score: 0
 # Popa Dorin

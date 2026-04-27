@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Chirilă Virgil Alin
-search_aliases: ['CHIRILĂ VIRGIL ALIN', 'chirilă virgil alin']
+search_aliases: ["ALIN", "ALIN, CHIRILĂ", "Alin", "Alin, Chirilă", "CHIRILĂ ALIN", "CHIRILĂ VIRGIL ALIN", "Chirilă Alin", "Chirilă Virgil Alin", "alin", "chirilă alin", "chirilă virgil alin"]
 votes_cast: 6
 activity_score: 0
 # Chirilă Virgil Alin

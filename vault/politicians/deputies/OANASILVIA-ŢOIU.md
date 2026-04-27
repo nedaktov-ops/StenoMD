@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Oana-Silvia ŢOIU
-search_aliases: ['OANA-SILVIA ŢOIU', 'oana-silvia ţoiu']
+search_aliases: ["OANA ŢOIU", "OANA-SILVIA ŢOIU", "Oana ŢOIU", "Oana-Silvia ŢOIU", "Oana-Silvia Ţoiu", "oana ţoiu", "oana-silvia ţoiu", "ŢOIU", "ŢOIU, OANA", "ŢOIU, Oana", "ţoiu"]
 votes_cast: 2
 activity_score: 24
 # Oana-Silvia ŢOIU

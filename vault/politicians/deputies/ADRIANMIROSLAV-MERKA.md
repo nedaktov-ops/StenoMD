@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Adrian-Miroslav MERKA
-search_aliases: ['ADRIAN-MIROSLAV MERKA', 'adrian-miroslav merka']
+search_aliases: ["ADRIAN MERKA", "ADRIAN-MIROSLAV MERKA", "Adrian MERKA", "Adrian-Miroslav MERKA", "Adrian-Miroslav Merka", "MERKA", "MERKA, ADRIAN", "MERKA, Adrian", "adrian merka", "adrian-miroslav merka", "merka"]
 votes_cast: 5
 activity_score: 46
 # Adrian-Miroslav MERKA

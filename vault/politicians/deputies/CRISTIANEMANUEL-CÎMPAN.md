@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Cristian-Emanuel CÎMPAN
-search_aliases: ['CRISTIAN-EMANUEL CÎMPAN', 'cristian-emanuel cîmpan']
+search_aliases: ["CRISTIAN CÎMPAN", "CRISTIAN-EMANUEL CÎMPAN", "Cristian CÎMPAN", "Cristian-Emanuel CÎMPAN", "Cristian-Emanuel Cîmpan", "CÎMPAN", "CÎMPAN, CRISTIAN", "CÎMPAN, Cristian", "cristian cîmpan", "cristian-emanuel cîmpan", "cîmpan"]
 votes_cast: 6
 activity_score: 50
 # Cristian-Emanuel CÎMPAN

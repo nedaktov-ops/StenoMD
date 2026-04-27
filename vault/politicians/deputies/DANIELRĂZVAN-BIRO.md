@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Daniel-Răzvan BIRO
-search_aliases: ['DANIEL-RĂZVAN BIRO', 'daniel-răzvan biro']
+search_aliases: ["BIRO", "BIRO, DANIEL", "BIRO, Daniel", "DANIEL BIRO", "DANIEL-RĂZVAN BIRO", "Daniel BIRO", "Daniel-Răzvan BIRO", "Daniel-Răzvan Biro", "biro", "daniel biro", "daniel-răzvan biro"]
 votes_cast: 5
 activity_score: 73
 # Daniel-Răzvan BIRO

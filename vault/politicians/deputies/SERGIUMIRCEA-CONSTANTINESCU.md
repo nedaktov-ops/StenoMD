@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Sergiu-Mircea CONSTANTINESCU
-search_aliases: ['SERGIU-MIRCEA CONSTANTINESCU', 'sergiu-mircea constantinescu']
+search_aliases: ["CONSTANTINESCU", "CONSTANTINESCU, SERGIU", "CONSTANTINESCU, Sergiu", "SERGIU CONSTANTINESCU", "SERGIU-MIRCEA CONSTANTINESCU", "Sergiu CONSTANTINESCU", "Sergiu-Mircea CONSTANTINESCU", "Sergiu-Mircea Constantinescu", "constantinescu", "sergiu constantinescu", "sergiu-mircea constantinescu"]
 votes_cast: 6
 activity_score: 66
 # Sergiu-Mircea CONSTANTINESCU

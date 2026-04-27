@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Alin-Bogdan STOICA
-search_aliases: ['ALIN-BOGDAN STOICA', 'alin-bogdan stoica']
+search_aliases: ["ALIN STOICA", "ALIN-BOGDAN STOICA", "Alin STOICA", "Alin-Bogdan STOICA", "Alin-Bogdan Stoica", "STOICA", "STOICA, ALIN", "STOICA, Alin", "alin stoica", "alin-bogdan stoica", "stoica"]
 votes_cast: 6
 activity_score: 63
 # Alin-Bogdan STOICA

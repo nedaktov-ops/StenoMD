@@ -23,7 +23,7 @@ is_original: true
 type: deputy
 ---
 ai_friendly_name: Victor-Viorel PONTA
-search_aliases: ['VICTOR-VIOREL PONTA', 'victor-viorel ponta']
+search_aliases: ["PONTA", "PONTA, VICTOR", "PONTA, Victor", "VICTOR PONTA", "VICTOR-VIOREL PONTA", "Victor PONTA", "Victor-Viorel PONTA", "Victor-Viorel Ponta", "ponta", "victor ponta", "victor-viorel ponta"]
 votes_cast: 13
 activity_score: 2
 # Victor-Viorel PONTA

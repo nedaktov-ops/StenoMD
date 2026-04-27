@@ -17,7 +17,7 @@ type: deputy
 motions: 1
 ---
 ai_friendly_name: Ioana GROSARU
-search_aliases: ['IOANA GROSARU', 'ioana grosaru']
+search_aliases: ["GROSARU", "GROSARU, IOANA", "GROSARU, Ioana", "IOANA GROSARU", "Ioana GROSARU", "Ioana Grosaru", "grosaru", "ioana grosaru"]
 votes_cast: 5
 activity_score: 21
 # Ioana GROSARU

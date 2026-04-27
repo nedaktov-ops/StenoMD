@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Silviu VEXLER
-search_aliases: ['SILVIU VEXLER', 'silviu vexler']
+search_aliases: ["SILVIU VEXLER", "Silviu VEXLER", "Silviu Vexler", "VEXLER", "VEXLER, SILVIU", "VEXLER, Silviu", "silviu vexler", "vexler"]
 votes_cast: 3
 activity_score: 42
 # Silviu VEXLER

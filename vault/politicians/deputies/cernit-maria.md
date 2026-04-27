@@ -15,7 +15,7 @@ type: deputy
 ---
 
 ai_friendly_name: Cernit Maria
-search_aliases: ['CERNIT MARIA', 'cernit maria']
+search_aliases: ["CERNIT MARIA", "Cernit Maria", "MARIA", "MARIA, CERNIT", "Maria", "Maria, Cernit", "cernit maria", "maria"]
 votes_cast: 6
 activity_score: 0
 # Cernit Maria

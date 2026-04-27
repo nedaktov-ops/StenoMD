@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Alexandru-Paul DIMITRIU
-search_aliases: ['ALEXANDRU-PAUL DIMITRIU', 'alexandru-paul dimitriu']
+search_aliases: ["ALEXANDRU DIMITRIU", "ALEXANDRU-PAUL DIMITRIU", "Alexandru DIMITRIU", "Alexandru-Paul DIMITRIU", "Alexandru-Paul Dimitriu", "DIMITRIU", "DIMITRIU, ALEXANDRU", "DIMITRIU, Alexandru", "alexandru dimitriu", "alexandru-paul dimitriu", "dimitriu"]
 votes_cast: 6
 activity_score: 109
 # Alexandru-Paul DIMITRIU

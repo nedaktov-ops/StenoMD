@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Mihai-Bogdan NEGOESCU
-search_aliases: ['MIHAI-BOGDAN NEGOESCU', 'mihai-bogdan negoescu']
+search_aliases: ["MIHAI NEGOESCU", "MIHAI-BOGDAN NEGOESCU", "Mihai NEGOESCU", "Mihai-Bogdan NEGOESCU", "Mihai-Bogdan Negoescu", "NEGOESCU", "NEGOESCU, MIHAI", "NEGOESCU, Mihai", "mihai negoescu", "mihai-bogdan negoescu", "negoescu"]
 votes_cast: 11
 activity_score: 12
 # Mihai-Bogdan NEGOESCU

@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: MOLNAR Andrei
-search_aliases: ['MOLNAR ANDREI', 'molnar andrei']
+search_aliases: ["ANDREI", "ANDREI, MOLNAR", "Andrei", "Andrei, MOLNAR", "MOLNAR ANDREI", "MOLNAR Andrei", "Molnar Andrei", "andrei", "molnar andrei"]
 votes_cast: 6
 activity_score: 39
 # MOLNAR Andrei

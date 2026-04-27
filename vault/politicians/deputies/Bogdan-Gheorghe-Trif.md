@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Bogdan Gheorghe Trif
-search_aliases: ['BOGDAN GHEORGHE TRIF', 'bogdan gheorghe trif']
+search_aliases: ["BOGDAN GHEORGHE TRIF", "BOGDAN TRIF", "Bogdan Gheorghe Trif", "Bogdan Trif", "TRIF", "TRIF, BOGDAN", "Trif", "Trif, Bogdan", "bogdan gheorghe trif", "bogdan trif", "trif"]
 votes_cast: 4
 activity_score: 36
 

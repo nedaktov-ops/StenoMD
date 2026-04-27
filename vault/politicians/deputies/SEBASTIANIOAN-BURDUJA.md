@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Sebastian-Ioan BURDUJA
-search_aliases: ['SEBASTIAN-IOAN BURDUJA', 'sebastian-ioan burduja']
+search_aliases: ["BURDUJA", "BURDUJA, SEBASTIAN", "BURDUJA, Sebastian", "SEBASTIAN BURDUJA", "SEBASTIAN-IOAN BURDUJA", "Sebastian BURDUJA", "Sebastian-Ioan BURDUJA", "Sebastian-Ioan Burduja", "burduja", "sebastian burduja", "sebastian-ioan burduja"]
 votes_cast: 5
 activity_score: 53
 # Sebastian-Ioan BURDUJA

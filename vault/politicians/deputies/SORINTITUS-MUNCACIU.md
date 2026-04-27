@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Sorin-Titus MUNCACIU
-search_aliases: ['SORIN-TITUS MUNCACIU', 'sorin-titus muncaciu']
+search_aliases: ["MUNCACIU", "MUNCACIU, SORIN", "MUNCACIU, Sorin", "SORIN MUNCACIU", "SORIN-TITUS MUNCACIU", "Sorin MUNCACIU", "Sorin-Titus MUNCACIU", "Sorin-Titus Muncaciu", "muncaciu", "sorin muncaciu", "sorin-titus muncaciu"]
 votes_cast: 5
 activity_score: 60
 # Sorin-Titus MUNCACIU

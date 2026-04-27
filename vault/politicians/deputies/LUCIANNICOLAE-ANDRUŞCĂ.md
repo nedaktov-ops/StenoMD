@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Lucian-Nicolae ANDRUŞCĂ
-search_aliases: ['LUCIAN-NICOLAE ANDRUŞCĂ', 'lucian-nicolae andruşcă']
+search_aliases: ["ANDRUŞCĂ", "ANDRUŞCĂ, LUCIAN", "ANDRUŞCĂ, Lucian", "LUCIAN ANDRUŞCĂ", "LUCIAN-NICOLAE ANDRUŞCĂ", "Lucian ANDRUŞCĂ", "Lucian-Nicolae ANDRUŞCĂ", "Lucian-Nicolae Andruşcă", "andruşcă", "lucian andruşcă", "lucian-nicolae andruşcă"]
 votes_cast: 6
 activity_score: 53
 # Lucian-Nicolae ANDRUŞCĂ

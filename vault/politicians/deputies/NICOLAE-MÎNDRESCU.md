@@ -18,7 +18,7 @@ motions: 9
 ---
 
 ai_friendly_name: Nicolae MÎNDRESCU
-search_aliases: ['NICOLAE MÎNDRESCU', 'nicolae mîndrescu']
+search_aliases: ["MÎNDRESCU", "MÎNDRESCU, NICOLAE", "MÎNDRESCU, Nicolae", "NICOLAE MÎNDRESCU", "Nicolae MÎNDRESCU", "Nicolae Mîndrescu", "mîndrescu", "nicolae mîndrescu"]
 votes_cast: 5
 activity_score: 20
 # Nicolae MÎNDRESCU

@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: George-Adrian POPA
-search_aliases: ['GEORGE-ADRIAN POPA', 'george-adrian popa']
+search_aliases: ["GEORGE POPA", "GEORGE-ADRIAN POPA", "George POPA", "George-Adrian POPA", "George-Adrian Popa", "POPA", "POPA, GEORGE", "POPA, George", "george popa", "george-adrian popa", "popa"]
 votes_cast: 6
 activity_score: 36
 # George-Adrian POPA

@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Grofu Daniel
-search_aliases: ['GROFU DANIEL', 'grofu daniel']
+search_aliases: ["DANIEL", "DANIEL, GROFU", "Daniel", "Daniel, Grofu", "GROFU DANIEL", "Grofu Daniel", "daniel", "grofu daniel"]
 votes_cast: 6
 activity_score: 0
 # Grofu Daniel

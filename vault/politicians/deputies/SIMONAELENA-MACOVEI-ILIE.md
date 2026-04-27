@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Simona-Elena MACOVEI ILIE
-search_aliases: ['SIMONA-ELENA MACOVEI ILIE', 'simona-elena macovei ilie']
+search_aliases: ["ILIE", "ILIE, SIMONA", "ILIE, Simona", "SIMONA ILIE", "SIMONA-ELENA MACOVEI ILIE", "Simona ILIE", "Simona-Elena MACOVEI ILIE", "Simona-Elena Macovei Ilie", "ilie", "simona ilie", "simona-elena macovei ilie"]
 votes_cast: 6
 activity_score: 33
 # Simona-Elena MACOVEI ILIE

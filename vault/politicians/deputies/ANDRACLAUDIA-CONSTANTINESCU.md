@@ -18,7 +18,7 @@ motions: 6
 ---
 
 ai_friendly_name: Andra-Claudia CONSTANTINESCU
-search_aliases: ['ANDRA-CLAUDIA CONSTANTINESCU', 'andra-claudia constantinescu']
+search_aliases: ["ANDRA CONSTANTINESCU", "ANDRA-CLAUDIA CONSTANTINESCU", "Andra CONSTANTINESCU", "Andra-Claudia CONSTANTINESCU", "Andra-Claudia Constantinescu", "CONSTANTINESCU", "CONSTANTINESCU, ANDRA", "CONSTANTINESCU, Andra", "andra constantinescu", "andra-claudia constantinescu", "constantinescu"]
 votes_cast: 6
 activity_score: 88
 # Andra-Claudia CONSTANTINESCU

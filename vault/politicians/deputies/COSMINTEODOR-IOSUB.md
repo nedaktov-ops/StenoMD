@@ -18,7 +18,7 @@ motions: 9
 ---
 
 ai_friendly_name: Cosmin-Teodor IOSUB
-search_aliases: ['COSMIN-TEODOR IOSUB', 'cosmin-teodor iosub']
+search_aliases: ["COSMIN IOSUB", "COSMIN-TEODOR IOSUB", "Cosmin IOSUB", "Cosmin-Teodor IOSUB", "Cosmin-Teodor Iosub", "IOSUB", "IOSUB, COSMIN", "IOSUB, Cosmin", "cosmin iosub", "cosmin-teodor iosub", "iosub"]
 votes_cast: 6
 activity_score: 27
 # Cosmin-Teodor IOSUB

@@ -16,7 +16,7 @@ original_elected_party: party_full
 type: deputy
 ---
 ai_friendly_name: Giureci-Slobodan GHERA
-search_aliases: ['GIURECI-SLOBODAN GHERA', 'giureci-slobodan ghera']
+search_aliases: ["GHERA", "GHERA, GIURECI", "GHERA, Giureci", "GIURECI GHERA", "GIURECI-SLOBODAN GHERA", "Giureci GHERA", "Giureci-Slobodan GHERA", "Giureci-Slobodan Ghera", "ghera", "giureci ghera", "giureci-slobodan ghera"]
 votes_cast: 6
 activity_score: 29
 # Giureci-Slobodan GHERA

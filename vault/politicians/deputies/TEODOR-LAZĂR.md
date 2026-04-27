@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Teodor LAZĂR
-search_aliases: ['TEODOR LAZĂR', 'teodor lazăr']
+search_aliases: ["LAZĂR", "LAZĂR, TEODOR", "LAZĂR, Teodor", "TEODOR LAZĂR", "Teodor LAZĂR", "Teodor Lazăr", "lazăr", "teodor lazăr"]
 votes_cast: 6
 activity_score: 33
 # Teodor LAZĂR

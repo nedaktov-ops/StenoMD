@@ -15,7 +15,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/AmetVarol.JPG
 ---
 
 ai_friendly_name: Amet Varol
-search_aliases: ['AMET VAROL', 'amet varol']
+search_aliases: ["AMET VAROL", "Amet Varol", "VAROL", "VAROL, AMET", "Varol", "Varol, Amet", "amet varol", "varol"]
 votes_cast: 4
 activity_score: 27
 

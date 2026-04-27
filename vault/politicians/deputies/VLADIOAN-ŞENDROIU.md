@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Vlad-Ioan ŞENDROIU
-search_aliases: ['VLAD-IOAN ŞENDROIU', 'vlad-ioan şendroiu']
+search_aliases: ["VLAD ŞENDROIU", "VLAD-IOAN ŞENDROIU", "Vlad ŞENDROIU", "Vlad-Ioan ŞENDROIU", "Vlad-Ioan Şendroiu", "vlad şendroiu", "vlad-ioan şendroiu", "ŞENDROIU", "ŞENDROIU, VLAD", "ŞENDROIU, Vlad", "şendroiu"]
 votes_cast: 6
 activity_score: 39
 # Vlad-Ioan ŞENDROIU

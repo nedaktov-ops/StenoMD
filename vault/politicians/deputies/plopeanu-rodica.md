@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Plopeanu Rodica
-search_aliases: ['PLOPEANU RODICA', 'plopeanu rodica']
+search_aliases: ["PLOPEANU RODICA", "Plopeanu Rodica", "RODICA", "RODICA, PLOPEANU", "Rodica", "Rodica, Plopeanu", "plopeanu rodica", "rodica"]
 votes_cast: 6
 activity_score: 0
 # Plopeanu Rodica

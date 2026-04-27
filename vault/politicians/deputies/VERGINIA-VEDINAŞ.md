@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Verginia VEDINAŞ
-search_aliases: ['VERGINIA VEDINAŞ', 'verginia vedinaş']
+search_aliases: ["VEDINAŞ", "VEDINAŞ, VERGINIA", "VEDINAŞ, Verginia", "VERGINIA VEDINAŞ", "Verginia VEDINAŞ", "Verginia Vedinaş", "vedinaş", "verginia vedinaş"]
 votes_cast: 5
 activity_score: 125
 # Verginia VEDINAŞ

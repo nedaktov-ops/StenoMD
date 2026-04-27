@@ -21,7 +21,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Ionel STANCU
-search_aliases: ['IONEL STANCU', 'ionel stancu']
+search_aliases: ["IONEL STANCU", "Ionel STANCU", "Ionel Stancu", "STANCU", "STANCU, IONEL", "STANCU, Ionel", "ionel stancu", "stancu"]
 votes_cast: 6
 activity_score: 26
 # Ionel STANCU

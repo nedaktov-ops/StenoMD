@@ -18,7 +18,7 @@ motions: 9
 ---
 
 ai_friendly_name: Silviu-Florin OANCEA
-search_aliases: ['SILVIU-FLORIN OANCEA', 'silviu-florin oancea']
+search_aliases: ["OANCEA", "OANCEA, SILVIU", "OANCEA, Silviu", "SILVIU OANCEA", "SILVIU-FLORIN OANCEA", "Silviu OANCEA", "Silviu-Florin OANCEA", "Silviu-Florin Oancea", "oancea", "silviu oancea", "silviu-florin oancea"]
 votes_cast: 6
 activity_score: 14
 # Silviu-Florin OANCEA

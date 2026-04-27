@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Graţiela Leocadia GAVRILESCU
-search_aliases: ['GRAŢIELA LEOCADIA GAVRILESCU', 'graţiela leocadia gavrilescu']
+search_aliases: ["GAVRILESCU", "GAVRILESCU, GRAŢIELA", "GAVRILESCU, Graţiela", "GRAŢIELA GAVRILESCU", "GRAŢIELA LEOCADIA GAVRILESCU", "Graţiela GAVRILESCU", "Graţiela Leocadia GAVRILESCU", "Graţiela Leocadia Gavrilescu", "gavrilescu", "graţiela gavrilescu", "graţiela leocadia gavrilescu"]
 votes_cast: 6
 activity_score: 28
 # Graţiela Leocadia GAVRILESCU

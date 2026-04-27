@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Gigel-Sorinel ŞTIRBU
-search_aliases: ['GIGEL-SORINEL ŞTIRBU', 'gigel-sorinel ştirbu']
+search_aliases: ["GIGEL ŞTIRBU", "GIGEL-SORINEL ŞTIRBU", "Gigel ŞTIRBU", "Gigel-Sorinel ŞTIRBU", "Gigel-Sorinel Ştirbu", "gigel ştirbu", "gigel-sorinel ştirbu", "ŞTIRBU", "ŞTIRBU, GIGEL", "ŞTIRBU, Gigel", "ştirbu"]
 votes_cast: 4
 activity_score: 22
 # Gigel-Sorinel ŞTIRBU

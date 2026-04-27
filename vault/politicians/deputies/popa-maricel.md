@@ -9,7 +9,7 @@ constituency: IAŞI
 photo_url: https://www.cdep.ro/parlamentari/l2024/PopaMaricel.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=253&cam=2
 idm: 253
-speeches_count: (See speeches)
+speeches_count: 0
 laws_proposed: 14
 type: deputy
 committees:
@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Popa Maricel
-search_aliases: ['POPA MARICEL', 'popa maricel']
+search_aliases: ["MARICEL", "MARICEL, POPA", "Maricel", "Maricel, Popa", "POPA MARICEL", "Popa Maricel", "maricel", "popa maricel"]
 votes_cast: 6
 activity_score: 0
 # Popa Maricel

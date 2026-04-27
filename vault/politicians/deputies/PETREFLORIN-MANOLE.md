@@ -24,7 +24,7 @@ committees:
 ---
 
 ai_friendly_name: Petre-Florin MANOLE
-search_aliases: ['PETRE-FLORIN MANOLE', 'petre-florin manole']
+search_aliases: ["MANOLE", "MANOLE, PETRE", "MANOLE, Petre", "PETRE MANOLE", "PETRE-FLORIN MANOLE", "Petre MANOLE", "Petre-Florin MANOLE", "Petre-Florin Manole", "manole", "petre manole", "petre-florin manole"]
 votes_cast: 1
 activity_score: 22
 # Petre-Florin MANOLE

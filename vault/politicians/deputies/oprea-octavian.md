@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Oprea Octavian
-search_aliases: ['OPREA OCTAVIAN', 'oprea octavian']
+search_aliases: ["OCTAVIAN", "OCTAVIAN, OPREA", "OPREA OCTAVIAN", "Octavian", "Octavian, Oprea", "Oprea Octavian", "octavian", "oprea octavian"]
 votes_cast: 6
 activity_score: 0
 # Oprea Octavian

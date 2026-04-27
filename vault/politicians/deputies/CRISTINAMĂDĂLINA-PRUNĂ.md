@@ -23,7 +23,7 @@ is_original: true
 type: deputy
 ---
 ai_friendly_name: Cristina-Mădălina PRUNĂ
-search_aliases: ['CRISTINA-MĂDĂLINA PRUNĂ', 'cristina-mădălina prună']
+search_aliases: ["CRISTINA PRUNĂ", "CRISTINA-MĂDĂLINA PRUNĂ", "Cristina PRUNĂ", "Cristina-Mădălina PRUNĂ", "Cristina-Mădălina Prună", "PRUNĂ", "PRUNĂ, CRISTINA", "PRUNĂ, Cristina", "cristina prună", "cristina-mădălina prună", "prună"]
 votes_cast: 6
 activity_score: 47
 # Cristina-Mădălina PRUNĂ

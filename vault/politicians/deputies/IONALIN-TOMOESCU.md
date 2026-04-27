@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Ion-Alin TOMOESCU
-search_aliases: ['ION-ALIN TOMOESCU', 'ion-alin tomoescu']
+search_aliases: ["ION TOMOESCU", "ION-ALIN TOMOESCU", "Ion TOMOESCU", "Ion-Alin TOMOESCU", "Ion-Alin Tomoescu", "TOMOESCU", "TOMOESCU, ION", "TOMOESCU, Ion", "ion tomoescu", "ion-alin tomoescu", "tomoescu"]
 votes_cast: 5
 activity_score: 28
 # Ion-Alin TOMOESCU

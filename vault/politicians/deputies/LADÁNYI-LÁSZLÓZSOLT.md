@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: LADÁNYI László-Zsolt
-search_aliases: ['LADÁNYI LÁSZLÓ-ZSOLT', 'ladányi lászló-zsolt']
+search_aliases: ["LADÁNYI LÁSZLÓ-ZSOLT", "LADÁNYI László-Zsolt", "LADÁNYI ZSOLT", "LADÁNYI Zsolt", "Ladányi László-Zsolt", "ZSOLT", "ZSOLT, LADÁNYI", "Zsolt", "Zsolt, LADÁNYI", "ladányi lászló-zsolt", "ladányi zsolt", "zsolt"]
 votes_cast: 5
 activity_score: 34
 # LADÁNYI László-Zsolt

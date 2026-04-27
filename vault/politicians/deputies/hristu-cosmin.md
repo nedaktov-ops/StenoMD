@@ -15,7 +15,7 @@ type: deputy
 ---
 
 ai_friendly_name: Hristu Cosmin
-search_aliases: ['HRISTU COSMIN', 'hristu cosmin']
+search_aliases: ["COSMIN", "COSMIN, HRISTU", "Cosmin", "Cosmin, Hristu", "HRISTU COSMIN", "Hristu Cosmin", "cosmin", "hristu cosmin"]
 votes_cast: 6
 activity_score: 0
 # Hristu Cosmin

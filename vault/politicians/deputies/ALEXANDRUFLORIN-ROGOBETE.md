@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Alexandru-Florin ROGOBETE
-search_aliases: ['ALEXANDRU-FLORIN ROGOBETE', 'alexandru-florin rogobete']
+search_aliases: ["ALEXANDRU ROGOBETE", "ALEXANDRU-FLORIN ROGOBETE", "Alexandru ROGOBETE", "Alexandru-Florin ROGOBETE", "Alexandru-Florin Rogobete", "ROGOBETE", "ROGOBETE, ALEXANDRU", "ROGOBETE, Alexandru", "alexandru rogobete", "alexandru-florin rogobete", "rogobete"]
 votes_cast: 1
 activity_score: 27
 # Alexandru-Florin ROGOBETE

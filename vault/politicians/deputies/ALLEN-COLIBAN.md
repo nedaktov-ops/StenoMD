@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Allen COLIBAN
-search_aliases: ['ALLEN COLIBAN', 'allen coliban']
+search_aliases: ["ALLEN COLIBAN", "Allen COLIBAN", "Allen Coliban", "COLIBAN", "COLIBAN, ALLEN", "COLIBAN, Allen", "allen coliban", "coliban"]
 votes_cast: 6
 activity_score: 62
 # Allen COLIBAN

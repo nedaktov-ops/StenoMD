@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Ovidiu Victor Gan
-search_aliases: ['OVIDIU VICTOR GAN', 'ovidiu victor gan']
+search_aliases: ["GAN", "GAN, OVIDIU", "Gan", "Gan, Ovidiu", "OVIDIU GAN", "OVIDIU VICTOR GAN", "Ovidiu Gan", "Ovidiu Victor Gan", "gan", "ovidiu gan", "ovidiu victor gan"]
 votes_cast: 6
 activity_score: 57
 

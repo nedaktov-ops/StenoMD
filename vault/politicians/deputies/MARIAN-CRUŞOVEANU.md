@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Marian CRUŞOVEANU
-search_aliases: ['MARIAN CRUŞOVEANU', 'marian cruşoveanu']
+search_aliases: ["CRUŞOVEANU", "CRUŞOVEANU, MARIAN", "CRUŞOVEANU, Marian", "MARIAN CRUŞOVEANU", "Marian CRUŞOVEANU", "Marian Cruşoveanu", "cruşoveanu", "marian cruşoveanu"]
 votes_cast: 6
 activity_score: 57
 # Marian CRUŞOVEANU

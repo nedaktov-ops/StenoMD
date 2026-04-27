@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Gabriel ANDRONACHE
-search_aliases: ['GABRIEL ANDRONACHE', 'gabriel andronache']
+search_aliases: ["ANDRONACHE", "ANDRONACHE, GABRIEL", "ANDRONACHE, Gabriel", "GABRIEL ANDRONACHE", "Gabriel ANDRONACHE", "Gabriel Andronache", "andronache", "gabriel andronache"]
 votes_cast: 6
 activity_score: 173
 # Gabriel ANDRONACHE

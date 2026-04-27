@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Păun Nicolae
-search_aliases: ['PĂUN NICOLAE', 'păun nicolae']
+search_aliases: ["NICOLAE", "NICOLAE, PĂUN", "Nicolae", "Nicolae, Păun", "PĂUN NICOLAE", "Păun Nicolae", "nicolae", "păun nicolae"]
 votes_cast: 5
 activity_score: 0
 # Păun Nicolae

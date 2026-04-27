@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Gabriela PORUMBOIU
-search_aliases: ['GABRIELA PORUMBOIU', 'gabriela porumboiu']
+search_aliases: ["GABRIELA PORUMBOIU", "Gabriela PORUMBOIU", "Gabriela Porumboiu", "PORUMBOIU", "PORUMBOIU, GABRIELA", "PORUMBOIU, Gabriela", "gabriela porumboiu", "porumboiu"]
 votes_cast: 6
 activity_score: 42
 # Gabriela PORUMBOIU

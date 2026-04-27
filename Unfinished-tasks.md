@@ -120,7 +120,24 @@
 - Note: Only 9 motions in current Open Parliament data (2024 legislature)
 - Script: link_motions.ts
 
+### TASK-011: Quick Fix Vault Enrichment
+**ID:** TASK-011  
+**Status:** COMPLETED  
+**Priority:** CRITICAL  
+**Created:** 2026-04-27  
+**Last Checked:** 2026-04-27
+
+**Completion Notes:**
+- Reconciled numeric deputy files (IDs 114-150) with real names, parties, constituencies
+- Added idm to missing files using committees mapping
+- Linked committee assignments to deputies (30+ profiles)
+- Updated search_aliases for 369 files with proper name variations
+- Populated speeches_count and laws_proposed from activity data
+- Merged enriched vault to knowledge graph (734 persons, 88 sessions)
+- Updated merge_vault_to_kg.py to correctly read frontmatter names
+
 ---
+
 
 ## IN PROGRESS
 

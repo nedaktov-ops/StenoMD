@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Dumitriţa GLIGA
-search_aliases: ['DUMITRIŢA GLIGA', 'dumitriţa gliga']
+search_aliases: ["DUMITRIŢA GLIGA", "Dumitriţa GLIGA", "Dumitriţa Gliga", "GLIGA", "GLIGA, DUMITRIŢA", "GLIGA, Dumitriţa", "dumitriţa gliga", "gliga"]
 votes_cast: 6
 activity_score: 65
 # Dumitriţa GLIGA

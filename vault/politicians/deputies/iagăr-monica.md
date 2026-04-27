@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Iagăr Monica
-search_aliases: ['IAGĂR MONICA', 'iagăr monica']
+search_aliases: ["IAGĂR MONICA", "Iagăr Monica", "MONICA", "MONICA, IAGĂR", "Monica", "Monica, Iagăr", "iagăr monica", "monica"]
 votes_cast: 5
 activity_score: 0
 # Iagăr Monica

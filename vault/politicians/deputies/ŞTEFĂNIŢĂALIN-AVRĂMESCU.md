@@ -18,7 +18,7 @@ motions: 9
 ---
 
 ai_friendly_name: Ştefăniţă-Alin AVRĂMESCU
-search_aliases: ['ŞTEFĂNIŢĂ-ALIN AVRĂMESCU', 'ştefăniţă-alin avrămescu']
+search_aliases: ["AVRĂMESCU", "AVRĂMESCU, ŞTEFĂNIŢĂ", "AVRĂMESCU, Ştefăniţă", "avrămescu", "ŞTEFĂNIŢĂ AVRĂMESCU", "ŞTEFĂNIŢĂ-ALIN AVRĂMESCU", "Ştefăniţă AVRĂMESCU", "Ştefăniţă-Alin AVRĂMESCU", "Ştefăniţă-Alin Avrămescu", "ştefăniţă avrămescu", "ştefăniţă-alin avrămescu"]
 votes_cast: 6
 activity_score: 69
 # Ştefăniţă-Alin AVRĂMESCU

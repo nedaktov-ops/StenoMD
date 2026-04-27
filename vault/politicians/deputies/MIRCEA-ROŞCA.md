@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Mircea ROŞCA
-search_aliases: ['MIRCEA ROŞCA', 'mircea roşca']
+search_aliases: ["MIRCEA ROŞCA", "Mircea ROŞCA", "Mircea Roşca", "ROŞCA", "ROŞCA, MIRCEA", "ROŞCA, Mircea", "mircea roşca", "roşca"]
 votes_cast: 5
 activity_score: 7
 # Mircea ROŞCA

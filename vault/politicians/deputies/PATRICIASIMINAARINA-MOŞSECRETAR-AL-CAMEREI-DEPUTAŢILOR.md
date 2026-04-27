@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Patricia-Simina-Arina MOŞsecretar al Camerei Deputaţilor
-search_aliases: ['PATRICIA-SIMINA-ARINA MOŞSECRETAR AL CAMEREI DEPUTAŢILOR', 'patricia-simina-arina moşsecretar al camerei deputaţilor']
+search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, PATRICIA", "Deputaţilor", "Deputaţilor, Patricia", "PATRICIA DEPUTAŢILOR", "PATRICIA-SIMINA-ARINA MOŞSECRETAR AL CAMEREI DEPUTAŢILOR", "Patricia Deputaţilor", "Patricia-Simina-Arina MOŞsecretar al Camerei Deputaţilor", "Patricia-Simina-Arina Moşsecretar Al Camerei Deputaţilor", "deputaţilor", "patricia deputaţilor", "patricia-simina-arina moşsecretar al camerei deputaţilor"]
 votes_cast: 6
 activity_score: 54
 # Patricia-Simina-Arina MOŞsecretar al Camerei Deputaţilor

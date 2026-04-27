@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Irina-Florentina STOENICĂ
-search_aliases: ['IRINA-FLORENTINA STOENICĂ', 'irina-florentina stoenică']
+search_aliases: ["IRINA STOENICĂ", "IRINA-FLORENTINA STOENICĂ", "Irina STOENICĂ", "Irina-Florentina STOENICĂ", "Irina-Florentina Stoenică", "STOENICĂ", "STOENICĂ, IRINA", "STOENICĂ, Irina", "irina stoenică", "irina-florentina stoenică", "stoenică"]
 votes_cast: 6
 activity_score: 22
 # Irina-Florentina STOENICĂ

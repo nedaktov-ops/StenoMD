@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: ZAKARIAS Zoltán
-search_aliases: ['ZAKARIAS ZOLTÁN', 'zakarias zoltán']
+search_aliases: ["ZAKARIAS ZOLTÁN", "ZAKARIAS Zoltán", "ZOLTÁN", "ZOLTÁN, ZAKARIAS", "Zakarias Zoltán", "Zoltán", "Zoltán, ZAKARIAS", "zakarias zoltán", "zoltán"]
 votes_cast: 7
 activity_score: 33
 # ZAKARIAS Zoltán

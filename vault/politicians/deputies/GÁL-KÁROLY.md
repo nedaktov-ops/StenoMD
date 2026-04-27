@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: GÁL Károly
-search_aliases: ['GÁL KÁROLY', 'gál károly']
+search_aliases: ["GÁL KÁROLY", "GÁL Károly", "Gál Károly", "KÁROLY", "KÁROLY, GÁL", "Károly", "Károly, GÁL", "gál károly", "károly"]
 votes_cast: 6
 activity_score: 55
 # GÁL Károly

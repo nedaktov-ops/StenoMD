@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Coarnă Dumitru
-search_aliases: ['COARNĂ DUMITRU', 'coarnă dumitru']
+search_aliases: ["COARNĂ DUMITRU", "Coarnă Dumitru", "DUMITRU", "DUMITRU, COARNĂ", "Dumitru", "Dumitru, Coarnă", "coarnă dumitru", "dumitru"]
 votes_cast: 6
 activity_score: 0
 # Coarnă Dumitru

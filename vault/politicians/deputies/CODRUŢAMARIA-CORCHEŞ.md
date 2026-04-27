@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Codruţa-Maria CORCHEŞ
-search_aliases: ['CODRUŢA-MARIA CORCHEŞ', 'codruţa-maria corcheş']
+search_aliases: ["CODRUŢA CORCHEŞ", "CODRUŢA-MARIA CORCHEŞ", "CORCHEŞ", "CORCHEŞ, CODRUŢA", "CORCHEŞ, Codruţa", "Codruţa CORCHEŞ", "Codruţa-Maria CORCHEŞ", "Codruţa-Maria Corcheş", "codruţa corcheş", "codruţa-maria corcheş", "corcheş"]
 votes_cast: 6
 activity_score: 46
 # Codruţa-Maria CORCHEŞ

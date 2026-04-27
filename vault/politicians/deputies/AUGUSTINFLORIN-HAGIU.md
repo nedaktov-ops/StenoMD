@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Augustin-Florin HAGIU
-search_aliases: ['AUGUSTIN-FLORIN HAGIU', 'augustin-florin hagiu']
+search_aliases: ["AUGUSTIN HAGIU", "AUGUSTIN-FLORIN HAGIU", "Augustin HAGIU", "Augustin-Florin HAGIU", "Augustin-Florin Hagiu", "HAGIU", "HAGIU, AUGUSTIN", "HAGIU, Augustin", "augustin hagiu", "augustin-florin hagiu", "hagiu"]
 votes_cast: 6
 activity_score: 86
 # Augustin-Florin HAGIU

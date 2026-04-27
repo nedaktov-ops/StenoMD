@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Adrian WIENER
-search_aliases: ['ADRIAN WIENER', 'adrian wiener']
+search_aliases: ["ADRIAN WIENER", "Adrian WIENER", "Adrian Wiener", "WIENER", "WIENER, ADRIAN", "WIENER, Adrian", "adrian wiener", "wiener"]
 votes_cast: 5
 activity_score: 34
 # Adrian WIENER

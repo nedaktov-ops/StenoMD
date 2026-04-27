@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Liviu-Ionuţ MOŞTEANU
-search_aliases: ['LIVIU-IONUŢ MOŞTEANU', 'liviu-ionuţ moşteanu']
+search_aliases: ["LIVIU MOŞTEANU", "LIVIU-IONUŢ MOŞTEANU", "Liviu MOŞTEANU", "Liviu-Ionuţ MOŞTEANU", "Liviu-Ionuţ Moşteanu", "MOŞTEANU", "MOŞTEANU, LIVIU", "MOŞTEANU, Liviu", "liviu moşteanu", "liviu-ionuţ moşteanu", "moşteanu"]
 votes_cast: 5
 activity_score: 39
 # Liviu-Ionuţ MOŞTEANU

@@ -24,7 +24,7 @@ committees:
 ---
 
 ai_friendly_name: Doiniţa CIOCAN
-search_aliases: ['DOINIŢA CIOCAN', 'doiniţa ciocan']
+search_aliases: ["CIOCAN", "CIOCAN, DOINIŢA", "CIOCAN, Doiniţa", "DOINIŢA CIOCAN", "Doiniţa CIOCAN", "Doiniţa Ciocan", "ciocan", "doiniţa ciocan"]
 votes_cast: 6
 activity_score: 50
 # Doiniţa CIOCAN

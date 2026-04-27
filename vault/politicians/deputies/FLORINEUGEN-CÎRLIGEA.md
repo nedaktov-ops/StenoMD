@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Florin-Eugen CÎRLIGEA
-search_aliases: ['FLORIN-EUGEN CÎRLIGEA', 'florin-eugen cîrligea']
+search_aliases: ["CÎRLIGEA", "CÎRLIGEA, FLORIN", "CÎRLIGEA, Florin", "FLORIN CÎRLIGEA", "FLORIN-EUGEN CÎRLIGEA", "Florin CÎRLIGEA", "Florin-Eugen CÎRLIGEA", "Florin-Eugen Cîrligea", "cîrligea", "florin cîrligea", "florin-eugen cîrligea"]
 votes_cast: 11
 activity_score: 62
 # Florin-Eugen CÎRLIGEA

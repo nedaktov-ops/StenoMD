@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: CSOMA Botond
-search_aliases: ['CSOMA BOTOND', 'csoma botond']
+search_aliases: ["BOTOND", "BOTOND, CSOMA", "Botond", "Botond, CSOMA", "CSOMA BOTOND", "CSOMA Botond", "Csoma Botond", "botond", "csoma botond"]
 votes_cast: 6
 activity_score: 59
 # CSOMA Botond

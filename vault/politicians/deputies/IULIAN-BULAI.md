@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Iulian BULAI
-search_aliases: ['IULIAN BULAI', 'iulian bulai']
+search_aliases: ["BULAI", "BULAI, IULIAN", "BULAI, Iulian", "IULIAN BULAI", "Iulian BULAI", "Iulian Bulai", "bulai", "iulian bulai"]
 votes_cast: 3
 activity_score: 24
 # Iulian BULAI

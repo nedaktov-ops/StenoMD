@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor
-search_aliases: ['SILVIA-CLAUDIA MIHALCEASECRETAR AL CAMEREI DEPUTAŢILOR', 'silvia-claudia mihalceasecretar al camerei deputaţilor']
+search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, SILVIA", "Deputaţilor", "Deputaţilor, Silvia", "SILVIA DEPUTAŢILOR", "SILVIA-CLAUDIA MIHALCEASECRETAR AL CAMEREI DEPUTAŢILOR", "Silvia Deputaţilor", "Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor", "Silvia-Claudia Mihalceasecretar Al Camerei Deputaţilor", "deputaţilor", "silvia deputaţilor", "silvia-claudia mihalceasecretar al camerei deputaţilor"]
 votes_cast: 6
 activity_score: 66
 # Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor

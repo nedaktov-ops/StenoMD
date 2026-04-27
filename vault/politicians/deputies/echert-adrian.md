@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Echert Adrian
-search_aliases: ['ECHERT ADRIAN', 'echert adrian']
+search_aliases: ["ADRIAN", "ADRIAN, ECHERT", "Adrian", "Adrian, Echert", "ECHERT ADRIAN", "Echert Adrian", "adrian", "echert adrian"]
 votes_cast: 6
 activity_score: 0
 # Echert Adrian

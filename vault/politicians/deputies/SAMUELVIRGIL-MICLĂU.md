@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Samuel-Virgil MICLĂU
-search_aliases: ['SAMUEL-VIRGIL MICLĂU', 'samuel-virgil miclău']
+search_aliases: ["MICLĂU", "MICLĂU, SAMUEL", "MICLĂU, Samuel", "SAMUEL MICLĂU", "SAMUEL-VIRGIL MICLĂU", "Samuel MICLĂU", "Samuel-Virgil MICLĂU", "Samuel-Virgil Miclău", "miclău", "samuel miclău", "samuel-virgil miclău"]
 votes_cast: 6
 activity_score: 24
 # Samuel-Virgil MICLĂU

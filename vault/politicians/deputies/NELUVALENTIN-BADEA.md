@@ -18,7 +18,7 @@ motions: 9
 ---
 
 ai_friendly_name: Nelu-Valentin BADEA
-search_aliases: ['NELU-VALENTIN BADEA', 'nelu-valentin badea']
+search_aliases: ["BADEA", "BADEA, NELU", "BADEA, Nelu", "NELU BADEA", "NELU-VALENTIN BADEA", "Nelu BADEA", "Nelu-Valentin BADEA", "Nelu-Valentin Badea", "badea", "nelu badea", "nelu-valentin badea"]
 votes_cast: 12
 activity_score: 108
 # Nelu-Valentin BADEA

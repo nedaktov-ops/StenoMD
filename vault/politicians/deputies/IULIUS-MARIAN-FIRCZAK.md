@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Iulius Marian FIRCZAK
-search_aliases: ['IULIUS MARIAN FIRCZAK', 'iulius marian firczak']
+search_aliases: ["FIRCZAK", "FIRCZAK, IULIUS", "FIRCZAK, Iulius", "IULIUS FIRCZAK", "IULIUS MARIAN FIRCZAK", "Iulius FIRCZAK", "Iulius Marian FIRCZAK", "Iulius Marian Firczak", "firczak", "iulius firczak", "iulius marian firczak"]
 votes_cast: 4
 activity_score: 14
 # Iulius Marian FIRCZAK

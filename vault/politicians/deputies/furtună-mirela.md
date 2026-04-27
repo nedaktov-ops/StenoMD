@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Furtună Mirela
-search_aliases: ['FURTUNĂ MIRELA', 'furtună mirela']
+search_aliases: ["FURTUNĂ MIRELA", "Furtună Mirela", "MIRELA", "MIRELA, FURTUNĂ", "Mirela", "Mirela, Furtună", "furtună mirela", "mirela"]
 votes_cast: 6
 activity_score: 0
 # Furtună Mirela

@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Claudiu MANTA
-search_aliases: ['CLAUDIU MANTA', 'claudiu manta']
+search_aliases: ["CLAUDIU MANTA", "Claudiu MANTA", "Claudiu Manta", "MANTA", "MANTA, CLAUDIU", "MANTA, Claudiu", "claudiu manta", "manta"]
 votes_cast: 6
 activity_score: 16
 # Claudiu MANTA

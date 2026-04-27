@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Ioan VULPESCU
-search_aliases: ['IOAN VULPESCU', 'ioan vulpescu']
+search_aliases: ["IOAN VULPESCU", "Ioan VULPESCU", "Ioan Vulpescu", "VULPESCU", "VULPESCU, IOAN", "VULPESCU, Ioan", "ioan vulpescu", "vulpescu"]
 votes_cast: 6
 activity_score: 34
 # Ioan VULPESCU

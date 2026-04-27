@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Romeo-Daniel LUNGUchestor al Camerei Deputaţilor
-search_aliases: ['ROMEO-DANIEL LUNGUCHESTOR AL CAMEREI DEPUTAŢILOR', 'romeo-daniel lunguchestor al camerei deputaţilor']
+search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, ROMEO", "Deputaţilor", "Deputaţilor, Romeo", "ROMEO DEPUTAŢILOR", "ROMEO-DANIEL LUNGUCHESTOR AL CAMEREI DEPUTAŢILOR", "Romeo Deputaţilor", "Romeo-Daniel LUNGUchestor al Camerei Deputaţilor", "Romeo-Daniel Lunguchestor Al Camerei Deputaţilor", "deputaţilor", "romeo deputaţilor", "romeo-daniel lunguchestor al camerei deputaţilor"]
 votes_cast: 6
 activity_score: 32
 # Romeo-Daniel LUNGUchestor al Camerei Deputaţilor

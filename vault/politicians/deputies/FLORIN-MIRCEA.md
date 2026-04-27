@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Florin MIRCEA
-search_aliases: ['FLORIN MIRCEA', 'florin mircea']
+search_aliases: ["FLORIN MIRCEA", "Florin MIRCEA", "Florin Mircea", "MIRCEA", "MIRCEA, FLORIN", "MIRCEA, Florin", "florin mircea", "mircea"]
 votes_cast: 9
 activity_score: 39
 # Florin MIRCEA

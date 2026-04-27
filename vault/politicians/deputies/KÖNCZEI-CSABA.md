@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: KÖNCZEI Csaba
-search_aliases: ['KÖNCZEI CSABA', 'könczei csaba']
+search_aliases: ["CSABA", "CSABA, KÖNCZEI", "Csaba", "Csaba, KÖNCZEI", "KÖNCZEI CSABA", "KÖNCZEI Csaba", "Könczei Csaba", "csaba", "könczei csaba"]
 votes_cast: 4
 activity_score: 53
 # KÖNCZEI Csaba

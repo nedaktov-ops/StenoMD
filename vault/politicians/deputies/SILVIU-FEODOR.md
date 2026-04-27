@@ -23,7 +23,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Silviu FEODOR
-search_aliases: ['SILVIU FEODOR', 'silviu feodor']
+search_aliases: ["FEODOR", "FEODOR, SILVIU", "FEODOR, Silviu", "SILVIU FEODOR", "Silviu FEODOR", "Silviu Feodor", "feodor", "silviu feodor"]
 votes_cast: 6
 activity_score: 38
 # Silviu FEODOR

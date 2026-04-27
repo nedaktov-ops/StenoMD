@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Ştefan TANASĂ
-search_aliases: ['ŞTEFAN TANASĂ', 'ştefan tanasă']
+search_aliases: ["TANASĂ", "TANASĂ, ŞTEFAN", "TANASĂ, Ştefan", "tanasă", "ŞTEFAN TANASĂ", "Ştefan TANASĂ", "Ştefan Tanasă", "ştefan tanasă"]
 votes_cast: 6
 activity_score: 68
 # Ştefan TANASĂ

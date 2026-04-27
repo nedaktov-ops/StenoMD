@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Sebastian-Andrei KRONCSIŞ
-search_aliases: ['SEBASTIAN-ANDREI KRONCSIŞ', 'sebastian-andrei kroncsiş']
+search_aliases: ["KRONCSIŞ", "KRONCSIŞ, SEBASTIAN", "KRONCSIŞ, Sebastian", "SEBASTIAN KRONCSIŞ", "SEBASTIAN-ANDREI KRONCSIŞ", "Sebastian KRONCSIŞ", "Sebastian-Andrei KRONCSIŞ", "Sebastian-Andrei Kroncsiş", "kroncsiş", "sebastian kroncsiş", "sebastian-andrei kroncsiş"]
 votes_cast: 6
 activity_score: 28
 # Sebastian-Andrei KRONCSIŞ

@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: George-Nicolae MARUSSI
-search_aliases: ['GEORGE-NICOLAE MARUSSI', 'george-nicolae marussi']
+search_aliases: ["GEORGE MARUSSI", "GEORGE-NICOLAE MARUSSI", "George MARUSSI", "George-Nicolae MARUSSI", "George-Nicolae Marussi", "MARUSSI", "MARUSSI, GEORGE", "MARUSSI, George", "george marussi", "george-nicolae marussi", "marussi"]
 votes_cast: 6
 activity_score: 31
 # George-Nicolae MARUSSI

@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Ionelia-Florenţa PRIESCU
-search_aliases: ['IONELIA-FLORENŢA PRIESCU', 'ionelia-florenţa priescu']
+search_aliases: ["IONELIA PRIESCU", "IONELIA-FLORENŢA PRIESCU", "Ionelia PRIESCU", "Ionelia-Florenţa PRIESCU", "Ionelia-Florenţa Priescu", "PRIESCU", "PRIESCU, IONELIA", "PRIESCU, Ionelia", "ionelia priescu", "ionelia-florenţa priescu", "priescu"]
 votes_cast: 6
 activity_score: 36
 # Ionelia-Florenţa PRIESCU

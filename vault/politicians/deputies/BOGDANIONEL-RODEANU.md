@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Bogdan-Ionel RODEANU
-search_aliases: ['BOGDAN-IONEL RODEANU', 'bogdan-ionel rodeanu']
+search_aliases: ["BOGDAN RODEANU", "BOGDAN-IONEL RODEANU", "Bogdan RODEANU", "Bogdan-Ionel RODEANU", "Bogdan-Ionel Rodeanu", "RODEANU", "RODEANU, BOGDAN", "RODEANU, Bogdan", "bogdan rodeanu", "bogdan-ionel rodeanu", "rodeanu"]
 votes_cast: 5
 activity_score: 55
 # Bogdan-Ionel RODEANU

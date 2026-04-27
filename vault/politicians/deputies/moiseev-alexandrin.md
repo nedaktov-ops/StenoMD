@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Moiseev Alexandrin
-search_aliases: ['MOISEEV ALEXANDRIN', 'moiseev alexandrin']
+search_aliases: ["ALEXANDRIN", "ALEXANDRIN, MOISEEV", "Alexandrin", "Alexandrin, Moiseev", "MOISEEV ALEXANDRIN", "Moiseev Alexandrin", "alexandrin", "moiseev alexandrin"]
 votes_cast: 6
 activity_score: 0
 # Moiseev Alexandrin

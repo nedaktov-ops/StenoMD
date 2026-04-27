@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: NAGY Szabolcs
-search_aliases: ['NAGY SZABOLCS', 'nagy szabolcs']
+search_aliases: ["NAGY SZABOLCS", "NAGY Szabolcs", "Nagy Szabolcs", "SZABOLCS", "SZABOLCS, NAGY", "Szabolcs", "Szabolcs, NAGY", "nagy szabolcs", "szabolcs"]
 votes_cast: 5
 activity_score: 22
 # NAGY Szabolcs

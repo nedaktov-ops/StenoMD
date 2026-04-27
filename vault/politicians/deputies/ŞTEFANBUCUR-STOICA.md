@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Ştefan-Bucur STOICA
-search_aliases: ['ŞTEFAN-BUCUR STOICA', 'ştefan-bucur stoica']
+search_aliases: ["STOICA", "STOICA, ŞTEFAN", "STOICA, Ştefan", "stoica", "ŞTEFAN STOICA", "ŞTEFAN-BUCUR STOICA", "Ştefan STOICA", "Ştefan-Bucur STOICA", "Ştefan-Bucur Stoica", "ştefan stoica", "ştefan-bucur stoica"]
 votes_cast: 6
 activity_score: 7
 # Ştefan-Bucur STOICA

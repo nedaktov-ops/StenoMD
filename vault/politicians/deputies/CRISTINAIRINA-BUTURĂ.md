@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Cristina-Irina BUTURĂ
-search_aliases: ['CRISTINA-IRINA BUTURĂ', 'cristina-irina butură']
+search_aliases: ["BUTURĂ", "BUTURĂ, CRISTINA", "BUTURĂ, Cristina", "CRISTINA BUTURĂ", "CRISTINA-IRINA BUTURĂ", "Cristina BUTURĂ", "Cristina-Irina BUTURĂ", "Cristina-Irina Butură", "butură", "cristina butură", "cristina-irina butură"]
 votes_cast: 6
 activity_score: 70
 # Cristina-Irina BUTURĂ

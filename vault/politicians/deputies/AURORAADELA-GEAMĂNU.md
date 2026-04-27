@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Aurora-Adela GEAMĂNU
-search_aliases: ['AURORA-ADELA GEAMĂNU', 'aurora-adela geamănu']
+search_aliases: ["AURORA GEAMĂNU", "AURORA-ADELA GEAMĂNU", "Aurora GEAMĂNU", "Aurora-Adela GEAMĂNU", "Aurora-Adela Geamănu", "GEAMĂNU", "GEAMĂNU, AURORA", "GEAMĂNU, Aurora", "aurora geamănu", "aurora-adela geamănu", "geamănu"]
 votes_cast: 6
 activity_score: 39
 # Aurora-Adela GEAMĂNU

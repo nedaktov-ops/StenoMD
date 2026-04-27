@@ -24,7 +24,7 @@ committees:
 ---
 
 ai_friendly_name: Raluca TURCAN
-search_aliases: ['RALUCA TURCAN', 'raluca turcan']
+search_aliases: ["RALUCA TURCAN", "Raluca TURCAN", "Raluca Turcan", "TURCAN", "TURCAN, RALUCA", "TURCAN, Raluca", "raluca turcan", "turcan"]
 votes_cast: 6
 activity_score: 326
 # Raluca TURCAN

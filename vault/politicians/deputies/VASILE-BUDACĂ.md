@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Vasile BUDACĂ
-search_aliases: ['VASILE BUDACĂ', 'vasile budacă']
+search_aliases: ["BUDACĂ", "BUDACĂ, VASILE", "BUDACĂ, Vasile", "VASILE BUDACĂ", "Vasile BUDACĂ", "Vasile Budacă", "budacă", "vasile budacă"]
 votes_cast: 6
 activity_score: 46
 # Vasile BUDACĂ

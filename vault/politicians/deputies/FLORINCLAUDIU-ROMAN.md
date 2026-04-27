@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Florin-Claudiu ROMAN
-search_aliases: ['FLORIN-CLAUDIU ROMAN', 'florin-claudiu roman']
+search_aliases: ["FLORIN ROMAN", "FLORIN-CLAUDIU ROMAN", "Florin ROMAN", "Florin-Claudiu ROMAN", "Florin-Claudiu Roman", "ROMAN", "ROMAN, FLORIN", "ROMAN, Florin", "florin roman", "florin-claudiu roman", "roman"]
 votes_cast: 6
 activity_score: 69
 # Florin-Claudiu ROMAN

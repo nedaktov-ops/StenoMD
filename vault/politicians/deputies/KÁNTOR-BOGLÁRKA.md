@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: KÁNTOR Boglárka
-search_aliases: ['KÁNTOR BOGLÁRKA', 'kántor boglárka']
+search_aliases: ["BOGLÁRKA", "BOGLÁRKA, KÁNTOR", "Boglárka", "Boglárka, KÁNTOR", "KÁNTOR BOGLÁRKA", "KÁNTOR Boglárka", "Kántor Boglárka", "boglárka", "kántor boglárka"]
 votes_cast: 4
 activity_score: 44
 # KÁNTOR Boglárka

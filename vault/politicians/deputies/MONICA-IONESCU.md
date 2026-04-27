@@ -21,7 +21,7 @@ committees:
 ---
 
 ai_friendly_name: Monica IONESCU
-search_aliases: ['MONICA IONESCU', 'monica ionescu']
+search_aliases: ["IONESCU", "IONESCU, MONICA", "IONESCU, Monica", "MONICA IONESCU", "Monica IONESCU", "Monica Ionescu", "ionescu", "monica ionescu"]
 votes_cast: 8
 activity_score: 29
 # Monica IONESCU

@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Ciprian-Minodor DOBRE
-search_aliases: ['CIPRIAN-MINODOR DOBRE', 'ciprian-minodor dobre']
+search_aliases: ["CIPRIAN DOBRE", "CIPRIAN-MINODOR DOBRE", "Ciprian DOBRE", "Ciprian-Minodor DOBRE", "Ciprian-Minodor Dobre", "DOBRE", "DOBRE, CIPRIAN", "DOBRE, Ciprian", "ciprian dobre", "ciprian-minodor dobre", "dobre"]
 votes_cast: 4
 activity_score: 40
 # Ciprian-Minodor DOBRE

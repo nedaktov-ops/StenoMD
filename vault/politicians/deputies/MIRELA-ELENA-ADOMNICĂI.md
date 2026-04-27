@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Mirela Elena ADOMNICĂI
-search_aliases: ['MIRELA ELENA ADOMNICĂI', 'mirela elena adomnicăi']
+search_aliases: ["ADOMNICĂI", "ADOMNICĂI, MIRELA", "ADOMNICĂI, Mirela", "MIRELA ADOMNICĂI", "MIRELA ELENA ADOMNICĂI", "Mirela ADOMNICĂI", "Mirela Elena ADOMNICĂI", "Mirela Elena Adomnicăi", "adomnicăi", "mirela adomnicăi", "mirela elena adomnicăi"]
 votes_cast: 6
 activity_score: 53
 # Mirela Elena ADOMNICĂI

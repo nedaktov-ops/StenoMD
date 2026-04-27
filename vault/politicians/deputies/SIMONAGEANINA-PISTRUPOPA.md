@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Simona-Geanina PISTRU-POPA
-search_aliases: ['SIMONA-GEANINA PISTRU-POPA', 'simona-geanina pistru-popa']
+search_aliases: ["POPA", "POPA, SIMONA", "POPA, Simona", "SIMONA POPA", "SIMONA-GEANINA PISTRU-POPA", "Simona POPA", "Simona-Geanina PISTRU-POPA", "Simona-Geanina Pistru-Popa", "popa", "simona popa", "simona-geanina pistru-popa"]
 votes_cast: 5
 activity_score: 32
 # Simona-Geanina PISTRU-POPA

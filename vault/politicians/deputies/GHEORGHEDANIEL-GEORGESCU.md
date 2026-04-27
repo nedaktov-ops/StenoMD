@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Gheorghe-Daniel GEORGESCU
-search_aliases: ['GHEORGHE-DANIEL GEORGESCU', 'gheorghe-daniel georgescu']
+search_aliases: ["GEORGESCU", "GEORGESCU, GHEORGHE", "GEORGESCU, Gheorghe", "GHEORGHE GEORGESCU", "GHEORGHE-DANIEL GEORGESCU", "Gheorghe GEORGESCU", "Gheorghe-Daniel GEORGESCU", "Gheorghe-Daniel Georgescu", "georgescu", "gheorghe georgescu", "gheorghe-daniel georgescu"]
 votes_cast: 6
 activity_score: 47
 # Gheorghe-Daniel GEORGESCU

@@ -15,7 +15,7 @@ type: deputy
 ---
 
 ai_friendly_name: Enachi Raisa
-search_aliases: ['ENACHI RAISA', 'enachi raisa']
+search_aliases: ["ENACHI RAISA", "Enachi Raisa", "RAISA", "RAISA, ENACHI", "Raisa", "Raisa, Enachi", "enachi raisa", "raisa"]
 votes_cast: 6
 activity_score: 0
 # Enachi Raisa

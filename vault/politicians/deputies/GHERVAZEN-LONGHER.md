@@ -21,7 +21,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Ghervazen LONGHER
-search_aliases: ['GHERVAZEN LONGHER', 'ghervazen longher']
+search_aliases: ["GHERVAZEN LONGHER", "Ghervazen LONGHER", "Ghervazen Longher", "LONGHER", "LONGHER, GHERVAZEN", "LONGHER, Ghervazen", "ghervazen longher", "longher"]
 votes_cast: 5
 activity_score: 21
 # Ghervazen LONGHER

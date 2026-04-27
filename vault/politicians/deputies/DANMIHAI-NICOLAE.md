@@ -23,7 +23,7 @@ committees:
 ---
 
 ai_friendly_name: Dan-Mihai NICOLAE
-search_aliases: ['DAN-MIHAI NICOLAE', 'dan-mihai nicolae']
+search_aliases: ["DAN NICOLAE", "DAN-MIHAI NICOLAE", "Dan NICOLAE", "Dan-Mihai NICOLAE", "Dan-Mihai Nicolae", "NICOLAE", "NICOLAE, DAN", "NICOLAE, Dan", "dan nicolae", "dan-mihai nicolae", "nicolae"]
 votes_cast: 6
 activity_score: 20
 # Dan-Mihai NICOLAE

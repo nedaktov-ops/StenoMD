@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Adrian MOCANU
-search_aliases: ['ADRIAN MOCANU', 'adrian mocanu']
+search_aliases: ["ADRIAN MOCANU", "Adrian MOCANU", "Adrian Mocanu", "MOCANU", "MOCANU, ADRIAN", "MOCANU, Adrian", "adrian mocanu", "mocanu"]
 votes_cast: 5
 activity_score: 10
 # Adrian MOCANU

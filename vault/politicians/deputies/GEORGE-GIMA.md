@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: George GIMA
-search_aliases: ['GEORGE GIMA', 'george gima']
+search_aliases: ["GEORGE GIMA", "GIMA", "GIMA, GEORGE", "GIMA, George", "George GIMA", "George Gima", "george gima", "gima"]
 votes_cast: 5
 activity_score: 58
 # George GIMA

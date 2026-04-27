@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Iusein IBRAM
-search_aliases: ['IUSEIN IBRAM', 'iusein ibram']
+search_aliases: ["IBRAM", "IBRAM, IUSEIN", "IBRAM, Iusein", "IUSEIN IBRAM", "Iusein IBRAM", "Iusein Ibram", "ibram", "iusein ibram"]
 votes_cast: 2
 activity_score: 13
 # Iusein IBRAM

@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: KELEMEN Hunor
-search_aliases: ['KELEMEN HUNOR', 'kelemen hunor']
+search_aliases: ["HUNOR", "HUNOR, KELEMEN", "Hunor", "Hunor, KELEMEN", "KELEMEN HUNOR", "KELEMEN Hunor", "Kelemen Hunor", "hunor", "kelemen hunor"]
 votes_cast: 5
 activity_score: 30
 # KELEMEN Hunor

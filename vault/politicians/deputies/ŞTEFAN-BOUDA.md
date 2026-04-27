@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Ştefan BOUDA
-search_aliases: ['ŞTEFAN BOUDA', 'ştefan bouda']
+search_aliases: ["BOUDA", "BOUDA, ŞTEFAN", "BOUDA, Ştefan", "bouda", "ŞTEFAN BOUDA", "Ştefan BOUDA", "Ştefan Bouda", "ştefan bouda"]
 votes_cast: 6
 activity_score: 51
 # Ştefan BOUDA

@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Bogdan-Alin STOICA
-search_aliases: ['BOGDAN-ALIN STOICA', 'bogdan-alin stoica']
+search_aliases: ["BOGDAN STOICA", "BOGDAN-ALIN STOICA", "Bogdan STOICA", "Bogdan-Alin STOICA", "Bogdan-Alin Stoica", "STOICA", "STOICA, BOGDAN", "STOICA, Bogdan", "bogdan stoica", "bogdan-alin stoica", "stoica"]
 votes_cast: 3
 activity_score: 5
 # Bogdan-Alin STOICA

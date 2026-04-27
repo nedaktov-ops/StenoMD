@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Răducanu Sebastian
-search_aliases: ['RĂDUCANU SEBASTIAN', 'răducanu sebastian']
+search_aliases: ["RĂDUCANU SEBASTIAN", "Răducanu Sebastian", "SEBASTIAN", "SEBASTIAN, RĂDUCANU", "Sebastian", "Sebastian, Răducanu", "răducanu sebastian", "sebastian"]
 votes_cast: 6
 activity_score: 0
 # Răducanu Sebastian

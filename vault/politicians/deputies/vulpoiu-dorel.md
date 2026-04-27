@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Vulpoiu Dorel
-search_aliases: ['VULPOIU DOREL', 'vulpoiu dorel']
+search_aliases: ["DOREL", "DOREL, VULPOIU", "Dorel", "Dorel, Vulpoiu", "VULPOIU DOREL", "Vulpoiu Dorel", "dorel", "vulpoiu dorel"]
 votes_cast: 6
 activity_score: 0
 # Vulpoiu Dorel

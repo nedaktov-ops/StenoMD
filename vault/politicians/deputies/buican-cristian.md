@@ -10,7 +10,7 @@ photo_url: https://www.cdep.ro/parlamentari/l2024/BuicanCristian.JPG
 url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=43&cam=2
 idm: 43
 speeches_count: 1
-laws_proposed: (See sponsored laws)
+laws_proposed: 81
 type: deputy
 committees:
   - name: "Economic Policies"
@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Buican Cristian
-search_aliases: ['BUICAN CRISTIAN', 'buican cristian']
+search_aliases: ["BUICAN CRISTIAN", "Buican Cristian", "CRISTIAN", "CRISTIAN, BUICAN", "Cristian", "Cristian, Buican", "buican cristian", "cristian"]
 votes_cast: 6
 activity_score: 0
 # Buican Cristian

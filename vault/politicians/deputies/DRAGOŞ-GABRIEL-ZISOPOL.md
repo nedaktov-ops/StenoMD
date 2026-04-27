@@ -19,7 +19,7 @@ committees:
     role: "member"
 ---
 ai_friendly_name: Dragoş Gabriel ZISOPOL
-search_aliases: ['DRAGOŞ GABRIEL ZISOPOL', 'dragoş gabriel zisopol']
+search_aliases: ["DRAGOŞ GABRIEL ZISOPOL", "DRAGOŞ ZISOPOL", "Dragoş Gabriel ZISOPOL", "Dragoş Gabriel Zisopol", "Dragoş ZISOPOL", "ZISOPOL", "ZISOPOL, DRAGOŞ", "ZISOPOL, Dragoş", "dragoş gabriel zisopol", "dragoş zisopol", "zisopol"]
 votes_cast: 6
 activity_score: 28
 # Dragoş Gabriel ZISOPOL

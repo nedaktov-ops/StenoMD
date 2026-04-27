@@ -17,7 +17,7 @@ type: deputy
 ---
 
 ai_friendly_name: Elisabeta LIPĂ
-search_aliases: ['ELISABETA LIPĂ', 'elisabeta lipă']
+search_aliases: ["ELISABETA LIPĂ", "Elisabeta LIPĂ", "Elisabeta Lipă", "LIPĂ", "LIPĂ, ELISABETA", "LIPĂ, Elisabeta", "elisabeta lipă", "lipă"]
 votes_cast: 6
 activity_score: 22
 # Elisabeta LIPĂ

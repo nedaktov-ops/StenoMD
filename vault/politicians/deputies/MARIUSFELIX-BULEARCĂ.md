@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Marius-Felix BULEARCĂ
-search_aliases: ['MARIUS-FELIX BULEARCĂ', 'marius-felix bulearcă']
+search_aliases: ["BULEARCĂ", "BULEARCĂ, MARIUS", "BULEARCĂ, Marius", "MARIUS BULEARCĂ", "MARIUS-FELIX BULEARCĂ", "Marius BULEARCĂ", "Marius-Felix BULEARCĂ", "Marius-Felix Bulearcă", "bulearcă", "marius bulearcă", "marius-felix bulearcă"]
 votes_cast: 6
 activity_score: 47
 # Marius-Felix BULEARCĂ

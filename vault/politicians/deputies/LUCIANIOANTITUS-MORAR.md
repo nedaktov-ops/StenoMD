@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Lucian-Ioan-Titus MORAR
-search_aliases: ['LUCIAN-IOAN-TITUS MORAR', 'lucian-ioan-titus morar']
+search_aliases: ["LUCIAN MORAR", "LUCIAN-IOAN-TITUS MORAR", "Lucian MORAR", "Lucian-Ioan-Titus MORAR", "Lucian-Ioan-Titus Morar", "MORAR", "MORAR, LUCIAN", "MORAR, Lucian", "lucian morar", "lucian-ioan-titus morar", "morar"]
 votes_cast: 6
 activity_score: 41
 # Lucian-Ioan-Titus MORAR

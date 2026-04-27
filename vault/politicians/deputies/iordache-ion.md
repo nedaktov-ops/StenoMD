@@ -18,7 +18,7 @@ committees:
 ---
 
 ai_friendly_name: Iordache Ion
-search_aliases: ['IORDACHE ION', 'iordache ion']
+search_aliases: ["ION", "ION, IORDACHE", "IORDACHE ION", "Ion", "Ion, Iordache", "Iordache Ion", "ion", "iordache ion"]
 votes_cast: 6
 activity_score: 0
 # Iordache Ion

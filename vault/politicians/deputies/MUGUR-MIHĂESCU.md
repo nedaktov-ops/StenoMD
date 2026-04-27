@@ -18,7 +18,7 @@ motions: 9
 ---
 
 ai_friendly_name: Mugur MIHĂESCU
-search_aliases: ['MUGUR MIHĂESCU', 'mugur mihăescu']
+search_aliases: ["MIHĂESCU", "MIHĂESCU, MUGUR", "MIHĂESCU, Mugur", "MUGUR MIHĂESCU", "Mugur MIHĂESCU", "Mugur Mihăescu", "mihăescu", "mugur mihăescu"]
 votes_cast: 6
 activity_score: 31
 # Mugur MIHĂESCU

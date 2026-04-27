@@ -20,7 +20,7 @@ committees:
 ---
 
 ai_friendly_name: Rodica NASSAR
-search_aliases: ['RODICA NASSAR', 'rodica nassar']
+search_aliases: ["NASSAR", "NASSAR, RODICA", "NASSAR, Rodica", "RODICA NASSAR", "Rodica NASSAR", "Rodica Nassar", "nassar", "rodica nassar"]
 votes_cast: 6
 activity_score: 21
 # Rodica NASSAR

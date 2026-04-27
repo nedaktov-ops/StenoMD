@@ -22,7 +22,7 @@ committees:
 ---
 
 ai_friendly_name: Radu MARINESCU
-search_aliases: ['RADU MARINESCU', 'radu marinescu']
+search_aliases: ["MARINESCU", "MARINESCU, RADU", "MARINESCU, Radu", "RADU MARINESCU", "Radu MARINESCU", "Radu Marinescu", "marinescu", "radu marinescu"]
 votes_cast: 4
 activity_score: 16
 # Radu MARINESCU
