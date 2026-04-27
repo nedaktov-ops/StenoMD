@@ -112,30 +112,31 @@ No new completions to report.
 
 ### Task B.1: Implement Test Suite
 **ID:** TASK-B1
-**Status:** READY_TO_START
+**Status:** IN_PROGRESS
 **Priority:** HIGH
 **Created:** 2026-04-28
+**Completed:** 2026-04-28 (partial)
 
-**Phase Reference:** project-timeline.md Phase B
+**Actions Taken:**
+- Created tests/ structure: agents/, kg/, analyze/, resolve/
+- Added pytest.ini configuration
+- Wrote 25 unit tests covering:
+  - config.py (PROJECT_ROOT, VAULT_DIR, etc.)
+  - merge_vault_to_kg.py (parse_frontmatter)
+  - validators.py (parse_session_date)
+  - entity_resolver.py (name normalization)
+  - positions.py (keyword classification)
+  - cdep_agent patterns (regex)
+  - senat_agent patterns (regex)
+- All tests passing (25/25)
+- Code coverage currently ~20% overall; need to expand to ≥80%
 
-**Instructions:**
-1. Create `tests/` directory with subfolders: agents/, kg/, analyze/, resolve/
-2. Write unit tests for:
-   - Entity extraction (cdep/senate)
-   - Knowledge graph merging
-   - Data validation
-   - Entity resolution
-3. Add pytest configuration (pytest.ini)
-4. Add coverage reporting (pytest-cov)
-5. Integrate into GitHub Actions
+**Next Steps:**
+- Write additional tests to cover more functions in each module
+- Target ≥80% for core scripts (agents, kg, analyze, resolve)
+- Integrate pytest into GitHub Actions CI
+- Add coverage reporting to CI pipeline
 
-**Expected Output:**
-- ≥80% code coverage
-- CI passing on all pushes
-- `make test` or `pytest` command works
-
-**Dependencies:**
-- B1.1: Choose test structure (pytest vs unittest)
 
 ---
 
