@@ -539,7 +539,19 @@ Each item now has:
 | Remove empty placeholders | remove_placeholders.py | Completed | Deleted 6 empty files |
 | Fix law sponsor linking | link_proposal_sponsors.py | Completed | Existing 5 laws have sponsors; others lack proposals |
 
-### Phase 2: System Integration (IN PROGRESS)
+### Phase 1: Data Completeness (COMPLETE - 2026-04-27 20:30)
+| Task | Script | Status | Notes |
+|------|--------|--------|-------|
+| Final reconciliation | final_reconciliation_v2.py | Completed | All numeric files already had idm |
+| Enrich deputies | fix_deputy_data_from_op.py | Completed | 347 files updated; zero-handling fixed |
+| Add committees | add_committees.py | Completed | 306 deputies now have committees |
+| Merge duplicate deputies | merge_duplicate_deputies.py | Completed | No duplicates found |
+| Remove empty placeholders | (manual) | Completed | Deleted 6 empty files |
+| Fix law sponsor linking | link_proposal_sponsors.py | Completed | 5 laws have sponsors; others lack OP data |
+
+**GitHub Push:** `1a3b7303` - Phase 1 commit
+
+### Phase 2: System Integration (IN PROGRESS - STARTED 20:35)
 | Task | Script | Status | Notes |
 |------|--------|--------|-------|
 | Standardize config in GraphifyStenoMD | (manual) | PENDING | Replace hardcoded paths |
