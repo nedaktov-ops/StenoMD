@@ -568,7 +568,7 @@ Each item now has:
 | Update project-logs.md | Done after each phase | Completed |
 | Commit to GitHub | after each phase | Completed |
 
-### Phase 4: Usability Enhancements (IN PROGRESS)
+### Phase 4: Usability Enhancements (COMPLETE 21:30)
 
 | Task | Script/Component | Status | Notes |
 |------|------------------|--------|-------|
@@ -576,8 +576,129 @@ Each item now has:
 | Calendar integration | Index.md | Completed | Added calendar block showing sessions |
 | Index page enhancements | Index.md, _brain/QuickAdd-Setup.md | Completed | Added Tools section with Graph link and QuickAdd guide |
 
+### Phase 5: Advanced Features (IN PROGRESS)
+
+| Task | Script/Component | Status | Notes |
+|------|------------------|--------|-------|
+| Excalidraw diagrams | vault/_parliament/diagrams/ | Ready | Create parliament structure, committee networks, party alignment diagrams |
+| Kanban board | projects/legislative-tracker/ | Ready | Setup Tasks plugin board: Proposed → Committee → Debated → Passed → Rejected |
+| Notebook Navigator | vault/_notebooks/ | Ready | Configure per-legislature or per-year notebooks |
+| Dataview examples gallery | docs/DATAVIEW_EXAMPLES.md | Ready | 20+ useful queries for activity, parties, sessions, laws |
+
 ---
 
-*LastUpdated: 2026-04-27 21:30*
-*Phase 4 in progress: QuickAdd, Calendar, Index enhancements.*
+## COMPREHENSIVE IMPROVEMENT STRATEGY (2026-04-28)
+
+### Executive Summary
+
+**Current State**: Health Score 96.2/100 (A), 788 politicians, 152 sessions, 124 laws, functional KG (2,241 nodes, 1,518 edges).
+**Goal**: Achieve 100/100, fill all critical data gaps, complete infrastructure, research-grade quality.
+**Timeline**: 6 weeks (2 data, 2 infrastructure, 2 polish).
+
+### Phase A: Data Completeness (Weeks 1-2)
+
+**Target**: Reduce missing data from 852 → <50, Health ≥98/100
+
+| Priority | Task | Gap | Solution | Status |
+|----------|------|-----|----------|--------|
+| CRITICAL | Committees for all deputies | 463 missing | Extend add_committees.py to remaining 157 | Ready |
+| CRITICAL | speeches_count for all | 179 missing | Re-run fix_deputy_data_from_op.py or compute from vault | Ready |
+| HIGH | deputy_count on sessions | 88 missing | Extend merge_vault_to_kg.py to count deputies per session | Ready |
+| MEDIUM | party field missing | 4 missing | Add fallback lookup in final_reconciliation_v2.py | Ready |
+| LOW | Law sponsors | 118/124 missing | Defer (Open Parliament data limited) | Deferred |
+
+### Phase B: Infrastructure (Weeks 3-4)
+
+**Target**: Tests ≥80%, performance 8+ sess/min, full automation
+
+| Task | Action | Target |
+|------|--------|--------|
+| Test suite | pytest for agents/kg/analyze/resolve | 80%+ coverage |
+| Performance | asyncio + aiohttp concurrent requests | 5-10 sessions/min |
+| Config audit | Verify 0 hardcoded paths | All scripts use config.py |
+| API security | Parameterized SQL, CORS restriction | No vulnerabilities |
+| GitHub Actions | Ensure daily pipeline runs 6am UTC | 100% success rate |
+
+### Phase C: Documentation (Weeks 5-6)
+
+**Target**: Complete docs suite
+
+| Deliverable | File |
+|-------------|------|
+| API Reference | docs/API_REFERENCE.md |
+| Developer Guide | docs/DEVELOPMENT.md |
+| Obsidian Setup | docs/OBSIDIAN_SETUP.md |
+| Migration Guide | docs/MIGRATION.md |
+| Template Gallery | docs/TEMPLATES.md |
+| Dataview Examples | docs/DATAVIEW_EXAMPLES.md |
+
+### Phase D: Advanced Features (Post-C)
+
+Optional enhancements:
+- Excalidraw diagrams for parliament structure
+- Kanban board for legislative tracking
+- Notebook Navigator setup
+
+### Blocked/Deferred Items
+
+- **Voting Records (TASK-003)**: cdep.ro returns 404; wait for Open Parliament RO
+- **Historical Pre-2015**: cdep.ro 404; research archives (ASK PERMISSION)
+- **Senate Historical**: Only 2024-2028 accessible; accept limitation
+- **Law Sponsors**: Low ROI; manual entry only for high-profile laws
+
+### Success Metrics
+
+| Metric | Current | Target |
+|--------|---------|--------|
+| Health Score | 96.2/100 | ≥99/100 |
+| Deputy committees | 306/788 | 788/788 |
+| speeches_count coverage | ~609/788 | 788/788 |
+| Session deputy_count | ~64/152 | 152/152 |
+| Missing party field | 4 | 0 |
+| Session scrape speed | ~2/min | 8+/min |
+| Test coverage | 0% | ≥80% |
+
+---
+
+## DAILY WORKFLOW (CURRENT)
+
+```bash
+# Full update
+python3 scripts/run_daily.py
+
+# Dry run (preview)
+python3 scripts/run_daily.py --dry-run
+
+# Manual triggers
+python3 scripts/agents/cdep_agent.py --years 2024,2025,2026 --max-id 50 --sync-vault
+python3 scripts/agents/senat_agent.py --year 2026 --max 30 --sync-vault
+python3 scripts/merge_vault_to_kg.py
+python3 scripts/validate_knowledge_graph.py
+```
+
+---
+
+## CURRENT DATA STATUS
+
+| Entity | Count | Target |
+|--------|-------|--------|
+| Deputies | 788? | 332 (2024 legislature) |
+| Senators | 138? | 137 (2024 legislature) |
+| Sessions | 152 | 200+ |
+| Laws | 124 | 200+ |
+| Graph Nodes | 2,241 | - |
+| Graph Edges | 1,518 | - |
+
+### Missing Data Points: 852
+
+- sponsors: 118
+- speeches_count: 179
+- committees: 463
+- party: 4
+- deputy_count: 88
+
+---
+
+*LastUpdated: 2026-04-28 00:45*
+*Next Action: Phase A - Data Completeness (fill committees, speeches_count, deputy_count)*
 
