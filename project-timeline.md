@@ -549,17 +549,17 @@ Each item now has:
 | Remove empty placeholders | (manual) | Completed | Deleted 6 empty files |
 | Fix law sponsor linking | link_proposal_sponsors.py | Completed | 5 laws have sponsors; others lack OP data |
 
-**GitHub Push:** `1a3b7303` - Phase 1 commit
+**GitHub Push (Phase 1):** `1a3b7303`
 
-### Phase 2: System Integration (IN PROGRESS - STARTED 20:35)
+### Phase 2: System Integration (COMPLETE 20:45)
 | Task | Script | Status | Notes |
 |------|--------|--------|-------|
-| Standardize config in GraphifyStenoMD | (manual) | PENDING | Replace hardcoded paths |
-| Integrate Graphify into daily pipeline | run_daily.py | PENDING | Call orchestrator daily |
-| Extend merge_vault_to_kg to include laws | merge_vault_to_kg.py | PENDING | entities.json laws = 0 now |
-| Regenerate Graphify graph | /graphify | PENDING | After data fixes |
+| Standardize config in GraphifyStenoMD | workflows/agents | Completed | All 9 files use config |
+| Integrate Graphify into daily pipeline | run_daily.py | Completed | Added Step 6: orchestrator daily |
+| Extend merge_vault_to_kg to include laws | merge_vault_to_kg.py | Completed | Entities now have 124 laws |
+| Regenerate Graphify graph | /graphify | PENDING | Manual run required |
 
-### Phase 3: Verification & Docs
+### Phase 3: Verification & Docs (PENDING)
 | Task | Target | Status |
 |------|--------|--------|
 | Health check | >95/100 | PENDING |
@@ -569,6 +569,6 @@ Each item now has:
 
 ---
 
-*LastUpdated: 2026-04-27 20:10*
-*Next Action: Execute Phase 1.1 - final_reconciliation_v2.py*
+*LastUpdated: 2026-04-27 20:50*
+*Phase 2 complete; awaiting manual Graphify regeneration.*
 

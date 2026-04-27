@@ -1,7 +1,7 @@
 # StenoMD Project Logs
 ## Primary Directive: This file must be read before any task begins and updated after each task completion.
 
-## LATEST UPDATE: 2026-04-27 20:10
+## LATEST UPDATE: 2026-04-27 20:50
 
 ### Phase: Comprehensive Improvements (IN PROGRESS)
 
@@ -27,12 +27,12 @@
 
 **Planner Agent Decision:** Choose Mem Palace (`knowledge_graph/entities.json`) as canonical knowledge representation because it's used by ParliamentQA and REST API; Graphify remains external analysis layer.
 
-**GitHub Push:** Commit `1a3b730` pushed successfully.
+**GitHub Push:** Latest commit `34173d26` (Phase 2.3) pushed.
 
 ---
 
-*LastUpdated: 2026-04-27 20:30*
-*Next Action: Begin Phase 2 - System Integration*
+*LastUpdated: 2026-04-27 20:50*
+*Next Action: Regenerate Graphify graph (`/graphify`) and validate*
 
 | Task | Outcome |
 |------|---------|
@@ -46,6 +46,17 @@
 **Phase 1 Summary:** Major improvements to deputy data completeness. Remaining gaps (12% of deputies) lack Open Parliament coverage (historical) and will retain placeholders.
 
 ---
+
+### Phase 2: System Integration
+
+| Task | Outcome |
+|------|---------|
+| Standardize config | Updated all GraphifyStenoMD workflows and agents to use centralized config (9 files). |
+| Integrate Graphify into daily pipeline | Modified `scripts/run_daily.py` to add orchestrator step; daily gap analysis automated. |
+| Extend merge_vault_to_kg to include laws | Added law parsing from `vault/laws/*.md`; `entities.json` now has 124 laws. |
+| Regenerate Graphify graph | Pending manual execution of `/graphify`. |
+
+**Phase 2 Summary:** System integration complete; MemPalace now includes laws; Graphify gap analysis automated daily. Next: manual Graphify regeneration to reflect new data.
 
 **Phase 2 Deliverables:**
 - Graphify graph: `Graphify/graphify-out/graph.json` (clustered)
