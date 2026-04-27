@@ -10,15 +10,30 @@ Usage:
 
 import json
 import sys
-from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
+from pathlib import Path
 
-# Paths
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+# Add project scripts to path centralized config
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    VAULT_DIR = config.VAULT_DIR
+    KG_DIR = config.KG_DIR
+    ENTITIES_FILE = config.ENTITIES_FILE
+    SCRIPTS_DIR = config.PROJECT_ROOT / "scripts"
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    VAULT_DIR = PROJECT_DIR / "vault"
+    KG_DIR = PROJECT_DIR / "knowledge_graph"
+    ENTITIES_FILE = KG_DIR / "entities.json"
+    SCRIPTS_DIR = PROJECT_DIR / "scripts"
+
 GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
-SCRIPTS_DIR = PROJECT_DIR / "scripts"
-OUTPUT_DIR = PROJECT_DIR / "GraphifyStenoMD" / "output"
+OUTPUT_DIR = PROJECT_DIR / "GraphifyStenoMD" "output"
 
 class GapAwareScraper:
     def __init__(self):

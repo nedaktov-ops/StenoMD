@@ -9,10 +9,26 @@ Usage:
 """
 
 import json
-from pathlib import Path
+import sys
 from datetime import datetime
+from pathlib import Path
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+# Add project scripts to path for centralized config
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    VAULT_DIR = config.VAULT_DIR
+    KG_DIR = config.KG_DIR
+    ENTITIES_FILE = config.ENTITIES_FILE
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    VAULT_DIR = PROJECT_DIR / "vault"
+    KG_DIR = PROJECT_DIR / "knowledge_graph"
+    ENTITIES_FILE = KG_DIR / "entities.json"
+
 GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
 
 def load_graph():
