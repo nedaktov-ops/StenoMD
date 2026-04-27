@@ -1,0 +1,132 @@
+---
+name: Sandu Viorica
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: PSD
+party_full: Partidul Social Democrat
+constituency: GALAŢI
+photo_url: https://www.cdep.ro/parlamentari/l2024/SanduViorica.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=275&cam=2
+idm: 275
+speeches_count: 9
+laws_proposed: 23
+type: deputy
+committees:
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Budget, Finance"
+    role: "member"
+  - name: "Agriculture"
+    role: "member"
+---
+
+ai_friendly_name: Sandu Viorica
+search_aliases: ['SANDU VIORICA', 'sandu viorica']
+votes_cast: 6
+activity_score: 0
+# Sandu Viorica
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=275&cam=2)
+
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/(See records)|Party: (See records)]]
+- [[politicians/constituencies/GALAŢI|Constituency: GALAŢI]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=275&cam=2
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
+
+## Processing
+
+- **Activity Score:** 0
+- **Party Alignment:** (See records)
+
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/21761]]
+- [[proposals/22033]]
+- [[proposals/21641]]
+- [[proposals/22277]]
+- [[proposals/21760]]
+- [[proposals/22402]]
+- [[proposals/21598]]
+- [[proposals/21762]]
+- [[proposals/22410]]
+- [[proposals/22058]]
+- [[proposals/22457]]
+- [[proposals/21645]]
+- [[proposals/22002]]
+- [[proposals/21599]]
+- [[proposals/21536]]
+- [[proposals/21606]]
+- [[proposals/22133]]
+- [[proposals/22139]]
+- [[proposals/22245]]
+- [[proposals/21341]]
+- ... and more
+
+### Co-Sponsors
+
+- (No co-sponsors data available)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (No voting records available)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/deputies"
+WHERE idm = "275"
+```
+
+### Alerts
+
+
+- No speeches recorded
+- No proposals sponsored
+
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

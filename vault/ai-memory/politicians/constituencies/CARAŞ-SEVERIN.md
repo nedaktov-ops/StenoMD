@@ -1,0 +1,13 @@
+---
+title: CARAŞ-SEVERIN
+type: constituency
+---
+
+# CARAŞ-SEVERIN
+
+## Deputies (4)
+
+- [[politicians/deputies/IONMARCEL-VELA|IONMARCEL-VELA]]
+- [[politicians/deputies/MARIUSADRIAN-ISAC|MARIUSADRIAN-ISAC]]
+- [[politicians/deputies/SAMUELVIRGIL-MICLĂU|SAMUELVIRGIL-MICLĂU]]
+- [[politicians/deputies/SILVIACLAUDIA-MIHALCEASECRETAR-AL-CAMEREI-DEPUTAŢILOR|SILVIACLAUDIA-MIHALCEASECRETAR-AL-CAMEREI-DEPUTAŢILOR]]

@@ -1,0 +1,126 @@
+---
+name: Radu-Dinel MIRUŢĂ
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: USR
+party_full: Uniunea Salvaţi România
+constituency: GORJ
+photo_url: https://www.cdep.ro/parlamentari/l2024/MirutaRaduDinel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2
+idm: 198
+speeches_count: 14
+laws_proposed: 14
+stable_id: pol_ad3b17541ad0
+original_elected_party: USR
+type: deputy
+committees:
+- name: Industries and Services
+  role: member
+---
+
+ai_friendly_name: Radu-Dinel MIRUŢĂ
+search_aliases: ['RADU-DINEL MIRUŢĂ', 'radu-dinel miruţă']
+votes_cast: 3
+activity_score: 28
+# Radu-Dinel MIRUŢĂ
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2)
+
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/USR|Party: USR]]
+- [[politicians/constituencies/GORJ|Constituency: GORJ]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=198&cam=2
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
+
+## Processing
+
+- **Activity Score:** 28
+- **Party Alignment:** USR
+
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22458]]
+- [[proposals/21855]]
+- [[proposals/21579]]
+- [[proposals/21618]]
+- [[proposals/22383]]
+- [[proposals/21502]]
+- [[proposals/22385]]
+- [[proposals/22367]]
+- [[proposals/22013]]
+- [[proposals/21743]]
+- [[proposals/22421]]
+- [[proposals/22387]]
+- [[proposals/22012]]
+- [[proposals/21342]]
+- [[proposals/22458]]
+- [[proposals/21855]]
+- [[proposals/21579]]
+- [[proposals/21618]]
+- [[proposals/22383]]
+- [[proposals/21502]]
+- ... and more
+
+### Co-Sponsors
+
+- (No co-sponsors data available)
+
+### Speeches
+
+- Total: 14
+
+### Voting Record
+
+- (No voting records available)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/deputies"
+WHERE idm = "198"
+```
+
+### Alerts
+
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions

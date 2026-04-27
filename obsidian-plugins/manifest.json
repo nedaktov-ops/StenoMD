@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "created": "2026-04-27",
+  "source": "/home/adrian/Desktop/NEDAILAB/StenoMD/vault/.obsidian/plugins",
+  "destination": "/home/adrian/Desktop/NEDAILAB/StenoMD/obsidian-plugins/functional",
+  "plugins": [
+    {
+      "name": "copilot",
+      "mapped_name": "copilot",
+      "size_mb": 5.3,
+      "status": "copied"
+    },
+    {
+      "name": "dataview",
+      "mapped_name": "dataview",
+      "size_mb": 1.2,
+      "status": "copied"
+    },
+    {
+      "name": "quickadd",
+      "mapped_name": "quickadd",
+      "size_mb": 4.1,
+      "status": "copied"
+    },
+    {
+      "name": "templater-obsidian",
+      "mapped_name": "templater",
+      "size_mb": 0.3,
+      "status": "copied"
+    },
+    {
+      "name": "omnisearch",
+      "mapped_name": "omnisearch",
+      "size_mb": 0.6,
+      "status": "copied"
+    },
+    {
+      "name": "obsidian-git",
+      "mapped_name": "obsidian-git",
+      "size_mb": 0.7,
+      "status": "copied"
+    },
+    {
+      "name": "metadata-menu",
+      "mapped_name": "metadata-menu",
+      "size_mb": 1.0,
+      "status": "copied"
+    }
+  ]
+}

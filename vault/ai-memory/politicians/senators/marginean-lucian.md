@@ -1,0 +1,110 @@
+---
+tags:
+- politician
+stable_id: pol_791473c917af
+original_elected_party: PSD
+party_affiliations:
+- party: PSD
+  start_date: "2024-12"
+  is_original: true
+stable_id: pol_791473c917af
+type: senator
+chamber: senate
+party: PSD
+party_full: Partidul Social Democrat
+constituency: (From election) Mureș
+legislature: 2024-2028
+status: active
+url: https://senat.ro/FisaSenator.aspx?ParlamentarID=fee99943-2379-4151-8e9a-7b15d1f04a4f
+---
+ai_friendly_name: MĂRGINEAN Lucian
+search_aliases: ['MĂRGINEAN LUCIAN', 'mărginean lucian']
+sessions_attended: 120
+activity_score: 0
+idm: 4448
+speeches_count: (See speeches)
+laws_proposed: (See sponsored laws)
+committees: []
+# MĂRGINEAN Lucian
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[committees|Committees]] - Browse all committees
+
+
+## Categories
+
+- [[politicians/senators|Senator]]
+- [[politicians/parties/PSD|Party: PSD]]
+- [[politicians/constituencies/Mureș|Constituency: Mureș]]
+
+
+## Sensory Input
+
+- **Source URL:** https://senat.ro/FisaSenator.aspx?ParlamentarID=fee99943-2379-4151-8e9a-7b15d1f04a4f
+- **Last Synced:** 2026-04-26
+- **Data Sources:** senat.ro
+
+
+## Processing
+
+- **Party:** Partidul Social Democrat
+- **Constituency:** Mureș
+
+
+## Memory
+
+### Proposals Sponsored
+
+- (No co-sponsors data available)
+
+### Co-Sponsors
+
+- (No co-sponsors data available)
+
+### Speeches
+
+- Total: 0
+
+### Voting Record
+
+- (No voting records available)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/senators"
+WHERE file.name = "MĂRGINEAN Lucian"
+```
+
+
+## Other Information
+
+- **Status:** active
+- **Legislature:** 2024-2028
+
+## Colleagues
+- [[politicians/senators|All Senators]]
+- [[politicians/deputies|All Deputies]]
+## Related Laws
+- [[laws|Laws discussed]]
+- [[laws/2026|2026 Laws]]
+- [[laws/2025|2025 Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+- [[sessions/senate|Senate Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [senat.ro Senator Profile](https://www.senat.ro/FisaSenator)
+- [Parliamentary Activity](https://www.senat.ro)
+### Recent Activity
+- See senat.ro for recent speeches
+- Check sessions for debate participation

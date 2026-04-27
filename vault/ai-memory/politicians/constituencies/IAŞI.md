@@ -1,0 +1,21 @@
+---
+title: IAŞI
+type: constituency
+---
+
+# IAŞI
+
+## Deputies (12)
+
+- [[politicians/deputies/ALEXANDRU-RAFILA|ALEXANDRU-RAFILA]]
+- [[politicians/deputies/ANCUŢAFLORINA-IRIMIA|ANCUŢAFLORINA-IRIMIA]]
+- [[politicians/deputies/CIPRIANCONSTANTIN-PARASCHIV|CIPRIANCONSTANTIN-PARASCHIV]]
+- [[politicians/deputies/CRISTINAEMANUELA-DASCĂLU|CRISTINAEMANUELA-DASCĂLU]]
+- [[politicians/deputies/IULIANALEXANDRU-MURARU|IULIANALEXANDRU-MURARU]]
+- [[politicians/deputies/MONICAELENA-BERESCU|MONICAELENA-BERESCU]]
+- [[politicians/deputies/PETRUBOGDAN-COJOCARU|PETRUBOGDAN-COJOCARU]]
+- [[politicians/deputies/SILVIUOCTAVIAN-GURLUI|SILVIUOCTAVIAN-GURLUI]]
+- [[politicians/deputies/SIMONAELENA-MACOVEI-ILIE|SIMONAELENA-MACOVEI-ILIE]]
+- [[politicians/deputies/SORIN-NĂCUŢĂ|SORIN-NĂCUŢĂ]]
+- [[politicians/deputies/SORINALEXANDRU-AFLOAREI|SORINALEXANDRU-AFLOAREI]]
+- [[politicians/deputies/ŞTEFAN-TANASĂ|ŞTEFAN-TANASĂ]]

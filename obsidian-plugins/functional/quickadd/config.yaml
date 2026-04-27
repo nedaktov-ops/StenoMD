@@ -1,0 +1,98 @@
+---
+# QuickAdd Configuration for StenoMD
+# Place in: vault/.obsidian/plugins/quickadd/config.yaml
+
+global:
+  # Keep interface minimal
+  closeOnTrigger: true
+  # Use hotkeys for speed
+  hotkey: null  # Set in Obsidian settings
+
+scripts:
+  # Script 1: Create New Deputy
+  - name: "New Deputy"
+    output: "politicians/deputies/{{NAME}}-{{DATE}}.md"
+    template: "_templates/politician.md"
+    fields:
+      - type: text
+        label: "Name"
+        placeholder: "Ion Popescu"
+        variable: "NAME"
+      - type: dropdown
+        label: "Party"
+        variable: "PARTY"
+        options:
+          - "PSD"
+          - "PNL"
+          - "USR"
+          - "AUR"
+          - "UDMR"
+          - "SOS"
+          - "POT"
+          - "Unknown"
+      - type: text
+        label: "Constituency"
+        placeholder: "București"
+        variable: "CONSTITUENCY"
+      - type: text
+        label: "Stable ID"
+        placeholder: "pol_xxxxx"
+        variable: "STABLE_ID"
+      - type: text
+        label: "IDM"
+        placeholder: "123"
+        variable: "IDM"
+    autoDateFormat: "YYYY-MM-DD"
+
+  # Script 2: Create New Session
+  - name: "New Session"
+    output: "sessions/{{DATE}}.md"
+    template: "_templates/session.md"
+    fields:
+      - type: text
+        label: "Chamber"
+        variable: "CHAMBER"
+        options:
+          - "deputies"
+          - "senate"
+          - "joint"
+      - type: text
+        label: "Title"
+        placeholder: "Sedinta Camerei Deputatilor din"
+        variable: "TITLE"
+      - type: text
+        label: "Session Number"
+        placeholder: "1"
+        variable: "SESSION_NUMBER"
+    autoDateFormat: "YYYY-MM-DD"
+
+  # Script 3: Create New Law
+  - name: "New Law"
+    output: "laws/{{NUMBER}}-{{YEAR}}.md"
+    template: "_templates/law.md"
+    fields:
+      - type: text
+        label: "Number"
+        placeholder: "101"
+        variable: "NUMBER"
+      - type: text
+        label: "Year"
+        placeholder: "2026"
+        variable: "YEAR"
+      - type: text
+        label: "Title"
+        placeholder: "Legea pentru..."
+        variable: "TITLE"
+      - type: dropdown
+        label: "Chamber"
+        variable: "CHAMBER"
+        options:
+          - "Chamber of Deputies"
+          - "Senate"
+          - "Joint"
+      - type: text
+        label: "Proposal Number"
+        placeholder: "101/2026"
+        variable: "PROPOSAL_NUMBER"
+
+# End of QuickAdd config for StenoMD

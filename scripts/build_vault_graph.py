@@ -42,7 +42,7 @@ def build_graph():
             
             # Determine node type and attributes
             node = {
-                "label": md_path.stem,
+                "label": md_file.stem,
                 "file_type": "markdown",
                 "source_file": rel_path,
                 "source_location": "L1",

@@ -1,0 +1,129 @@
+---
+name: Georgel BADIU
+chamber: Chamber of Deputies
+legislature: 2024-2028
+source: cdep.ro
+party: AUR
+party_full: Alianţa pentru Unirea Românilor
+constituency: VRANCEA
+photo_url: https://www.cdep.ro/parlamentari/l2024/BadiuGeorgel.JPG
+url: https://www.cdep.ro/pls/parlam/structura2015.mp?idm=16&cam=2
+idm: 16
+speeches_count: 2
+laws_proposed: 16
+stable_id: pol_5af4370729d7
+original_elected_party: AUR
+type: deputy
+motions: 7
+committees:
+- name: Legal
+  role: member
+- name: Defense
+  role: member
+---
+
+ai_friendly_name: Georgel BADIU
+search_aliases: ['GEORGEL BADIU', 'georgel badiu']
+votes_cast: 10
+activity_score: 18
+# Georgel BADIU
+
+**Chamber:** Chamber of Deputies  
+**Legislature:** 2024-2028  
+**Source:** [cdep.ro](https://www.cdep.ro/pls/parlam/structura2015.mp?idm=16&cam=2)
+
+
+## Related Sections
+
+- [[politicians/deputies|Deputies]] - Browse all deputies
+- [[politicians/senators|Senators]] - Browse all senators
+- [[laws|Laws]] - Browse all laws
+- [[proposals|Browse Proposals]]
+
+
+## Categories
+
+- [[politicians/deputies|Deputy]]
+- [[politicians/parties/AUR|Party: AUR]]
+- [[politicians/constituencies/VRANCEA|Constituency: VRANCEA]]
+
+
+## Sensory Input
+
+- **Source URL:** https://www.cdep.ro/pls/parlam/structura2015.mp?idm=16&cam=2
+- **Last Synced:** 2026-04-26
+- **Data Sources:** cdep.ro, parlamint
+
+
+## Processing
+
+- **Activity Score:** 18
+- **Party Alignment:** AUR
+
+
+## Memory
+
+### Proposals Sponsored
+
+- [[proposals/22532]]
+- [[proposals/22277]]
+- [[proposals/22528]]
+- [[proposals/22401]]
+- [[proposals/21329]]
+- [[proposals/21329]]
+- [[proposals/22531]]
+- [[proposals/22454]]
+- [[proposals/22461]]
+- [[proposals/22478]]
+- [[proposals/22223]]
+- [[proposals/21482]]
+- [[proposals/21621]]
+- [[proposals/22264]]
+- [[proposals/21871]]
+- [[proposals/22527]]
+- [[proposals/22532]]
+- [[proposals/22277]]
+- [[proposals/22528]]
+- [[proposals/22401]]
+- ... and more
+
+### Co-Sponsors
+
+- (No co-sponsors data available)
+
+### Speeches
+
+- Total: 2
+
+### Voting Record
+
+- (No voting records available)
+
+
+## Action/Output
+
+### Query Ready
+
+```dataview
+FROM "politicians/deputies"
+WHERE idm = "16"
+```
+
+### Alerts
+
+## Colleagues
+- [[politicians/deputies|All Deputies]]
+- [[politicians/senators|All Senators]]
+## Related Laws
+- [[laws|All Laws]]
+## Session History
+- [[sessions|Parliamentary Sessions]]
+## Committee Work
+- [[committees|All Committees]]
+
+### Official Profile
+- [cdep.ro Deputy Profile](https://www.cdep.ro/pls/dic/deput)
+- [Parliamentary Activity](https://www.cdep.ro)
+### Recent Activity
+- See cdep.ro for recent speeches
+- Check chamber sessions
