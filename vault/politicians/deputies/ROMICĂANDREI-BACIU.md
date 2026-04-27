@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Romică-Andrei BACIU
 search_aliases: ["BACIU", "BACIU, ROMICĂ", "BACIU, Romică", "ROMICĂ BACIU", "ROMICĂ-ANDREI BACIU", "Romică BACIU", "Romică-Andrei BACIU", "Romică-Andrei Baciu", "baciu", "romică baciu", "romică-andrei baciu"]
 votes_cast: 4

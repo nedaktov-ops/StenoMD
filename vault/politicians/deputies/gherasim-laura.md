@@ -13,9 +13,10 @@ speeches_count: 8
 laws_proposed: 15
 type: deputy
 committees:
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Abuse, Corruption
+  role: member
 ---
+
 
 ai_friendly_name: Gherasim Laura
 search_aliases: ["GHERASIM LAURA", "Gherasim Laura", "LAURA", "LAURA, GHERASIM", "Laura", "Laura, Gherasim", "gherasim laura", "laura"]

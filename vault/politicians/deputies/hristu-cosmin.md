@@ -14,6 +14,7 @@ laws_proposed: 19
 type: deputy
 ---
 
+
 ai_friendly_name: Hristu Cosmin
 search_aliases: ["COSMIN", "COSMIN, HRISTU", "Cosmin", "Cosmin, Hristu", "HRISTU COSMIN", "Hristu Cosmin", "cosmin", "hristu cosmin"]
 votes_cast: 6

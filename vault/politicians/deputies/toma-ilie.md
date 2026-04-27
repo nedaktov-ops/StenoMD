@@ -13,11 +13,12 @@ speeches_count: 31
 laws_proposed: 27
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Industries and Services
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 
 ai_friendly_name: Toma Ilie
 search_aliases: ["ILIE", "ILIE, TOMA", "Ilie", "Ilie, Toma", "TOMA ILIE", "Toma Ilie", "ilie", "toma ilie"]

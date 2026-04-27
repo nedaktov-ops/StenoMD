@@ -13,9 +13,10 @@ speeches_count: 7
 laws_proposed: 44
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
+- name: Health
+  role: member
 ---
+
 
 ai_friendly_name: Oprea Octavian
 search_aliases: ["OCTAVIAN", "OCTAVIAN, OPREA", "OPREA OCTAVIAN", "Octavian", "Octavian, Oprea", "Oprea Octavian", "octavian", "oprea octavian"]

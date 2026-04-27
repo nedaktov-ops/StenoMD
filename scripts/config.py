@@ -24,6 +24,7 @@ Example:
 """
 
 import os
+import logging
 from pathlib import Path
 from typing import Optional
 
@@ -39,7 +40,6 @@ def get_project_root() -> Path:
     if env_path:
         return Path(env_path)
     
-    # Default to script's parent (scripts/ -> project/)
     current_file = Path(__file__).resolve()
     return current_file.parent.parent
 
@@ -49,13 +49,19 @@ class StenoMDConfig:
     
     _instance: Optional['StenoMDConfig'] = None
     
+    def __new__(cls) -> 'StenoMDConfig':
+        if cls._instance is None:
+            cls._instance = super().__new__(cls)
+            cls._instance._initialized = False
+        return cls._instance
+    
     def __init__(self):
-        if StenoMDConfig._instance is not None:
+        if self._initialized:
             return
-            
+        
+        self._initialized = True
         self._project_root = get_project_root()
         
-        # Base directories
         self.PROJECT_ROOT = self._project_root
         self.BASE_DIR = self._project_root
         self.VAULT_DIR = self._project_root / "vault"
@@ -64,29 +70,28 @@ class StenoMDConfig:
         self.KG_DB = self.KG_DIR / "knowledge_graph.db"
         self.ENTITIES_FILE = self.KG_DIR / "entities.json"
         
-        # Memory directories
         self.MEMORY_DIR = self._project_root / "scripts" / "memory"
         
-        # API Security
         self.ALLOWED_ORIGIN = os.environ.get('STENOMD_ALLOWED_ORIGIN', 'localhost')
         self.API_RATE_LIMIT = int(os.environ.get('STENOMD_API_RATE_LIMIT', '100'))
         
-        # Scraping Configuration
         self.MAX_ID = int(os.environ.get('STENOMD_MAX_ID', '200'))
         self.CACHE_TTL = int(os.environ.get('STENOMD_CACHE_TTL', '3600'))
         
-        # Logging
         self.LOG_LEVEL = os.environ.get('STENOMD_LOG_LEVEL', 'INFO')
         self.DEBUG = os.environ.get('STENOMD_DEBUG', '').lower() == 'true'
         
-        # Ollama
         self.OLLAMA_MODEL = os.environ.get('STENOMD_OLLAMA_MODEL', 'qwen2.5-coder:1.5b')
         
-        # Low-RAM Optimization
         self.RAM_LIMIT_GB = float(os.environ.get('STENOMD_RAM_LIMIT_GB', '4'))
         self.BATCH_SIZE = int(os.environ.get('STENOMD_BATCH_SIZE', self._get_default_batch_size()))
         self.USE_LIGHTWEIGHT_MODEL = self.RAM_LIMIT_GB < 12
         
+        self.PROGRESS_FILE = Path('/tmp/stenomd_progress.json')
+        self.KG_DB_ALT = self._project_root / '.mempalace' / 'knowledge_graph.sqlite3'
+        
+        self._setup_logging()
+    
     def _get_default_batch_size(self) -> int:
         """Get default batch size based on RAM limit."""
         ram = self.RAM_LIMIT_GB
@@ -98,36 +103,32 @@ class StenoMDConfig:
             return 15
         else:
             return 5
-        
-        # Progress file
-        self.PROGRESS_FILE = Path('/tmp/stenomd_progress.json')
-        
-        # Alternative database paths
-        self.KG_DB_ALT = self._project_root / '.mempalace' / 'knowledge_graph.sqlite3'
-        
-        StenoMDConfig._instance = self
-        
-    def __repr__(self):
+    
+    def _setup_logging(self) -> None:
+        """Configure logging based on settings."""
+        logging.basicConfig(
+            level=getattr(logging, self.LOG_LEVEL),
+            format='[%(asctime)s] %(levelname)s: %(message)s',
+            datefmt='%Y-%m-%d %H:%M:%S'
+        )
+    
+    def __repr__(self) -> str:
         return f"StenoMDConfig(root={self._project_root})"
     
     def validate(self) -> bool:
-        """Validate configuration."""
+        """Validate configuration directories exist."""
         required = [self.VAULT_DIR, self.DATA_DIR, self.KG_DIR]
         for directory in required:
             if not directory.exists():
-                print(f"[WARN] Directory not found: {directory}")
+                logging.warning(f"Directory not found: {directory}")
         return True
 
 
 def get_config() -> StenoMDConfig:
     """Get configuration singleton (lazy-loaded)."""
-    if StenoMDConfig._instance is None:
-        StenoMDConfig._instance = StenoMDConfig()
-    return StenoMDConfig._instance
+    return StenoMDConfig()
 
 
-# Module-level convenience attributes
-# These are initialized once and cached
 _config = get_config()
 PROJECT_ROOT = _config.PROJECT_ROOT
 VAULT_DIR = _config.VAULT_DIR
@@ -147,7 +148,6 @@ USE_LIGHTWEIGHT_MODEL = _config.USE_LIGHTWEIGHT_MODEL
 
 
 if __name__ == "__main__":
-    # Test configuration loading
     config = get_config()
     print(f"Project Root: {config.PROJECT_ROOT}")
     print(f"Vault Dir: {config.VAULT_DIR}")

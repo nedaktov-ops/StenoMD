@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: ZAHORANSZKI Brigitta-Eva
 search_aliases: ["EVA", "EVA, ZAHORANSZKI", "Eva", "Eva, ZAHORANSZKI", "ZAHORANSZKI BRIGITTA-EVA", "ZAHORANSZKI Brigitta-Eva", "ZAHORANSZKI EVA", "ZAHORANSZKI Eva", "Zahoranszki Brigitta-Eva", "eva", "zahoranszki brigitta-eva", "zahoranszki eva"]
 votes_cast: 6

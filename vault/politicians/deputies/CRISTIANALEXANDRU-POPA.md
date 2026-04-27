@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Cristian-Alexandru POPA
 search_aliases: ["CRISTIAN POPA", "CRISTIAN-ALEXANDRU POPA", "Cristian POPA", "Cristian-Alexandru POPA", "Cristian-Alexandru Popa", "POPA", "POPA, CRISTIAN", "POPA, Cristian", "cristian popa", "cristian-alexandru popa", "popa"]
 votes_cast: 5

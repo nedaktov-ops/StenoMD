@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Paul-Claudiu COTÎRLEŢ
 search_aliases: ["COTÎRLEŢ", "COTÎRLEŢ, PAUL", "COTÎRLEŢ, Paul", "PAUL COTÎRLEŢ", "PAUL-CLAUDIU COTÎRLEŢ", "Paul COTÎRLEŢ", "Paul-Claudiu COTÎRLEŢ", "Paul-Claudiu Cotîrleţ", "cotîrleţ", "paul cotîrleţ", "paul-claudiu cotîrleţ"]
 votes_cast: 4

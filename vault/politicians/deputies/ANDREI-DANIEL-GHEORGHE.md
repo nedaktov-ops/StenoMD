@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Andrei Daniel GHEORGHE
 search_aliases: ["ANDREI DANIEL GHEORGHE", "ANDREI GHEORGHE", "Andrei Daniel GHEORGHE", "Andrei Daniel Gheorghe", "Andrei GHEORGHE", "GHEORGHE", "GHEORGHE, ANDREI", "GHEORGHE, Andrei", "andrei daniel gheorghe", "andrei gheorghe", "gheorghe"]
 votes_cast: 5

@@ -23,6 +23,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Gabriela-Corina ENE
 search_aliases: ["ENE", "ENE, GABRIELA", "ENE, Gabriela", "GABRIELA ENE", "GABRIELA-CORINA ENE", "Gabriela ENE", "Gabriela-Corina ENE", "Gabriela-Corina Ene", "ene", "gabriela ene", "gabriela-corina ene"]
 votes_cast: 3

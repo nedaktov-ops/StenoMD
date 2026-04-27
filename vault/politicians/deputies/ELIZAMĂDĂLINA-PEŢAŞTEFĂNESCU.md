@@ -23,6 +23,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Eliza-Mădălina PEŢA-ŞTEFĂNESCU
 search_aliases: ["ELIZA ŞTEFĂNESCU", "ELIZA-MĂDĂLINA PEŢA-ŞTEFĂNESCU", "Eliza ŞTEFĂNESCU", "Eliza-Mădălina PEŢA-ŞTEFĂNESCU", "Eliza-Mădălina Peţa-Ştefănescu", "eliza ştefănescu", "eliza-mădălina peţa-ştefănescu", "ŞTEFĂNESCU", "ŞTEFĂNESCU, ELIZA", "ŞTEFĂNESCU, Eliza", "ştefănescu"]
 votes_cast: 5

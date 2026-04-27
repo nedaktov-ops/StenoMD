@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Mitică-Marius MĂRGĂRIT
 search_aliases: ["MITICĂ MĂRGĂRIT", "MITICĂ-MARIUS MĂRGĂRIT", "Mitică MĂRGĂRIT", "Mitică-Marius MĂRGĂRIT", "Mitică-Marius Mărgărit", "MĂRGĂRIT", "MĂRGĂRIT, MITICĂ", "MĂRGĂRIT, Mitică", "mitică mărgărit", "mitică-marius mărgărit", "mărgărit"]
 votes_cast: 6

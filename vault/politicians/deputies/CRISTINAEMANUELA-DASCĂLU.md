@@ -24,6 +24,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Cristina-Emanuela DASCĂLU
 search_aliases: ["CRISTINA DASCĂLU", "CRISTINA-EMANUELA DASCĂLU", "Cristina DASCĂLU", "Cristina-Emanuela DASCĂLU", "Cristina-Emanuela Dascălu", "DASCĂLU", "DASCĂLU, CRISTINA", "DASCĂLU, Cristina", "cristina dascălu", "cristina-emanuela dascălu", "dascălu"]
 votes_cast: 5

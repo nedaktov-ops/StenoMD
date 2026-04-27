@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Răzvan-Olimpiu CADAR
 search_aliases: ["CADAR", "CADAR, RĂZVAN", "CADAR, Răzvan", "RĂZVAN CADAR", "RĂZVAN-OLIMPIU CADAR", "Răzvan CADAR", "Răzvan-Olimpiu CADAR", "Răzvan-Olimpiu Cadar", "cadar", "răzvan cadar", "răzvan-olimpiu cadar"]
 votes_cast: 5

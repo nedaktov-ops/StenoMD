@@ -22,6 +22,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Elena DOBOŞ
 search_aliases: ["DOBOŞ", "DOBOŞ, ELENA", "DOBOŞ, Elena", "ELENA DOBOŞ", "Elena DOBOŞ", "Elena Doboş", "doboş", "elena doboş"]
 votes_cast: 6

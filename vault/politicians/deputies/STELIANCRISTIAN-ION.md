@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Stelian-Cristian ION
 search_aliases: ["ION", "ION, STELIAN", "ION, Stelian", "STELIAN ION", "STELIAN-CRISTIAN ION", "Stelian ION", "Stelian-Cristian ION", "Stelian-Cristian Ion", "ion", "stelian ion", "stelian-cristian ion"]
 votes_cast: 6

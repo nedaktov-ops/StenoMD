@@ -13,9 +13,10 @@ speeches_count: 1
 laws_proposed: 7
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 
 ai_friendly_name: Iordache Ion
 search_aliases: ["ION", "ION, IORDACHE", "IORDACHE ION", "Ion", "Ion, Iordache", "Iordache Ion", "ion", "iordache ion"]

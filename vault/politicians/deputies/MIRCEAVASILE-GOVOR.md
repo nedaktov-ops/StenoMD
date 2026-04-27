@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Mircea-Vasile GOVOR
 search_aliases: ["GOVOR", "GOVOR, MIRCEA", "GOVOR, Mircea", "MIRCEA GOVOR", "MIRCEA-VASILE GOVOR", "Mircea GOVOR", "Mircea-Vasile GOVOR", "Mircea-Vasile Govor", "govor", "mircea govor", "mircea-vasile govor"]
 votes_cast: 6

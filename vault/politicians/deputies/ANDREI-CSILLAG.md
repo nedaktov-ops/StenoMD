@@ -17,6 +17,7 @@ type: deputy
 motions: 2
 ---
 
+
 ai_friendly_name: Andrei CSILLAG
 search_aliases: ["ANDREI CSILLAG", "Andrei CSILLAG", "Andrei Csillag", "CSILLAG", "CSILLAG, ANDREI", "CSILLAG, Andrei", "andrei csillag", "csillag"]
 votes_cast: 4

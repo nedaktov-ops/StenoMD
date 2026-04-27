@@ -13,11 +13,12 @@ speeches_count: 1
 laws_proposed: 5
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Foreign Policy
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 
 ai_friendly_name: Balan Ioan
 search_aliases: ["BALAN IOAN", "Balan Ioan", "IOAN", "IOAN, BALAN", "Ioan", "Ioan, Balan", "balan ioan", "ioan"]

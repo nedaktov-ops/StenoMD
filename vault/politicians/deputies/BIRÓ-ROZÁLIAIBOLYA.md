@@ -16,6 +16,7 @@ original_elected_party: UDMR
 type: deputy
 ---
 
+
 ai_friendly_name: BIRÓ Rozália-Ibolya
 search_aliases: ["BIRÓ IBOLYA", "BIRÓ Ibolya", "BIRÓ ROZÁLIA-IBOLYA", "BIRÓ Rozália-Ibolya", "Biró Rozália-Ibolya", "IBOLYA", "IBOLYA, BIRÓ", "Ibolya", "Ibolya, BIRÓ", "biró ibolya", "biró rozália-ibolya", "ibolya"]
 votes_cast: 6

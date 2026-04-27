@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: HAJDU Gábor
 search_aliases: ["GÁBOR", "GÁBOR, HAJDU", "Gábor", "Gábor, HAJDU", "HAJDU GÁBOR", "HAJDU Gábor", "Hajdu Gábor", "gábor", "hajdu gábor"]
 votes_cast: 5

@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Răzvan-Mirel CHIRIŢĂ
 search_aliases: ["CHIRIŢĂ", "CHIRIŢĂ, RĂZVAN", "CHIRIŢĂ, Răzvan", "RĂZVAN CHIRIŢĂ", "RĂZVAN-MIREL CHIRIŢĂ", "Răzvan CHIRIŢĂ", "Răzvan-Mirel CHIRIŢĂ", "Răzvan-Mirel Chiriţă", "chiriţă", "răzvan chiriţă", "răzvan-mirel chiriţă"]
 votes_cast: 6

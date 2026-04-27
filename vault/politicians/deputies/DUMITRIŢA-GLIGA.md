@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Dumitriţa GLIGA
 search_aliases: ["DUMITRIŢA GLIGA", "Dumitriţa GLIGA", "Dumitriţa Gliga", "GLIGA", "GLIGA, DUMITRIŢA", "GLIGA, Dumitriţa", "dumitriţa gliga", "gliga"]
 votes_cast: 6

@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: George GIMA
 search_aliases: ["GEORGE GIMA", "GIMA", "GIMA, GEORGE", "GIMA, George", "George GIMA", "George Gima", "george gima", "gima"]
 votes_cast: 5

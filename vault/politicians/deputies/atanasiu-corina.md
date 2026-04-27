@@ -13,9 +13,10 @@ speeches_count: 8
 laws_proposed: 43
 type: deputy
 committees:
-  - name: "Education"
-    role: "member"
+- name: Education
+  role: member
 ---
+
 
 ai_friendly_name: Atanasiu Corina
 search_aliases: ["ATANASIU CORINA", "Atanasiu Corina", "CORINA", "CORINA, ATANASIU", "Corina", "Corina, Atanasiu", "atanasiu corina", "corina"]

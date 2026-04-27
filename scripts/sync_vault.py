@@ -4,10 +4,20 @@
 import json
 from pathlib import Path
 from datetime import datetime
+import sys
 
-KG_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/knowledge_graph")
-VAULT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/vault")
-ENTITIES_FILE = KG_DIR / "entities.json"
+sys.path.insert(0, str(Path(__file__).parent))
+
+try:
+    from config import get_config
+    config = get_config()
+    KG_DIR = config.KG_DIR
+    VAULT_DIR = config.VAULT_DIR
+    ENTITIES_FILE = config.ENTITIES_FILE
+except ImportError:
+    KG_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/knowledge_graph")
+    VAULT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/vault")
+    ENTITIES_FILE = KG_DIR / "entities.json"
 
 def load_entities():
     if ENTITIES_FILE.exists():

@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Mădălin-Laurenţiu FĂGET
 search_aliases: ["FĂGET", "FĂGET, MĂDĂLIN", "FĂGET, Mădălin", "MĂDĂLIN FĂGET", "MĂDĂLIN-LAURENŢIU FĂGET", "Mădălin FĂGET", "Mădălin-Laurenţiu FĂGET", "Mădălin-Laurenţiu Făget", "făget", "mădălin făget", "mădălin-laurenţiu făget"]
 votes_cast: 6

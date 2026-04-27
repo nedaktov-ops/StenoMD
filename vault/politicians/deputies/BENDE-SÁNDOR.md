@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: BENDE Sándor
 search_aliases: ["BENDE SÁNDOR", "BENDE Sándor", "Bende Sándor", "SÁNDOR", "SÁNDOR, BENDE", "Sándor", "Sándor, BENDE", "bende sándor", "sándor"]
 votes_cast: 6

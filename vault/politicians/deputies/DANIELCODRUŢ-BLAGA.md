@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Daniel-Codruţ BLAGA
 search_aliases: ["BLAGA", "BLAGA, DANIEL", "BLAGA, Daniel", "DANIEL BLAGA", "DANIEL-CODRUŢ BLAGA", "Daniel BLAGA", "Daniel-Codruţ BLAGA", "Daniel-Codruţ Blaga", "blaga", "daniel blaga", "daniel-codruţ blaga"]
 votes_cast: 6

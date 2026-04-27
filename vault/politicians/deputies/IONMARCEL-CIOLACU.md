@@ -16,6 +16,7 @@ original_elected_party: PSD
 type: deputy
 ---
 
+
 ai_friendly_name: Ion-Marcel CIOLACU
 search_aliases: ["CIOLACU", "CIOLACU, ION", "CIOLACU, Ion", "ION CIOLACU", "ION-MARCEL CIOLACU", "Ion CIOLACU", "Ion-Marcel CIOLACU", "Ion-Marcel Ciolacu", "ciolacu", "ion ciolacu", "ion-marcel ciolacu"]
 votes_cast: 9

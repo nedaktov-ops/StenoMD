@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Cosmin-Ioan CORENDEA
 search_aliases: ["CORENDEA", "CORENDEA, COSMIN", "CORENDEA, Cosmin", "COSMIN CORENDEA", "COSMIN-IOAN CORENDEA", "Cosmin CORENDEA", "Cosmin-Ioan CORENDEA", "Cosmin-Ioan Corendea", "corendea", "cosmin corendea", "cosmin-ioan corendea"]
 votes_cast: 6

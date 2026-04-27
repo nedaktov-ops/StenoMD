@@ -523,3 +523,40 @@ Each item now has:
 - **Processing**: activity_score, collaboration_network, party_alignment
 - **Memory**: proposals, speeches, voting_record, co_sponsors
 - **Action/Output**: Query Ready fields, Alerts
+## IMPROVEMENT CAMPAIGN 2026-04-27 (IN PROGRESS)
+
+### Planner Agent Decision
+- **Canonical Knowledge Graph:** Mem Palace (`knowledge_graph/entities.json`) — it's the data source for ParliamentQA and REST API.
+- Graphify remains as separate analytical overlay; should be regenerated on demand.
+
+### Phase 1: Data Completeness
+| Task | Script | Status | Notes |
+|------|--------|--------|-------|
+| Final reconciliation: assign idm, add committees | final_reconciliation_v2.py | Completed | No action needed - all numeric files already had idm |
+| Enrich deputies (speeches, laws) | fix_deputy_data_from_op.py | Completed | Fixed 347 files, improved zero-handling |
+| Re-add committees for new idm | add_committees.py | Completed | 306 deputies now have committees |
+| Merge duplicate deputies | merge_duplicate_deputies.py | Completed | No duplicates found |
+| Remove empty placeholders | remove_placeholders.py | Completed | Deleted 6 empty files |
+| Fix law sponsor linking | link_proposal_sponsors.py | Completed | Existing 5 laws have sponsors; others lack proposals |
+
+### Phase 2: System Integration (IN PROGRESS)
+| Task | Script | Status | Notes |
+|------|--------|--------|-------|
+| Standardize config in GraphifyStenoMD | (manual) | PENDING | Replace hardcoded paths |
+| Integrate Graphify into daily pipeline | run_daily.py | PENDING | Call orchestrator daily |
+| Extend merge_vault_to_kg to include laws | merge_vault_to_kg.py | PENDING | entities.json laws = 0 now |
+| Regenerate Graphify graph | /graphify | PENDING | After data fixes |
+
+### Phase 3: Verification & Docs
+| Task | Target | Status |
+|------|--------|--------|
+| Health check | >95/100 | PENDING |
+| Missing data | 0 | PENDING |
+| Update project-logs.md | Done after each phase | PENDING |
+| Commit to GitHub | after each phase | PENDING |
+
+---
+
+*LastUpdated: 2026-04-27 20:10*
+*Next Action: Execute Phase 1.1 - final_reconciliation_v2.py*
+

@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Florin-Ionuţ BARBU
 search_aliases: ["BARBU", "BARBU, FLORIN", "BARBU, Florin", "FLORIN BARBU", "FLORIN-IONUŢ BARBU", "Florin BARBU", "Florin-Ionuţ BARBU", "Florin-Ionuţ Barbu", "barbu", "florin barbu", "florin-ionuţ barbu"]
 votes_cast: 14

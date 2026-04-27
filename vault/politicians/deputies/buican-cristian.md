@@ -13,9 +13,10 @@ speeches_count: 1
 laws_proposed: 81
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
 ---
+
 
 ai_friendly_name: Buican Cristian
 search_aliases: ["BUICAN CRISTIAN", "Buican Cristian", "CRISTIAN", "CRISTIAN, BUICAN", "Cristian", "Cristian, Buican", "buican cristian", "cristian"]

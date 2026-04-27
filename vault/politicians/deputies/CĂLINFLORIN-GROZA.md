@@ -17,6 +17,7 @@ type: deputy
 motions: 2
 ---
 
+
 ai_friendly_name: Călin-Florin GROZA
 search_aliases: ["CĂLIN GROZA", "CĂLIN-FLORIN GROZA", "Călin GROZA", "Călin-Florin GROZA", "Călin-Florin Groza", "GROZA", "GROZA, CĂLIN", "GROZA, Călin", "călin groza", "călin-florin groza", "groza"]
 votes_cast: 6

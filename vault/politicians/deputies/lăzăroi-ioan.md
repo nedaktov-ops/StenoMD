@@ -13,13 +13,14 @@ speeches_count: 3
 laws_proposed: 33
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
-  - name: "Labour"
-    role: "member"
-  - name: "Education"
-    role: "member"
+- name: Industries and Services
+  role: member
+- name: Labour
+  role: member
+- name: Education
+  role: member
 ---
+
 
 ai_friendly_name: Lăzăroi Ioan
 search_aliases: ["IOAN", "IOAN, LĂZĂROI", "Ioan", "Ioan, Lăzăroi", "LĂZĂROI IOAN", "Lăzăroi Ioan", "ioan", "lăzăroi ioan"]

@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: MIKLÓS Zoltán
 search_aliases: ["MIKLÓS ZOLTÁN", "MIKLÓS Zoltán", "Miklós Zoltán", "ZOLTÁN", "ZOLTÁN, MIKLÓS", "Zoltán", "Zoltán, MIKLÓS", "miklós zoltán", "zoltán"]
 votes_cast: 5

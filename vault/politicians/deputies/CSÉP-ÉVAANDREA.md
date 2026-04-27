@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: CSÉP Éva-Andrea
 search_aliases: ["ANDREA", "ANDREA, CSÉP", "Andrea", "Andrea, CSÉP", "CSÉP ANDREA", "CSÉP Andrea", "CSÉP ÉVA-ANDREA", "CSÉP Éva-Andrea", "Csép Éva-Andrea", "andrea", "csép andrea", "csép éva-andrea"]
 votes_cast: 6

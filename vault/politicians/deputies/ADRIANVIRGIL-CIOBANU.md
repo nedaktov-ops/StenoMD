@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Adrian-Virgil CIOBANU
 search_aliases: ["ADRIAN CIOBANU", "ADRIAN-VIRGIL CIOBANU", "Adrian CIOBANU", "Adrian-Virgil CIOBANU", "Adrian-Virgil Ciobanu", "CIOBANU", "CIOBANU, ADRIAN", "CIOBANU, Adrian", "adrian ciobanu", "adrian-virgil ciobanu", "ciobanu"]
 votes_cast: 6

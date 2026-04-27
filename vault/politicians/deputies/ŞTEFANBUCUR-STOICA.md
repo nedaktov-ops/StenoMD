@@ -16,6 +16,7 @@ original_elected_party: PNL
 type: deputy
 ---
 
+
 ai_friendly_name: Ştefan-Bucur STOICA
 search_aliases: ["STOICA", "STOICA, ŞTEFAN", "STOICA, Ştefan", "stoica", "ŞTEFAN STOICA", "ŞTEFAN-BUCUR STOICA", "Ştefan STOICA", "Ştefan-Bucur STOICA", "Ştefan-Bucur Stoica", "ştefan stoica", "ştefan-bucur stoica"]
 votes_cast: 6

@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Lucian-Nicolae ANDRUŞCĂ
 search_aliases: ["ANDRUŞCĂ", "ANDRUŞCĂ, LUCIAN", "ANDRUŞCĂ, Lucian", "LUCIAN ANDRUŞCĂ", "LUCIAN-NICOLAE ANDRUŞCĂ", "Lucian ANDRUŞCĂ", "Lucian-Nicolae ANDRUŞCĂ", "Lucian-Nicolae Andruşcă", "andruşcă", "lucian andruşcă", "lucian-nicolae andruşcă"]
 votes_cast: 6

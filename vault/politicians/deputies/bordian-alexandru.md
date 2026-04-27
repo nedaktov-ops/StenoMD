@@ -13,9 +13,10 @@ speeches_count: 4
 laws_proposed: 31
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
+- name: Human Rights
+  role: member
 ---
+
 
 ai_friendly_name: Bordian Alexandru
 search_aliases: ["ALEXANDRU", "ALEXANDRU, BORDIAN", "Alexandru", "Alexandru, Bordian", "BORDIAN ALEXANDRU", "Bordian Alexandru", "alexandru", "bordian alexandru"]

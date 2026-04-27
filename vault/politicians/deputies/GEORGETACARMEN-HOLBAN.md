@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Georgeta-Carmen HOLBAN
 search_aliases: ["GEORGETA HOLBAN", "GEORGETA-CARMEN HOLBAN", "Georgeta HOLBAN", "Georgeta-Carmen HOLBAN", "Georgeta-Carmen Holban", "HOLBAN", "HOLBAN, GEORGETA", "HOLBAN, Georgeta", "georgeta holban", "georgeta-carmen holban", "holban"]
 votes_cast: 5

@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Andrei-Ionuţ TESLARIU
 search_aliases: ["ANDREI TESLARIU", "ANDREI-IONUŢ TESLARIU", "Andrei TESLARIU", "Andrei-Ionuţ TESLARIU", "Andrei-Ionuţ Teslariu", "TESLARIU", "TESLARIU, ANDREI", "TESLARIU, Andrei", "andrei teslariu", "andrei-ionuţ teslariu", "teslariu"]
 votes_cast: 5

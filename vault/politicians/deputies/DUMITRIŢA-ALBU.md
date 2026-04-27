@@ -18,6 +18,7 @@ type: deputy
 motions: 2
 ---
 
+
 ai_friendly_name: Dumitriţa ALBU
 search_aliases: ["ALBU", "ALBU, DUMITRIŢA", "ALBU, Dumitriţa", "DUMITRIŢA ALBU", "Dumitriţa ALBU", "Dumitriţa Albu", "albu", "dumitriţa albu"]
 votes_cast: 6

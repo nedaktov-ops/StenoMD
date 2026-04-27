@@ -13,13 +13,14 @@ speeches_count: 3
 laws_proposed: 20
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Labour"
-    role: "member"
-  - name: "Abuse, Corruption"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Labour
+  role: member
+- name: Abuse, Corruption
+  role: member
 ---
+
 
 ai_friendly_name: Popa Dorin
 search_aliases: ["DORIN", "DORIN, POPA", "Dorin", "Dorin, Popa", "POPA DORIN", "Popa Dorin", "dorin", "popa dorin"]

@@ -1,7 +1,66 @@
 # StenoMD Project Logs
 ## Primary Directive: This file must be read before any task begins and updated after each task completion.
 
-## LATEST UPDATE: 2026-04-27
+## LATEST UPDATE: 2026-04-27 20:10
+
+### Phase: Comprehensive Improvements (IN PROGRESS)
+
+**Context:** Based on Graphify gap analysis and Planner agent health check, multiple data quality gaps remain. Aim: achieve Health Score >95/100 with 0 missing critical fields.
+
+**Improvement Plan (Phase 1 - Data Completeness):**
+1. Final reconciliation: assign `idm` to numeric-named deputies, add committees (`final_reconciliation_v2.py`)
+2. Enrich deputy data from Open Parliament RO (`fix_deputy_data_from_op.py`) to fill `speeches_count`, `laws_proposed`
+3. Add committees for newly `idm`'d deputies (`add_committees.py`)
+4. Merge duplicate deputy files (`merge_duplicate_deputies.py`)
+5. Remove empty placeholder files (`remove_placeholders.py`)
+6. Fix law sponsor linking (`link_proposal_sponsors.py`)
+
+**Phase 2 - System Integration:**
+7. Refactor GraphifyStenoMD to use `scripts/config.py` (standardize paths)
+8. Integrate Graphify gap analysis into daily pipeline (`scripts/run_daily.py`)
+9. Extend `merge_vault_to_kg.py` to include laws in `entities.json`
+10. Regenerate Graphify graph (`/graphify`) and validate
+
+**Phase 3 - Documentation & Git:**
+11. Update `project-timeline.md` with completed tasks
+12. Commit changes to GitHub after each phase
+
+**Planner Agent Decision:** Choose Mem Palace (`knowledge_graph/entities.json`) as canonical knowledge representation because it's used by ParliamentQA and REST API; Graphify remains external analysis layer.
+
+**Backup:** Created tarball `backup_timestamp_20260427_XXXX.tar.gz` before any modifications.
+
+---
+
+### Phase 1 Results (COMPLETE)
+
+| Task | Outcome |
+|------|---------|
+| Final reconciliation | All numeric files already had `idm`; no changes needed |
+| Enrich deputies (speeches, laws) | **347** deputy files updated with accurate `speeches_count` and `laws_proposed` from Open Parliament RO. Fixed zero-handling bug to preserve numeric zeros. |
+| Add committees | **306** deputies now have committee assignments (data from `committees_members.json`) |
+| Merge duplicate deputies | No duplicate groups found (previously resolved) |
+| Remove empty placeholders | Deleted **6** empty files: `vault/Murariu Oana.md`, `vault/Negrea Petru.md`, `vault/laws/proposed.md`, `vault/politicians/deputies.md`, `vault/ai-memory/laws/proposed.md`, `vault/ai-memory/politicians/deputies.md` |
+| Fix law sponsor linking | Verified proposals matching; 5 law files already have sponsor data (others have no proposal records in Open Parliament) |
+
+**Phase 1 Summary:** Major improvements to deputy data completeness. Remaining gaps (12% of deputies) lack Open Parliament coverage (historical) and will retain placeholders.
+
+---
+
+**Phase 2 Deliverables:**
+- Graphify graph: `Graphify/graphify-out/graph.json` (clustered)
+- Interactive visualization: `Graphify/graphify-out/graph.html`
+- Community overview: `Graphify/graphify-out/communities.html`
+- Top hubs JSON: `Graphify/graphify-out/hub-nodes.json`
+- Detailed report: `vault/_brain/PHASE2_REPORT.md`
+
+**Key Metrics:**
+- Nodes: 2,246 | Edges: 1,101 | Communities: 1,455 | Orphans: 1,449 (64.5%)
+- Top hub deputy: [[vasile-daniel-suciu]] (degree 21, PSD)
+- Top central session: [[2024-12-21]] (degree 137)
+
+---
+
+*LastUpdated: 2026-04-27 20:10*
 
 ### Phase: Plugin-Powered Vault Enhancement (STARTING)
 

@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Ştefan-Iulian LŐRINCZ
 search_aliases: ["LŐRINCZ", "LŐRINCZ, ŞTEFAN", "LŐRINCZ, Ştefan", "lőrincz", "ŞTEFAN LŐRINCZ", "ŞTEFAN-IULIAN LŐRINCZ", "Ştefan LŐRINCZ", "Ştefan-Iulian LŐRINCZ", "Ştefan-Iulian Lőrincz", "ştefan lőrincz", "ştefan-iulian lőrincz"]
 votes_cast: 6

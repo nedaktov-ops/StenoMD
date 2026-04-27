@@ -13,11 +13,12 @@ speeches_count: 15
 laws_proposed: 30
 type: deputy
 committees:
-  - name: "Health"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Health
+  role: member
+- name: Defense
+  role: member
 ---
+
 
 ai_friendly_name: Iagăr Monica
 search_aliases: ["IAGĂR MONICA", "Iagăr Monica", "MONICA", "MONICA, IAGĂR", "Monica", "Monica, Iagăr", "iagăr monica", "monica"]

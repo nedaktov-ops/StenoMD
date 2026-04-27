@@ -13,9 +13,10 @@ speeches_count: 18
 laws_proposed: 43
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 
 ai_friendly_name: Ciunt Ionel
 search_aliases: ["CIUNT IONEL", "Ciunt Ionel", "IONEL", "IONEL, CIUNT", "Ionel", "Ionel, Ciunt", "ciunt ionel", "ionel"]

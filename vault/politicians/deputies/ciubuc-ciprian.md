@@ -13,9 +13,10 @@ speeches_count: 30
 laws_proposed: 15
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 
 ai_friendly_name: Ciubuc Ciprian
 search_aliases: ["CIPRIAN", "CIPRIAN, CIUBUC", "CIUBUC CIPRIAN", "Ciprian", "Ciprian, Ciubuc", "Ciubuc Ciprian", "ciprian", "ciubuc ciprian"]

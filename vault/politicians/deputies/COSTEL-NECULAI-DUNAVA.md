@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Costel Neculai DUNAVA
 search_aliases: ["COSTEL DUNAVA", "COSTEL NECULAI DUNAVA", "Costel DUNAVA", "Costel Neculai DUNAVA", "Costel Neculai Dunava", "DUNAVA", "DUNAVA, COSTEL", "DUNAVA, Costel", "costel dunava", "costel neculai dunava", "dunava"]
 votes_cast: 4

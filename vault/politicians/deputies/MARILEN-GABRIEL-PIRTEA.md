@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Marilen - Gabriel PIRTEA
 search_aliases: ["MARILEN - GABRIEL PIRTEA", "MARILEN PIRTEA", "Marilen - Gabriel PIRTEA", "Marilen - Gabriel Pirtea", "Marilen PIRTEA", "PIRTEA", "PIRTEA, MARILEN", "PIRTEA, Marilen", "marilen - gabriel pirtea", "marilen pirtea", "pirtea"]
 votes_cast: 5

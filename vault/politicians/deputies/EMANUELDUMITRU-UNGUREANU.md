@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Emanuel-Dumitru UNGUREANU
 search_aliases: ["EMANUEL UNGUREANU", "EMANUEL-DUMITRU UNGUREANU", "Emanuel UNGUREANU", "Emanuel-Dumitru UNGUREANU", "Emanuel-Dumitru Ungureanu", "UNGUREANU", "UNGUREANU, EMANUEL", "UNGUREANU, Emanuel", "emanuel ungureanu", "emanuel-dumitru ungureanu", "ungureanu"]
 votes_cast: 6

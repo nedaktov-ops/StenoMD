@@ -13,11 +13,12 @@ speeches_count: 3
 laws_proposed: 11
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
+- name: Defense
+  role: member
 ---
+
 
 ai_friendly_name: Răducanu Sebastian
 search_aliases: ["RĂDUCANU SEBASTIAN", "Răducanu Sebastian", "SEBASTIAN", "SEBASTIAN, RĂDUCANU", "Sebastian", "Sebastian, Răducanu", "răducanu sebastian", "sebastian"]

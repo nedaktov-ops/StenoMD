@@ -13,9 +13,10 @@ speeches_count: 5
 laws_proposed: 36
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
+- name: Agriculture
+  role: member
 ---
+
 
 ai_friendly_name: Plujar Andrei George
 search_aliases: ["GEORGE", "GEORGE, PLUJAR", "George", "George, Plujar", "PLUJAR ANDREI GEORGE", "PLUJAR GEORGE", "Plujar Andrei George", "Plujar George", "george", "plujar andrei george", "plujar george"]

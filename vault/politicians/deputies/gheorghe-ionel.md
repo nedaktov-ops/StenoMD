@@ -13,9 +13,10 @@ speeches_count: 9
 laws_proposed: 29
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
+- name: Economic Policies
+  role: member
 ---
+
 
 ai_friendly_name: Gheorghe Ionel
 search_aliases: ["GHEORGHE IONEL", "Gheorghe Ionel", "IONEL", "IONEL, GHEORGHE", "Ionel", "Ionel, Gheorghe", "gheorghe ionel", "ionel"]

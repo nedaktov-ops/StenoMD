@@ -22,6 +22,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Eduard-Virgil KOLER
 search_aliases: ["EDUARD KOLER", "EDUARD-VIRGIL KOLER", "Eduard KOLER", "Eduard-Virgil KOLER", "Eduard-Virgil Koler", "KOLER", "KOLER, EDUARD", "KOLER, Eduard", "eduard koler", "eduard-virgil koler", "koler"]
 votes_cast: 3

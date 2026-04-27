@@ -13,13 +13,14 @@ speeches_count: 9
 laws_proposed: 23
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Agriculture"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Budget, Finance
+  role: member
+- name: Agriculture
+  role: member
 ---
+
 
 ai_friendly_name: Sandu Viorica
 search_aliases: ["SANDU VIORICA", "Sandu Viorica", "VIORICA", "VIORICA, SANDU", "Viorica", "Viorica, Sandu", "sandu viorica", "viorica"]

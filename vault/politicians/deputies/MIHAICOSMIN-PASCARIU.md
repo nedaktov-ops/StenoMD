@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Mihai-Cosmin PASCARIU
 search_aliases: ["MIHAI PASCARIU", "MIHAI-COSMIN PASCARIU", "Mihai PASCARIU", "Mihai-Cosmin PASCARIU", "Mihai-Cosmin Pascariu", "PASCARIU", "PASCARIU, MIHAI", "PASCARIU, Mihai", "mihai pascariu", "mihai-cosmin pascariu", "pascariu"]
 votes_cast: 6

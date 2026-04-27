@@ -9,6 +9,10 @@ vault/.obsidian/
 # Graphify generated output (recreate with /graphify vault)
 Graphify/graphify-out/
 vault/graphify-out/
+graphify-out/
+
+# Knowledge graph databases (generated)
+knowledge_graph/*.db
 
 # Configuration (SECURITY - sensitive overrides)
 scripts/*.env
@@ -31,3 +35,7 @@ scripts/.watcher_state.json
 backups/
 archive/
 *.bak
+backup_*.txt
+
+# Copilot / AI index files
+vault/.smart-env/

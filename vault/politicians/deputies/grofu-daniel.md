@@ -13,11 +13,12 @@ speeches_count: 6
 laws_proposed: 32
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
-  - name: "Defense"
-    role: "member"
+- name: Public Administration
+  role: member
+- name: Defense
+  role: member
 ---
+
 
 ai_friendly_name: Grofu Daniel
 search_aliases: ["DANIEL", "DANIEL, GROFU", "Daniel", "Daniel, Grofu", "GROFU DANIEL", "Grofu Daniel", "daniel", "grofu daniel"]

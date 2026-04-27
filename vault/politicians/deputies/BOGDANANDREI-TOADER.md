@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Bogdan-Andrei TOADER
 search_aliases: ["BOGDAN TOADER", "BOGDAN-ANDREI TOADER", "Bogdan TOADER", "Bogdan-Andrei TOADER", "Bogdan-Andrei Toader", "TOADER", "TOADER, BOGDAN", "TOADER, Bogdan", "bogdan toader", "bogdan-andrei toader", "toader"]
 votes_cast: 6

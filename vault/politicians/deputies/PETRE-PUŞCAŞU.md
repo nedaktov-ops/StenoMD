@@ -17,6 +17,7 @@ type: deputy
 motions: 9
 ---
 
+
 ai_friendly_name: Petre PUŞCAŞU
 search_aliases: ["PETRE PUŞCAŞU", "PUŞCAŞU", "PUŞCAŞU, PETRE", "PUŞCAŞU, Petre", "Petre PUŞCAŞU", "Petre Puşcaşu", "petre puşcaşu", "puşcaşu"]
 votes_cast: 6

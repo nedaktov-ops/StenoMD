@@ -13,13 +13,14 @@ speeches_count: 8
 laws_proposed: 28
 type: deputy
 committees:
-  - name: "Economic Policies"
-    role: "member"
-  - name: "Industries and Services"
-    role: "member"
-  - name: "Industries and Services"
-    role: "member"
+- name: Economic Policies
+  role: member
+- name: Industries and Services
+  role: member
+- name: Industries and Services
+  role: member
 ---
+
 
 ai_friendly_name: Plopeanu Rodica
 search_aliases: ["PLOPEANU RODICA", "Plopeanu Rodica", "RODICA", "RODICA, PLOPEANU", "Rodica", "Rodica, Plopeanu", "plopeanu rodica", "rodica"]

@@ -14,6 +14,7 @@ laws_proposed: 13
 type: deputy
 ---
 
+
 ai_friendly_name: Alecu Robert
 search_aliases: ["ALECU ROBERT", "Alecu Robert", "ROBERT", "ROBERT, ALECU", "Robert", "Robert, Alecu", "alecu robert", "robert"]
 votes_cast: 6

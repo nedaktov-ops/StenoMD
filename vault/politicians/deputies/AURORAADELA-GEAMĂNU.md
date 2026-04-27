@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Aurora-Adela GEAMĂNU
 search_aliases: ["AURORA GEAMĂNU", "AURORA-ADELA GEAMĂNU", "Aurora GEAMĂNU", "Aurora-Adela GEAMĂNU", "Aurora-Adela Geamănu", "GEAMĂNU", "GEAMĂNU, AURORA", "GEAMĂNU, Aurora", "aurora geamănu", "aurora-adela geamănu", "geamănu"]
 votes_cast: 6

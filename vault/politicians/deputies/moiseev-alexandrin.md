@@ -13,9 +13,10 @@ speeches_count: 17
 laws_proposed: 9
 type: deputy
 committees:
-  - name: "Human Rights"
-    role: "member"
+- name: Human Rights
+  role: member
 ---
+
 
 ai_friendly_name: Moiseev Alexandrin
 search_aliases: ["ALEXANDRIN", "ALEXANDRIN, MOISEEV", "Alexandrin", "Alexandrin, Moiseev", "MOISEEV ALEXANDRIN", "Moiseev Alexandrin", "alexandrin", "moiseev alexandrin"]

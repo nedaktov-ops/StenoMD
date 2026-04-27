@@ -13,9 +13,10 @@ speeches_count: 4
 laws_proposed: 32
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
+- name: Public Administration
+  role: member
 ---
+
 
 ai_friendly_name: Matei Aneta
 search_aliases: ["ANETA", "ANETA, MATEI", "Aneta", "Aneta, Matei", "MATEI ANETA", "Matei Aneta", "aneta", "matei aneta"]

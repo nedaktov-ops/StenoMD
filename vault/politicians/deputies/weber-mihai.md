@@ -13,9 +13,10 @@ speeches_count: 3
 laws_proposed: 6
 type: deputy
 committees:
-  - name: "Defense"
-    role: "member"
+- name: Defense
+  role: member
 ---
+
 
 ai_friendly_name: Weber Mihai
 search_aliases: ["MIHAI", "MIHAI, WEBER", "Mihai", "Mihai, Weber", "WEBER MIHAI", "Weber Mihai", "mihai", "weber mihai"]

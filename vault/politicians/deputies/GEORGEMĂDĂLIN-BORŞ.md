@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: George-Mădălin BORŞ
 search_aliases: ["BORŞ", "BORŞ, GEORGE", "BORŞ, George", "GEORGE BORŞ", "GEORGE-MĂDĂLIN BORŞ", "George BORŞ", "George-Mădălin BORŞ", "George-Mădălin Borş", "borş", "george borş", "george-mădălin borş"]
 votes_cast: 6

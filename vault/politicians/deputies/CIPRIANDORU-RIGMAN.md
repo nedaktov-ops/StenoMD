@@ -23,6 +23,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Ciprian-Doru RIGMAN
 search_aliases: ["CIPRIAN RIGMAN", "CIPRIAN-DORU RIGMAN", "Ciprian RIGMAN", "Ciprian-Doru RIGMAN", "Ciprian-Doru Rigman", "RIGMAN", "RIGMAN, CIPRIAN", "RIGMAN, Ciprian", "ciprian rigman", "ciprian-doru rigman", "rigman"]
 votes_cast: 6

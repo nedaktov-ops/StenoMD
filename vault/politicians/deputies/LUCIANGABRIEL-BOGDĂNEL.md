@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Lucian-Gabriel BOGDĂNEL
 search_aliases: ["BOGDĂNEL", "BOGDĂNEL, LUCIAN", "BOGDĂNEL, Lucian", "LUCIAN BOGDĂNEL", "LUCIAN-GABRIEL BOGDĂNEL", "Lucian BOGDĂNEL", "Lucian-Gabriel BOGDĂNEL", "Lucian-Gabriel Bogdănel", "bogdănel", "lucian bogdănel", "lucian-gabriel bogdănel"]
 votes_cast: 6

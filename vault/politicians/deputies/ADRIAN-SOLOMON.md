@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Adrian SOLOMON
 search_aliases: ["ADRIAN SOLOMON", "Adrian SOLOMON", "Adrian Solomon", "SOLOMON", "SOLOMON, ADRIAN", "SOLOMON, Adrian", "adrian solomon", "solomon"]
 votes_cast: 4

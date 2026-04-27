@@ -13,9 +13,10 @@ speeches_count: 3
 laws_proposed: 9
 type: deputy
 committees:
-  - name: "Foreign Policy"
-    role: "member"
+- name: Foreign Policy
+  role: member
 ---
+
 
 ai_friendly_name: Furtună Mirela
 search_aliases: ["FURTUNĂ MIRELA", "Furtună Mirela", "MIRELA", "MIRELA, FURTUNĂ", "Mirela", "Mirela, Furtună", "furtună mirela", "mirela"]

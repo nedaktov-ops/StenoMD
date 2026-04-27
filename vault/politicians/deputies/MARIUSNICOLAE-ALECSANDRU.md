@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Marius-Nicolae ALECSANDRU
 search_aliases: ["ALECSANDRU", "ALECSANDRU, MARIUS", "ALECSANDRU, Marius", "MARIUS ALECSANDRU", "MARIUS-NICOLAE ALECSANDRU", "Marius ALECSANDRU", "Marius-Nicolae ALECSANDRU", "Marius-Nicolae Alecsandru", "alecsandru", "marius alecsandru", "marius-nicolae alecsandru"]
 votes_cast: 6

@@ -36,6 +36,22 @@ from validators import DataValidator
 from memory import MemoryStore
 from resolve.entity_resolver import EntityResolver
 
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "scripts"))
+
+try:
+    from config import get_config
+    config = get_config()
+    DATA_DIR = config.DATA_DIR / "senate"
+    KG_DIR = config.KG_DIR
+    VAULT_DIR = config.VAULT_DIR
+except ImportError:
+    SCRIPT_DIR = Path(__file__).parent.parent.parent
+    DATA_DIR = SCRIPT_DIR / "data" / "senate"
+    KG_DIR = SCRIPT_DIR / "knowledge_graph"
+    VAULT_DIR = SCRIPT_DIR / "vault"
+
+BASE_URL = "https://www.senat.ro"
+
 PROGRESS_FILE = Path("/tmp/stenomd_progress_senate.json")
 
 def write_progress(chamber: str, current: int, total: int, session_name: str):
@@ -47,12 +63,6 @@ def write_progress(chamber: str, current: int, total: int, session_name: str):
         "session": session_name,
         "timestamp": datetime.now().isoformat()
     }))
-
-BASE_URL = "https://www.senat.ro"
-SCRIPT_DIR = Path(__file__).parent.parent.parent
-DATA_DIR = SCRIPT_DIR / "data" / "senate"
-KG_DIR = SCRIPT_DIR / "knowledge_graph"
-VAULT_DIR = SCRIPT_DIR / "vault"
 
 SENATOR_PATTERN = re.compile(
     r'domnul\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)',

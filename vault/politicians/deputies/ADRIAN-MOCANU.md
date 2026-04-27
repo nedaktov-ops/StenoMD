@@ -16,6 +16,7 @@ original_elected_party: PNL
 type: deputy
 ---
 
+
 ai_friendly_name: Adrian MOCANU
 search_aliases: ["ADRIAN MOCANU", "Adrian MOCANU", "Adrian Mocanu", "MOCANU", "MOCANU, ADRIAN", "MOCANU, Adrian", "adrian mocanu", "mocanu"]
 votes_cast: 5

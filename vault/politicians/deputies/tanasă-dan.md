@@ -13,11 +13,12 @@ speeches_count: 33
 laws_proposed: 21
 type: deputy
 committees:
-  - name: "Public Administration"
-    role: "member"
-  - name: "Legal"
-    role: "member"
+- name: Public Administration
+  role: member
+- name: Legal
+  role: member
 ---
+
 
 ai_friendly_name: Tanasă Dan
 search_aliases: ["DAN", "DAN, TANASĂ", "Dan", "Dan, Tanasă", "TANASĂ DAN", "Tanasă Dan", "dan", "tanasă dan"]

@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Tiberiu-Claudiu BARSTAN
 search_aliases: ["BARSTAN", "BARSTAN, TIBERIU", "BARSTAN, Tiberiu", "TIBERIU BARSTAN", "TIBERIU-CLAUDIU BARSTAN", "Tiberiu BARSTAN", "Tiberiu-Claudiu BARSTAN", "Tiberiu-Claudiu Barstan", "barstan", "tiberiu barstan", "tiberiu-claudiu barstan"]
 votes_cast: 6

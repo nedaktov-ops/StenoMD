@@ -15,9 +15,10 @@ stable_id: pol_placeholder
 original_elected_party: PSD
 type: deputy
 committees:
-  - name: "Industries and Services"
-    role: "member"
+- name: Industries and Services
+  role: member
 ---
+
 
 ai_friendly_name: Bogdan Gheorghe Trif
 search_aliases: ["BOGDAN GHEORGHE TRIF", "BOGDAN TRIF", "Bogdan Gheorghe Trif", "Bogdan Trif", "TRIF", "TRIF, BOGDAN", "Trif", "Trif, Bogdan", "bogdan gheorghe trif", "bogdan trif", "trif"]

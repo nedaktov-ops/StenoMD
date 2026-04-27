@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Ştefan-Alexandru BĂIŞANU
 search_aliases: ["BĂIŞANU", "BĂIŞANU, ŞTEFAN", "BĂIŞANU, Ştefan", "băişanu", "ŞTEFAN BĂIŞANU", "ŞTEFAN-ALEXANDRU BĂIŞANU", "Ştefan BĂIŞANU", "Ştefan-Alexandru BĂIŞANU", "Ştefan-Alexandru Băişanu", "ştefan băişanu", "ştefan-alexandru băişanu"]
 votes_cast: 6

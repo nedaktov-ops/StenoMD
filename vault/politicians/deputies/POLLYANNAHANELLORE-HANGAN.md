@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Pollyanna-Hanellore HANGAN
 search_aliases: ["HANGAN", "HANGAN, POLLYANNA", "HANGAN, Pollyanna", "POLLYANNA HANGAN", "POLLYANNA-HANELLORE HANGAN", "Pollyanna HANGAN", "Pollyanna-Hanellore HANGAN", "Pollyanna-Hanellore Hangan", "hangan", "pollyanna hangan", "pollyanna-hanellore hangan"]
 votes_cast: 6

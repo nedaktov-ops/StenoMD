@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Dumitrina MITREA
 search_aliases: ["DUMITRINA MITREA", "Dumitrina MITREA", "Dumitrina Mitrea", "MITREA", "MITREA, DUMITRINA", "MITREA, Dumitrina", "dumitrina mitrea", "mitrea"]
 votes_cast: 5

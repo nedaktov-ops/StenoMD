@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Marius-Adrian ISAC
 search_aliases: ["ISAC", "ISAC, MARIUS", "ISAC, Marius", "MARIUS ISAC", "MARIUS-ADRIAN ISAC", "Marius ISAC", "Marius-Adrian ISAC", "Marius-Adrian Isac", "isac", "marius isac", "marius-adrian isac"]
 votes_cast: 6

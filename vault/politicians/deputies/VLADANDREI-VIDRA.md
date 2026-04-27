@@ -22,6 +22,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Vlad-Andrei VIDRA
 search_aliases: ["VIDRA", "VIDRA, VLAD", "VIDRA, Vlad", "VLAD VIDRA", "VLAD-ANDREI VIDRA", "Vlad VIDRA", "Vlad-Andrei VIDRA", "Vlad-Andrei Vidra", "vidra", "vlad vidra", "vlad-andrei vidra"]
 votes_cast: 5

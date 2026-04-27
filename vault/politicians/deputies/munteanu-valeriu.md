@@ -13,9 +13,10 @@ speeches_count: 25
 laws_proposed: 30
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 
 ai_friendly_name: Munteanu Valeriu
 search_aliases: ["MUNTEANU VALERIU", "Munteanu Valeriu", "VALERIU", "VALERIU, MUNTEANU", "Valeriu", "Valeriu, Munteanu", "munteanu valeriu", "valeriu"]

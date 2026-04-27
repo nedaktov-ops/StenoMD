@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor
 search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, NATALIA", "Deputaţilor", "Deputaţilor, Natalia", "NATALIA DEPUTAŢILOR", "NATALIA-ELENA INTOTEROVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR", "Natalia Deputaţilor", "Natalia-Elena INTOTEROvicepreşedinte al Camerei Deputaţilor", "Natalia-Elena Intoterovicepreşedinte Al Camerei Deputaţilor", "deputaţilor", "natalia deputaţilor", "natalia-elena intoterovicepreşedinte al camerei deputaţilor"]
 votes_cast: 6

@@ -14,6 +14,7 @@ laws_proposed: 29
 type: deputy
 ---
 
+
 ai_friendly_name: Cernit Maria
 search_aliases: ["CERNIT MARIA", "Cernit Maria", "MARIA", "MARIA, CERNIT", "Maria", "Maria, Cernit", "cernit maria", "maria"]
 votes_cast: 6

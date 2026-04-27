@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Eduard-Tatian MITITELU
 search_aliases: ["EDUARD MITITELU", "EDUARD-TATIAN MITITELU", "Eduard MITITELU", "Eduard-Tatian MITITELU", "Eduard-Tatian Mititelu", "MITITELU", "MITITELU, EDUARD", "MITITELU, Eduard", "eduard mititelu", "eduard-tatian mititelu", "mititelu"]
 votes_cast: 5

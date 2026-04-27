@@ -17,6 +17,7 @@ type: deputy
 motions: 1
 ---
 
+
 ai_friendly_name: Radu-Mihail IONESCU
 search_aliases: ["IONESCU", "IONESCU, RADU", "IONESCU, Radu", "RADU IONESCU", "RADU-MIHAIL IONESCU", "Radu IONESCU", "Radu-Mihail IONESCU", "Radu-Mihail Ionescu", "ionescu", "radu ionescu", "radu-mihail ionescu"]
 votes_cast: 6

@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Mihai-Claudiu GHEORGHE
 search_aliases: ["GHEORGHE", "GHEORGHE, MIHAI", "GHEORGHE, Mihai", "MIHAI GHEORGHE", "MIHAI-CLAUDIU GHEORGHE", "Mihai GHEORGHE", "Mihai-Claudiu GHEORGHE", "Mihai-Claudiu Gheorghe", "gheorghe", "mihai gheorghe", "mihai-claudiu gheorghe"]
 votes_cast: 6

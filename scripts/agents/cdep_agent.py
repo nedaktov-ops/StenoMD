@@ -83,12 +83,23 @@ from validators import DataValidator
 from memory import MemoryStore
 from resolve.entity_resolver import EntityResolver
 
-# Configuration
+# Add parent to path for config
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "scripts"))
+
+try:
+    from config import get_config
+    config = get_config()
+    DATA_DIR = config.DATA_DIR / "cdep"
+    KG_DIR = config.KG_DIR
+    VAULT_DIR = config.VAULT_DIR
+    CACHE_TTL = config.CACHE_TTL
+except ImportError:
+    SCRIPT_DIR = Path(__file__).parent.parent.parent
+    DATA_DIR = SCRIPT_DIR / "data" / "cdep"
+    KG_DIR = SCRIPT_DIR / "knowledge_graph"
+    VAULT_DIR = SCRIPT_DIR / "vault"
+
 BASE_URL = "https://www.cdep.ro"
-SCRIPT_DIR = Path(__file__).parent.parent.parent
-DATA_DIR = SCRIPT_DIR / "data" / "cdep"
-KG_DIR = SCRIPT_DIR / "knowledge_graph"
-VAULT_DIR = SCRIPT_DIR / "vault"
 
 # Enhanced regex patterns for Romanian diacritics
 # Pattern for extracting names from HTML with font tags (the actual format in cdep.ro)

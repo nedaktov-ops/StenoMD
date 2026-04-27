@@ -16,6 +16,7 @@ original_elected_party: USR
 type: deputy
 ---
 
+
 ai_friendly_name: Ovidiu-Romulus PARASCHIVESCU
 search_aliases: ["OVIDIU PARASCHIVESCU", "OVIDIU-ROMULUS PARASCHIVESCU", "Ovidiu PARASCHIVESCU", "Ovidiu-Romulus PARASCHIVESCU", "Ovidiu-Romulus Paraschivescu", "PARASCHIVESCU", "PARASCHIVESCU, OVIDIU", "PARASCHIVESCU, Ovidiu", "ovidiu paraschivescu", "ovidiu-romulus paraschivescu", "paraschivescu"]
 votes_cast: 6

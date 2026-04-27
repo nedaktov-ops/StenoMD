@@ -14,9 +14,10 @@ speeches_count: 8
 laws_proposed: 33
 type: deputy
 committees:
-  - name: "Legal"
-    role: "member"
+- name: Legal
+  role: member
 ---
+
 
 ai_friendly_name: Lovin Ramona
 search_aliases: ["LOVIN RAMONA", "Lovin Ramona", "RAMONA", "RAMONA, LOVIN", "Ramona", "Ramona, Lovin", "lovin ramona", "ramona"]

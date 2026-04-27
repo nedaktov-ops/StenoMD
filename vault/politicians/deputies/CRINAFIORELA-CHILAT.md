@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Crina-Fiorela CHILAT
 search_aliases: ["CHILAT", "CHILAT, CRINA", "CHILAT, Crina", "CRINA CHILAT", "CRINA-FIORELA CHILAT", "Crina CHILAT", "Crina-Fiorela CHILAT", "Crina-Fiorela Chilat", "chilat", "crina chilat", "crina-fiorela chilat"]
 votes_cast: 6

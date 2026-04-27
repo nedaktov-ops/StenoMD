@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Sorin NĂCUŢĂ
 search_aliases: ["NĂCUŢĂ", "NĂCUŢĂ, SORIN", "NĂCUŢĂ, Sorin", "SORIN NĂCUŢĂ", "Sorin NĂCUŢĂ", "Sorin Năcuţă", "năcuţă", "sorin năcuţă"]
 votes_cast: 6

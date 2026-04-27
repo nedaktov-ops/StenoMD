@@ -13,9 +13,10 @@ speeches_count: 4
 laws_proposed: 38
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 
 ai_friendly_name: Vulpoiu Dorel
 search_aliases: ["DOREL", "DOREL, VULPOIU", "Dorel", "Dorel, Vulpoiu", "VULPOIU DOREL", "Vulpoiu Dorel", "dorel", "vulpoiu dorel"]

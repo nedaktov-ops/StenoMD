@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: MOLNAR Andrei
 search_aliases: ["ANDREI", "ANDREI, MOLNAR", "Andrei", "Andrei, MOLNAR", "MOLNAR ANDREI", "MOLNAR Andrei", "Molnar Andrei", "andrei", "molnar andrei"]
 votes_cast: 6

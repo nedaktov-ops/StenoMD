@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Cosmin ANDREI
 search_aliases: ["ANDREI", "ANDREI, COSMIN", "ANDREI, Cosmin", "COSMIN ANDREI", "Cosmin ANDREI", "Cosmin Andrei", "andrei", "cosmin andrei"]
 votes_cast: 5

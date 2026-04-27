@@ -13,9 +13,10 @@ speeches_count: 114
 laws_proposed: 18
 type: deputy
 committees:
-  - name: "Labour"
-    role: "member"
+- name: Labour
+  role: member
 ---
+
 
 ai_friendly_name: Coarnă Dumitru
 search_aliases: ["COARNĂ DUMITRU", "Coarnă Dumitru", "DUMITRU", "DUMITRU, COARNĂ", "Dumitru", "Dumitru, Coarnă", "coarnă dumitru", "dumitru"]

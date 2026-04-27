@@ -13,9 +13,10 @@ speeches_count: 0
 laws_proposed: 14
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
+- name: Budget, Finance
+  role: member
 ---
+
 
 ai_friendly_name: Popa Maricel
 search_aliases: ["MARICEL", "MARICEL, POPA", "Maricel", "Maricel, Popa", "POPA MARICEL", "Popa Maricel", "maricel", "popa maricel"]

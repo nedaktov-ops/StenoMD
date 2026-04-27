@@ -20,6 +20,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Aurora-Tasica SIMU
 search_aliases: ["AURORA SIMU", "AURORA-TASICA SIMU", "Aurora SIMU", "Aurora-Tasica SIMU", "Aurora-Tasica Simu", "SIMU", "SIMU, AURORA", "SIMU, Aurora", "aurora simu", "aurora-tasica simu", "simu"]
 votes_cast: 6

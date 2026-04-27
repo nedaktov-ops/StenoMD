@@ -13,9 +13,10 @@ speeches_count: 6
 laws_proposed: 21
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
+- name: Budget, Finance
+  role: member
 ---
+
 
 ai_friendly_name: Echert Adrian
 search_aliases: ["ADRIAN", "ADRIAN, ECHERT", "Adrian", "Adrian, Echert", "ECHERT ADRIAN", "Echert Adrian", "adrian", "echert adrian"]

@@ -15,11 +15,12 @@ stable_id: pol_placeholder
 original_elected_party: SOS
 type: deputy
 committees:
-  - name: "Budget, Finance"
-    role: "member"
-  - name: "Health"
-    role: "member"
+- name: Budget, Finance
+  role: member
+- name: Health
+  role: member
 ---
+
 
 ai_friendly_name: Ecaterina Mariana Sz
 search_aliases: ["ECATERINA MARIANA SZ", "ECATERINA SZ", "Ecaterina Mariana Sz", "Ecaterina Sz", "SZ", "SZ, ECATERINA", "Sz", "Sz, Ecaterina", "ecaterina mariana sz", "ecaterina sz", "sz"]

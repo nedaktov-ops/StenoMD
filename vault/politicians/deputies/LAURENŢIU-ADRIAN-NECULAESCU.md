@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Laurenţiu Adrian NECULAESCU
 search_aliases: ["LAURENŢIU ADRIAN NECULAESCU", "LAURENŢIU NECULAESCU", "Laurenţiu Adrian NECULAESCU", "Laurenţiu Adrian Neculaescu", "Laurenţiu NECULAESCU", "NECULAESCU", "NECULAESCU, LAURENŢIU", "NECULAESCU, Laurenţiu", "laurenţiu adrian neculaescu", "laurenţiu neculaescu", "neculaescu"]
 votes_cast: 6

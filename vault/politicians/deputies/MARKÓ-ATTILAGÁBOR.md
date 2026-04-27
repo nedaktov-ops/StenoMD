@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: MARKÓ Attila-Gábor
 search_aliases: ["GÁBOR", "GÁBOR, MARKÓ", "Gábor", "Gábor, MARKÓ", "MARKÓ ATTILA-GÁBOR", "MARKÓ Attila-Gábor", "MARKÓ GÁBOR", "MARKÓ Gábor", "Markó Attila-Gábor", "gábor", "markó attila-gábor", "markó gábor"]
 votes_cast: 6

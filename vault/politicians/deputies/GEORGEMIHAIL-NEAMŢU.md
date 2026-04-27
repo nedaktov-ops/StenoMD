@@ -22,6 +22,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: George-Mihail NEAMŢU
 search_aliases: ["GEORGE NEAMŢU", "GEORGE-MIHAIL NEAMŢU", "George NEAMŢU", "George-Mihail NEAMŢU", "George-Mihail Neamţu", "NEAMŢU", "NEAMŢU, GEORGE", "NEAMŢU, George", "george neamţu", "george-mihail neamţu", "neamţu"]
 votes_cast: 14

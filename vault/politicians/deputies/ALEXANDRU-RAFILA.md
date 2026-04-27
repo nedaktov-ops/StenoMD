@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Alexandru RAFILA
 search_aliases: ["ALEXANDRU RAFILA", "Alexandru RAFILA", "Alexandru Rafila", "RAFILA", "RAFILA, ALEXANDRU", "RAFILA, Alexandru", "alexandru rafila", "rafila"]
 votes_cast: 4

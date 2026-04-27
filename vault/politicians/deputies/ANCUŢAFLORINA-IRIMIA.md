@@ -22,6 +22,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Ancuţa-Florina IRIMIA
 search_aliases: ["ANCUŢA IRIMIA", "ANCUŢA-FLORINA IRIMIA", "Ancuţa IRIMIA", "Ancuţa-Florina IRIMIA", "Ancuţa-Florina Irimia", "IRIMIA", "IRIMIA, ANCUŢA", "IRIMIA, Ancuţa", "ancuţa irimia", "ancuţa-florina irimia", "irimia"]
 votes_cast: 6

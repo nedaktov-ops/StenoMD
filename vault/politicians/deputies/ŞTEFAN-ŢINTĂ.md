@@ -19,6 +19,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Ştefan ŢINTĂ
 search_aliases: ["ŞTEFAN ŢINTĂ", "Ştefan ŢINTĂ", "Ştefan Ţintă", "ştefan ţintă", "ŢINTĂ", "ŢINTĂ, ŞTEFAN", "ŢINTĂ, Ştefan", "ţintă"]
 votes_cast: 6

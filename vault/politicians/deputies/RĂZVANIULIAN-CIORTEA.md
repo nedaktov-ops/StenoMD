@@ -21,6 +21,7 @@ committees:
   role: member
 ---
 
+
 ai_friendly_name: Răzvan-Iulian CIORTEA
 search_aliases: ["CIORTEA", "CIORTEA, RĂZVAN", "CIORTEA, Răzvan", "RĂZVAN CIORTEA", "RĂZVAN-IULIAN CIORTEA", "Răzvan CIORTEA", "Răzvan-Iulian CIORTEA", "Răzvan-Iulian Ciortea", "ciortea", "răzvan ciortea", "răzvan-iulian ciortea"]
 votes_cast: 6

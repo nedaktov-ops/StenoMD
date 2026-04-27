@@ -13,11 +13,12 @@ speeches_count: 18
 laws_proposed: 45
 type: deputy
 committees:
-  - name: "Agriculture"
-    role: "member"
-  - name: "Public Administration"
-    role: "member"
+- name: Agriculture
+  role: member
+- name: Public Administration
+  role: member
 ---
+
 
 ai_friendly_name: Goidescu Ionel
 search_aliases: ["GOIDESCU IONEL", "Goidescu Ionel", "IONEL", "IONEL, GOIDESCU", "Ionel", "Ionel, Goidescu", "goidescu ionel", "ionel"]

@@ -100,12 +100,16 @@ def main():
             if op['constituency']:
                 fm['constituency'] = op['constituency']
                 changes.append(f"constituency -> {op['constituency']}")
-            if op['speeches_count'] and (not fm.get('speeches_count') or isinstance(fm.get('speeches_count'), str)):
-                fm['speeches_count'] = op['speeches_count']
-                changes.append(f"speeches_count -> {op['speeches_count']}")
-            if op['laws_proposed'] and (not fm.get('laws_proposed') or isinstance(fm.get('laws_proposed'), str)):
-                fm['laws_proposed'] = op['laws_proposed']
-                changes.append(f"laws_proposed -> {op['laws_proposed']}")
+            # Always set numeric counts: if missing or string, or explicitly want to ensure numeric
+            if 'speeches_count' in op:
+                # Overwrite if not an integer (string placeholder) or if missing
+                if not isinstance(fm.get('speeches_count'), int):
+                    fm['speeches_count'] = int(op['speeches_count'])
+                    changes.append(f"speeches_count -> {op['speeches_count']}")
+            if 'laws_proposed' in op:
+                if not isinstance(fm.get('laws_proposed'), int):
+                    fm['laws_proposed'] = int(op['laws_proposed'])
+                    changes.append(f"laws_proposed -> {op['laws_proposed']}")
             if op['photo_url'] and not fm.get('photo_url'):
                 fm['photo_url'] = op['photo_url']
                 changes.append("photo_url added")
