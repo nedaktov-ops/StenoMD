@@ -93,13 +93,77 @@ KG_DIR = config.KG_DIR
 Environment variables override defaults:
 
 ```bash
+# Core paths
 export STENOMD_DIR=/custom/path
+
+# REST API security
 export STENOMD_ALLOWED_ORIGIN=localhost
+
+# Scraper limits
 export STENOMD_MAX_ID=200
-export STENOMD_DEBUG=true
+export STENOMD_CACHE_TTL=3600
+
+# Logging & debugging
+export STENOMD_LOG_LEVEL=INFO
+export STENOMD_DEBUG=false
+
+# Ollama model for optional AI features (default: qwen2.5-coder:1.5b)
+export STENOMD_OLLAMA_MODEL=qwen2.5-coder:1.5b
+
+## Optional integrations (opt‑in)
+
+# MemPalace long‑term memory (see scripts/memory/mem_palace_backend.py)
+export STENOMD_USE_MEM_PALACE=false
+export STENOMD_MEM_PALACE_DIR=~/.mempalace/stenomd
+
+# Ruflo orchestration (requires ruflo CLI installed)
+export STENOMD_USE_RUFLO=false
+export STENOMD_RUFLO_CONFIG_DIR=.ruflo
 ```
 
 All core scripts should import config instead of hardcoding paths.
+
+---
+
+## Optional Integrations
+
+StenoMD includes several optional components that can be enabled via environment variables. They are disabled by default to keep the core lightweight.
+
+### MemPalace (Long‑Term Memory)
+
+MemPalace provides persistent, semantically searchable memory for the planner agent. When `STENOMD_USE_MEM_PALACE=true`, the `MemoryStore` will write every learned action to a "palace" (JSONL by default; future upgrade to ChromaDB possible). This helps the agent recall past experiences after project restarts.
+
+- Backend: `scripts/memory/mem_palace_backend.py`
+- Data location: `~/.mempalace/stenomd/` (or `STENOMD_MEM_PALACE_DIR`)
+- Enable: `export STENOMD_USE_MEM_PALACE=true`
+
+### Ruflo Orchestration
+
+Ruflo is a multi‑agent orchestration framework that can replace the built‑in `run_daily.py` pipeline. When `STENOMD_USE_RUFLO=true`, the script calls `ruflo swarm` with a generated YAML config, coordinating scrapers, enrichers, and the merge step in parallel/fault‑tolerant workers.
+
+- Bridge: `scripts/orchestration/ruflo_bridge.py`
+- Config generated: `.ruflo/stenomd_pipeline.yaml` (re‑generated on each run)
+- Requires: `ruflo` CLI installed and in PATH
+- Enable: `export STENOMD_USE_RUFLO=true`
+
+### Repomix Wrapper
+
+Repomix packs the codebase into a single AI‑friendly file for context injection. Use the wrapper to generate a consolidated snapshot:
+
+```bash
+python3 scripts/repomix_wrapper.py --output ai_context/stenomix.xml [--compress]
+```
+
+- Wrapper: `scripts/repomix_wrapper.py`
+- Requires: `npm install -g repomix`
+- Output includes: scripts, vault, knowledge_graph, docs (with sensible excludes)
+
+### Superpowers Skills
+
+OpenCode can load the Superpowers skill set from `.opencode/skills/`. These skills provide agent personas and workflows for TDD, sub‑agent‑driven development, systematic debugging, code reviews, and more. Skills are automatically discovered by OpenCode; no configuration needed.
+
+- Skills location: `.opencode/skills/`
+- Learn more: OpenCode skill system docs.
 
 ---
 
