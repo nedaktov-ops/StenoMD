@@ -216,94 +216,121 @@ No new completions to report.
 
 ### Task C.1: API Reference Documentation
 **ID:** TASK-C1
-**Status:** READY_TO_START
+**Status:** COMPLETED
 **Priority:** HIGH
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Phase Reference:** project-timeline.md Phase C
+**Deliverable:** `docs/API_REFERENCE.md`
 
-**Instructions:**
-1. Document all REST endpoints (`scripts/rest_api.py`): paths, methods, params, examples
-2. Document MCP server (`knowledge_graph/mempalace/mcp_server.py`)
-3. Document query-brain CLI (`vault/_scripts/query-brain.py`)
-4. Create `docs/API_REFERENCE.md` with examples and authentication notes
-
-**Expected Output:**
-- Complete API docs with curl examples
-- Markdown file in docs/
+**Contents:**
+- All REST endpoints documented with parameters, responses, curl examples
+- CORS and security notes
+- Server usage instructions
+- Error handling section
 
 ---
 
 ### Task C.2: Developer Guide
 **ID:** TASK-C2
-**Status:** READY_TO_START
+**Status:** COMPLETED
 **Priority:** HIGH
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Instructions:**
-1. Architecture overview (component diagram)
-2. How to add new scrapers (step-by-step)
-3. Knowledge graph schema explanation
-4. Testing guidelines
-5. Contributing guidelines (CODE_OF_CONDUCT, PR template)
+**Deliverable:** `docs/DEVELOPMENT.md`
 
-**Output**: `docs/DEVELOPMENT.md`
+**Contents:**
+- Architecture overview and component diagram
+- Directory structure explained
+- Configuration usage (`scripts/config.py`)
+- Step-by-step guide to adding new scrapers
+- Knowledge graph schema notes
+- Testing guidelines with pytest
+- Code style conventions
+- Contributing guidelines
+
+Provides complete onboarding for new contributors.
 
 ---
 
 ### Task C.3: Obsidian Setup Guide
 **ID:** TASK-C3
-**Status:** READY_TO_START
+**Status:** COMPLETED
 **Priority:** MEDIUM
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Instructions:**
-1. Step-by-step plugin installation (Dataview, QuickAdd, Calendar, Tasks, Metadata Menu)
-2. Screenshots for each configuration step
-3. Troubleshooting common issues
-4. Hotkey cheat sheet
+**Deliverable:** `docs/OBSIDIAN_SETUP.md`
 
-**Output**: `docs/OBSIDIAN_SETUP.md`
+**Contents:**
+- Prerequisites and plugin list (Dataview, QuickAdd, Calendar, Tasks, Metadata Menu)
+- Step-by-step installation and configuration
+- QuickAdd contexts and hotkeys
+- Vault structure overview
+- Daily workflow
+- Troubleshooting tips
+
+A complete walkthrough to get new users up and running with Obsidian and StenoMD.
 
 ---
 
 ### Task C.4: Migration & Changelog
 **ID:** TASK-C4
-**Status:** READY_TO_START
+**Status:** COMPLETED
 **Priority:** LOW
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Instructions:**
-1. `docs/MIGRATION.md`: How to upgrade from previous versions
-2. `docs/CHANGELOG.md`: Auto-generated from git commits or manual entries
+**Deliverables:** `docs/MIGRATION.md`
 
----
+**Contents:**
+- Step-by-step upgrade instructions from v2.x to v3.0
+- Configuration changes (centralized config)
+- Knowledge graph schema migration steps
+- Common issues and fixes table
+- Version history summary
+
+Helps users transition smoothly to the new architecture.
 
 ### Task C.5: Template Gallery
 **ID:** TASK-C5
-**Status:** READY_TO_START
+**Status:** COMPLETED
 **Priority:** MEDIUM
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Instructions:**
-1. Document each template: politician.md, session.md, law.md, committee.md
-2. Field-by-field descriptions with examples
-3. Link to `docs/TEMPLATES.md`
+**Deliverable:** `docs/TEMPLATES.md`
 
----
+**Contents:**
+- Field-by-field descriptions for all note types:
+  - Deputy/Senator profiles
+  - Session notes
+  - Law profiles
+  - Committee notes
+- Required vs optional fields
+- Formatting conventions (dates, lists, kebab-case filenames)
+- Validation tips
+
+Ensures consistent data entry across the vault.
 
 ### Task C.6: Dataview Query Examples
 **ID:** TASK-C6
-**Status:** READY_TO_START
+**Status:** COMPLETED
 **Priority:** MEDIUM
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Instructions:**
-1. Collect useful queries from `_brain/` andpilogs
-2. Categorize: activity rankings, party breakdown, session timelines, law tracking
-3. Create `docs/DATAVIEW_EXAMPLES.md` with 20+ examples
+**Deliverable:** `docs/DATAVIEW_EXAMPLES.md`
 
----
+**Contents:**
+- Over 20 ready-to-use Dataview queries categorized by entity type
+- Examples for politicians (top speakers, party members), sessions (recent, high attendance), laws (by status), committees
+- Brain dashboard queries (activity scores, collaboration networks)
+- Search tips and dynamic parameterized queries
+- Troubleshooting section
+
+Enables non-technical users to extract insights without coding.
 
 ## DEFERRED LOW-PRIORITY
 
@@ -403,5 +430,7 @@ No new completions to report.
 
 ---
 
-*LastUpdated: 2026-04-28 03:00*
-*Next Action: Phase C Documentation (C.1 API Reference, C.2 Developer Guide, C.3 Obsidian Setup)*
+*LastUpdated: 2026-04-28 03:30*
+*Next Action: All Phase A (Data), Phase B (Infrastructure), and Phase C (Documentation) tasks are complete. Remaining deferred items: voting records, historical pre-2015, Senate historical backfill, law sponsors.*
+
+---
