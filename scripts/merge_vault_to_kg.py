@@ -137,6 +137,13 @@ def merge_vault_to_kg():
                 participants = extract_participants_from_session(session_file)
                 mp_set.update(participants)
                 
+                # Get deputy_count (if present, else fallback to participants count)
+                dc = metadata.get('deputy_count')
+                try:
+                    deputy_count_val = int(dc) if dc is not None else len(participants)
+                except (ValueError, TypeError):
+                    deputy_count_val = len(participants)
+                
                 # Extract laws
                 for law in laws:
                     if law and law not in ['None', '']:
@@ -152,6 +159,7 @@ def merge_vault_to_kg():
                         'title': title,
                         'url': url,
                         'participants': participants,
+                        'deputy_count': deputy_count_val,
                         'source': 'vault'
                     })
                 
@@ -184,6 +192,13 @@ def merge_vault_to_kg():
                 # Extract participants
                 participants = extract_participants_from_session(session_file)
                 
+                # Get deputy_count (if present, else fallback to participants count)
+                dc = metadata.get('deputy_count')
+                try:
+                    deputy_count_val = int(dc) if dc is not None else len(participants)
+                except (ValueError, TypeError):
+                    deputy_count_val = len(participants)
+                
                 # Create session
                 session_id = date or session_file.stem
                 if session_id not in existing_entities['sessions']:
@@ -194,6 +209,7 @@ def merge_vault_to_kg():
                         'title': title,
                         'url': url,
                         'participants': participants,
+                        'deputy_count': deputy_count_val,
                         'source': 'vault'
                     })
                 
