@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """Tests for senat_agent.py - senate scraper patterns."""
 
-import re
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "scripts"))
+
+# Import actual patterns from senat_agent to ensure module load coverage
+from agents.senat_agent import SENATOR_PATTERN, NAME_PATTERN
 
 
 def test_senator_pattern():
-    SENATOR_PATTERN = re.compile(
-        r'domnul\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)',
-        re.IGNORECASE
-    )
-    
     text = "domnul Mihai Coteț a luat cuvîntul."
     match = SENATOR_PATTERN.search(text)
     assert match is not None
@@ -17,12 +18,7 @@ def test_senator_pattern():
 
 
 def test_senator_pattern_female():
-    # Pattern for female honorific 'doamna'
-    NAME_PATTERN = re.compile(
-        r'doamna\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)',
-        re.IGNORECASE
-    )
-    # Should match "doamna" due to pattern using 'doamna'
+    # Should match "doamna" because NAME_PATTERN uses 'doamna'
     text = "doamna Ana Birchall a intervenit."
     match = NAME_PATTERN.search(text)
     assert match is not None
@@ -30,12 +26,13 @@ def test_senator_pattern_female():
 
 
 def test_pdf_name_extraction():
-    # Test extracting name from PDF-derived text
+    # Test extracting name from PDF-derived text using SENATOR_PATTERN (Domnul)
     text = "Domnul VASILE BLAGA.\nPreşedinte Senat."
-    pattern = re.compile(r'Domnul\s+([A-ZĂÂÎȘȚ][a-zăâîșț]+(?:\s+[A-ZĂÂÎȘȚ][a-zăâîșț]+)+)', re.IGNORECASE)
-    match = pattern.search(text)
+    match = SENATOR_PATTERN.search(text)
     assert match is not None
-    assert "VASILE BLAGA" in match.group(1) or "Vasile Blaga" in match.group(1)
+    # The match may preserve case; ensure it contains VASILE BLAGA (case-insensitive)
+    matched = match.group(1).upper()
+    assert "VASILE" in matched and "BLAGA" in matched
 
 
 if __name__ == "__main__":
