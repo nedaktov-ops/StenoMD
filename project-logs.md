@@ -3793,3 +3793,45 @@ current_status:
 **Result:** StenoMD now includes a rich library of OpenCode skills for development workflows.
 
 ---
+
+---
+
+**Task:** Phase 5 - Documentation Best Practices Update (COMPLETED)
+**Started:** 2026-04-28 19:15
+**Completed:** 2026-04-28 19:25
+
+**Actions Taken:**
+- Updated `docs/DEVELOPMENT.md`:
+  * Expanded environment variables list to include new integration flags (MemPalace, Ruflo, Repomix).
+  * Added "Optional Integrations" section documenting MemPalace, Ruflo, Repomix, and Superpowers skills.
+- Created `docs/BEST_PRACTICES.md`:
+  * Consolidated essential OpenCode commands for StenoMD.
+  * Covered workflow, permission hygiene, testing, verification patterns, skill usage, and pitfalls.
+  * Adapted community tips (Boris Cherny, Claude Code best practice) to StenoMD context.
+
+**Deliverables:**
+- `docs/DEVELOPMENT.md` (updated)
+- `docs/BEST_PRACTICES.md` (new)
+
+**Status:** ✅ Complete – documentation aligned with project capabilities.
+
+---
+
+**Task:** Phase 6 - MiroThinker Integration (COMPLETED)
+**Started:** 2026-04-28 19:25
+**Completed:** 2026-04-28 19:35
+
+**Actions Taken:**
+- Created `scripts/export_miro.py` – exports knowledge graph entities to Miro‑compatible CSV decks.
+- Outputs three CSV files:
+  * `politicians.csv` – MPs with party, committees, activity counts.
+  * `sessions.csv` – Parliamentary sessions with dates, chambers, deputy counts.
+  * `laws.csv` – Laws/proposals with titles, chambers, sponsor counts.
+- Simple CLI: `python3 scripts/export_miro.py --outdir miro_export`
+- Tested successfully with current KG (730 persons, 88 sessions, 123 laws).
+
+**Result:** StenoMD data can now be imported into Miro as card decks for visual exploration and team workshops.
+
+**Status:** ✅ Complete – non‑destructive utility, no external dependencies.
+
+---
