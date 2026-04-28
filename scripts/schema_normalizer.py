@@ -11,8 +11,15 @@ from datetime import datetime
 from typing import Dict, Any, List, Optional, Tuple
 import yaml
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-VAULT_DIR = PROJECT_DIR / "vault"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    VAULT_DIR = config.VAULT_DIR
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    VAULT_DIR = PROJECT_DIR / "vault"
 
 ROMANIAN_MONTHS = {
     'ianuarie': '01', 'februarie': '02', 'martie': '03',

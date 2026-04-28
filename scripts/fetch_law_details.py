@@ -21,8 +21,18 @@ try:
 except ImportError:
     HAS_DEPS = False
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-VAULT_LAWS_DIR = PROJECT_DIR / "vault/laws"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    VAULT_LAWS_DIR = config.PROJECT_ROOT / "vault" / "laws"
+    VAULT_SESSIONS_DIR = config.VAULT_DIR / "sessions" / "deputies"
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    VAULT_LAWS_DIR = PROJECT_DIR / "vault/laws"
+    VAULT_SESSIONS_DIR = PROJECT_DIR / "vault/sessions/deputies"
+
 CDEP_LEGISLATION_URL = "https://www.cdep.ro/pls/proy/upload/"
 BASE_URL = "https://www.cdep.ro"
 

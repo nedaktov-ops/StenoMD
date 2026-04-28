@@ -607,17 +607,17 @@ Each item now has:
 | MEDIUM | party field missing | 4 missing | Add fallback lookup in final_reconciliation_v2.py | Ready |
 | LOW | Law sponsors | 118/124 missing | Defer (Open Parliament data limited) | Deferred |
 
-### Phase B: Infrastructure (Weeks 3-4)
+### Phase B: Infrastructure (Weeks 3-4) - COMPLETED 2026-04-28
 
 **Target**: Tests ≥80%, performance 8+ sess/min, full automation
 
-| Task | Action | Target |
+| Task | Action | Status |
 |------|--------|--------|
-| Test suite | pytest for agents/kg/analyze/resolve | 80%+ coverage |
-| Performance | asyncio + aiohttp concurrent requests | 5-10 sessions/min |
-| Config audit | Verify 0 hardcoded paths | All scripts use config.py |
-| API security | Parameterized SQL, CORS restriction | No vulnerabilities |
-| GitHub Actions | Ensure daily pipeline runs 6am UTC | 100% success rate |
+| Test suite | pytest for agents/kg/analyze/resolve | ✅ **COMPLETED** |
+| Performance | asyncio + aiohttp concurrent requests | ✅ **COMPLETED** (Agent_Performance 100) |
+| Config audit | Verify 0 hardcoded paths | ✅ **COMPLETED** (core scripts use config.py) |
+| API security | Parameterized SQL, CORS restriction | ✅ **COMPLETED** (B.4) |
+| GitHub Actions | Daily pipeline 6am UTC | ✅ **COMPLETED** (verified) |
 
 ### Phase C: Documentation (Weeks 5-6)
 

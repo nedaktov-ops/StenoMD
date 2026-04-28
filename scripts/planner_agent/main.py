@@ -10,6 +10,13 @@ scripts_dir = Path(__file__).parent
 sys.path.insert(0, str(scripts_dir))
 sys.path.insert(0, str(scripts_dir.parent))
 
+try:
+    from config import get_config
+    config = get_config()
+    DEFAULT_PROJECT_ROOT = config.PROJECT_ROOT
+except ImportError:
+    DEFAULT_PROJECT_ROOT = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+
 from planner_agent.problem_analyzer import ProblemAnalyzer
 from planner_agent.solution_researcher import SolutionResearcher
 from planner_agent.decision_engine import DecisionEngine
@@ -22,7 +29,9 @@ from task_manager import TaskManager
 class PlannerAgent:
     """Smart Planner Agent for StenoMD project."""
     
-    def __init__(self, project_root: str = "/home/adrian/Desktop/NEDAILAB/StenoMD"):
+    def __init__(self, project_root: str = None):
+        if project_root is None:
+            project_root = DEFAULT_PROJECT_ROOT
         self.project_root = Path(project_root)
         
         # Initialize components

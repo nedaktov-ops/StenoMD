@@ -5,11 +5,20 @@ from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
 
+try:
+    from config import get_config
+    config = get_config()
+    DEFAULT_PROJECT_ROOT = config.PROJECT_ROOT
+except ImportError:
+    DEFAULT_PROJECT_ROOT = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+
 
 class ProblemAnalyzer:
     """Analyzes project state to detect problems."""
     
-    def __init__(self, project_root: str = "/home/adrian/Desktop/NEDAILAB/StenoMD"):
+    def __init__(self, project_root: str = None):
+        if project_root is None:
+            project_root = DEFAULT_PROJECT_ROOT
         self.project_root = Path(project_root)
         self.scripts_dir = self.project_root / "scripts"
         self.vault_dir = self.project_root / "vault"

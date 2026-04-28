@@ -15,9 +15,17 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
-SCRAPERS_DIR = PROJECT_DIR / "scripts"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
+    SCRAPERS_DIR = config.PROJECT_ROOT / "scripts"
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
+    SCRAPERS_DIR = PROJECT_DIR / "scripts"
 
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")

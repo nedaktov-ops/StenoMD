@@ -11,9 +11,17 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 import yaml
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-VAULT_SENATORS_DIR = PROJECT_DIR / "vault/politicians/senators"
-DATA_DIR = PROJECT_DIR / "data"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    VAULT_SENATORS_DIR = config.VAULT_DIR / "politicians" / "senators"
+    DATA_DIR = config.PROJECT_ROOT / "data"
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    VAULT_SENATORS_DIR = PROJECT_DIR / "vault/politicians/senators"
+    DATA_DIR = PROJECT_DIR / "data"
 
 
 def get_current_senators() -> List[str]:

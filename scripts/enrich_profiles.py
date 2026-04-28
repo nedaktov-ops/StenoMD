@@ -11,9 +11,17 @@ from pathlib import Path
 from typing import Dict, Optional, List, Tuple
 import yaml
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-OPEN_PARLIAMENT_DIR = PROJECT_DIR / "data/parlamint/open-parliament-ro/data/2024/full-deputies"
-VAULT_DEPUTIES_DIR = PROJECT_DIR / "vault/politicians/deputies"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    OPEN_PARLIAMENT_DIR = PROJECT_DIR / "data/parlamint/open-parliament-ro/data/2024/full-deputies"
+    VAULT_DEPUTIES_DIR = config.VAULT_DIR / "politicians" / "deputies"
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    OPEN_PARLIAMENT_DIR = PROJECT_DIR / "data/parlamint/open-parliament-ro/data/2024/full-deputies"
+    VAULT_DEPUTIES_DIR = PROJECT_DIR / "vault/politicians/deputies"
 
 
 def normalize_name(name: str) -> str:

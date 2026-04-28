@@ -4,11 +4,20 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional
 
+try:
+    from config import get_config
+    config = get_config()
+    DEFAULT_PROJECT_ROOT = config.PROJECT_ROOT
+except ImportError:
+    DEFAULT_PROJECT_ROOT = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+
 
 class SolutionResearcher:
     """Researches solutions for problems."""
     
-    def __init__(self, project_root: str = "/home/adrian/Desktop/NEDAILAB/StenoMD"):
+    def __init__(self, project_root: str = None):
+        if project_root is None:
+            project_root = DEFAULT_PROJECT_ROOT
         self.project_root = Path(project_root)
         self.scripts_dir = self.project_root / "scripts"
         self.memory_dir = self.scripts_dir / "memory"

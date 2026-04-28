@@ -19,9 +19,17 @@ try:
 except ImportError:
     HAS_DEPS = False
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-SENATOR_LIST_URL = "https://senat.ro/FisaSenatori.aspx"
-VAULT_SENATORS_DIR = PROJECT_DIR / "vault/politicians/senators"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    SENATOR_LIST_URL = "https://senat.ro/FisaSenatori.aspx"
+    VAULT_SENATORS_DIR = config.VAULT_DIR / "politicians" / "senators"
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    SENATOR_LIST_URL = "https://senat.ro/FisaSenatori.aspx"
+    VAULT_SENATORS_DIR = PROJECT_DIR / "vault/politicians/senators"
 
 
 def scrape_senat_ro() -> List[Dict]:

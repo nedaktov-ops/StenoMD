@@ -20,10 +20,19 @@ from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
-OUTPUT_DIR = PROJECT_DIR / "data" / "gap_aware"
-VAULT_DIR = PROJECT_DIR / "vault"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
+    OUTPUT_DIR = PROJECT_DIR / "data" / "gap_aware"
+    VAULT_DIR = config.VAULT_DIR
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    GRAPH_FILE = PROJECT_DIR / "Graphify" / "graphify-out" / "graph.json"
+    OUTPUT_DIR = PROJECT_DIR / "data" / "gap_aware"
+    VAULT_DIR = PROJECT_DIR / "vault"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

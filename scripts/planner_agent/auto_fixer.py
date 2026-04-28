@@ -2,8 +2,16 @@
 import os
 import sys
 import subprocess
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional
+
+try:
+    from config import get_config
+    config = get_config()
+    DEFAULT_PROJECT_ROOT = config.PROJECT_ROOT
+except ImportError:
+    DEFAULT_PROJECT_ROOT = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
 
 
 class AutoFixer:
@@ -17,7 +25,7 @@ class AutoFixer:
             'fix_function': 'fix_cdep_url',
             'confidence': 0.93,
             'files': ['scripts/agents/cdep_agent.py'],
-            'apply': lambda: AutoFixer._fix_cdep_url()
+            'apply': lambda self: self._fix_cdep_url()
         },
         'import_path': {
             'pattern': 'ModuleNotFoundError, agents',
@@ -25,8 +33,7 @@ class AutoFixer:
             'fix_function': 'fix_import_path', 
             'confidence': 0.90,
             'files': ['scripts/agents/__init__.py'],
-            'project_root': '/home/adrian/Desktop/NEDAILAB/StenoMD',
-            'apply': lambda: AutoFixer._fix_import_path()
+            'apply': lambda self: self._fix_import_path()
         },
         'entities_db_missing': {
             'pattern': 'entities.db missing',
@@ -34,8 +41,7 @@ class AutoFixer:
             'fix_function': 'fix_entities_db',
             'confidence': 0.95,
             'files': ['knowledge_graph/'],
-            'project_root': '/home/adrian/Desktop/NEDAILAB/StenoMD',
-            'apply': lambda: AutoFixer._fix_entities_db()
+            'apply': lambda self: self._fix_entities_db()
         },
         'mp_name_regex': {
             'pattern': 'MP names not matching, colon',
@@ -43,28 +49,30 @@ class AutoFixer:
             'fix_function': 'fix_mp_regex',
             'confidence': 0.85,
             'files': ['scripts/agents/cdep_agent.py'],
-            'apply': lambda: AutoFixer._fix_mp_regex()
+            'apply': lambda self: self._fix_mp_regex()
         }
     }
     
-    def __init__(self, project_root: str = "/home/adrian/Desktop/NEDAILAB/StenoMD"):
+    def __init__(self, project_root: Path = None):
+        if project_root is None:
+            project_root = DEFAULT_PROJECT_ROOT
         self.project_root = Path(project_root)
         self.scripts_dir = self.project_root / "scripts"
         self.kg_dir = self.project_root / "knowledge_graph"
         self.fix_history = []
     
-    @staticmethod
-    def _fix_cdep_url() -> bool:
+    def _fix_cdep_url(self) -> bool:
         """Fix cdep.ro URLs by removing &prn=1."""
         # This is handled by the URL patterns in cdep_agent.py
         # Already fixed in practice
         return True
     
-    @staticmethod
-    def _fix_import_path() -> bool:
+    def _fix_import_path(self) -> bool:
         """Fix import path in agents/__init__.py."""
         try:
-            init_file = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/scripts/agents/__init__.py")
+            init_file = self.scripts_dir / "agents" / "__init__.py"
+            if not init_file.exists():
+                return False
             content = init_file.read_text()
             
             # Check if already fixed
@@ -83,13 +91,11 @@ class AutoFixer:
             print(f"Error fixing import path: {e}")
             return False
     
-    @staticmethod
-    def _fix_entities_db() -> bool:
+    def _fix_entities_db(self) -> bool:
         """Create entities.db symlink."""
         try:
-            kg_dir = Path("/home/adrian/Desktop/NEDAILAB/StenoMD/knowledge_graph")
-            source = kg_dir / "knowledge_graph.db"
-            link = kg_dir / "entities.db"
+            source = self.kg_dir / "knowledge_graph.db"
+            link = self.kg_dir / "entities.db"
             
             if link.exists():
                 return True  # Already exists
@@ -103,8 +109,7 @@ class AutoFixer:
             print(f"Error creating entities.db: {e}")
             return False
     
-    @staticmethod
-    def _fix_mp_regex() -> bool:
+    def _fix_mp_regex(self) -> bool:
         """Fix MP name regex to handle optional colon."""
         # This is handled by the regex in cdep_agent.py
         # Already fixed in practice
@@ -125,8 +130,8 @@ class AutoFixer:
             }
         
         try:
-            # Apply the fix
-            success = fix['apply']()
+            # Apply the fix (lambda expects self)
+            success = fix['apply'](self)
             
             result = {
                 'success': success,

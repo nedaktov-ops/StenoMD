@@ -18,9 +18,17 @@ import re
 from pathlib import Path
 from typing import Dict, Optional, Tuple
 
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
-OP_DIR = PROJECT_DIR / "data/parlamint/open-parliament-ro/data/2024/full-deputies"
-VAULT_DIR = PROJECT_DIR / "vault/politicians/deputies"
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+    OP_DIR = PROJECT_DIR / "data/parlamint/open-parliament-ro/data/2024/full-deputies"
+    VAULT_DIR = config.VAULT_DIR / "politicians" / "deputies"
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+    OP_DIR = PROJECT_DIR / "data/parlamint/open-parliament-ro/data/2024/full-deputies"
+    VAULT_DIR = PROJECT_DIR / "vault/politicians/deputies"
 
 def load_op_data() -> Dict[str, Dict]:
     """Load all Open Parliament deputies indexed by idm."""

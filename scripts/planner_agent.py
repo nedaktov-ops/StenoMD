@@ -35,8 +35,14 @@ from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
 
-# Add project paths
-PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+# Use centralized configuration
+try:
+    from config import get_config
+    config = get_config()
+    PROJECT_DIR = config.PROJECT_ROOT
+except ImportError:
+    PROJECT_DIR = Path("/home/adrian/Desktop/NEDAILAB/StenoMD")
+
 sys.path.insert(0, str(PROJECT_DIR / "scripts"))
 
 # Import brain modules
