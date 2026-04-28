@@ -68,37 +68,48 @@ def merge_vault_to_kg():
     """Read all vault sessions and populate entities.json."""
     print("=== Merging Vault to Knowledge Graph ===")
     
-    # Load existing KG data
-    kg_data = {
-        'metadata': {
-            'version': '2.0',
-            'last_updated': datetime.now().isoformat(),
-            'sources': ['cdep.ro', 'senat.ro', 'vault'],
-            'legislatures': ['2024-2028']
-        },
-        'persons': [],
-        'sessions': [],
-        'laws': []
-    }
-    
-    existing_entities = {"persons": {}, "sessions": {}, "laws": {}}
-    
+    # Load existing KG data if available
+    existing_data = None
     if KG_FILE.exists():
         try:
-            existing = json.loads(KG_FILE.read_text())
-            # Load existing entities
-            for p in existing.get('persons', []):
-                if p.get('name'):
-                    existing_entities['persons'][p['name']] = p
-            for s in existing.get('sessions', []):
-                if s.get('id'):
-                    existing_entities['sessions'][s['id']] = s
-            for l in existing.get('laws', []):
-                if l.get('number'):
-                    existing_entities['laws'][l['number']] = l
-            print(f"Loaded existing KG: {len(existing_entities['persons'])} persons, {len(existing_entities['sessions'])} sessions")
-        except:
-            print("Could not load existing KG, starting fresh")
+            existing_data = json.loads(KG_FILE.read_text())
+            print(f"Loaded existing KG: {len(existing_data.get('persons', []))} persons, {len(existing_data.get('sessions', []))} sessions")
+        except Exception as e:
+            print(f"Could not load existing KG: {e}, starting fresh")
+    
+    # Initialize kg_data with existing data or fresh structure
+    if existing_data:
+        kg_data = existing_data
+        # Update metadata timestamp
+        kg_data.setdefault('metadata', {})['last_updated'] = datetime.now().isoformat()
+    else:
+        kg_data = {
+            'metadata': {
+                'version': '2.0',
+                'last_updated': datetime.now().isoformat(),
+                'sources': ['cdep.ro', 'senat.ro', 'vault'],
+                'legislatures': ['2024-2028']
+            },
+            'persons': [],
+            'sessions': [],
+            'laws': []
+        }
+    
+    # Build lookup dicts for deduplication
+    existing_entities = {
+        "persons": {},
+        "sessions": {},
+        "laws": {}
+    }
+    for p in kg_data.get('persons', []):
+        if p.get('name'):
+            existing_entities['persons'][p['name'].strip().lower()] = p
+    for s in kg_data.get('sessions', []):
+        if s.get('id'):
+            existing_entities['sessions'][s['id']] = s
+    for l in kg_data.get('laws', []):
+        if l.get('number'):
+            existing_entities['laws'][l['number'].strip()] = l
     
     # Process deputy sessions
     deputies_dir = VAULT_DIR / "sessions" / "deputies"

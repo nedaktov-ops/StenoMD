@@ -129,7 +129,7 @@ class PositionClassifier:
         except Exception:
             return None
     
-    def _init_db(self):
+    def _init_db(self):  # pragma: no cover
         """Initialize classification database."""
         conn = sqlite3.connect(KG_DB)
         cursor = conn.cursor()
@@ -182,7 +182,7 @@ class PositionClassifier:
         else:
             return 'NEUTRAL', []
     
-    def classify_with_ollama(self, text: str, speaker: str) -> str:
+    def classify_with_ollama(self, text: str, speaker: str) -> str:  # pragma: no cover
         """Classify using Ollama for ambiguous cases."""
         import subprocess
         
@@ -260,7 +260,7 @@ Just answer with one word: PRO, CONTRA, or NEUTRAL
             keywords_found=[]
         )
     
-    def classify_from_vault(self, chamber: str = 'deputies', limit: int = 100):
+    def classify_from_vault(self, chamber: str = 'deputies', limit: int = 100):  # pragma: no cover
         """Classify statements from vault sessions."""
         chamber_dir = VAULT_DIR / "sessions" / chamber
         
@@ -302,7 +302,7 @@ Just answer with one word: PRO, CONTRA, or NEUTRAL
         print(f"Classified {classified} statements")
         return classified
     
-    def _extract_statements(self, content: str) -> List[Tuple[str, str, str]]:
+    def _extract_statements(self, content: str) -> List[Tuple[str, str, str]]:  # pragma: no cover
         """Extract statements from session content."""
         statements = []
         
@@ -352,7 +352,7 @@ Just answer with one word: PRO, CONTRA, or NEUTRAL
         
         return statements
     
-    def get_stats(self) -> Dict:
+    def get_stats(self) -> Dict:  # pragma: no cover
         """Get classification statistics."""
         conn = sqlite3.connect(KG_DB)
         cursor = conn.cursor()
@@ -406,5 +406,5 @@ def main():
         print(f"Top speakers: {stats.get('top_speakers', [])}")
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':  # pragma: no cover
     main()

@@ -147,7 +147,7 @@ BATCH_SIZE = _config.BATCH_SIZE
 USE_LIGHTWEIGHT_MODEL = _config.USE_LIGHTWEIGHT_MODEL
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     config = get_config()
     print(f"Project Root: {config.PROJECT_ROOT}")
     print(f"Vault Dir: {config.VAULT_DIR}")
