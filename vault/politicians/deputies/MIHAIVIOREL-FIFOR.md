@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Mihai-Viorel FIFOR
 search_aliases: ["FIFOR", "FIFOR, MIHAI", "FIFOR, Mihai", "MIHAI FIFOR", "MIHAI-VIOREL FIFOR", "Mihai FIFOR", "Mihai-Viorel FIFOR", "Mihai-Viorel Fifor", "fifor", "mihai fifor", "mihai-viorel fifor"]
 votes_cast: 6

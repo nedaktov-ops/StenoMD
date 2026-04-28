@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Remus-Gabriel MIHALCEA
 search_aliases: ["MIHALCEA", "MIHALCEA, REMUS", "MIHALCEA, Remus", "REMUS MIHALCEA", "REMUS-GABRIEL MIHALCEA", "Remus MIHALCEA", "Remus-Gabriel MIHALCEA", "Remus-Gabriel Mihalcea", "mihalcea", "remus mihalcea", "remus-gabriel mihalcea"]
 votes_cast: 5

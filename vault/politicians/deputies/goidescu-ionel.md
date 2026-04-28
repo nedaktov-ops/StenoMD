@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Goidescu Ionel
 search_aliases: ["GOIDESCU IONEL", "Goidescu Ionel", "IONEL", "IONEL, GOIDESCU", "Ionel", "Ionel, Goidescu", "goidescu ionel", "ionel"]
 votes_cast: 6

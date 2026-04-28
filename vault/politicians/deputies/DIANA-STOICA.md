@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Diana STOICA
 search_aliases: ["DIANA STOICA", "Diana STOICA", "Diana Stoica", "STOICA", "STOICA, DIANA", "STOICA, Diana", "diana stoica", "stoica"]
 votes_cast: 2

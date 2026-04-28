@@ -18,6 +18,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Sorin-Mihai GRINDEANUPreşedintele Camerei Deputaţilor
 search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, SORIN", "Deputaţilor", "Deputaţilor, Sorin", "SORIN DEPUTAŢILOR", "SORIN-MIHAI GRINDEANUPREŞEDINTELE CAMEREI DEPUTAŢILOR", "Sorin Deputaţilor", "Sorin-Mihai GRINDEANUPreşedintele Camerei Deputaţilor", "Sorin-Mihai Grindeanupreşedintele Camerei Deputaţilor", "deputaţilor", "sorin deputaţilor", "sorin-mihai grindeanupreşedintele camerei deputaţilor"]
 votes_cast: 5

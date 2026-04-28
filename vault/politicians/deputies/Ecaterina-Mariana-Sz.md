@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Ecaterina Mariana Sz
 search_aliases: ["ECATERINA MARIANA SZ", "ECATERINA SZ", "Ecaterina Mariana Sz", "Ecaterina Sz", "SZ", "SZ, ECATERINA", "Sz", "Sz, Ecaterina", "ecaterina mariana sz", "ecaterina sz", "sz"]
 votes_cast: 6

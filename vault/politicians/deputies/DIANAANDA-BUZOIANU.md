@@ -18,6 +18,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Diana-Anda BUZOIANU
 search_aliases: ["BUZOIANU", "BUZOIANU, DIANA", "BUZOIANU, Diana", "DIANA BUZOIANU", "DIANA-ANDA BUZOIANU", "Diana BUZOIANU", "Diana-Anda BUZOIANU", "Diana-Anda Buzoianu", "buzoianu", "diana buzoianu", "diana-anda buzoianu"]
 votes_cast: 1

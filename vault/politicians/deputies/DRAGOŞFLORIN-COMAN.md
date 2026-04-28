@@ -22,6 +22,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Dragoş-Florin COMAN
 search_aliases: ["COMAN", "COMAN, DRAGOŞ", "COMAN, Dragoş", "DRAGOŞ COMAN", "DRAGOŞ-FLORIN COMAN", "Dragoş COMAN", "Dragoş-Florin COMAN", "Dragoş-Florin Coman", "coman", "dragoş coman", "dragoş-florin coman"]
 votes_cast: 1

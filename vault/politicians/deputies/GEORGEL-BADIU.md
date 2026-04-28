@@ -24,6 +24,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Georgel BADIU
 search_aliases: ["BADIU", "BADIU, GEORGEL", "BADIU, Georgel", "GEORGEL BADIU", "Georgel BADIU", "Georgel Badiu", "badiu", "georgel badiu"]
 votes_cast: 10

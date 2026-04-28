@@ -18,6 +18,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Ion-Marcel VELA
 search_aliases: ["ION VELA", "ION-MARCEL VELA", "Ion VELA", "Ion-Marcel VELA", "Ion-Marcel Vela", "VELA", "VELA, ION", "VELA, Ion", "ion vela", "ion-marcel vela", "vela"]
 votes_cast: 6

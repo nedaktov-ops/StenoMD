@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Robert-Ionatan SIGHIARTĂU
 search_aliases: ["ROBERT SIGHIARTĂU", "ROBERT-IONATAN SIGHIARTĂU", "Robert SIGHIARTĂU", "Robert-Ionatan SIGHIARTĂU", "Robert-Ionatan Sighiartău", "SIGHIARTĂU", "SIGHIARTĂU, ROBERT", "SIGHIARTĂU, Robert", "robert sighiartău", "robert-ionatan sighiartău", "sighiartău"]
 votes_cast: 3

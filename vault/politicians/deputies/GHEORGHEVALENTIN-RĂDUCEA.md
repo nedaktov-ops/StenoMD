@@ -19,6 +19,8 @@ motions: 5
 
 
 
+
+
 ai_friendly_name: Gheorghe-Valentin RĂDUCEA
 search_aliases: ["GHEORGHE RĂDUCEA", "GHEORGHE-VALENTIN RĂDUCEA", "Gheorghe RĂDUCEA", "Gheorghe-Valentin RĂDUCEA", "Gheorghe-Valentin Răducea", "RĂDUCEA", "RĂDUCEA, GHEORGHE", "RĂDUCEA, Gheorghe", "gheorghe răducea", "gheorghe-valentin răducea", "răducea"]
 votes_cast: 6

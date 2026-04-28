@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Petre-Emanoil NEAGU
 search_aliases: ["NEAGU", "NEAGU, PETRE", "NEAGU, Petre", "PETRE NEAGU", "PETRE-EMANOIL NEAGU", "Petre NEAGU", "Petre-Emanoil NEAGU", "Petre-Emanoil Neagu", "neagu", "petre neagu", "petre-emanoil neagu"]
 votes_cast: 6

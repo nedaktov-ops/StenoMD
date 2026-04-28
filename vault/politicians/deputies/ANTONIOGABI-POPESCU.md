@@ -22,6 +22,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Antonio-Gabi POPESCU
 search_aliases: ["ANTONIO POPESCU", "ANTONIO-GABI POPESCU", "Antonio POPESCU", "Antonio-Gabi POPESCU", "Antonio-Gabi Popescu", "POPESCU", "POPESCU, ANTONIO", "POPESCU, Antonio", "antonio popescu", "antonio-gabi popescu", "popescu"]
 votes_cast: 6

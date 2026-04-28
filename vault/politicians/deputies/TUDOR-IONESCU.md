@@ -24,6 +24,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Tudor IONESCU
 search_aliases: ["IONESCU", "IONESCU, TUDOR", "IONESCU, Tudor", "TUDOR IONESCU", "Tudor IONESCU", "Tudor Ionescu", "ionescu", "tudor ionescu"]
 votes_cast: 4

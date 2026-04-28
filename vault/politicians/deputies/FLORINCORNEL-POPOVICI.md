@@ -22,6 +22,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Florin-Cornel POPOVICI
 search_aliases: ["FLORIN POPOVICI", "FLORIN-CORNEL POPOVICI", "Florin POPOVICI", "Florin-Cornel POPOVICI", "Florin-Cornel Popovici", "POPOVICI", "POPOVICI, FLORIN", "POPOVICI, Florin", "florin popovici", "florin-cornel popovici", "popovici"]
 votes_cast: 6

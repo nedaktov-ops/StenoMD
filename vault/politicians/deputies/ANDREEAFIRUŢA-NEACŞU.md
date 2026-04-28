@@ -22,6 +22,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Andreea-Firuţa NEACŞU
 search_aliases: ["ANDREEA NEACŞU", "ANDREEA-FIRUŢA NEACŞU", "Andreea NEACŞU", "Andreea-Firuţa NEACŞU", "Andreea-Firuţa Neacşu", "NEACŞU", "NEACŞU, ANDREEA", "NEACŞU, Andreea", "andreea neacşu", "andreea-firuţa neacşu", "neacşu"]
 votes_cast: 6

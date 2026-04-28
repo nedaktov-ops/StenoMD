@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: MAGYAR Loránd-Bálintchestor al Camerei Deputaţilor
 search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, MAGYAR", "Deputaţilor", "Deputaţilor, MAGYAR", "MAGYAR DEPUTAŢILOR", "MAGYAR Deputaţilor", "MAGYAR LORÁND-BÁLINTCHESTOR AL CAMEREI DEPUTAŢILOR", "MAGYAR Loránd-Bálintchestor al Camerei Deputaţilor", "Magyar Loránd-Bálintchestor Al Camerei Deputaţilor", "deputaţilor", "magyar deputaţilor", "magyar loránd-bálintchestor al camerei deputaţilor"]
 votes_cast: 6

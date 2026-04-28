@@ -20,6 +20,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Lovin Ramona
 search_aliases: ["LOVIN RAMONA", "Lovin Ramona", "RAMONA", "RAMONA, LOVIN", "Ramona", "Ramona, Lovin", "lovin ramona", "ramona"]
 votes_cast: 6

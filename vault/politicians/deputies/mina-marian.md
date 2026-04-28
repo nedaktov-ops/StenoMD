@@ -16,6 +16,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Mina Marian
 search_aliases: ["MARIAN", "MARIAN, MINA", "MINA MARIAN", "Marian", "Marian, Mina", "Mina Marian", "marian", "mina marian"]
 votes_cast: 6

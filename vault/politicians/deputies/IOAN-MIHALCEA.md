@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Ioan MIHALCEA
 search_aliases: ["IOAN MIHALCEA", "Ioan MIHALCEA", "Ioan Mihalcea", "MIHALCEA", "MIHALCEA, IOAN", "MIHALCEA, Ioan", "ioan mihalcea", "mihalcea"]
 votes_cast: 6

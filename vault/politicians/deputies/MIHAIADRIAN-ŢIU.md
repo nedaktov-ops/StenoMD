@@ -24,6 +24,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Mihai-Adrian ŢIU
 search_aliases: ["MIHAI ŢIU", "MIHAI-ADRIAN ŢIU", "Mihai ŢIU", "Mihai-Adrian ŢIU", "Mihai-Adrian Ţiu", "mihai ţiu", "mihai-adrian ţiu", "ŢIU", "ŢIU, MIHAI", "ŢIU, Mihai", "ţiu"]
 votes_cast: 6

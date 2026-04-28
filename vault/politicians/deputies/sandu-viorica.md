@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Sandu Viorica
 search_aliases: ["SANDU VIORICA", "Sandu Viorica", "VIORICA", "VIORICA, SANDU", "Viorica", "Viorica, Sandu", "sandu viorica", "viorica"]
 votes_cast: 6

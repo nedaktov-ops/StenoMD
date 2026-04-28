@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Eugen NEAŢĂ
 search_aliases: ["EUGEN NEAŢĂ", "Eugen NEAŢĂ", "Eugen Neaţă", "NEAŢĂ", "NEAŢĂ, EUGEN", "NEAŢĂ, Eugen", "eugen neaţă", "neaţă"]
 votes_cast: 6

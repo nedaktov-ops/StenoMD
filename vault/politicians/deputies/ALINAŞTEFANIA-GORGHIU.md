@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Alina-Ştefania GORGHIU
 search_aliases: ["ALINA GORGHIU", "ALINA-ŞTEFANIA GORGHIU", "Alina GORGHIU", "Alina-Ştefania GORGHIU", "Alina-Ştefania Gorghiu", "GORGHIU", "GORGHIU, ALINA", "GORGHIU, Alina", "alina gorghiu", "alina-ştefania gorghiu", "gorghiu"]
 votes_cast: 6

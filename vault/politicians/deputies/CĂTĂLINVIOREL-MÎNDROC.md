@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Cătălin-Viorel MÎNDROC
 search_aliases: ["CĂTĂLIN MÎNDROC", "CĂTĂLIN-VIOREL MÎNDROC", "Cătălin MÎNDROC", "Cătălin-Viorel MÎNDROC", "Cătălin-Viorel Mîndroc", "MÎNDROC", "MÎNDROC, CĂTĂLIN", "MÎNDROC, Cătălin", "cătălin mîndroc", "cătălin-viorel mîndroc", "mîndroc"]
 votes_cast: 6

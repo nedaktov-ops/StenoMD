@@ -22,6 +22,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Gianina ŞERBANvicepreşedinte al Camerei Deputaţilor
 search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, GIANINA", "Deputaţilor", "Deputaţilor, Gianina", "GIANINA DEPUTAŢILOR", "GIANINA ŞERBANVICEPREŞEDINTE AL CAMEREI DEPUTAŢILOR", "Gianina Deputaţilor", "Gianina ŞERBANvicepreşedinte al Camerei Deputaţilor", "Gianina Şerbanvicepreşedinte Al Camerei Deputaţilor", "deputaţilor", "gianina deputaţilor", "gianina şerbanvicepreşedinte al camerei deputaţilor"]
 votes_cast: 4

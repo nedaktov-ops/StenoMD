@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Ion SAMOILĂ
 search_aliases: ["ION SAMOILĂ", "Ion SAMOILĂ", "Ion Samoilă", "SAMOILĂ", "SAMOILĂ, ION", "SAMOILĂ, Ion", "ion samoilă", "samoilă"]
 votes_cast: 6

@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Claudiu-Iulius-Gavril NĂSUI
 search_aliases: ["CLAUDIU NĂSUI", "CLAUDIU-IULIUS-GAVRIL NĂSUI", "Claudiu NĂSUI", "Claudiu-Iulius-Gavril NĂSUI", "Claudiu-Iulius-Gavril Năsui", "NĂSUI", "NĂSUI, CLAUDIU", "NĂSUI, Claudiu", "claudiu năsui", "claudiu-iulius-gavril năsui", "năsui"]
 votes_cast: 6

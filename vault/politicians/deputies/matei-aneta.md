@@ -19,6 +19,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Matei Aneta
 search_aliases: ["ANETA", "ANETA, MATEI", "Aneta", "Aneta, Matei", "MATEI ANETA", "Matei Aneta", "aneta", "matei aneta"]
 votes_cast: 6

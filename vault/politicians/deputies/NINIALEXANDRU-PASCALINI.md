@@ -24,6 +24,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Nini-Alexandru PASCALINI
 search_aliases: ["NINI PASCALINI", "NINI-ALEXANDRU PASCALINI", "Nini PASCALINI", "Nini-Alexandru PASCALINI", "Nini-Alexandru Pascalini", "PASCALINI", "PASCALINI, NINI", "PASCALINI, Nini", "nini pascalini", "nini-alexandru pascalini", "pascalini"]
 votes_cast: 6

@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Iulian-Alexandru MURARU
 search_aliases: ["IULIAN MURARU", "IULIAN-ALEXANDRU MURARU", "Iulian MURARU", "Iulian-Alexandru MURARU", "Iulian-Alexandru Muraru", "MURARU", "MURARU, IULIAN", "MURARU, Iulian", "iulian muraru", "iulian-alexandru muraru", "muraru"]
 votes_cast: 4

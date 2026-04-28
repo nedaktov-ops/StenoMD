@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Bogdan-Iulian HUŢUCĂ
 search_aliases: ["BOGDAN HUŢUCĂ", "BOGDAN-IULIAN HUŢUCĂ", "Bogdan HUŢUCĂ", "Bogdan-Iulian HUŢUCĂ", "Bogdan-Iulian Huţucă", "HUŢUCĂ", "HUŢUCĂ, BOGDAN", "HUŢUCĂ, Bogdan", "bogdan huţucă", "bogdan-iulian huţucă", "huţucă"]
 votes_cast: 5

@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Radu-Dinel MIRUŢĂ
 search_aliases: ["MIRUŢĂ", "MIRUŢĂ, RADU", "MIRUŢĂ, Radu", "RADU MIRUŢĂ", "RADU-DINEL MIRUŢĂ", "Radu MIRUŢĂ", "Radu-Dinel MIRUŢĂ", "Radu-Dinel Miruţă", "miruţă", "radu miruţă", "radu-dinel miruţă"]
 votes_cast: 3

@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: George Cătălin ŞERBAN
 search_aliases: ["GEORGE CĂTĂLIN ŞERBAN", "GEORGE ŞERBAN", "George Cătălin ŞERBAN", "George Cătălin Şerban", "George ŞERBAN", "george cătălin şerban", "george şerban", "ŞERBAN", "ŞERBAN, GEORGE", "ŞERBAN, George", "şerban"]
 votes_cast: 5

@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Adrian CÂCIU
 search_aliases: ["ADRIAN CÂCIU", "Adrian CÂCIU", "Adrian Câciu", "CÂCIU", "CÂCIU, ADRIAN", "CÂCIU, Adrian", "adrian câciu", "câciu"]
 votes_cast: 6

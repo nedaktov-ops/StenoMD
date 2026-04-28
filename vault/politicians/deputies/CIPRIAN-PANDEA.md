@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Ciprian PANDEA
 search_aliases: ["CIPRIAN PANDEA", "Ciprian PANDEA", "Ciprian Pandea", "PANDEA", "PANDEA, CIPRIAN", "PANDEA, Ciprian", "ciprian pandea", "pandea"]
 votes_cast: 6

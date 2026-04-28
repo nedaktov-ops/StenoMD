@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Oana MURARIUsecretar al Camerei Deputaţilor
 search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, OANA", "Deputaţilor", "Deputaţilor, Oana", "OANA DEPUTAŢILOR", "OANA MURARIUSECRETAR AL CAMEREI DEPUTAŢILOR", "Oana Deputaţilor", "Oana MURARIUsecretar al Camerei Deputaţilor", "Oana Murariusecretar Al Camerei Deputaţilor", "deputaţilor", "oana deputaţilor", "oana murariusecretar al camerei deputaţilor"]
 votes_cast: 5

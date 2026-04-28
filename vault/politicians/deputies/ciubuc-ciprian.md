@@ -19,6 +19,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Ciubuc Ciprian
 search_aliases: ["CIPRIAN", "CIPRIAN, CIUBUC", "CIUBUC CIPRIAN", "Ciprian", "Ciprian, Ciubuc", "Ciubuc Ciprian", "ciprian", "ciubuc ciprian"]
 votes_cast: 5

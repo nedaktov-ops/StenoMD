@@ -19,6 +19,8 @@ motions: 1
 
 
 
+
+
 ai_friendly_name: Iosif-Florin JIANU
 search_aliases: ["IOSIF JIANU", "IOSIF-FLORIN JIANU", "Iosif JIANU", "Iosif-Florin JIANU", "Iosif-Florin Jianu", "JIANU", "JIANU, IOSIF", "JIANU, Iosif", "iosif jianu", "iosif-florin jianu", "jianu"]
 votes_cast: 4

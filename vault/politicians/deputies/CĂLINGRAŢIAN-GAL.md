@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Călin-Graţian GAL
 search_aliases: ["CĂLIN GAL", "CĂLIN-GRAŢIAN GAL", "Călin GAL", "Călin-Graţian GAL", "Călin-Graţian Gal", "GAL", "GAL, CĂLIN", "GAL, Călin", "călin gal", "călin-graţian gal", "gal"]
 votes_cast: 6

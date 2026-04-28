@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Marius-Ionel IANCU
 search_aliases: ["IANCU", "IANCU, MARIUS", "IANCU, Marius", "MARIUS IANCU", "MARIUS-IONEL IANCU", "Marius IANCU", "Marius-Ionel IANCU", "Marius-Ionel Iancu", "iancu", "marius iancu", "marius-ionel iancu"]
 votes_cast: 6

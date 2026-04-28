@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Simona BUCURA-OPRESCUchestor al Camerei Deputaţilor
 search_aliases: ["DEPUTAŢILOR", "DEPUTAŢILOR, SIMONA", "Deputaţilor", "Deputaţilor, Simona", "SIMONA BUCURA-OPRESCUCHESTOR AL CAMEREI DEPUTAŢILOR", "SIMONA DEPUTAŢILOR", "Simona BUCURA-OPRESCUchestor al Camerei Deputaţilor", "Simona Bucura-Oprescuchestor Al Camerei Deputaţilor", "Simona Deputaţilor", "deputaţilor", "simona bucura-oprescuchestor al camerei deputaţilor", "simona deputaţilor"]
 votes_cast: 6

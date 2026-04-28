@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Radu-Nicolae MIHAIU
 search_aliases: ["MIHAIU", "MIHAIU, RADU", "MIHAIU, Radu", "RADU MIHAIU", "RADU-NICOLAE MIHAIU", "Radu MIHAIU", "Radu-Nicolae MIHAIU", "Radu-Nicolae Mihaiu", "mihaiu", "radu mihaiu", "radu-nicolae mihaiu"]
 votes_cast: 6

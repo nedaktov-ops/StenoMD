@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Andrei-Florin GHEORGHIU
 search_aliases: ["ANDREI GHEORGHIU", "ANDREI-FLORIN GHEORGHIU", "Andrei GHEORGHIU", "Andrei-Florin GHEORGHIU", "Andrei-Florin Gheorghiu", "GHEORGHIU", "GHEORGHIU, ANDREI", "GHEORGHIU, Andrei", "andrei gheorghiu", "andrei-florin gheorghiu", "gheorghiu"]
 votes_cast: 6

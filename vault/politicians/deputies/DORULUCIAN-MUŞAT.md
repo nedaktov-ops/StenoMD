@@ -22,6 +22,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Doru-Lucian MUŞAT
 search_aliases: ["DORU MUŞAT", "DORU-LUCIAN MUŞAT", "Doru MUŞAT", "Doru-Lucian MUŞAT", "Doru-Lucian Muşat", "MUŞAT", "MUŞAT, DORU", "MUŞAT, Doru", "doru muşat", "doru-lucian muşat", "muşat"]
 votes_cast: 6

@@ -25,6 +25,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Ariana-Oana BUCUR
 search_aliases: ["ARIANA BUCUR", "ARIANA-OANA BUCUR", "Ariana BUCUR", "Ariana-Oana BUCUR", "Ariana-Oana Bucur", "BUCUR", "BUCUR, ARIANA", "BUCUR, Ariana", "ariana bucur", "ariana-oana bucur", "bucur"]
 votes_cast: 6

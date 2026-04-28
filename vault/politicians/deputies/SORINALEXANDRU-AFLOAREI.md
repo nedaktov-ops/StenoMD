@@ -18,6 +18,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Sorin-Alexandru AFLOAREI
 search_aliases: ["AFLOAREI", "AFLOAREI, SORIN", "AFLOAREI, Sorin", "SORIN AFLOAREI", "SORIN-ALEXANDRU AFLOAREI", "Sorin AFLOAREI", "Sorin-Alexandru AFLOAREI", "Sorin-Alexandru Afloarei", "afloarei", "sorin afloarei", "sorin-alexandru afloarei"]
 votes_cast: 1

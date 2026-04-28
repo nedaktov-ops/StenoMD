@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Vasile-Daniel SUCIU
 search_aliases: ["SUCIU", "SUCIU, VASILE", "SUCIU, Vasile", "VASILE SUCIU", "VASILE-DANIEL SUCIU", "Vasile SUCIU", "Vasile-Daniel SUCIU", "Vasile-Daniel Suciu", "suciu", "vasile suciu", "vasile-daniel suciu"]
 votes_cast: 5

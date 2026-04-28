@@ -18,6 +18,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Bogdan-Gruia IVAN
 search_aliases: ["BOGDAN IVAN", "BOGDAN-GRUIA IVAN", "Bogdan IVAN", "Bogdan-Gruia IVAN", "Bogdan-Gruia Ivan", "IVAN", "IVAN, BOGDAN", "IVAN, Bogdan", "bogdan ivan", "bogdan-gruia ivan", "ivan"]
 votes_cast: 5

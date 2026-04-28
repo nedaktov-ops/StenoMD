@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: SZABÓ Ödön
 search_aliases: ["SZABÓ ÖDÖN", "SZABÓ Ödön", "Szabó Ödön", "szabó ödön", "ÖDÖN", "ÖDÖN, SZABÓ", "Ödön", "Ödön, SZABÓ", "ödön"]
 votes_cast: 5

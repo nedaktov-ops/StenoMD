@@ -24,6 +24,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Lucian-Florin PUŞCAŞU
 search_aliases: ["LUCIAN PUŞCAŞU", "LUCIAN-FLORIN PUŞCAŞU", "Lucian PUŞCAŞU", "Lucian-Florin PUŞCAŞU", "Lucian-Florin Puşcaşu", "PUŞCAŞU", "PUŞCAŞU, LUCIAN", "PUŞCAŞU, Lucian", "lucian puşcaşu", "lucian-florin puşcaşu", "puşcaşu"]
 votes_cast: 6

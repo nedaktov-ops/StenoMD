@@ -19,6 +19,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Gheorghe Ionel
 search_aliases: ["GHEORGHE IONEL", "Gheorghe Ionel", "IONEL", "IONEL, GHEORGHE", "Ionel", "Ionel, Gheorghe", "gheorghe ionel", "ionel"]
 votes_cast: 6

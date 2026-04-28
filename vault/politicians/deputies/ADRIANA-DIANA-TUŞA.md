@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Adriana Diana TUŞA
 search_aliases: ["ADRIANA DIANA TUŞA", "ADRIANA TUŞA", "Adriana Diana TUŞA", "Adriana Diana Tuşa", "Adriana TUŞA", "TUŞA", "TUŞA, ADRIANA", "TUŞA, Adriana", "adriana diana tuşa", "adriana tuşa", "tuşa"]
 votes_cast: 6

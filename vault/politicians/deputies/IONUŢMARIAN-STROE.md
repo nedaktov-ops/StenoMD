@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Ionuţ-Marian STROE
 search_aliases: ["IONUŢ STROE", "IONUŢ-MARIAN STROE", "Ionuţ STROE", "Ionuţ-Marian STROE", "Ionuţ-Marian Stroe", "STROE", "STROE, IONUŢ", "STROE, Ionuţ", "ionuţ stroe", "ionuţ-marian stroe", "stroe"]
 votes_cast: 4

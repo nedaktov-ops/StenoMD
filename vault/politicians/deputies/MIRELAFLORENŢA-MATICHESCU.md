@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Mirela-Florenţa MATICHESCU
 search_aliases: ["MATICHESCU", "MATICHESCU, MIRELA", "MATICHESCU, Mirela", "MIRELA MATICHESCU", "MIRELA-FLORENŢA MATICHESCU", "Mirela MATICHESCU", "Mirela-Florenţa MATICHESCU", "Mirela-Florenţa Matichescu", "matichescu", "mirela matichescu", "mirela-florenţa matichescu"]
 votes_cast: 6

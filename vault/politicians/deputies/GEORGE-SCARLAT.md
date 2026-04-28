@@ -23,6 +23,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: George SCARLAT
 search_aliases: ["GEORGE SCARLAT", "George SCARLAT", "George Scarlat", "SCARLAT", "SCARLAT, GEORGE", "SCARLAT, George", "george scarlat", "scarlat"]
 votes_cast: 6

@@ -22,6 +22,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Gabriel-Florinel FLOREA
 search_aliases: ["FLOREA", "FLOREA, GABRIEL", "FLOREA, Gabriel", "GABRIEL FLOREA", "GABRIEL-FLORINEL FLOREA", "Gabriel FLOREA", "Gabriel-Florinel FLOREA", "Gabriel-Florinel Florea", "florea", "gabriel florea", "gabriel-florinel florea"]
 votes_cast: 6

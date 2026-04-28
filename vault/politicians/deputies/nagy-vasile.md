@@ -16,6 +16,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Nagy Vasile
 search_aliases: ["NAGY VASILE", "Nagy Vasile", "VASILE", "VASILE, NAGY", "Vasile", "Vasile, Nagy", "nagy vasile", "vasile"]
 votes_cast: 6

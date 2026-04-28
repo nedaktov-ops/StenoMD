@@ -19,6 +19,8 @@ motions: 7
 
 
 
+
+
 ai_friendly_name: Anamaria GAVRILĂ
 search_aliases: ["ANAMARIA GAVRILĂ", "Anamaria GAVRILĂ", "Anamaria Gavrilă", "GAVRILĂ", "GAVRILĂ, ANAMARIA", "GAVRILĂ, Anamaria", "anamaria gavrilă", "gavrilă"]
 votes_cast: 5

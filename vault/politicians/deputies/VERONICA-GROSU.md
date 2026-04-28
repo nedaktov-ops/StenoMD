@@ -26,6 +26,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Veronica GROSU
 search_aliases: ["GROSU", "GROSU, VERONICA", "GROSU, Veronica", "VERONICA GROSU", "Veronica GROSU", "Veronica Grosu", "grosu", "veronica grosu"]
 votes_cast: 5

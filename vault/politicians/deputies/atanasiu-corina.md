@@ -19,6 +19,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Atanasiu Corina
 search_aliases: ["ATANASIU CORINA", "Atanasiu Corina", "CORINA", "CORINA, ATANASIU", "Corina", "Corina, Atanasiu", "atanasiu corina", "corina"]
 votes_cast: 5

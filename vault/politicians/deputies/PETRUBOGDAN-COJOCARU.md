@@ -18,6 +18,8 @@ type: deputy
 
 
 
+
+
 ai_friendly_name: Petru-Bogdan COJOCARU
 search_aliases: ["COJOCARU", "COJOCARU, PETRU", "COJOCARU, Petru", "PETRU COJOCARU", "PETRU-BOGDAN COJOCARU", "Petru COJOCARU", "Petru-Bogdan COJOCARU", "Petru-Bogdan Cojocaru", "cojocaru", "petru cojocaru", "petru-bogdan cojocaru"]
 votes_cast: 6

@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: VASS Levente
 search_aliases: ["LEVENTE", "LEVENTE, VASS", "Levente", "Levente, VASS", "VASS LEVENTE", "VASS Levente", "Vass Levente", "levente", "vass levente"]
 votes_cast: 6

@@ -19,6 +19,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Weber Mihai
 search_aliases: ["MIHAI", "MIHAI, WEBER", "Mihai", "Mihai, Weber", "WEBER MIHAI", "Weber Mihai", "mihai", "weber mihai"]
 votes_cast: 6

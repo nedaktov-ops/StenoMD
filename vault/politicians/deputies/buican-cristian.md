@@ -19,6 +19,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Buican Cristian
 search_aliases: ["BUICAN CRISTIAN", "Buican Cristian", "CRISTIAN", "CRISTIAN, BUICAN", "Cristian", "Cristian, Buican", "buican cristian", "cristian"]
 votes_cast: 6

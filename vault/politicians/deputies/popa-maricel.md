@@ -19,6 +19,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Popa Maricel
 search_aliases: ["MARICEL", "MARICEL, POPA", "Maricel", "Maricel, Popa", "POPA MARICEL", "Popa Maricel", "maricel", "popa maricel"]
 votes_cast: 6

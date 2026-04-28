@@ -21,6 +21,8 @@ committees:
 
 
 
+
+
 ai_friendly_name: Marian NEACŞU
 search_aliases: ["MARIAN NEACŞU", "Marian NEACŞU", "Marian Neacşu", "NEACŞU", "NEACŞU, MARIAN", "NEACŞU, Marian", "marian neacşu", "neacşu"]
 votes_cast: 5
