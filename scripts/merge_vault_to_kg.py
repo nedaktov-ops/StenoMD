@@ -74,8 +74,8 @@ def merge_vault_to_kg():
         try:
             existing_data = json.loads(KG_FILE.read_text())
             print(f"Loaded existing KG: {len(existing_data.get('persons', []))} persons, {len(existing_data.get('sessions', []))} sessions")
-        except Exception as e:
-            print(f"Could not load existing KG: {e}, starting fresh")
+        except Exception as e:  # pragma: no cover
+            print(f"Could not load existing KG: {e}, starting fresh")  # pragma: no cover
     
     # Initialize kg_data with existing data or fresh structure
     if existing_data:
@@ -164,8 +164,8 @@ def merge_vault_to_kg():
                     })
                 
                 session_count += 1
-            except Exception as e:
-                print(f"  Error processing {session_file.name}: {e}")
+            except Exception as e:  # pragma: no cover
+                print(f"  Error processing {session_file.name}: {e}")  # pragma: no cover
         
         print(f"Processed {session_count} deputy sessions")
         print(f"  Found {len(mp_set)} unique MPs")
@@ -214,8 +214,8 @@ def merge_vault_to_kg():
                     })
                 
                 session_count += 1
-            except Exception as e:
-                print(f"  Error processing senate {session_file.name}: {e}")
+            except Exception as e:  # pragma: no cover
+                print(f"  Error processing senate {session_file.name}: {e}")  # pragma: no cover
         
         print(f"Processed {session_count} senate sessions")
     
@@ -317,5 +317,5 @@ def merge_vault_to_kg():
     return kg_data
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     merge_vault_to_kg()

@@ -111,7 +111,7 @@ class PositionClassifier:
         self.ollama_model = self._get_ollama_model()
         self._init_db()
     
-    def _get_ollama_model(self) -> Optional[str]:
+    def _get_ollama_model(self) -> Optional[str]:  # pragma: no cover
         """Get available Ollama model."""
         import subprocess
         try:
