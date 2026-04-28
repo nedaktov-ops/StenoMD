@@ -3712,3 +3712,68 @@ current_status:
 **Health Score:** 97/100 (A) – All components 100/100 except Learning_Progress 80.
 
 ---
+
+---
+
+**Task:** Phase 1 - MemPalace Hybrid Integration (COMPLETED)
+**Started:** 2026-04-28 18:00
+**Completed:** 2026-04-28 18:20
+
+**Actions Taken:**
+- Added config flags: `USE_MEM_PALACE` and `MEM_PALACE_DIR`
+- Created `scripts/memory/mem_palace_backend.py` – lightweight JSONL palace (no external deps required)
+- Integrated into `MemoryStore`: `learn()` stores to palace, `recall()` searches palace and merges results
+- Backend disabled by default; enable via `STENOMD_USE_MEM_PALACE=true`
+- All 45 tests pass; core coverage 81%
+
+**Deliverables:**
+- `scripts/memory/mem_palace_backend.py`
+- `scripts/config.py` updated
+- `scripts/memory/__init__.py` updated
+
+**Status:** ✅ Complete – non-destructive, opt-in
+
+---
+
+**Task:** Phase 2 - Ruflo Orchestration Integration (COMPLETED)
+**Started:** 2026-04-28 18:20
+**Completed:** 2026-04-28 18:35
+
+**Actions Taken:**
+- Added config flags: `USE_RUFLO`, `RUFLO_CONFIG_DIR`
+- Created `scripts/orchestration/ruflo_bridge.py`:
+  * Generates Ruflo YAML workflow (scrapers, enrichers, merge)
+  * Runs `ruflo swarm` (expects ruflo in PATH)
+  * Returns exit code; no recursive fallback to avoid hangs
+- Modified `scripts/run_daily.py`:
+  * Parses `STENOMD_USE_RUFLO` env var
+  * Routes to Ruflo bridge if enabled, otherwise legacy pipeline
+- Legacy pipeline unchanged when Ruflo disabled
+- Detailed dry-run output retained
+
+**Deliverables:**
+- `scripts/orchestration/ruflo_bridge.py`
+- `scripts/run_daily.py` updated
+- Config updated
+
+**Status:** ✅ Complete – optional, safe default
+
+---
+
+**Task:** Phase 3 - Repomix Wrapper (COMPLETED)
+**Started:** 2026-04-28 18:35
+**Completed:** 2026-04-28 18:45
+
+**Actions Taken:**
+- Created `scripts/repomix_wrapper.py` to generate AI‑friendly consolidated codebase
+- Default includes: scripts/**, vault/**, knowledge_graph/**, docs/**
+- Excludes generated artifacts, caches, virtualenvs, large DBs
+- Optional `--compress` for Tree-sitter compression
+- Usage: `python3 scripts/repomix_wrapper.py --output ai_context/stenomix.xml`
+
+**Deliverables:**
+- `scripts/repomix_wrapper.py`
+
+**Status:** ✅ Complete – read-only utility, no external dependencies at runtime
+
+---
