@@ -20,6 +20,13 @@ from .procedural import ProceduralMemory
 from .cache import FastCache
 from .schema import DatabaseSchema
 
+# Optional MemPalace integration
+try:
+    from .mem_palace_backend import MemPalaceBackend
+    MEMPALACE_AVAILABLE = True
+except ImportError:
+    MEMPALACE_AVAILABLE = False
+
 __all__ = [
     'EpisodicMemory',
     'SemanticMemory', 
@@ -48,6 +55,17 @@ class MemoryStore:
         self.procedural = ProceduralMemory(self.memory_dir)
         self.cache = FastCache(max_size=100)
         
+        # Optional MemPalace backend (hybrid long-term memory)
+        self.mem_palace = None
+        if MEMPALACE_AVAILABLE:
+            try:
+                from ..config import get_config  # relative import
+                config = get_config()
+                if config.USE_MEM_PALACE:
+                    self.mem_palace = MemPalaceBackend(self.memory_dir)
+            except Exception as e:
+                print(f"[MemoryStore] MemPalace backend disabled: {e}")
+        
     def learn(self, action: dict, outcome: dict):
         """
         Record an action and its outcome, updating all memory layers.
@@ -71,6 +89,10 @@ class MemoryStore:
         # Update cache
         key = f"{action.get('type')}:{action.get('issue', {}).get('description', '')[:50]}"
         self.cache.put(key, {'action_id': action_id, 'success': outcome.get('success')})
+        
+        # Also store in MemPalace if enabled (after outcome known)
+        if self.mem_palace:
+            self.mem_palace.learn(action, outcome)
         
         return action_id
     
@@ -98,6 +120,11 @@ class MemoryStore:
         # Search semantic memory
         semantic_results = self.semantic.search(query, limit)
         results.extend(semantic_results)
+        
+        # Search MemPalace (if enabled)
+        if self.mem_palace:
+            palace_results = self.mem_palace.recall(query, limit)
+            results.extend(palace_results)
         
         # Sort by relevance (simplified - based on recency)
         results.sort(key=lambda x: x.get('timestamp', ''), reverse=True)

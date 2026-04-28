@@ -83,6 +83,11 @@ class StenoMDConfig:
         
         self.OLLAMA_MODEL = os.environ.get('STENOMD_OLLAMA_MODEL', 'qwen2.5-coder:1.5b')
         
+        # MemPalace integration (optional)
+        self.USE_MEM_PALACE = os.environ.get('STENOMD_USE_MEM_PALACE', 'false').lower() == 'true'
+        default_palace_dir = Path.home() / ".mempalace" / "stenomd"
+        self.MEM_PALACE_DIR = Path(os.environ.get('STENOMD_MEM_PALACE_DIR', str(default_palace_dir)))
+        
         self.RAM_LIMIT_GB = float(os.environ.get('STENOMD_RAM_LIMIT_GB', '4'))
         self.BATCH_SIZE = int(os.environ.get('STENOMD_BATCH_SIZE', self._get_default_batch_size()))
         self.USE_LIGHTWEIGHT_MODEL = self.RAM_LIMIT_GB < 12
@@ -142,6 +147,8 @@ CACHE_TTL = _config.CACHE_TTL
 DEBUG = _config.DEBUG
 LOG_LEVEL = _config.LOG_LEVEL
 OLLAMA_MODEL = _config.OLLAMA_MODEL
+USE_MEM_PALACE = _config.USE_MEM_PALACE
+MEM_PALACE_DIR = _config.MEM_PALACE_DIR
 RAM_LIMIT_GB = _config.RAM_LIMIT_GB
 BATCH_SIZE = _config.BATCH_SIZE
 USE_LIGHTWEIGHT_MODEL = _config.USE_LIGHTWEIGHT_MODEL
