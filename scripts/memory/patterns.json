@@ -1,7 +1,72 @@
 {
   "version": "2.0",
-  "last_updated": "2026-04-27T02:08:11.905486",
+  "last_updated": "2026-04-28T16:44:09.313884",
   "patterns": [
+    {
+      "id": "1aa6b164-f2ad-4cb5-bee4-b4dfddb232e5",
+      "issue_pattern": "Hardcoded absolute paths in scripts",
+      "fix_pattern": "python3 scripts/convert_hardcoded_paths.py",
+      "success_count": 1,
+      "failure_count": 0,
+      "total_uses": 1,
+      "avg_duration_ms": 15000,
+      "first_seen": "2026-04-28T16:44:09.027210",
+      "last_seen": "2026-04-28T16:44:09.027210",
+      "confidence": 0.9,
+      "metadata": "{\"issue_type\": \"configuration_audit\", \"severity\": \"\"}"
+    },
+    {
+      "id": "c3518057-7ac6-4ef8-89a3-289c7fd9398a",
+      "issue_pattern": "Duplicate senator profiles present",
+      "fix_pattern": "python3 scripts/merge_duplicate_deputies.py",
+      "success_count": 1,
+      "failure_count": 0,
+      "total_uses": 1,
+      "avg_duration_ms": 15000,
+      "first_seen": "2026-04-28T16:44:08.146908",
+      "last_seen": "2026-04-28T16:44:08.146908",
+      "confidence": 0.9,
+      "metadata": "{\"issue_type\": \"duplicate_resolution\", \"severity\": \"\"}"
+    },
+    {
+      "id": "636509fc-c213-4952-8666-8b9838fa04d2",
+      "issue_pattern": "KG out of sync with vault",
+      "fix_pattern": "python3 scripts/merge_vault_to_kg.py",
+      "success_count": 1,
+      "failure_count": 0,
+      "total_uses": 1,
+      "avg_duration_ms": 15000,
+      "first_seen": "2026-04-28T16:44:07.265650",
+      "last_seen": "2026-04-28T16:44:07.265650",
+      "confidence": 0.9,
+      "metadata": "{\"issue_type\": \"knowledge_graph_sync\", \"severity\": \"\"}"
+    },
+    {
+      "id": "02ad50c2-d964-41b4-9587-c2b5a016fd61",
+      "issue_pattern": "Deputies missing committee assignments",
+      "fix_pattern": "python3 scripts/add_committees.py",
+      "success_count": 1,
+      "failure_count": 0,
+      "total_uses": 1,
+      "avg_duration_ms": 15000,
+      "first_seen": "2026-04-28T16:44:06.473138",
+      "last_seen": "2026-04-28T16:44:06.473138",
+      "confidence": 0.9,
+      "metadata": "{\"issue_type\": \"committee_assignment\", \"severity\": \"\"}"
+    },
+    {
+      "id": "dd21d96f-2b29-4695-920c-8112177da81f",
+      "issue_pattern": "Deputy data incomplete: missing party, constituency, speeches_count",
+      "fix_pattern": "python3 scripts/fix_deputy_data_from_op.py",
+      "success_count": 1,
+      "failure_count": 0,
+      "total_uses": 1,
+      "avg_duration_ms": 15000,
+      "first_seen": "2026-04-28T16:44:05.794223",
+      "last_seen": "2026-04-28T16:44:05.794223",
+      "confidence": 0.9,
+      "metadata": "{\"issue_type\": \"data_enrichment\", \"severity\": \"\"}"
+    },
     {
       "id": "c72946a8-79a0-4fc0-9724-d554d00c4587",
       "issue_pattern": "",
@@ -17,8 +82,8 @@
     }
   ],
   "metadata": {
-    "total_patterns": 1,
-    "avg_success_rate": 1.0,
+    "total_patterns": 6,
+    "avg_success_rate": 0.9166666666666666,
     "learning_enabled": true
   }
 }
