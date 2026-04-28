@@ -11,6 +11,7 @@ Usage:
 import sys
 import subprocess
 import argparse
+import os
 from pathlib import Path
 from datetime import datetime
 
@@ -18,7 +19,7 @@ SCRIPT_DIR = Path(__file__).parent.parent
 PROJECT_DIR = SCRIPT_DIR
 
 
-def run_daily_update(dry_run=False):
+def run_legacy_pipeline(dry_run=False):
     """Run the full daily update pipeline."""
     print("=" * 60)
     print("STENOMD - Daily Update Pipeline")
@@ -117,9 +118,18 @@ def run_daily_update(dry_run=False):
     print("=" * 60)
 
 
-if __name__ == "__main__":
+def main():
     parser = argparse.ArgumentParser(description="StenoMD Daily Update")
     parser.add_argument("--dry-run", action="store_true", help="Show what would run")
     args = parser.parse_args()
     
-    run_daily_update(dry_run=args.dry_run)
+    if os.environ.get('STENOMD_USE_RUFLO', '').lower() == 'true':
+        from orchestration.ruflo_bridge import run_pipeline
+        rc = run_pipeline(dry_run=args.dry_run)
+        sys.exit(rc)
+    else:
+        run_legacy_pipeline(dry_run=args.dry_run)
+
+
+if __name__ == "__main__":
+    main()

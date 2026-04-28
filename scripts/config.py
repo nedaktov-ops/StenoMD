@@ -88,6 +88,10 @@ class StenoMDConfig:
         default_palace_dir = Path.home() / ".mempalace" / "stenomd"
         self.MEM_PALACE_DIR = Path(os.environ.get('STENOMD_MEM_PALACE_DIR', str(default_palace_dir)))
         
+        # Ruflo integration (optional)
+        self.USE_RUFLO = os.environ.get('STENOMD_USE_RUFLO', 'false').lower() == 'true'
+        self.RUFLO_CONFIG_DIR = Path(os.environ.get('STENOMD_RUFLO_CONFIG_DIR', '.ruflo'))
+        
         self.RAM_LIMIT_GB = float(os.environ.get('STENOMD_RAM_LIMIT_GB', '4'))
         self.BATCH_SIZE = int(os.environ.get('STENOMD_BATCH_SIZE', self._get_default_batch_size()))
         self.USE_LIGHTWEIGHT_MODEL = self.RAM_LIMIT_GB < 12
@@ -149,6 +153,8 @@ LOG_LEVEL = _config.LOG_LEVEL
 OLLAMA_MODEL = _config.OLLAMA_MODEL
 USE_MEM_PALACE = _config.USE_MEM_PALACE
 MEM_PALACE_DIR = _config.MEM_PALACE_DIR
+USE_RUFLO = _config.USE_RUFLO
+RUFLO_CONFIG_DIR = _config.RUFLO_CONFIG_DIR
 RAM_LIMIT_GB = _config.RAM_LIMIT_GB
 BATCH_SIZE = _config.BATCH_SIZE
 USE_LIGHTWEIGHT_MODEL = _config.USE_LIGHTWEIGHT_MODEL
