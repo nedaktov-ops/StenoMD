@@ -332,31 +332,79 @@ Ensures consistent data entry across the vault.
 
 Enables non-technical users to extract insights without coding.
 
-## DEFERRED LOW-PRIORITY
+## PHASE D: ADVANCED FEATURES - COMPLETE (2026-04-28)
 
 ### Task Z.1: Excalidraw Diagrams
 **ID:** TASK-Z1
-**Status:** DEFERRED
+**Status:** COMPLETED
 **Priority:** LOW
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Notes:** Optional enhancement; create parliament structure, committee networks, party alignment drawings in `vault/_parliament/diagrams/`
+**Deliverables:**
+- `vault/_parliament/diagrams/parliament_structure.excalidraw` – Shows Chamber, Senate, President, factions
+- `vault/_parliament/diagrams/committee_network.excalidraw` – Committee-deputy relationships
+- `vault/_parliament/diagrams/party_alignment.excalidraw` – Party positions (coalition vs opposition)
+
+Three interactive diagrams ready to open in Obsidian (Excalidraw plugin recommended).
 
 ---
 
 ### Task Z.2: Legislative Kanban Board
 **ID:** TASK-Z2
-**Status:** DEFERRED
+**Status:** COMPLETED
 **Priority:** LOW
 **Created:** 2026-04-28
+**Completed:** 2026-04-28
 
-**Notes:** Setup Tasks plugin board in `projects/legislative-tracker/` with columns: Proposed → Committee → Debated → Passed → Rejected
+**Deliverable:** `projects/legislative-tracker/Kanban-Board.md`
+
+**Features:**
+- Tasks plugin integration to track law status
+- Columns: Proposed → Committee → Debated → Passed → Rejected
+- Filters by tag `#law` and status
+- Statistics via Dataview
+- Ready for daily use
+
+Instructions:
+1. Install Tasks plugin
+2. Open Kanban-Board.md
+3. Create tasks with `#proposed`, `#committee`, etc.
+4. Move tasks between columns by editing status
 
 ---
 
 ### Task Z.3: Notebook Navigator Setup
 **ID:** TASK-Z3
-**Status:** DEFERRED
+**Status:** COMPLETED
+**Priority:** LOW
+**Created:** 2026-04-28
+**Completed:** 2026-04-28
+
+**Deliverable:** `docs/NOTEBOOK_NAVIGATOR.md`
+
+**Contents:**
+- Overview of Obsidian Notebooks feature
+- Creating session, legislative track, and policy topic notebooks
+- Workflow integration for session preparation and research
+- Advanced: "Notebooks from query" plugin for dynamic notebooks
+- Tips for sharing and syncing notebooks
+
+Enables curated note collections for specific investigative contexts.
+
+---
+
+## ALL PRIMARY PHASES & ENHANCEMENTS COMPLETE
+
+**Completed Phases:**
+- Phase A: Data Completeness
+- Phase B: Infrastructure
+- Phase C: Documentation
+- Phase D: Advanced Features (Excalidraw, Kanban, Notebook Navigator)
+
+**Remaining:** External dependencies (voting records, historical pre-2015, Senate historical backfill, law sponsors) remain deferred.
+
+---
 **Priority:** LOW
 **Created:** 2026-04-28
 
@@ -422,11 +470,16 @@ Enables non-technical users to extract insights without coding.
 ## PRIORITY LEGEND
 
 | Priority | Score | Meaning |
-|----------|-------|---------|
+|----------|-------|--------|
 | CRITICAL | 100 | Blocks major functionality, must do first |
 | HIGH | 75 | Important for project goals |
 | MEDIUM | 50 | Should be done eventually |
 | LOW | 25 | Nice to have, can defer indefinitely |
+
+---
+
+*LastUpdated: 2026-04-28 03:45*
+*Next Action: All core phases (A-D) complete. External dependencies remain deferred.*
 
 ---
 
